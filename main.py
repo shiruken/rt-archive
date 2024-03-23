@@ -1,45 +1,59 @@
 import requests
 import json
 
-api_url = "https://svod-be.roosterteeth.com/api/v1/watch"
-per_page = 1000
-page = 1
 
-watch_items = []
-rt_urls = []
-archive_ids = []
+def update_watch():
+    """Process the Rooster Teeth API /watch endpoint.
 
-while True:
-    response = requests.get(f"{api_url}?per_page={per_page}&page={page}")
-    json_object = response.json()
+    Writes all results to `data/watch.json`
 
-    if len(json_object['data']) == 0:
-        break
+    Also generates listings for:
+      - Every website video URL (`data/rt_urls.txt`)
+      - Internet Archive identifiers for every video (`data/archive_ids.txt`)
+    """
+    api_url = "https://svod-be.roosterteeth.com/api/v1/watch"
+    per_page = 1000
+    page = 1
 
-    for item in json_object['data']:
+    watch_items = []
+    rt_urls = []
+    archive_ids = []
 
-        identifier = f"roosterteeth-{item['id']}"
-        if item['type'] == "bonus_feature":
-            identifier += "-bonus"
+    while True:
+        response = requests.get(f"{api_url}?per_page={per_page}&page={page}")
+        json_object = response.json()
 
-        if identifier not in archive_ids:
-            watch_items.append(item)
-            rt_urls.append(f"https://roosterteeth.com/watch/{item['attributes']['slug']}")
-            archive_ids.append(identifier)
+        if len(json_object['data']) == 0:
+            break
 
-    page += 1
+        for item in json_object['data']:
 
-print(f"Identified {len(archive_ids):,} unique items from {page:,} requests")
+            identifier = f"roosterteeth-{item['id']}"
+            if item['type'] == "bonus_feature":
+                identifier += "-bonus"
 
-watch = {
-    "count": len(watch_items),
-    "data": watch_items
-}
-with open("data/watch.json", "w") as fp:
-    json.dump(watch, fp)
+            if identifier not in archive_ids:
+                watch_items.append(item)
+                rt_urls.append(f"https://roosterteeth.com/watch/{item['attributes']['slug']}")
+                archive_ids.append(identifier)
 
-with open("data/rt_urls.txt", "w") as fp:
-    print(*rt_urls, sep="\n", file=fp)
+        page += 1
 
-with open("data/archive_ids.txt", "w") as fp:
-    print(*archive_ids, sep="\n", file=fp)
+    print(f"Identified {len(archive_ids):,} unique items from {page:,} requests")
+
+    watch = {
+        "count": len(watch_items),
+        "data": watch_items
+    }
+    with open("data/watch.json", "w") as fp:
+        json.dump(watch, fp)
+
+    with open("data/rt_urls.txt", "w") as fp:
+        print(*rt_urls, sep="\n", file=fp)
+
+    with open("data/archive_ids.txt", "w") as fp:
+        print(*archive_ids, sep="\n", file=fp)
+
+
+if __name__ == "__main__":
+    update_watch()
