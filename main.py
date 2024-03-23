@@ -10,6 +10,7 @@ rt_urls = []
 archive_ids = []
 
 while True:
+    print(f"Loading Page {page}")
     response = requests.get(f"{api_url}?per_page={per_page}&page={page}")
     json_object = response.json()
 
