@@ -36,11 +36,11 @@ watch = {
     "count": len(watch_items),
     "data": watch_items
 }
-with open("watch.json", "w") as fp:
+with open("data/watch.json", "w") as fp:
     json.dump(watch, fp)
 
-with open("rt_urls.txt", "w") as fp:
+with open("data/rt_urls.txt", "w") as fp:
     print(*rt_urls, sep="\n", file=fp)
 
-with open("archive_ids.txt", "w") as fp:
+with open("data/archive_ids.txt", "w") as fp:
     print(*archive_ids, sep="\n", file=fp)
