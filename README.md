@@ -4,13 +4,13 @@
 
 ## Rooster Teeth API
 
-Comprehensive mirror of the Rooster Teeth API. Each endpoint is stored as a single JSON file for easy parsing.
+Comprehensive mirror of the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api). Each endpoint is condensed to a single JSON file for easy parsing.
 
 *Updated every 4 hours on the hour*
 
 ### `/watch`: https://svod-be.roosterteeth.com/api/v1/watch
 
-* [`watch.json`]() (**Warning: Large File**)
+* [`watch.json`](https://archive.org/download/roosterteeth-api/api/v1/watch.json) (**Warning: Large File**)
 
 ## Derived Files
 
