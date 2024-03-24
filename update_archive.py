@@ -78,6 +78,7 @@ def identify_missing_incomplete():
 
     with open("README.md", "r") as fp:
         readme = fp.read()
+    readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d,]+)", f"{len(archive_items):,}", readme)
     readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d,]+)", f"{len(missing):,}", readme)
     readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d,]+)", f"{len(incomplete):,}", readme)
     with open("README.md", "w") as f:
