@@ -1,11 +1,11 @@
-name: Update RT API Data
+name: Update Rooster Teeth Data
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 jobs:
   update-data:
-    name: Update RT API Data
+    name: Update Rooster Teeth Data
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,8 +19,8 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Script
-        run: python main.py
+        run: python update_rt.py
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Data Updated
+          commit_message: Rooster Teeth Data Updated

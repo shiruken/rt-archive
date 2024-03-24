@@ -6,6 +6,8 @@
 
 Comprehensive mirror of the Rooster Teeth API. Each endpoint is stored as a single JSON file for easy parsing.
 
+_Updated every 4 hours on the hour_
+
 ### `/watch`: https://svod-be.roosterteeth.com/api/v1/watch
 
 * [`watch.json`](https://github.com/shiruken/rt-archive/blob/main/data/watch.json) (**Warning: Large File**)
@@ -13,6 +15,8 @@ Comprehensive mirror of the Rooster Teeth API. Each endpoint is stored as a sing
 ## Derived Files
 
 Listings derived from the Rooster Teeth API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
+
+_Updated every hour at minute 30_
 
 * [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs for every video on the website.
 * [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs (expected) for every video from the Rooster Teeth website.
