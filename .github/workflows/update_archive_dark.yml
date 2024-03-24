@@ -20,6 +20,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run Script
         run: python update_archive_dark.py
+      - name: Update Repository
+        run: git pull
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
