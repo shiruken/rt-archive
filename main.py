@@ -59,10 +59,10 @@ def update_watch() -> dict:
     return ia_rt_map
 
 
-def identify_missing(ia_rt_map: dict):
-    """Identify Rooster Teeth videos missing from the Internet Archive
+def identify_missing_incomplete(ia_rt_map: dict):
+    """Identify missing and incomplete Rooster Teeth videos from the Internet Archive
 
-    Writes results to `data/archive_missing.txt`
+    Writes results to `data/archive_missing.txt` and `data/archive_incomplete.txt`
     """
     url = "https://archive.org/services/search/v1/scrape"
     query = {
@@ -72,6 +72,7 @@ def identify_missing(ia_rt_map: dict):
     }
 
     archive_items = []
+    incomplete = []
 
     count = 1
     while True:
@@ -85,6 +86,18 @@ def identify_missing(ia_rt_map: dict):
                 "-bonus-bonus" not in item["identifier"]
             ):
                 archive_items.append(item["identifier"])
+
+                if not (
+                    "MPEG4" in item['format'] and
+                    "JSON" in item['format'] and # .info.json file
+                    "Unknown" in item['format'] and # .description file
+                    (
+                        "JPEG" in item['format'] or
+                        "PNG" in item['format'] or
+                        "Animated GIF" in item['format']
+                    )
+                ):
+                    incomplete.append(item['identifier'])
 
         if 'cursor' in json_object:
             query['cursor'] = json_object['cursor']
@@ -101,7 +114,12 @@ def identify_missing(ia_rt_map: dict):
         for item in missing:
             fp.write(f"{ia_rt_map[item]}\n")
 
+    print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
+    with open("data/archive_incomplete.txt", "w") as fp:
+        for item in incomplete:
+            fp.write(f"{ia_rt_map[item]}\n")
+
 
 if __name__ == "__main__":
     ia_rt_map = update_watch()
-    identify_missing(ia_rt_map)
+    identify_missing_incomplete(ia_rt_map)
