@@ -15,7 +15,7 @@ def update_watch():
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
     page = 1
 
-    results = []   # Complete API listing
+    # results = []   # Complete API listing
     archive_map = {}  # IA Item URL -> RT Video URL
 
     while True:
@@ -36,19 +36,19 @@ def update_watch():
                 identifier += "-bonus"
 
             if identifier not in archive_map:
-                results.append(item)
+                # results.append(item)
                 archive_map[identifier] = f"https://roosterteeth.com/watch/{item['attributes']['slug']}"
 
         page += 1
 
     print(f"Identified {len(archive_map):,} unique items from the Rooster Teeth API across {page:,} requests")
 
-    output = {
-        "count": len(results),
-        "data": results
-    }
-    with open("data/watch.json", "w") as fp:
-        json.dump(output, fp)
+    # output = {
+    #     "count": len(results),
+    #     "data": results
+    # }
+    # with open("data/watch.json", "w") as fp:
+    #     json.dump(output, fp)
 
     with open("data/rt_urls.txt", "w") as fp:
         print(*archive_map.values(), sep="\n", file=fp)
