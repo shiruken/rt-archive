@@ -8,16 +8,17 @@ import csv
 def update_watch():
     """Mirror the Rooster Teeth API /watch endpoint.
 
-    Writes all results to `data/watch.json`
+    Writes all results to `api/v1/watch.json`
 
     Also generates listings for:
       - Every Rooster Teeth website video URL (`data/rt_urls.txt`)
       - Every Internet Archive item URL (`data/archive_urls.txt`)
+      - RT Archival Checklist (`data/checklist.csv`)
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
     page = 1
 
-    # results = []       # Complete API listing
+    results = []         # Complete API listing
     archive_map = {}     # IA Item URL -> RT Video URL
     checklist_data = []  # Data for RT Archival Checklist
 
@@ -40,7 +41,8 @@ def update_watch():
             archive_url = f"https://archive.org/details/{identifier}"
 
             if archive_url not in archive_map:
-                # results.append(item)
+                results.append(item)
+
                 rt_url = f"https://roosterteeth.com{item['canonical_links']['self']}"
                 archive_map[archive_url] = rt_url
 
@@ -63,12 +65,12 @@ def update_watch():
 
     print(f"Identified {len(archive_map):,} unique items from the Rooster Teeth API across {page:,} requests")
 
-    # output = {
-    #     "count": len(results),
-    #     "data": results
-    # }
-    # with open("data/watch.json", "w") as fp:
-    #     json.dump(output, fp)
+    output = {
+        "count": len(results),
+        "data": results
+    }
+    with open("api/v1/watch.json", "w") as fp:
+        json.dump(output, fp)
 
     with open("data/rt_urls.txt", "w") as fp:
         print(*archive_map.values(), sep="\n", file=fp)

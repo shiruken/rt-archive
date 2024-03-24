@@ -10,7 +10,7 @@ Comprehensive mirror of the Rooster Teeth API. Each endpoint is stored as a sing
 
 ### `/watch`: https://svod-be.roosterteeth.com/api/v1/watch
 
-* [`watch.json`](https://github.com/shiruken/rt-archive/blob/main/data/watch.json) (**Warning: Large File**)
+* [`watch.json`]() (**Warning: Large File**)
 
 ## Derived Files
 
