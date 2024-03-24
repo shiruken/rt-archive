@@ -23,3 +23,7 @@ Listings derived from the Rooster Teeth API. Predominantly for use with the [`ro
 * [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive.
 * [`incomplete_rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_rt.txt): Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive.
 * [`incomplete_archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_archive.txt): Internet Archive URLs for every video with an *incomplete* upload.
+
+*Updated daily at 00:45*
+
+* [`dark.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.txt): URLs for every upload *removed* (i.e. made dark) by Internet Archive.

@@ -1,11 +1,11 @@
-name: Update Rooster Teeth Data
+name: Identify Dark Uploads
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '45 0 * * *'
   workflow_dispatch:
 jobs:
   update-data:
-    name: Update Rooster Teeth Data
+    name: Identify Dark Uploads
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,8 +19,8 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Script
-        run: python update_rt.py
+        run: python update_archive_dark.py
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Updated Rooster Teeth Data
+          commit_message: Updated Dark Uploads

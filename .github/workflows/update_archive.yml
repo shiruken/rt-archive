@@ -23,4 +23,4 @@ jobs:
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Internet Archive Data Updated
+          commit_message: Updated Internet Archive Data
