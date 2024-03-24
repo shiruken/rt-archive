@@ -60,7 +60,8 @@ def identify_missing_incomplete():
     with open("data/rt_urls.txt", "r") as fp:
         rt_urls = [line.rstrip() for line in fp]
 
-    missing = set(archive_ids) - set(archive_items)
+    archive_items = set(archive_items)
+    missing = [x for x in archive_ids if x not in archive_items]
     print(f"Found {len(missing):,} items missing from Internet Archive")
     with open("data/missing.txt", "w") as fp:
         for item in missing:
