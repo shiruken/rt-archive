@@ -3,8 +3,8 @@ from urllib.parse import urlencode
 import json
 
 
-def update_watch() -> dict:
-    """Process the Rooster Teeth API /watch endpoint.
+def update_watch():
+    """Mirror the Rooster Teeth API /watch endpoint.
 
     Writes all results to `data/watch.json`
 
@@ -16,7 +16,7 @@ def update_watch() -> dict:
     page = 1
 
     results = []   # Complete API listing
-    ia_rt_map = {}  # IA Identifer -> RT Video URL
+    archive_map = {}  # IA Identifer -> RT Video URL
 
     while True:
         query = {
@@ -35,13 +35,13 @@ def update_watch() -> dict:
             if item['type'] == "bonus_feature":
                 identifier += "-bonus"
 
-            if identifier not in ia_rt_map:
+            if identifier not in archive_map:
                 results.append(item)
-                ia_rt_map[identifier] = f"https://roosterteeth.com/watch/{item['attributes']['slug']}"
+                archive_map[identifier] = f"https://roosterteeth.com/watch/{item['attributes']['slug']}"
 
         page += 1
 
-    print(f"Identified {len(ia_rt_map):,} unique items from the Rooster Teeth API across {page:,} requests")
+    print(f"Identified {len(archive_map):,} unique items from the Rooster Teeth API across {page:,} requests")
 
     output = {
         "count": len(results),
@@ -51,18 +51,18 @@ def update_watch() -> dict:
         json.dump(output, fp)
 
     with open("data/rt_urls.txt", "w") as fp:
-        print(*ia_rt_map.values(), sep="\n", file=fp)
+        print(*archive_map.values(), sep="\n", file=fp)
 
     with open("data/archive_ids.txt", "w") as fp:
-        print(*ia_rt_map.keys(), sep="\n", file=fp)
-
-    return ia_rt_map
+        print(*archive_map.keys(), sep="\n", file=fp)
 
 
-def identify_missing_incomplete(ia_rt_map: dict):
+def identify_missing_incomplete():
     """Identify missing and incomplete Rooster Teeth videos from the Internet Archive
 
-    Writes results to `data/archive_missing.txt` and `data/archive_incomplete.txt`
+    Writes missing video URLs to `data/archive_missing.txt`
+
+    Writes incomplete item video URLs to `data/archive_incomplete.txt`
     """
     url = "https://archive.org/services/search/v1/scrape"
     query = {
@@ -108,18 +108,24 @@ def identify_missing_incomplete(ia_rt_map: dict):
 
     print(f"Identified {len(archive_items):,} items from the Internet Archive Scrape API across {count:,} requests")
 
-    missing = set(ia_rt_map.keys()) - set(archive_items)
+    with open("data/archive_ids.txt", "r") as fp:
+        rt_ids = [line.rstrip() for line in fp]
+
+    with open("data/rt_urls.txt", "r") as fp:
+        rt_urls = [line.rstrip() for line in fp]
+
+    missing = set(rt_ids) - set(archive_items)
     print(f"Found {len(missing):,} items missing from Internet Archive")
     with open("data/archive_missing.txt", "w") as fp:
         for item in missing:
-            fp.write(f"{ia_rt_map[item]}\n")
+            fp.write(f"{rt_urls[rt_ids.index(item)]}\n")
 
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
     with open("data/archive_incomplete.txt", "w") as fp:
         for item in incomplete:
-            fp.write(f"{ia_rt_map[item]}\n")
+            fp.write(f"{rt_urls[rt_ids.index(item)]}\n")
 
 
 if __name__ == "__main__":
-    ia_rt_map = update_watch()
-    identify_missing_incomplete(ia_rt_map)
+    update_watch()
+    identify_missing_incomplete()
