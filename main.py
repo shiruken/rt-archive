@@ -9,14 +9,14 @@ def update_watch():
     Writes all results to `data/watch.json`
 
     Also generates listings for:
-      - Every website video URL (`data/rt_urls.txt`)
-      - Internet Archive identifiers for every video (`data/archive_ids.txt`)
+      - Every Rooster Teeth website video URL (`data/rt_urls.txt`)
+      - Every Internet Archive item URL (`data/archive_urls.txt`)
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
     page = 1
 
     results = []   # Complete API listing
-    archive_map = {}  # IA Identifer -> RT Video URL
+    archive_map = {}  # IA Item URL -> RT Video URL
 
     while True:
         query = {
@@ -31,7 +31,7 @@ def update_watch():
 
         for item in json_object['data']:
 
-            identifier = f"roosterteeth-{item['id']}"
+            identifier = f"https://archive.org/details/roosterteeth-{item['id']}"
             if item['type'] == "bonus_feature":
                 identifier += "-bonus"
 
@@ -53,7 +53,7 @@ def update_watch():
     with open("data/rt_urls.txt", "w") as fp:
         print(*archive_map.values(), sep="\n", file=fp)
 
-    with open("data/archive_ids.txt", "w") as fp:
+    with open("data/archive_urls.txt", "w") as fp:
         print(*archive_map.keys(), sep="\n", file=fp)
 
 
@@ -108,22 +108,22 @@ def identify_missing_incomplete():
 
     print(f"Identified {len(archive_items):,} items from the Internet Archive Scrape API across {count:,} requests")
 
-    with open("data/archive_ids.txt", "r") as fp:
-        rt_ids = [line.rstrip() for line in fp]
+    with open("data/archive_urls.txt", "r") as fp:
+        archive_ids = [line.rstrip().replace("https://archive.org/details/", "") for line in fp]
 
     with open("data/rt_urls.txt", "r") as fp:
         rt_urls = [line.rstrip() for line in fp]
 
-    missing = set(rt_ids) - set(archive_items)
+    missing = set(archive_ids) - set(archive_items)
     print(f"Found {len(missing):,} items missing from Internet Archive")
     with open("data/archive_missing.txt", "w") as fp:
         for item in missing:
-            fp.write(f"{rt_urls[rt_ids.index(item)]}\n")
+            fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
 
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
     with open("data/archive_incomplete.txt", "w") as fp:
         for item in incomplete:
-            fp.write(f"{rt_urls[rt_ids.index(item)]}\n")
+            fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
 
 
 if __name__ == "__main__":
