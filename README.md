@@ -14,7 +14,7 @@ Comprehensive mirror of the Rooster Teeth API. Each endpoint is stored as a sing
 
 ## Derived Files
 
-Listings derived from the Rooster Teeth API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
+Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
 
 *Updated every hour at minute 30*
 
