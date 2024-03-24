@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 import csv
 import os
+from pathlib import Path
 from internetarchive import upload
 
 
@@ -71,6 +72,7 @@ def update_watch():
         "count": len(results),
         "data": results
     }
+    Path("api/v1/").mkdir(parents=True, exist_ok=True)
     with open("api/v1/watch.json", "w") as fp:
         json.dump(output, fp)
 
