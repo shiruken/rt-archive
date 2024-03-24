@@ -26,6 +26,7 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 
 * [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs for every video on the website.
 * [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs (expected) for every video from the Rooster Teeth website.
+* [`checklist.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/checklist.txt): Data formatted for the [RT Archival Checklist](https://docs.google.com/spreadsheets/d/17Vqd_xYLh-xma_nw_TkeFexzQ2sZ4uEntibiZB8KlRI/preview)
 
 *Updated daily at 00:45*
 
