@@ -60,9 +60,9 @@ def update_watch():
 def identify_missing_incomplete():
     """Identify missing and incomplete Rooster Teeth videos from the Internet Archive
 
-    Writes missing video URLs to `data/archive_missing.txt`
+    Writes missing video URLs to `data/missing.txt`
 
-    Writes incomplete item video URLs to `data/archive_incomplete.txt`
+    Writes incomplete upload URLs to `data/incomplete_rt.txt` and `data/incomplete_archive.txt`
     """
     url = "https://archive.org/services/search/v1/scrape"
     query = {
@@ -116,14 +116,17 @@ def identify_missing_incomplete():
 
     missing = set(archive_ids) - set(archive_items)
     print(f"Found {len(missing):,} items missing from Internet Archive")
-    with open("data/archive_missing.txt", "w") as fp:
+    with open("data/missing.txt", "w") as fp:
         for item in missing:
             fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
 
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
-    with open("data/archive_incomplete.txt", "w") as fp:
+    with open("data/incomplete_rt.txt", "w") as fp:
         for item in incomplete:
             fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
+    with open("data/incomplete_archive.txt", "w") as fp:
+        for item in incomplete:
+            fp.write(f"https://archive.org/details/{item}\n")
 
 
 if __name__ == "__main__":

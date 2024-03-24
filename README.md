@@ -4,7 +4,7 @@
 
 ## Rooster Teeth API
 
-Comprehensive mirrors of the Rooster Teeth API. Each endpoint is stored as a single JSON file for easy parsing.
+Comprehensive mirror of the Rooster Teeth API. Each endpoint is stored as a single JSON file for easy parsing.
 
 ### `/watch`: https://svod-be.roosterteeth.com/api/v1/watch
 
@@ -12,8 +12,10 @@ Comprehensive mirrors of the Rooster Teeth API. Each endpoint is stored as a sin
 
 ## Derived Files
 
-Listings derived from the Rooster Teeth API, predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
+Listings derived from the Rooster Teeth API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
 
-* [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): URLs for every video on the Rooster Teeth website.
-* [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_ids.txt): Internet Archive URLs for every video from the Rooster Teeth website.
-* [`archive_missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_missing.txt): URLs of Rooster Teeth videos *missing* from Internet Archive.
+* [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs for every video on the website.
+* [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs (expected) for every video from the Rooster Teeth website.
+* [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive.
+* [`incomplete_rt.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_rt.txt): Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive.
+* [`incomplete_archive.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_archive.txt): Internet Archive URLs for every video with an *incomplete* upload.
