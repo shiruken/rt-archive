@@ -1,4 +1,5 @@
 from internetarchive import get_item
+import re
 
 
 def identify_dark():
@@ -32,6 +33,12 @@ def identify_dark():
             index = archive_urls.index(archive_url)
             rt_url = rt_urls[index]
             fp.write(f"{archive_url}\t{rt_url}\n")
+
+    with open("README.md", "r") as fp:
+        readme = fp.read()
+    readme = re.sub(r"(?<=\* Items Removed from Internet Archive: )([\d,]+)", f"{len(dark):,}", readme)
+    with open("README.md", "w") as f:
+        f.write(readme)
 
 
 if __name__ == "__main__":

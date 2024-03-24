@@ -1,5 +1,6 @@
 import requests
 from urllib.parse import urlencode
+import re
 
 
 def identify_missing_incomplete():
@@ -74,6 +75,13 @@ def identify_missing_incomplete():
     with open("data/incomplete_archive_urls.txt", "w") as fp:
         for item in incomplete:
             fp.write(f"https://archive.org/details/{item}\n")
+
+    with open("README.md", "r") as fp:
+        readme = fp.read()
+    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d,]+)", f"{len(missing):,}", readme)
+    readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d,]+)", f"{len(incomplete):,}", readme)
+    with open("README.md", "w") as f:
+        f.write(readme)
 
 
 if __name__ == "__main__":

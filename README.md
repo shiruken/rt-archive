@@ -31,3 +31,10 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 *Updated daily at 00:45*
 
 * [`dark.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.txt): URLs for every upload *removed* (i.e. made dark) by Internet Archive.
+
+## Metrics
+
+* Rooster Teeth Videos: 42,463
+* Items Missing from Internet Archive: 1,873
+* Incomplete Items on Internet Archive: 96
+* Items Removed from Internet Archive: 0

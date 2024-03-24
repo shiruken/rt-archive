@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 import json
 import csv
 import os
+import re
 from pathlib import Path
 from internetarchive import upload
 
@@ -85,6 +86,12 @@ def update_watch():
     with open("data/checklist.csv", "w", newline='') as fp:
         writer = csv.writer(fp)
         writer.writerows(checklist_data)
+
+    with open("README.md", "r") as fp:
+        readme = fp.read()
+    readme = re.sub(r"(?<=\* Rooster Teeth Videos: )([\d,]+)", f"{len(archive_map):,}", readme)
+    with open("README.md", "w") as f:
+        f.write(readme)
 
 
 def upload_to_ia():
