@@ -1,3 +1,5 @@
+[![Update API Data](https://github.com/shiruken/rt-archive/actions/workflows/main.yml/badge.svg)](https://github.com/shiruken/rt-archive/actions/workflows/main.yml)
+
 # Rooster Teeth Archive
 
 ## Rooster Teeth API
