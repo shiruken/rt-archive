@@ -18,11 +18,14 @@ Listings derived from the Rooster Teeth API. Predominantly for use with the [`ro
 
 *Updated every hour at minute 30*
 
-* [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs for every video on the website.
-* [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs (expected) for every video from the Rooster Teeth website.
 * [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive.
 * [`incomplete_rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_rt.txt): Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive.
 * [`incomplete_archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_archive.txt): Internet Archive URLs for every video with an *incomplete* upload.
+
+*Updated every 4 hours on the hour*
+
+* [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs for every video on the website.
+* [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs (expected) for every video from the Rooster Teeth website.
 
 *Updated daily at 00:45*
 
