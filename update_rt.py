@@ -23,7 +23,7 @@ def update_watch():
     url_map = {}    # IA Item URL -> RT Video URL
     checklist = []  # Data for RT Archival Checklist
     checklist_header = ['title', 'rt_id', 'rt_url', 'show', 'date', 'is_first',
-                        'is_uploaded', 'is_valid_upload', 'is_removed']
+                        'is_uploaded', 'is_complete_upload', 'is_removed']
 
     with open("data/rt_urls.txt", "r") as fp:
         rt_urls_last = [line.rstrip() for line in fp]
@@ -55,7 +55,7 @@ def update_watch():
 
         date = datetime.fromisoformat(item['attributes']['original_air_date'])
         is_uploaded = rt_url in rt_urls_last and rt_url not in missing
-        is_valid_upload = is_uploaded and rt_url not in incomplete
+        is_complete_upload = is_uploaded and rt_url not in incomplete
         is_removed = rt_url in dark
         checklist.append([
             item['attributes']['title'].strip(),
@@ -65,7 +65,7 @@ def update_watch():
             date.strftime("%Y-%m-%d"),
             item['attributes']['is_sponsors_only'],
             is_uploaded,
-            is_valid_upload,
+            is_complete_upload,
             is_removed
         ])
 
