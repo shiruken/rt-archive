@@ -103,6 +103,11 @@ def get_endpoint(url):
 
         page += 1
 
+    # Sort by timestamp + ID to guarantee consistent order.
+    # API results are sorted only by timestamp, which causes
+    # items with identical timestamps to shuffle around.
+    items.sort(key=lambda x: (x['attributes']['original_air_date'], x['id']), reverse=True)
+
     print(f"Loaded {len(items):,} items across {page:,} requests\n")
     return items
 
