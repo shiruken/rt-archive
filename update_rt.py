@@ -56,7 +56,7 @@ def update_watch():
     with open("data/archive_urls.txt", "w") as fp:
         print(*url_map.keys(), sep="\n", file=fp)
 
-    with open("data/checklist.csv", "w", newline='') as fp:
+    with open("data/checklist.csv", "w") as fp:
         writer = csv.writer(fp)
         writer.writerows(checklist)
 
@@ -86,6 +86,8 @@ def get_endpoint(url):
     print(f"Get: {url}")
 
     items = []
+    items_added = set()  # To efficiently avoid duplicates
+
     page = 1
     while True:
         print(f"Loading Page {page:,}")
@@ -100,7 +102,9 @@ def get_endpoint(url):
             break
 
         for item in json_object['data']:
-            items.append(item)
+            if item['uuid'] not in items_added:
+                items_added.add(item['uuid'])
+                items.append(item)
 
         page += 1
 
