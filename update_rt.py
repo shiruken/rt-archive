@@ -143,13 +143,9 @@ def upload_to_ia():
     """Upload contents of api/ directory to Internet Archive"""
     access_key = os.getenv("IA_ACCESS_KEY")
     secret_key = os.getenv("IA_SECRET_KEY")
-    metadata = {
-        "updatedate": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-    }
     upload(
         identifier="roosterteeth-api",
         files="api",
-        metadata=metadata,
         access_key=access_key,
         secret_key=secret_key,
         verify=True,
