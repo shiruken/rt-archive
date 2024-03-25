@@ -23,6 +23,7 @@ def identify_dark():
         item = get_item(identifier)
         if item.exists:
             if item.is_dark:
+                print(f"{archive_urls[index]} is dark")
                 dark.append(identifier)
 
     print(f"Found {len(dark):,} dark upload(s) on Internet Archive")

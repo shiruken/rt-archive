@@ -19,7 +19,7 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Script
-        run: python update_archive_dark.py
+        run: python -u update_archive_dark.py
       - name: Update Repository
         run: git pull
       - name: Commit Changes to Repository
