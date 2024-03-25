@@ -52,6 +52,7 @@ def update_watch():
 
     with open("data/checklist.csv", "w") as fp:
         writer = csv.writer(fp)
+        writer.writerow(['title', 'rt_id', 'rt_url', 'show', 'date', 'is_first'])
         writer.writerows(checklist)
 
     # Update README metrics
