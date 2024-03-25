@@ -1,11 +1,12 @@
 from internetarchive import get_item
 import re
+import csv
 
 
 def identify_dark():
     """Identify 'dark' uploads that have been removed by Internet Archive
 
-    Writes dark upload URLs to `data/dark.txt`
+    Writes dark URLs to `data/dark.csv`
     """
     with open("data/missing.txt", "r") as fp:
         missing = [line.rstrip() for line in fp]
@@ -17,23 +18,22 @@ def identify_dark():
         rt_urls = [line.rstrip() for line in fp]
 
     dark = []
-    for url in missing:
-        index = rt_urls.index(url)
-        identifier = archive_urls[index].replace("https://archive.org/details/", "")
+    for rt_url in missing:
+        index = rt_urls.index(rt_url)
+        archive_url = archive_urls[index]
+        identifier = archive_url.replace("https://archive.org/details/", "")
         item = get_item(identifier)
         if item.exists:
             if item.is_dark:
-                print(f"{archive_urls[index]} is dark")
-                dark.append(identifier)
+                print(f"{archive_url} is dark ({rt_url})")
+                dark.append([archive_url, rt_url])
 
-    print(f"Found {len(dark):,} dark upload(s) on Internet Archive")
+    print(f"Found {len(dark):,} dark uploads on Internet Archive")
 
-    with open("data/dark.txt", "w") as fp:
-        for identifier in dark:
-            archive_url = f"https://archive.org/details/{identifier}"
-            index = archive_urls.index(archive_url)
-            rt_url = rt_urls[index]
-            fp.write(f"{archive_url}\t{rt_url}\n")
+    with open("data/dark.csv", "w") as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['archive_url', 'rt_url'])
+        writer.writerows(dark)
 
     # Update README metrics
     with open("README.md", "r") as fp:
