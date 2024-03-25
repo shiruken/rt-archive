@@ -45,5 +45,5 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 * Rooster Teeth Videos: 42,465
 * Items on Internet Archive: 40,592 (95.59%)
 * Items Missing from Internet Archive: 1,873 (4.41%)
-* Incomplete Items on Internet Archive: 97
+* Incomplete Items on Internet Archive: 95
 * Items Removed from Internet Archive: 1
