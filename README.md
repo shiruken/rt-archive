@@ -20,6 +20,12 @@ This endpoint lists every episode published on the Rooster Teeth website, *exclu
 
 * Mirror: https://archive.org/download/roosterteeth-api/api/v1/episodes.json (**Warning: Large File**)
 
+### `/shows`: https://svod-be.roosterteeth.com/api/v1/shows
+
+This endpoint lists every show published on the Rooster Teeth website.
+
+* Mirror: https://archive.org/download/roosterteeth-api/api/v1/shows.json
+
 ## Derived Files
 
 Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.

@@ -69,7 +69,14 @@ def update_episodes():
     write_to_json(items, "api/v1/episodes.json")
 
 
-def get_endpoint(url):
+def update_shows():
+    """Mirror the Rooster Teeth API /shows endpoint"""
+    url = "https://svod-be.roosterteeth.com/api/v1/shows"
+    items = get_endpoint(url, sort_by_attribute="published_at")
+    write_to_json(items, "api/v1/shows.json")
+
+
+def get_endpoint(url, sort_by_attribute='original_air_date'):
     """Returns all values from an endpoint"""
     print(f"Get: {url}")
 
@@ -96,10 +103,10 @@ def get_endpoint(url):
 
         page += 1
 
-    # Sort by timestamp + ID to guarantee consistent order.
-    # API results are sorted only by timestamp, which causes
-    # items with identical timestamps to shuffle around.
-    items.sort(key=lambda x: (x['attributes']['original_air_date'], x['id']), reverse=True)
+    # Sort by a timestamp attribute + ID to guarantee consistent order.
+    # API results are sorted by recency, which causes items with 
+    # identical timestamps to shuffle around.
+    items.sort(key=lambda x: (x['attributes'][sort_by_attribute], x['id']), reverse=True)
 
     print(f"Loaded {len(items):,} items across {page:,} requests\n")
     return items
@@ -119,3 +126,4 @@ if __name__ == "__main__":
     Path("api/v1/").mkdir(parents=True, exist_ok=True)
     update_watch()
     update_episodes()
+    update_shows()
