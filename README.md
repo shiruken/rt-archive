@@ -46,4 +46,4 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 * Items on Internet Archive: 40,590 (95.59%)
 * Items Missing from Internet Archive: 1,873 (4.41%)
 * Incomplete Items on Internet Archive: 96
-* Items Removed from Internet Archive: 0
+* Items Removed from Internet Archive: 1
