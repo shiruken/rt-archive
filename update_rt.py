@@ -1,18 +1,14 @@
 import requests
 from urllib.parse import urlencode
-from datetime import datetime, timezone
+from datetime import datetime
 import json
 import csv
-import os
 import re
 from pathlib import Path
-from internetarchive import upload
 
 
 def update_watch():
-    """Mirror the Rooster Teeth API /watch endpoint.
-
-    Writes all results to `api/v1/watch.json`
+    """Mirror the Rooster Teeth API /watch endpoint
 
     Also generates listings for:
       - Every Rooster Teeth website video URL (`data/rt_urls.txt`)
@@ -95,10 +91,7 @@ def update_watch():
 
 
 def update_episodes():
-    """Mirror the Rooster Teeth API /episodes endpoint.
-
-    Writes all results to `api/v1/episodes.json`
-    """
+    """Mirror the Rooster Teeth API /episodes endpoint"""
     url = "https://svod-be.roosterteeth.com/api/v1/episodes"
     page = 1
 
@@ -139,27 +132,6 @@ def update_episodes():
         json.dump(output, fp)
 
 
-def upload_to_ia():
-    """Upload contents of api/ directory to Internet Archive"""
-    access_key = os.getenv("IA_ACCESS_KEY")
-    secret_key = os.getenv("IA_SECRET_KEY")
-    upload(
-        identifier="roosterteeth-api",
-        files="api",
-        access_key=access_key,
-        secret_key=secret_key,
-        verify=True,
-        checksum=True,
-        verbose=True,
-        retries=9,
-    )
-
-
 if __name__ == "__main__":
     update_watch()
     update_episodes()
-
-    try:
-        upload_to_ia()
-    except Exception as e:
-        print(f"Error uploading to Internet Archive: {e}")
