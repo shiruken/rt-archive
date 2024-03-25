@@ -35,6 +35,7 @@ def identify_dark():
             rt_url = rt_urls[index]
             fp.write(f"{archive_url}\t{rt_url}\n")
 
+    # Update README metrics
     with open("README.md", "r") as fp:
         readme = fp.read()
     readme = re.sub(r"(?<=\* Items Removed from Internet Archive: )([\d,]+)", f"{len(dark):,}", readme)

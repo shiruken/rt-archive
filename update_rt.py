@@ -60,6 +60,7 @@ def update_watch():
         writer = csv.writer(fp)
         writer.writerows(checklist)
 
+    # Update README metrics
     with open("README.md", "r") as fp:
         readme = fp.read()
     readme = re.sub(r"(?<=\* Rooster Teeth Videos: )([\d,]+)", f"{len(url_map):,}", readme)

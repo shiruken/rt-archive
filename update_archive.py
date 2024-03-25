@@ -76,6 +76,7 @@ def identify_missing_incomplete():
         for item in incomplete:
             fp.write(f"https://archive.org/details/{item}\n")
 
+    # Update README metrics
     with open("README.md", "r") as fp:
         readme = fp.read()
     readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items):,} ({len(archive_items) / len(rt_urls):.2%})", readme)
