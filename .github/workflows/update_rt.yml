@@ -19,7 +19,7 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Script
-        run: python update_rt.py
+        run: python -u update_rt.py
       - name: Commit Changes to Repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
