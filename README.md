@@ -44,7 +44,7 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 
 *Updated daily at 00:45*
 
-* [`dark.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.txt): URLs for every upload *removed* (i.e. made dark) by Internet Archive.
+* [`dark.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.csv): URLs for every upload *removed* (i.e. made dark) by Internet Archive.
 
 ## Metrics
 
