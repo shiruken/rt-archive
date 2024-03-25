@@ -22,6 +22,24 @@ def update_watch():
     # Generate derivative listings
     url_map = {}    # IA Item URL -> RT Video URL
     checklist = []  # Data for RT Archival Checklist
+    checklist_header = ['title', 'rt_id', 'rt_url', 'show', 'date', 'is_first',
+                        'is_uploaded', 'is_valid_upload', 'is_removed']
+
+    with open("data/rt_urls.txt", "r") as fp:
+        rt_urls_last = [line.rstrip() for line in fp]
+
+    with open("data/missing.txt", "r") as fp:
+        missing = [line.rstrip() for line in fp]
+
+    with open("data/incomplete_rt_urls.txt", "r") as fp:
+        incomplete = [line.rstrip() for line in fp]
+
+    dark = []
+    with open("data/dark.csv", "r") as fp:
+        reader = csv.reader(fp)
+        next(reader)  # Skip header
+        for row in reader:
+            dark.append(row[1])
 
     for item in items:
         if item['type'] == "bonus_feature":
@@ -35,13 +53,20 @@ def update_watch():
         rt_url = f"https://roosterteeth.com{item['canonical_links']['self']}"
         url_map[archive_url] = rt_url
 
+        date = datetime.fromisoformat(item['attributes']['original_air_date'])
+        is_uploaded = rt_url in rt_urls_last and rt_url not in missing
+        is_valid_upload = is_uploaded and rt_url not in incomplete
+        is_removed = rt_url in dark
         checklist.append([
             item['attributes']['title'].strip(),
             identifier.replace("roosterteeth-", ""),
             rt_url,
             show,
-            datetime.fromisoformat(item['attributes']['original_air_date']).strftime("%Y-%m-%d"),
-            item['attributes']['is_sponsors_only']
+            date.strftime("%Y-%m-%d"),
+            item['attributes']['is_sponsors_only'],
+            is_uploaded,
+            is_valid_upload,
+            is_removed
         ])
 
     with open("data/rt_urls.txt", "w") as fp:
@@ -52,7 +77,7 @@ def update_watch():
 
     with open("data/checklist.csv", "w") as fp:
         writer = csv.writer(fp)
-        writer.writerow(['title', 'rt_id', 'rt_url', 'show', 'date', 'is_first'])
+        writer.writerow(checklist_header)
         writer.writerows(checklist)
 
     # Update README metrics
