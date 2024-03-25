@@ -4,13 +4,21 @@
 
 ## Rooster Teeth API
 
-Comprehensive mirror of the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api). Each endpoint is condensed to a single JSON file for easy parsing.
+Comprehensive mirror of the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api). The pages of each endpoint are condensed to a single JSON file for easy download.
 
 *Updated every 4 hours on the hour*
 
 ### `/watch`: https://svod-be.roosterteeth.com/api/v1/watch
 
-* [`watch.json`](https://archive.org/download/roosterteeth-api/api/v1/watch.json) (**Warning: Large File**)
+This endpoint lists every video published on the Rooster Teeth website, *including* bonus content.
+
+* Mirror: https://archive.org/download/roosterteeth-api/api/v1/watch.json (**Warning: Large File**)
+
+### `/episodes`: https://svod-be.roosterteeth.com/api/v1/episodes
+
+This endpoint lists every episode published on the Rooster Teeth website, *excluding* bonus content.
+
+* Mirror: https://archive.org/download/roosterteeth-api/api/v1/episodes.json (**Warning: Large File**)
 
 ## Derived Files
 

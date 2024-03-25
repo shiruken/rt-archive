@@ -67,7 +67,7 @@ def update_watch():
 
         page += 1
 
-    print(f"Identified {len(archive_map):,} unique items from the Rooster Teeth API across {page:,} requests")
+    print(f"Identified {len(archive_map):,} unique items from the /watch endpoint across {page:,} requests")
 
     output = {
         "count": len(results),
@@ -94,6 +94,51 @@ def update_watch():
         f.write(readme)
 
 
+def update_episodes():
+    """Mirror the Rooster Teeth API /episodes endpoint.
+
+    Writes all results to `api/v1/episodes.json`
+    """
+    url = "https://svod-be.roosterteeth.com/api/v1/episodes"
+    page = 1
+
+    results = []
+    added_ids = set()
+
+    while True:
+        query = {
+            'per_page': 1000,
+            'page': page
+        }
+        response = requests.get(f"{url}?{urlencode(query)}")
+        json_object = response.json()
+
+        if len(json_object['data']) == 0:
+            break
+
+        for item in json_object['data']:
+
+            identifier = f"roosterteeth-{item['id']}"
+            if item['type'] == "bonus_feature":
+                identifier += "-bonus"
+
+            if identifier not in added_ids:
+                results.append(item)
+                added_ids.add(identifier)
+
+        page += 1
+
+    print(f"Identified {len(added_ids):,} unique items on the /episodes endpoint across {page:,} requests")
+
+    output = {
+        "count": len(results),
+        "data": results
+    }
+    Path("api/v1/").mkdir(parents=True, exist_ok=True)
+    with open("api/v1/episodes.json", "w") as fp:
+        json.dump(output, fp)
+
+
 def upload_to_ia():
     """Upload contents of api/ directory to Internet Archive"""
     access_key = os.getenv("IA_ACCESS_KEY")
@@ -101,7 +146,6 @@ def upload_to_ia():
     metadata = {
         "updatedate": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     }
-
     upload(
         identifier="roosterteeth-api",
         files="api",
@@ -117,6 +161,8 @@ def upload_to_ia():
 
 if __name__ == "__main__":
     update_watch()
+    update_episodes()
+
     try:
         upload_to_ia()
     except Exception as e:
