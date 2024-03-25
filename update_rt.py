@@ -17,13 +17,7 @@ def update_watch():
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
     items = get_endpoint(url)
-
-    output = {
-        "count": len(items),
-        "data": items
-    }
-    with open("api/v1/watch.json", "w") as fp:
-        json.dump(output, fp)
+    write_to_json(items, "api/v1/watch.json")
 
     # Generate derivative listings
     url_map = {}    # IA Item URL -> RT Video URL
@@ -72,13 +66,7 @@ def update_episodes():
     """Mirror the Rooster Teeth API /episodes endpoint"""
     url = "https://svod-be.roosterteeth.com/api/v1/episodes"
     items = get_endpoint(url)
-
-    output = {
-        "count": len(items),
-        "data": items
-    }
-    with open("api/v1/episodes.json", "w") as fp:
-        json.dump(output, fp)
+    write_to_json(items, "api/v1/episodes.json")
 
 
 def get_endpoint(url):
@@ -115,6 +103,16 @@ def get_endpoint(url):
 
     print(f"Loaded {len(items):,} items across {page:,} requests\n")
     return items
+
+
+def write_to_json(items, filename):
+    """Write endpoint data to JSON file"""
+    output = {
+        "count": len(items),
+        "data": items
+    }
+    with open(filename, "w") as fp:
+        json.dump(output, fp)
 
 
 if __name__ == "__main__":
