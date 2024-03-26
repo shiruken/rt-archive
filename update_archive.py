@@ -151,11 +151,11 @@ def generate_website():
     <head>
         <meta charset="UTF-8">
         <title>Rooster Teeth Website Archive Progress</title>
-        <link rel="stylesheet" type="text/css" href="w3.css"/>
+        <link rel="stylesheet" type="text/css" href="w3.css">
     </head>
     <body>
         <div class="w3-container w3-center">
-            <h1>Rooster Teeth Website Archive Progress<h1>
+            <h1>Rooster Teeth Website Archive Progress</h1>
         </div>
         <div class="w3-row w3-center">
             <div class="w3-col s2 w3-blue">
