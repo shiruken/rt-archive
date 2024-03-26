@@ -26,7 +26,7 @@ jobs:
         with:
           commit_message: Updated Rooster Teeth Data
       - name: Upload to Internet Archive
-        uses: shiruken/internet-archive-upload@8717da3a09626b59b7478994a1ce6837e9c7831d
+        uses: shiruken/internet-archive-upload@1e220f32e613443d1557235b396455d59c0030be
         with:
           access-key: ${{ secrets.IA_ACCESS_KEY }}
           secret-key: ${{ secrets.IA_SECRET_KEY }}
