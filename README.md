@@ -26,6 +26,12 @@ This endpoint lists every show published on the Rooster Teeth website.
 
 * Mirror: https://archive.org/download/roosterteeth-api/api/v1/shows.json
 
+### `/channels`: https://svod-be.roosterteeth.com/api/v1/channels
+
+This endpoint lists every channel published on the Rooster Teeth website.
+
+* Mirror: https://archive.org/download/roosterteeth-api/api/v1/channels.json
+
 ## Derived Files
 
 Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
