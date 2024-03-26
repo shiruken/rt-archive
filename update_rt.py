@@ -9,11 +9,10 @@ from pathlib import Path
 
 def update_watch():
     """Mirror the Rooster Teeth API /watch endpoint
-
-    Also generates listings for:
+    - Generates listings for:
       - Every Rooster Teeth website video URL (`data/rt_urls.txt`)
       - Every Internet Archive item URL (`data/archive_urls.txt`)
-      - RT Archival Checklist (`data/checklist.csv`)
+    - Writes intermediary file for RT Archival Checklist (`data/.temp.csv`)
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
     items = get_endpoint(url)
@@ -21,25 +20,7 @@ def update_watch():
 
     # Generate derivative listings
     url_map = {}    # IA Item URL -> RT Video URL
-    checklist = []  # Data for RT Archival Checklist
-    checklist_header = ['title', 'rt_id', 'rt_url', 'show', 'date', 'is_first',
-                        'is_uploaded', 'is_complete_upload', 'is_removed']
-
-    with open("data/rt_urls.txt", "r") as fp:
-        rt_urls_last = [line.rstrip() for line in fp]
-
-    with open("data/missing.txt", "r") as fp:
-        missing = [line.rstrip() for line in fp]
-
-    with open("data/incomplete_rt_urls.txt", "r") as fp:
-        incomplete = [line.rstrip() for line in fp]
-
-    dark = []
-    with open("data/dark.csv", "r") as fp:
-        reader = csv.reader(fp)
-        next(reader)  # Skip header
-        for row in reader:
-            dark.append(row[1])
+    checklist = []  # Intermediary data for RT Archival Checklist
 
     for item in items:
         if item['type'] == "bonus_feature":
@@ -54,9 +35,6 @@ def update_watch():
         url_map[archive_url] = rt_url
 
         date = datetime.fromisoformat(item['attributes']['original_air_date'])
-        is_uploaded = rt_url in rt_urls_last and rt_url not in missing
-        is_complete_upload = is_uploaded and rt_url not in incomplete
-        is_removed = rt_url in dark
         checklist.append([
             item['attributes']['title'].strip(),
             identifier.replace("roosterteeth-", ""),
@@ -64,9 +42,6 @@ def update_watch():
             show,
             date.strftime("%Y-%m-%d"),
             item['attributes']['is_sponsors_only'],
-            is_uploaded,
-            is_complete_upload,
-            is_removed
         ])
 
     with open("data/rt_urls.txt", "w") as fp:
@@ -75,9 +50,9 @@ def update_watch():
     with open("data/archive_urls.txt", "w") as fp:
         print(*url_map.keys(), sep="\n", file=fp)
 
-    with open("data/checklist.csv", "w") as fp:
+    with open("data/.temp.csv", "w") as fp:
         writer = csv.writer(fp)
-        writer.writerow(checklist_header)
+        writer.writerow(['title', 'rt_id', 'rt_url', 'show', 'date', 'is_first'])
         writer.writerows(checklist)
 
     # Update README metrics
