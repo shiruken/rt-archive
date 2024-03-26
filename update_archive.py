@@ -128,11 +128,12 @@ def generate_website():
 
     def aggregator(x):
         d = {}
-        d['Count'] = x['rt_id'].count()
-        d['Missing'] = d['Count'] - x['is_uploaded'].sum() - x['is_removed'].sum()
-        d['Incomplete'] = x['is_uploaded'].sum() - x['is_complete_upload'].sum()
+        d['Videos'] = x['rt_id'].count()
+        d['Uploaded'] = x['is_uploaded'].sum()
+        d['Missing'] = d['Videos'] - d['Uploaded'] - x['is_removed'].sum()
+        d['Incomplete'] = d['Uploaded'] - x['is_complete_upload'].sum()
         d['Removed'] = x['is_removed'].sum()
-        d['Available'] = f"{(d['Count'] - (d['Missing'] + d['Incomplete'] + d['Removed'])) / d['Count']:.2%}"
+        d['Availability'] = f"{(d['Videos'] - (d['Missing'] + d['Incomplete'] + d['Removed'])) / d['Videos']:.2%}"
         return pd.Series(d, index=list(d.keys()))
 
     df_shows = df.groupby("show").apply(aggregator, include_groups=False)
@@ -140,7 +141,7 @@ def generate_website():
 
     totals = aggregator(df)
 
-    html_table = df_shows.to_html(index_names=False, border=0, table_id="showTable", 
+    html_table = df_shows.to_html(index_names=False, border=0, table_id="showTable",
                                   classes="w3-table-all", na_rep="-")
     html_table = html_table.replace("<th></th>", "<th>Show</th>", 1)  # Force proper index header
     last_updated = pd.Timestamp.now(tz="UTC").strftime('%Y-%m-%d %X %Z')
@@ -160,17 +161,17 @@ def generate_website():
         <div class="w3-row w3-center">
             <div class="w3-col s2 w3-blue">
                 <h4>Rooster Teeth Videos</h4>
-                <h2>{totals['Count']:,}</h2>
+                <h2>{totals['Videos']:,}</h2>
             </div>
             <div class="w3-col s2 w3-green">
                 <h4>Uploaded to Archive</h4>
-                <h2>{totals['Count'] - totals['Missing']:,}</h2>
+                <h2>{totals['Uploaded']:,}</h2>
             </div>
-            <div class="w3-col s2 w3-orange w3-text-white">
+            <div class="w3-col s2 w3-deep-orange w3-text-white">
                 <h4>Missing from Archive</h4>
                 <h2>{totals['Missing']:,}</h2>
             </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white">
+            <div class="w3-col s2 w3-orange w3-text-white">
                 <h4>Incomplete Uploads</h4>
                 <h2>{totals['Incomplete']:,}</h2>
             </div>
@@ -180,17 +181,27 @@ def generate_website():
             </div>
             <div class="w3-col s2 w3-green">
                 <h4>Archive Availability</h4>
-                <h2>{totals['Available']}</h2>
+                <h2>{totals['Availability']}</h2>
             </div>
         </div>
         <div class="w3-content w3-section">
             <input class="w3-input w3-border w3-padding w3-section" type="text" placeholder="Filter by show name" id="search" onkeyup="search()">
             {html_table}
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>Videos:</b> Number of videos reported by the Rooster Teeth API</li>
+                <li><b>Uploaded:</b> Number of videos that have been uploaded to Internet Archive</li>
+                <li><b>Missing:</b> Number of videos that have not been uploaded to Internet Archive</li>
+                <li><b>Incomplete:</b> Number of Internet Archive uploads without the expected items</li>
+                <li><b>Removed:</b> Number of Internet Archive uploads that have been removed from the website</li>
+                <li><b>Availability:</b> Percentage of videos that are fully available on Internet Archive</li>
+            </ul>
+            </div>
         </div>
         <div class="w3-container w3-center w3-text-gray">
             <p>Last Updated {last_updated}</p>
         </div>
-
         <script>
         function search() {{
             var input, filter, table, tr, td, i;
