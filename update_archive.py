@@ -2,6 +2,7 @@ import requests
 from urllib.parse import urlencode
 import re
 import csv
+import pandas as pd
 
 
 def identify_missing_incomplete():
@@ -121,6 +122,104 @@ def generate_checklist(missing, incomplete):
         writer.writerows(checklist)
 
 
+def generate_website():
+    """Generates upload progress website"""
+    df = pd.read_csv("data/checklist.csv")
+
+    def aggregator(x):
+        d = {}
+        d['Count'] = x['rt_id'].count()
+        d['Missing'] = d['Count'] - x['is_uploaded'].sum() - x['is_removed'].sum()
+        d['Incomplete'] = x['is_uploaded'].sum() - x['is_complete_upload'].sum()
+        d['Removed'] = x['is_removed'].sum()
+        d['Available'] = f"{(d['Count'] - (d['Missing'] + d['Incomplete'] + d['Removed'])) / d['Count']:.2%}"
+        return pd.Series(d, index=list(d.keys()))
+
+    df_shows = df.groupby("show").apply(aggregator, include_groups=False)
+    df_shows.sort_index(key=lambda x: x.str.lower(), inplace=True)
+
+    totals = aggregator(df)
+
+    html_table = df_shows.to_html(index_names=False, border=0, table_id="showTable", 
+                                  classes="w3-table-all", na_rep="-")
+    html_table = html_table.replace("<th></th>", "<th>Show</th>", 1)  # Force proper index header
+    last_updated = pd.Timestamp.now(tz="UTC").strftime('%Y-%m-%d %X %Z')
+
+    html = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Rooster Teeth Website Archive Progress</title>
+        <link rel="stylesheet" type="text/css" href="w3.css"/>
+    </head>
+    <body>
+        <div class="w3-container w3-center">
+            <h1>Rooster Teeth Website Archive Progress<h1>
+        </div>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>{totals['Count']:,}</h2>
+            </div>
+            <div class="w3-col s2 w3-green">
+                <h4>Uploaded to Archive</h4>
+                <h2>{totals['Count'] - totals['Missing']:,}</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white">
+                <h4>Missing from Archive</h4>
+                <h2>{totals['Missing']:,}</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white">
+                <h4>Incomplete Uploads</h4>
+                <h2>{totals['Incomplete']:,}</h2>
+            </div>
+            <div class="w3-col s2 w3-red">
+                <h4>Removed Uploads</h4>
+                <h2>{totals['Removed']:,}</h2>
+            </div>
+            <div class="w3-col s2 w3-green">
+                <h4>Archive Availability</h4>
+                <h2>{totals['Available']}</h2>
+            </div>
+        </div>
+        <div class="w3-content w3-section">
+            <input class="w3-input w3-border w3-padding w3-section" type="text" placeholder="Filter by show name" id="search" onkeyup="search()">
+            {html_table}
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p>Last Updated {last_updated}</p>
+        </div>
+
+        <script>
+        function search() {{
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {{
+                th = tr[i].getElementsByTagName("th")[0];
+                if (th) {{
+                    txtValue = th.textContent || th.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {{
+                        tr[i].style.display = "";
+                    }} else {{
+                        tr[i].style.display = "none";
+                    }}
+                }}
+            }}
+        }}
+        </script>
+    </body>
+    </html>
+    """
+
+    with open("docs/index.html", "w") as fp:
+        fp.write(html)
+
+
 if __name__ == "__main__":
     missing, incomplete = identify_missing_incomplete()
     generate_checklist(missing, incomplete)
+    generate_website()
