@@ -141,9 +141,21 @@ def generate_website():
 
     totals = aggregator(df)
 
-    html_table = df_shows.to_html(index_names=False, border=0, table_id="showTable",
-                                  classes="w3-table-all", na_rep="-")
+    html_table = df_shows.to_html(index_names=False, border=0, bold_rows=False,
+                                  table_id="showTable", classes="w3-table-all", na_rep="-")
     html_table = html_table.replace("<th></th>", "<th>Show</th>", 1)  # Force proper index header
+
+    # Inject Archive search links
+    for title in df_shows.index.to_list():
+        query = {
+            'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{title}"',
+            'sort': 'date'
+        }
+        url = f"https://archive.org/search?{urlencode(query)}"
+        old = f"<td>{title}</td>"
+        new = f'<td>{title} <a href="{url}" target="_blank" title="Search on Internet Archive">🔎</a></td>'
+        html_table = html_table.replace(old, new)
+
     last_updated = pd.Timestamp.now(tz="UTC").strftime('%Y-%m-%d %X %Z')
 
     html = f"""
@@ -153,6 +165,11 @@ def generate_website():
         <meta charset="UTF-8">
         <title>Rooster Teeth Website Archive Progress</title>
         <link rel="stylesheet" type="text/css" href="w3.css">
+        <style>
+            td a {{
+                text-decoration: none;
+            }}
+        </style>
     </head>
     <body>
         <div class="w3-container w3-center">
@@ -211,9 +228,9 @@ def generate_website():
             tbody = table.getElementsByTagName("tbody")[0];
             tr = tbody.getElementsByTagName("tr");
             for (i = 0; i < tr.length; i++) {{
-                th = tr[i].getElementsByTagName("th")[0];
-                if (th) {{
-                    txtValue = th.textContent || th.innerText;
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {{
+                    txtValue = td.textContent || td.innerText;
                     if (txtValue.toUpperCase().indexOf(filter) > -1) {{
                         tr[i].style.display = "";
                     }} else {{
