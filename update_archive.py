@@ -158,8 +158,6 @@ def generate_website():
         new = f'<td>{title_escaped} <a href="{url}" target="_blank" title="Search on Internet Archive">🔎</a></td>'
         html_table = html_table.replace(old, new)
 
-    last_updated = pd.Timestamp.now(tz="UTC").strftime('%Y-%m-%d %X %Z')
-
     html_string = f"""
     <!DOCTYPE html>
     <html lang="en">
@@ -219,7 +217,7 @@ def generate_website():
             </div>
         </div>
         <div class="w3-container w3-center w3-text-gray">
-            <p>Last Updated {last_updated}</p>
+            <p><a href="https://github.com/shiruken/rt-archive">Source Code</a></p>
         </div>
         <script>
         function search() {{
