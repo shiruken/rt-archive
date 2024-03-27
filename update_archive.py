@@ -149,7 +149,7 @@ def generate_website():
     for title in df_shows.index.to_list():
         query = {
             'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{title}"',
-            'sort': 'date'
+            'sort': '-date'
         }
         url = f"https://archive.org/search?{urlencode(query)}"
         old = f"<td>{title}</td>"
