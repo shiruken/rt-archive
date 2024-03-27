@@ -208,7 +208,8 @@ def generate_website():
             input = document.getElementById("search");
             filter = input.value.toUpperCase();
             table = document.getElementById("showTable");
-            tr = table.getElementsByTagName("tr");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
             for (i = 0; i < tr.length; i++) {{
                 th = tr[i].getElementsByTagName("th")[0];
                 if (th) {{
