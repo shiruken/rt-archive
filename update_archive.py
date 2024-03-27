@@ -129,11 +129,11 @@ def generate_website():
     def aggregator(x):
         d = {}
         d['Videos'] = x['rt_id'].count()
-        d['Uploaded'] = x['is_uploaded'].sum()
-        d['Missing'] = d['Videos'] - d['Uploaded'] - x['is_removed'].sum()
-        d['Incomplete'] = d['Uploaded'] - x['is_complete_upload'].sum()
+        d['Uploaded'] = x['is_uploaded'].sum() + x['is_removed'].sum()
+        d['Missing'] = d['Videos'] - d['Uploaded']
+        d['Incomplete'] = d['Uploaded'] - x['is_complete_upload'].sum() - x['is_removed'].sum()
         d['Removed'] = x['is_removed'].sum()
-        d['Availability'] = f"{(d['Videos'] - (d['Missing'] + d['Incomplete'] + d['Removed'])) / d['Videos']:.2%}"
+        d['Availability'] = f"{(d['Uploaded'] - d['Incomplete'] - d['Removed']) / d['Videos']:.2%}"
         return pd.Series(d, index=list(d.keys()))
 
     df_shows = df.groupby("show").apply(aggregator, include_groups=False)
@@ -212,7 +212,7 @@ def generate_website():
                 <li><b>Missing:</b> Number of videos that have not been uploaded to Internet Archive</li>
                 <li><b>Incomplete:</b> Number of Internet Archive uploads without the expected items</li>
                 <li><b>Removed:</b> Number of Internet Archive uploads that have been removed from the website</li>
-                <li><b>Availability:</b> Percentage of videos that are fully available on Internet Archive</li>
+                <li><b>Availability:</b> Percentage of videos that are fully uploaded and available on Internet Archive</li>
             </ul>
             </div>
         </div>
