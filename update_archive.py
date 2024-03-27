@@ -3,6 +3,7 @@ from urllib.parse import urlencode
 import re
 import csv
 import pandas as pd
+import html
 
 
 def identify_missing_incomplete():
@@ -142,7 +143,7 @@ def generate_website():
     totals = aggregator(df)
 
     html_table = df_shows.to_html(index_names=False, border=0, bold_rows=False,
-                                  table_id="showTable", classes="w3-table-all", na_rep="-")
+                                  table_id="showTable", classes="w3-table-all")
     html_table = html_table.replace("<th></th>", "<th>Show</th>", 1)  # Force proper index header
 
     # Inject Archive search links
@@ -152,13 +153,14 @@ def generate_website():
             'sort': '-date'
         }
         url = f"https://archive.org/search?{urlencode(query)}"
-        old = f"<td>{title}</td>"
-        new = f'<td>{title} <a href="{url}" target="_blank" title="Search on Internet Archive">🔎</a></td>'
+        title_escaped = html.escape(title, quote=False)
+        old = f"<td>{title_escaped}</td>"
+        new = f'<td>{title_escaped} <a href="{url}" target="_blank" title="Search on Internet Archive">🔎</a></td>'
         html_table = html_table.replace(old, new)
 
     last_updated = pd.Timestamp.now(tz="UTC").strftime('%Y-%m-%d %X %Z')
 
-    html = f"""
+    html_string = f"""
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -245,7 +247,7 @@ def generate_website():
     """
 
     with open("docs/index.html", "w") as fp:
-        fp.write(html)
+        fp.write(html_string)
 
 
 if __name__ == "__main__":
