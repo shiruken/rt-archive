@@ -71,10 +71,23 @@ def update_episodes():
 
 
 def update_shows():
-    """Mirror the Rooster Teeth API /shows endpoint"""
+    """Mirror the Rooster Teeth API /shows endpoint
+
+    Writes show slug mapping to `data/shows.csv`
+    """
     url = "https://svod-be.roosterteeth.com/api/v1/shows"
     items = get_endpoint(url, sort_by_attribute="published_at")
     write_to_json(items, "api/v1/shows.json")
+
+    # Map show title -> show slug
+    shows = []
+    for item in items:
+        shows.append([item['attributes']['title'], item['attributes']['slug']])
+
+    with open("data/shows.csv", "w") as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['title', 'slug'])
+        writer.writerows(shows)
 
 
 def update_channels():
