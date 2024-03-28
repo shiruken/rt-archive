@@ -12,6 +12,7 @@ def update_watch():
     - Generates listings for:
       - Every Rooster Teeth website video URL (`data/rt_urls.txt`)
       - Every Internet Archive item URL (`data/archive_urls.txt`)
+      - Show slug mapping (`data/shows.csv`)
     - Writes intermediary file for RT Archival Checklist (`data/.temp.csv`)
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
@@ -20,19 +21,25 @@ def update_watch():
 
     # Generate derivative listings
     url_map = {}    # IA Item URL -> RT Video URL
+    shows = {}      # Show Title -> Show Slug
     checklist = []  # Intermediary data for RT Archival Checklist
 
     for item in items:
         if item['type'] == "bonus_feature":
             identifier = f"roosterteeth-{item['id']}-bonus"
             show = item['attributes']['parent_content_title'].strip()
+            show_slug = item['attributes']['parent_content_slug'].strip()
         else:
             identifier = f"roosterteeth-{item['id']}"
             show = item['attributes']['show_title'].strip()
+            show_slug = item['attributes']['show_slug']
 
         archive_url = f"https://archive.org/details/{identifier}"
         rt_url = f"https://roosterteeth.com{item['canonical_links']['self']}"
         url_map[archive_url] = rt_url
+
+        if show not in shows:
+            shows[show] = show_slug
 
         date = datetime.fromisoformat(item['attributes']['original_air_date'])
         checklist.append([
@@ -49,6 +56,11 @@ def update_watch():
 
     with open("data/archive_urls.txt", "w") as fp:
         print(*url_map.keys(), sep="\n", file=fp)
+
+    with open("data/shows.csv", "w") as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['title', 'slug'])
+        writer.writerows(sorted(shows.items()))
 
     with open("data/.temp.csv", "w") as fp:
         writer = csv.writer(fp)
@@ -71,23 +83,10 @@ def update_episodes():
 
 
 def update_shows():
-    """Mirror the Rooster Teeth API /shows endpoint
-
-    Writes show slug mapping to `data/shows.csv`
-    """
+    """Mirror the Rooster Teeth API /shows endpoint"""
     url = "https://svod-be.roosterteeth.com/api/v1/shows"
     items = get_endpoint(url, sort_by_attribute="published_at")
     write_to_json(items, "api/v1/shows.json")
-
-    # Map show title -> show slug
-    shows = []
-    for item in items:
-        shows.append([item['attributes']['title'], item['attributes']['slug']])
-
-    with open("data/shows.csv", "w") as fp:
-        writer = csv.writer(fp)
-        writer.writerow(['title', 'slug'])
-        writer.writerows(shows)
 
 
 def update_channels():
