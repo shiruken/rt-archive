@@ -1,0 +1,599 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Five Fun Facts | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Five Fun Facts<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>54</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>54</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Five Fun Facts - Star Wars Games</td>
+      <td>2016-04-19</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-star-wars-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3972" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Sid Meier's Civilization</td>
+      <td>2016-04-12</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-sid-meier-s-civilization" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3974" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - SEGA Dreamcast</td>
+      <td>2016-04-05</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-sega-dreamcast" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3975" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Banjo Kazooie</td>
+      <td>2016-03-28</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-banjo-kazooie" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3973" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - The Original Xbox</td>
+      <td>2016-03-21</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-the-original-xbox" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3976" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Simpsons Video Games</td>
+      <td>2016-03-14</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-simpsons-video-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3977" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Deadpool</td>
+      <td>2016-03-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-deadpool" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3978" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Black Desert Online</td>
+      <td>2016-03-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-black-desert-online" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3980" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Call Of Duty</td>
+      <td>2016-03-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-call-of-duty" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3979" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Kingdom Hearts</td>
+      <td>2016-03-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-kingdom-hearts" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3981" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Animal Crossing</td>
+      <td>2016-03-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-animal-crossing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3982" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Jak and Daxter</td>
+      <td>2016-03-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-season-1-five-fun-facts-jak-and-daxter" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3984" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Yoshi</td>
+      <td>2016-01-18</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-yoshi" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4025" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Nintendo</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-nintendo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4024" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Bayonetta</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-bayonetta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4023" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Uncharted</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-uncharted" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4022" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Yoshi's Island</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-yoshis-island" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-24064" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Super Mario Bros 3</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-super-mario-bros-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4020" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Conker's Bad Fur Day</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-conkers-bad-fur-day" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4019" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS about Sonic The Hedgehog</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-sonic-the-hedgehog" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4018" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Splatoon</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-splatoon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4017" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Fallout</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-fallout" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4015" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Worms</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-worms" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4014" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five MORE Fun Facts - Batman Arkham Series</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-more-fun-facts-batman-arkham-series" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4016" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Batman Arkham Series</td>
+      <td>2015-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-batman-arkham-series" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4013" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Dead Rising</td>
+      <td>2015-08-05</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-dead-rising" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4011" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Legend of Zelda: Ocarina of Time</td>
+      <td>2015-07-29</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-legend-of-zelda-ocarina-of-time" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4010" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Luigi's Mansion</td>
+      <td>2015-06-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-luigis-mansion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4012" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts about Bioshock</td>
+      <td>2015-05-06</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-bioshock" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4007" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts about Twisted Metal</td>
+      <td>2015-04-22</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-twisted-metal" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4006" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts about Spyro the Dragon!</td>
+      <td>2015-04-15</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-spyro-the-dragon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4009" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts about Mario Party!</td>
+      <td>2015-03-24</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-mario-party" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4005" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Metal Gear Solid</td>
+      <td>2015-03-04</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-metal-gear-solid" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4004" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five MORE Fun Facts about Super Smash Bros!</td>
+      <td>2015-02-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-more-fun-facts-about-super-smash-bros" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4003" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - F-Zero</td>
+      <td>2015-01-20</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-f-zero" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4002" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Tony Hawk Pro Skater</td>
+      <td>2015-01-07</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-tony-hawk-pro-skater" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4008" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Valve Software</td>
+      <td>2014-12-23</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-valve-software" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4001" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS About Kirby</td>
+      <td>2014-12-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-kirby" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-4000" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS about Pikmin</td>
+      <td>2014-11-29</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-pikmin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3999" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS About Grim Fandango</td>
+      <td>2014-11-11</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-grim-fandango" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3998" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS about Earthbound</td>
+      <td>2014-10-28</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-earthbound" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3996" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS about Portal</td>
+      <td>2014-10-08</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-portal" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3997" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FIVE FUN FACTS About GTA</td>
+      <td>2014-09-30</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-about-gta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3995" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Minecraft</td>
+      <td>2014-09-23</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-minecraft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3994" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Street Fighter II</td>
+      <td>2014-09-16</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-street-fighter-ii" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3993" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Halo</td>
+      <td>2014-09-09</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-halo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3991" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Doom</td>
+      <td>2014-09-01</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-doom" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3992" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Super Smash Bros</td>
+      <td>2014-08-19</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-super-smash-bros" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3990" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Five Fun Facts - Pokemon</td>
+      <td>2014-08-19</td>
+      <td><a href="https://roosterteeth.com/watch/five-fun-facts-pokemon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3989" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>**NEW EPISODE** Five Fun Facts - Crash Bandicoot</td>
+      <td>2014-08-05</td>
+      <td><a href="https://roosterteeth.com/watch/new-episode-five-fun-facts-crash-bandicoot" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3988" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>**NEW SHOW** Five Fun Facts - Donkey Kong Country</td>
+      <td>2014-07-29</td>
+      <td><a href="https://roosterteeth.com/watch/new-show-five-fun-facts-donkey-kong-country" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3987" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>**NEW SHOW** Five Fun Facts - Goldeneye 007</td>
+      <td>2014-07-28</td>
+      <td><a href="https://roosterteeth.com/watch/new-show-five-fun-facts-goldeneye-007" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3986" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>**NEW SHOW** Five Fun Facts - Mario Kart</td>
+      <td>2014-07-28</td>
+      <td><a href="https://roosterteeth.com/watch/new-show-five-fun-facts-mario-kart" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3985" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>**NEW SHOW** Five Fun Facts - Star Fox</td>
+      <td>2014-07-28</td>
+      <td><a href="https://roosterteeth.com/watch/new-show-five-fun-facts-star-fox" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-3983" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Five+Fun+Facts%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

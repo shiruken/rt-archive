@@ -1,0 +1,401 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Transformers | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Transformers<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>32</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>32</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>All Things Must Pass</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-all-things-must-pass" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-46294" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Unforgotten</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-unforgotten" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31815" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Countdown</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-countdown" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31814" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Collision Course</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-collision-course" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31813" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Destruction's Dawn</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-destruction-s-dawn" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31812" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Consequences</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-consequences" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31811" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Council</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-the-council" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31810" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A War of Giants</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-a-war-of-giants" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31809" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Homecoming</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-homecoming" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31808" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Duel</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-the-duel" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31807" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Darkest Hour</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-darkest-hour" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31806" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Megatronus Unleashed</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-megatronus-unleashed" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31805" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Volcanicus</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-volcanicus" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31804" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Primal</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-primal" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31803" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Saga's End</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-sagas-end" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31802" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Athenaeum Sanctorum</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-athenaeum-sanctorum" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31801" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Without Warning</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-without-warning" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31800" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Swamp</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-3-the-swamp" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31799" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Fall</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-the-fall" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31798" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Consumed</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-consumed" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31797" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>At the Last Second</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-at-the-last-second" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31796" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Overlord and Emissary</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-overlord-and-emissary" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31795" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Fight Begins</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-the-fight-begins" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31794" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Our Heroes Respond</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-our-heroes-respond" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31793" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Desperate Actions</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-desperate-actions" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31792" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Run For Our Lives</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-run-for-our-lives" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31791" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>In Good Hands</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-in-good-hands" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31790" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aftermath and Rebirth</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-2-aftermath-and-rebirth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31789" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prelude: Windblade</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-prelude-windblade" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31782" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prelude: Starscream</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-prelude-starscream" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31781" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prelude: Victorion</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-prelude-victorion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31780" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prelude: Optimus Prime</td>
+      <td>2019-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/transformers-season-1-prelude-optimus-prime" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31779" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Transformers%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

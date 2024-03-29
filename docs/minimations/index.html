@@ -1,0 +1,329 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Minimations | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Minimations<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>24</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>24</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Star Wars: Rise of the Skywaddlers</td>
+      <td>2019-12-20</td>
+      <td><a href="https://roosterteeth.com/watch/minimations-memes-star-wars-rise-of-the-skywaddlers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36215" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pokemon is For Kids!</td>
+      <td>2019-11-22</td>
+      <td><a href="https://roosterteeth.com/watch/minimations-memes-pokemon-is-for-kids" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35861" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Smash Bros is for Good Boys and Girls</td>
+      <td>2019-11-11</td>
+      <td><a href="https://roosterteeth.com/watch/minimations-memes-smash-bros-is-for-good-boys-and-girls" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35708" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Deconstruction Crew</td>
+      <td>2016-06-13</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-deconstruction-crew" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14775" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gavin's Driving Dilemma</td>
+      <td>2016-05-09</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-gavin-s-driving-dilemma" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14783" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Stories for the Road</td>
+      <td>2016-04-11</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-stories-for-the-road" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14776" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Static Death and the Crime Switch</td>
+      <td>2016-03-14</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-static-death-and-the-crime-switch" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14778" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>El Trumpo</td>
+      <td>2016-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-el-trumpo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14779" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Organ Zombie Apocalypse</td>
+      <td>2016-01-11</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-oregon-zombie-apocalypse" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14780" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Off Topic Mountain Monsters</td>
+      <td>2015-12-14</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-off-topic-mountain-monsters" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14781" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Straight Outta RT</td>
+      <td>2015-11-09</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-minimations-straight-outta-rt" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14782" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cards Against Humanity Edition</td>
+      <td>2015-10-12</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-cards-against-humanity-edition" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14786" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Halo Desynced - Combat Devolved</td>
+      <td>2015-09-14</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-halo-desynced-combat-devolved" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14784" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Grand Theft of Gus' Auto</td>
+      <td>2015-08-10</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-straight-outta-rt-grand-theft-of-gus-auto" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14785" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Birds'n'Bees - Let's Play Minimations #10</td>
+      <td>2015-07-07</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-26172" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Technical Difficulties - Let's Play Minimations #9</td>
+      <td>2015-06-09</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14795" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mind the Gap - Let's Play Minimations #8</td>
+      <td>2015-05-12</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14787" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gavin vs. Shelving - Let's Play Minimations #7</td>
+      <td>2015-04-08</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14789" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gavin vs. Ryan - Let's Play Minimations #6</td>
+      <td>2015-03-11</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14790" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Friendly? Friendly - Let's Play Minimations #5</td>
+      <td>2015-02-11</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14803" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cake and Death - Let's Play Minimations #4</td>
+      <td>2015-01-14</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14792" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bananigans - Let's Play Minimations #3</td>
+      <td>2014-12-10</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14793" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Destiny Calls - Let's Play Minimations #2</td>
+      <td>2014-11-12</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14799" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Capture the Flag Shenanigans - Let's Play Minimations #1</td>
+      <td>2014-10-08</td>
+      <td><a href="https://roosterteeth.com/watch/lets-play-minimations-season-1-lets-play-minimations-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-14794" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Minimations%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

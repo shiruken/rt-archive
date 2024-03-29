@@ -1,0 +1,329 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>RT Recap | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>RT Recap<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>24</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>3</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>21</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>12.50%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Laughing at Rooster Teeth in 2023</td>
+      <td>2023-12-20</td>
+      <td><a href="https://roosterteeth.com/watch/rttv-specials-2023-end-of-year-2023" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52274" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>We Ambushed Rooster Teeth…</td>
+      <td>2023-11-10</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2023-11-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51958" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>We Need To Make A Change…</td>
+      <td>2023-09-18</td>
+      <td><a href="https://roosterteeth.com/watch/rttv-specials-2023-rooster-teeth-announcement" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51567" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of February 3rd</td>
+      <td>2013-02-03</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2013-rt-recap-week-of-february-3rd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of January 27th</td>
+      <td>2013-01-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2013-rt-recap-week-of-january-27th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of January 20th</td>
+      <td>2013-01-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2013-rt-recap-week-of-january-20th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of January 13th</td>
+      <td>2013-01-14</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2013-rt-recap-week-of-january-13th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of January 6th</td>
+      <td>2013-01-06</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2013-rt-recap-week-of-january-6th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of December 30th</td>
+      <td>2012-12-30</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-december-30th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of December 23rd</td>
+      <td>2012-12-23</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-december-23rd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of December 16th</td>
+      <td>2012-12-17</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-december-16th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of December 8th</td>
+      <td>2012-12-07</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-december-8th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of December 1st</td>
+      <td>2012-12-01</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-december-1st" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of November 17th</td>
+      <td>2012-11-17</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-november-17th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of November 10th</td>
+      <td>2012-11-10</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-november-10th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of Oct. 21st</td>
+      <td>2012-10-19</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-oct-21st" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of Oct. 13th</td>
+      <td>2012-10-13</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-oct-13th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RT Recap - Week of Oct. 6th</td>
+      <td>2012-10-06</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-rt-recap-week-of-oct-6th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week of September 28th</td>
+      <td>2012-09-29</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-week-of-september-28th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week of September 21st</td>
+      <td>2012-09-22</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-week-of-september-21st" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week of August 17th</td>
+      <td>2012-08-17</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-week-of-august-17th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week of August 10th</td>
+      <td>2012-08-10</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-week-of-august-10th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week of August 3rd</td>
+      <td>2012-08-04</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-week-of-august-3rd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week of July 27th</td>
+      <td>2012-07-27</td>
+      <td><a href="https://roosterteeth.com/watch/rt-recap-2012-week-of-july-27th" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22RT+Recap%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

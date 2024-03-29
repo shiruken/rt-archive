@@ -1,0 +1,797 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Google Trends | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Google Trends<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>76</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>76</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>14</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>81.58%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Last Google Trends Show Ever! Really.</td>
+      <td>2022-12-02</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-finale" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-49866" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Who Can Make the Least Disgusting Thanksgiving Feast? - Google Trends Show</td>
+      <td>2022-11-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsnov22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-49692" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trick or Treat Challenge: Whoppers Can Go to Hell - Google Trends Show</td>
+      <td>2022-09-30</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trends2022oct" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-49445" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Back To School Challenge: Fastest Adult on the Playground - Google Trends Show</td>
+      <td>2022-09-02</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsschool2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-49173" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Obscure Holiday Challenge: Thrift Store Fashion Week - Google Trends Show</td>
+      <td>2022-08-05</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsaug2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-48938" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4th of July Challenge: Dog Eat Dog - Google Trends Show</td>
+      <td>2022-07-01</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsjuly2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-48612" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pro Gamer Challenge: Need for Speedruns - Google Trends Show</td>
+      <td>2022-06-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsjune2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-48337" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mother I'd Like to Phone: Mother's Day Challenge - Google Trends Show</td>
+      <td>2022-05-06</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsmama2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-48080" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>On the Spot Challenge: ABCs of Armed Robbery - Google Trends</td>
+      <td>2022-04-01</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-47766" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Saint Patrick's Day Challenge: Hot Rainbow on Rainbow Action - Google Trends Show</td>
+      <td>2022-03-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsmarch2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-47435" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Valentines Day Challenge: That's Not Chocolate - Google Trends Show</td>
+      <td>2022-02-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsfeb2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-46686" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>New Year Birthday Challenge: A Celebration of Citrus - Google Trends Show</td>
+      <td>2021-12-31</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-rendsjan2022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-46326" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Holiday Challenge: Women Be Gift Shoppin' - Google Trends Show</td>
+      <td>2021-12-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsxmas2021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-46108" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Black Friday Challenge: Capitalism Makes Us Sick - Google Trends Show</td>
+      <td>2021-11-05</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsfriday" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-45800" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Spooky Halloween Challenge: Pumpkin Spice Melange - Google Trends Show</td>
+      <td>2021-10-01</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsspice" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-45411" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Labor Day Challenge: Certified Cloacae Inspectors - Google Trends</td>
+      <td>2021-09-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendssept2021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-45091" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Clown Week Challenge w/ Jeremy Dooley - Google Trends Show</td>
+      <td>2021-08-06</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsclown" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-44744" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Independence Day Challenge: Lubrication Nation - Google Trends Show</td>
+      <td>2021-07-02</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsjuly4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-44334" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Father's Day Challenge: Dumdums & Daddies - Google Trends Show</td>
+      <td>2021-06-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trenddaddies" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-43961" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Guess Who Committed Tax Fraud?! - Google Trends Show</td>
+      <td>2021-05-01</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-google-trends-may" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-43561" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Arbor Day Challenge: Hope You Like Tree Puns - Google Trends Show</td>
+      <td>2021-04-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendsarbor" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-43177" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>St. Patrick's Day Challenge: To Catch a Leprechaun - Google Trends Show</td>
+      <td>2021-03-05</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trendspaddys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-42705" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Super Bowl Valentine's Day Challenge: Huddles & Cuddles - Google Trends Show</td>
+      <td>2021-02-05</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-4-trends26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-42354" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bad Bad Santa - Google Trends Show</td>
+      <td>2020-12-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-bad-bad-santa-google-trends-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-41600" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bugsnax PS5 Challenge: Ready Sprayer One - Google Trends Show</td>
+      <td>2020-11-06</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendssnax" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-41081" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bethesda Challenge: Shaved Todd Edition - Google Trends Show</td>
+      <td>2020-10-02</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsbeth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-40504" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Avengers Challenge: Non Ralph Fiennes Edition - Google Trends Show</td>
+      <td>2020-09-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsavengers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-40105" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Halo Infinite Challenge: Purity Rings Make It Weird - Google Trends Show</td>
+      <td>2020-07-31</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendshalo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-39601" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Console Wars Challenge: Epoch Pocket Computer For Life - Google Trends Show</td>
+      <td>2020-07-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsconsole" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-39200" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Snyder Cut Challenge: Release the Owls of Ga'Hoole! - Google Trends Show</td>
+      <td>2020-06-05</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendscut" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38730" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Netflix Challenge: We Have No Chill - Google Trends Show</td>
+      <td>2020-05-01</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsflix" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-37851" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Animal Crossing Challenge: Tanuki Anatomy 101 - Google Trends Show</td>
+      <td>2020-04-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendscrossing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-37401" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Coronavirus Challenge: See You in Hell, Humanity - Google Trends Show</td>
+      <td>2020-03-06</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendscorona" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-37093" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Valentine's Day Challenge: Enter The TrendBlaster - Google Trends Show</td>
+      <td>2020-01-31</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsvday" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36657" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2010s Pop Culture Challenge: Teen Angst - Google Trends Show</td>
+      <td>2020-01-03</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trends2010" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36274" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CATS The Musical Challenge: Bring the Heat - Google Trends Show</td>
+      <td>2019-12-06</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendscats" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36005" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Star Wars Rise of Skywalker Challenge: Lobot Jox - Google Trends Show</td>
+      <td>2019-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsrise" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35580" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ghostbusters Challenge: Good Effort, Ladies - Google Trends</td>
+      <td>2019-10-04</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsghost" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35241" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>IT: Chapter 2 Challenge: Pound Foolishness - Google Trends Show</td>
+      <td>2019-09-06</td>
+      <td><a href="https://roosterteeth.com/watch/google-trends-season-3-trendsit" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34904" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hobbs and Shaw Challenge: Are They in Outer Space Yet? - Google Trends Show</td>
+      <td>2019-08-02</td>
+      <td><a href="https://roosterteeth.com/watch/trendshobbs" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34331" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Spider-Man Challenge: What's A Powerman 5000? - Google Trends Show</td>
+      <td>2019-07-05</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendsspidey" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33998" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>XBOX vs Cyberpunk Challenge: We Love Big Capitalism - Google Trends Show</td>
+      <td>2019-06-01</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendse3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33505" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Game of Thrones Challenge: How To Bang Your Dragon - Google Trends Show</td>
+      <td>2019-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendsthrones" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32963" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mortal Kombat Challenge: We Suck At Geography - Google Trends Show</td>
+      <td>2019-04-05</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendskombat" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32423" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apex Legends Challenge: All Aboard the Flat Earth Cruise - Google Trends Show</td>
+      <td>2019-03-01</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendsapex" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31661" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Super Bowl Challenge: Dumbest Mascots Ever!? - Google Trends Show</td>
+      <td>2019-02-01</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendsbowl" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-30371" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kingdom Hearts 3 Challenge: Adam's Weeb Secret - Google Trends Show</td>
+      <td>2019-01-04</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2019-trendhearts" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-30097" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Christmas Challenge: Elyse Hates Christmas!? - Google Trends</td>
+      <td>2018-12-21</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsxmas2018" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-30011" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Smash Bros vs Pokemon - Google Trends Show</td>
+      <td>2018-12-07</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendssmash" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-29748" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tik Tok vs V-Bucks - Google Trends Show</td>
+      <td>2018-11-23</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsfriday" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-29529" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SQUIRT VS NUTS - Google Trends Show</td>
+      <td>2018-11-09</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsnut" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-29314" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SCREAM VS PUMPKIN - Google Trends Show</td>
+      <td>2018-10-26</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendshallow" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-29132" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CANDY VS TURKEY - Google Trends Show</td>
+      <td>2018-10-12</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsfall" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28951" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BREXIT VS THE ROCK - Google Trends Show</td>
+      <td>2018-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsbrexit" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28767" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FOX NEWS VS INCUBUS - Google Trends Show</td>
+      <td>2018-09-14</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsbing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28607" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>JOEL VS 911 - Google Trends Show</td>
+      <td>2018-08-31</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendskype" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28446" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TRANSFORMERS VS PRONSTAR - Google Trends Show</td>
+      <td>2018-08-17</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendssp7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28290" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FORTNITE VS CoD - Google Trends Show</td>
+      <td>2018-08-03</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendscod" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28094" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ELON MUSK VS DISNEY - Google Trends Show</td>
+      <td>2018-07-20</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsrobin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27939" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NOOD BEACH VS BEACH SECHS - Google Trends Show</td>
+      <td>2018-07-06</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendssummer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27688" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DINOSAURS VS DINOSAURS - Google Trends Show</td>
+      <td>2018-06-22</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsdino" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27518" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>AMBER ROSE VS RWBY ROSE - Google Trends Show</td>
+      <td>2018-06-08</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsrwby" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27228" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SOLO VS JEDI - Google Trends Show</td>
+      <td>2018-05-25</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendssolo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27019" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>KANYE VS THANOS - Google Trends Show</td>
+      <td>2018-05-11</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-trendsmusic" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-26844" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FACEBOOK VS RUSSIA - Google Trends Show</td>
+      <td>2018-04-27</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-googletech" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-26667" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ICE CREAM VS WAR - Google Trends Show</td>
+      <td>2018-04-13</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-googlewar" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-26460" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BALLS VS BUTTS - Google Trends Show</td>
+      <td>2018-03-31</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-googleball" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-26301" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BITCOIN VS BITCOIN - Google Trends Show</td>
+      <td>2018-01-19</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2018-googlebitcoin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-23765" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GROPE VS HARASSMENT - Google Trends Show</td>
+      <td>2017-12-09</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2017-google2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10416" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HACKING VS PRISON - Google Trends Show</td>
+      <td>2017-11-25</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2017-googletreason" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10430" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RACISM VS JONTRON - Google Trends Show</td>
+      <td>2017-03-25</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2017-google-burn" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10653" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SITH VS SEX - Google Trends Show</td>
+      <td>2016-12-24</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2016-googlerahul" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10736" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CHOKE VS CHICKEN - Google Trends Show</td>
+      <td>2016-09-08</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2016-google" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10843" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>POKEMON VS AIDS - Google Trends Show</td>
+      <td>2016-07-21</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2016-pokemon-go-vs-google-trends-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10890" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SEX VS TRUMP - Google Trends Show</td>
+      <td>2016-06-25</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2016-sex-vs-trump-google-trends-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10916" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TEEN VS CUM - Google Trends Show</td>
+      <td>2016-06-04</td>
+      <td><a href="https://roosterteeth.com/watch/gameplay-2016-cum-vs-teen-google-trends-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-10934" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Google+Trends%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

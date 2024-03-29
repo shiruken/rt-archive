@@ -1,0 +1,473 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>RT Docs | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>RT Docs<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>40</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>40</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Waiting for the Punchline</td>
+      <td>2019-03-22</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-waiting-for-the-punchline" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-31852" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Waiting for the Punchline Trailer</td>
+      <td>2019-01-30</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-waiting-for-the-punchline-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1338-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Common Ground</td>
+      <td>2018-11-02</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-rt-docs-common-ground" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-29210" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Why We’re Here: 15 Years of Rooster Teeth</td>
+      <td>2018-04-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-why-we-re-here-15-years-of-rooster-teeth-why-we-re-here-15-years-of-rooster-teeth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27842" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Why We're Here: 15 Years of Rooster Teeth - Trailer</td>
+      <td>2018-04-12</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-rt15-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-199-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Burnie and Matt Crash the House Where Rooster Teeth Started</td>
+      <td>2018-04-02</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-rt15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-198-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Becoming Jessica Nigri</td>
+      <td>2018-01-26</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-becoming-jessica-nigri-8jgohb3s" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27782" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Becoming Jessica Nigri - Trailer</td>
+      <td>2018-01-12</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-becoming-jessica-nigri-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1281-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Becoming Jessica Nigri Promo</td>
+      <td>2017-12-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-becoming-jessica-nigri-becoming-jessica-nigri" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1301-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Unconventional</td>
+      <td>2017-06-30</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-unconventional-unconventional" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27843" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Unconventional Trailer - Premieres June 30</td>
+      <td>2017-06-23</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-unconventional-unconventional-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1300-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Haus of Pain</td>
+      <td>2017-04-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-haus-of-pain-haus-of-pain" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27836" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Haus Of Pain - Trailer</td>
+      <td>2017-04-21</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-haus-of-pain-haus-of-pain-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1278-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Tattooist</td>
+      <td>2017-03-24</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-tattooist-the-tattooist-ja73h6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27841" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Tattooist - Trailer</td>
+      <td>2017-03-17</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-bonus-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1280-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Meme Machine: What Happens When the Internet Chooses You</td>
+      <td>2016-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-meme-machine-the-meme-machine-what-happens-when-the-internet-chooses-you" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27840" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gus Talks Memes - Deleted Scenes</td>
+      <td>2016-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-meme-machine-gus-talks-memes-deleted-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1299-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>What is the Meaning of Chocolate Rain? - Deleted Scenes</td>
+      <td>2016-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-meme-machine-what-is-the-meaning-of-chocolate-rain-deleted-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1298-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Do Memes Need Managers? - Deleted Scenes</td>
+      <td>2016-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-meme-machine-do-memes-need-managers-deleted-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1297-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Selfish Gene - Deleted Scenes</td>
+      <td>2016-12-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-meme-machine-the-selfish-gene-deleted-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1296-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Meme Machine - Trailer</td>
+      <td>2016-11-18</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-meme-machine-the-meme-machine-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1295-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Slow Mo ASMR - Deleted Scene</td>
+      <td>2016-08-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-slow-mo-asmr-deleted-scene" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1294-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Saurabh's Stetson - Deleted Scene</td>
+      <td>2016-08-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-saurabh-s-stetson-deleted-scene" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1293-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Baba Sen - Extended Interview</td>
+      <td>2016-08-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-baba-sen-extended-interview" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1292-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Rickshaw Ride - Extended Scene</td>
+      <td>2016-08-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-the-rickshaw-ride-extended-scene" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1291-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>It's Not Sexual - Deleted Scene</td>
+      <td>2016-08-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-it-s-not-sexual-deleted-scene" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1290-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>World's Greatest Head Massage 26 - Baba the Cosmic Barber</td>
+      <td>2016-07-18</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-bhm" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1289-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The World's Greatest Head Massage: An ASMR Journey (Part Two)</td>
+      <td>2016-07-15</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-part-two" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27834" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The World's Greatest Head Massage: An ASMR Journey (Part One)</td>
+      <td>2016-07-08</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-part-one" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27832" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>"The World's Greatest Head Massage: An ASMR Journey" Trailer (2016) HD</td>
+      <td>2016-06-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-trailer-2016-hd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1288-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Greetings From India</td>
+      <td>2016-05-17</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-the-world-s-greatest-head-massage-greetings-from-india" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1287-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Two Guys On Your Head Interview</td>
+      <td>2016-05-15</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-two-guys-on-your-head-interview" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1286-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>80085</td>
+      <td>2016-05-15</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-80085" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1285-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Barbara's Boredom</td>
+      <td>2016-05-15</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-barbaras-boredom" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1284-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Blaine Calls 4-1-1</td>
+      <td>2016-05-15</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-blaine-calls-411" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1283-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Connected – RT Docs Fan Q&A</td>
+      <td>2016-04-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-connected-rt-docs-fan-q-a" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1282-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Connected</td>
+      <td>2016-04-15</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-connected" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27783" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Connected – Documentary Trailer (2016)</td>
+      <td>2016-03-21</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-connected-connected-official-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-237-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Let's Play Live: The Documentary</td>
+      <td>2015-09-14</td>
+      <td><a href="https://roosterteeth.com/watch/r-t-docs-let-s-play-live-let-s-play-live-the-documentary" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-7605" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Let's Play Live: The Documentary - Official Trailer</td>
+      <td>2015-09-04</td>
+      <td><a href="https://roosterteeth.com/watch/rt-docs-lets-play-live-lets-play-live-the-documentary-official-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1279-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22RT+Docs%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

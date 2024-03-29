@@ -1,0 +1,464 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Let's Build | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Let's Build<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>39</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>39</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sat-Ur-Ass-Factory!</td>
+      <td>2024-03-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-sat-ur-ass-factory" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52635" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Show Me That Sat-ASS-Factory! - Satisfactory</td>
+      <td>2024-02-23</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-show-me-that-sat-ass-factory-satisfactory" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52588" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Let's Build with Jack - Satisfactory</td>
+      <td>2024-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-let-s-build-with-jack-satisfactory" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52560" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>We Find the SEXY Palmon! - Palworld & Infinite Craft</td>
+      <td>2024-02-16</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-we-find-the-sexy-palmon-palworld-infinite-craft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52556" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ASS-TRONEER ft. Gavin</td>
+      <td>2024-02-09</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-ass-troneer-ft-gavin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52510" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Palworld Part 2: Electric Boogaloo</td>
+      <td>2024-02-02</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-palworld-part-2-electric-boogaloo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52466" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>First Look At Palworld!</td>
+      <td>2024-01-31</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-first-look-at-palworld" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52457" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>We Are Addicted to Enshrouded!</td>
+      <td>2024-01-30</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-we-are-addicted-to-enshrouded" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52449" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Testing Out Enshrouded!</td>
+      <td>2024-01-26</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-testing-out-enshrouded" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52428" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>We Are Vikings! - Valheim</td>
+      <td>2024-01-19</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-we-are-vikings-valheim" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52390" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Last Minecraft! - Minecraft FTB Skies</td>
+      <td>2024-01-12</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-the-last-minecraft-minecraft-ftb-skies" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52357" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oops All Gay! - Just Chatting</td>
+      <td>2024-01-05</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-oops-all-gay-just-chatting" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52321" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>House Flipper 2: Electric Boogaloo</td>
+      <td>2023-12-29</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-house-flipper-2-electric-boogaloo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52300" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preparing for the Finale of Minecraft! - Minecraft FTB Skies & Timberborn</td>
+      <td>2023-12-15</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-preparing-for-the-finale-of-minecraft-minecraft-ftb-skies-timberborn" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52222" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>More Beavers! - Timberborn</td>
+      <td>2023-12-11</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-more-beavers-timberborn" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52187" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Let's Build LEGOs and Minecraft!</td>
+      <td>2023-12-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-let-s-build-legos-and-minecraft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52130" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft FTB</td>
+      <td>2023-11-21</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-ftb" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51772" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft & Chill? - Minecraft FTB Skies & Frostpunk</td>
+      <td>2023-11-17</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-minecraft-chill-minecraft-ftb-skies-frostpunk" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52028" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Modded Minecraft ft. allux</td>
+      <td>2023-11-10</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-modded-minecraft-ft-allux" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51960" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft FTB Skies ft. beeps</td>
+      <td>2023-11-03</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-minecraft-ftb-skies-ft-beeps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51907" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft and Jackbox</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-and-jackbox" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51919" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-adaa0dad-a210-49c1-a934-6991848790ca" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51918" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-9a2b5d3b-83d3-4015-bbbb-0985ae3c3484" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51874" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft FTB</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-ftb-a22860ed-708a-43c3-933b-cb70621f4d1d" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51782" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-76dc45b2-3d21-40ea-b9dc-ae5565432710" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51966" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-a4f968b1-ab4b-4eec-905b-f3a046240212" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51922" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-270aeb3b-87a6-4403-8670-f28f35aec594" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51894" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-27ba2909-22c4-4b65-9878-8dce7ca8e241" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51930" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-e7c6d211-f332-4236-8127-2da1ade097d7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51878" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51871" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Plays Minecraft FTB</td>
+      <td>2023-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-plays-minecraft-ftb-677dbef0-ec74-4097-9a70-eb77e9713bed" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51779" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jack Builds ALONE</td>
+      <td>2023-10-27</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-jack-builds-alone" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51854" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Crafting Mines FTB Skies</td>
+      <td>2023-10-20</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-crafting-mines-ftb-skies" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51814" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft FTB Skies - Minecraft Modded! [Uncensored] [HOT]</td>
+      <td>2023-10-13</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-minecraft-ftb-skies-minecraft-modded-uncensored-hot" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51751" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft FTB Skies - Nuclear Minecraft Fallout</td>
+      <td>2023-10-06</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-minecraft-ftb-skies-nuclear-minecraft-fallout" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51701" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inside Gaming Subathon - Day 1 - Raft</td>
+      <td>2023-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-inside-gaming-subathon-day-1-raft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51646" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft FTB Skies - Playing with Water & Fission Reactors ft. Beeps + Griff</td>
+      <td>2023-09-15</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-mc" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51564" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft FTB Skies - Of Rockets and Restaurants</td>
+      <td>2023-09-08</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-minecraft-ftb-skies" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51522" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minecraft FTB Skies</td>
+      <td>2023-09-01</td>
+      <td><a href="https://roosterteeth.com/watch/let-s-build-season-1-episode-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51458" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Let%27s+Build%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

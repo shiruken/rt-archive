@@ -1,0 +1,941 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Camp Camp | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Camp Camp<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>92</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>92</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Infested</td>
+      <td>2024-03-22</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-5-s5-e4-infested" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52706" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Talk</td>
+      <td>2024-03-15</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-5-s5-e3-the-talk" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52679" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cloak & Hunt</td>
+      <td>2024-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-5-cloak-hunt" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52666" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Leap Day Stream Stream</td>
+      <td>2024-03-04</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-stream-stream-2024" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1578-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Welcome Back, Campers!</td>
+      <td>2024-03-01</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-5-s5-e1-welcome-back-campers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52625" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp: New Episodes March 1st!</td>
+      <td>2024-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-new-camp-camp-episodes-in-march" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1569-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NEW Camp Camp Episodes!!</td>
+      <td>2023-12-12</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-new-camp-camp-episodes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-52201" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NEW Camp Camp Episodes!!</td>
+      <td>2023-12-12</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-new-camp-camp-episodes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1556-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CAMP CAMP: With Friends Like These</td>
+      <td>2023-07-14</td>
+      <td><a href="https://roosterteeth.com/watch/rooster-teeth-celebrates-20-years-of-making-fun-20th-anniversary-camp-camp-with-friends-like-these" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51225" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Theme Song Song</td>
+      <td>2021-06-03</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-camp-camp-song-song-theme-from-camp-camp" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1459-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Season 2 - Trailer</td>
+      <td>2021-06-03</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-bonus-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1458-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>St. Campbell's Day - Holiday Special</td>
+      <td>2019-12-20</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36217" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Time Crapsules</td>
+      <td>2019-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35138" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Waffle Watch-Along</td>
+      <td>2019-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-waffle-watch-along" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1408-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Butterfinger Effect</td>
+      <td>2019-09-21</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35033" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Panicked Room</td>
+      <td>2019-09-14</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34903" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Party Pooper</td>
+      <td>2019-09-07</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34831" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fashion Victims</td>
+      <td>2019-08-31</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34689" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Campfire Tales</td>
+      <td>2019-08-24</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34608" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp gets UNPACKED!</td>
+      <td>2019-08-23</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-cams-gets-unpacked" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1407-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Voice Actors Tell Stories</td>
+      <td>2019-08-21</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-voice-actors-tell-stories" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1406-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp’s Humble Beginnings</td>
+      <td>2019-08-19</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-humble-beginnings" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1405-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Forest</td>
+      <td>2019-08-17</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34515" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cameron Campbell Can't Handle the Truth Serum</td>
+      <td>2019-08-10</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34456" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Squirrel Camp</td>
+      <td>2019-08-03</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34335" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Loser Says What?</td>
+      <td>2019-07-27</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34241" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>After Hours</td>
+      <td>2019-07-20</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34159" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preston Goodplay's Good Play</td>
+      <td>2019-07-13</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34057" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Follow the Leader</td>
+      <td>2019-07-06</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33952" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Quarter-Moon Convergence</td>
+      <td>2019-06-29</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33878" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>New Adventure!</td>
+      <td>2019-06-22</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33804" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Who Peed the Lake?</td>
+      <td>2019-06-15</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33686" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Attack of the Nurfs</td>
+      <td>2019-06-08</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33556" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Keep the Change</td>
+      <td>2019-06-01</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-4-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33446" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Bloopers</td>
+      <td>2019-05-24</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1354-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Official Trailer - Season 4</td>
+      <td>2019-05-20</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-official-trailer-season-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1352-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Culture Day</td>
+      <td>2018-12-07</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-holiday-special" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-29673" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Arrival of the Torso Takers</td>
+      <td>2018-10-05</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-halloween-special" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28869" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: This Isn't Goodbye, It's See You Later - Richie Branson</td>
+      <td>2018-08-11</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-soundtrack-this-isn-t-goodbye-it-s-see-you-later-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1266-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Corp.</td>
+      <td>2018-08-10</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28195" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Soundtrack: Survival Of The Fittest - Richie Branson</td>
+      <td>2018-08-04</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-soundtrack-survival-of-the-fittest-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1263-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>City Survival</td>
+      <td>2018-08-03</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28125" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Soundtrack: Capture The Flag - Richie Branson</td>
+      <td>2018-07-28</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-soundtrack-capture-the-flag-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1219-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Operation: Charlie Tango Foxtrot</td>
+      <td>2018-07-27</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-28022" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Soundtrack: Fake Friends Forever - Richie Branson</td>
+      <td>2018-07-21</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-soundtrack-fake-friends-forever-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1097-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Candy Kingpin</td>
+      <td>2018-07-20</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27937" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Soundtrack: Freaky Fish Monster Flow - Richie Branson</td>
+      <td>2018-07-14</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-soundtrack-freaky-fish-monster-flow-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-238-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Something Fishy</td>
+      <td>2018-07-13</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27857" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Soundtrack: I'm A Camp Campbell Kid - Richie Branson</td>
+      <td>2018-07-07</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-soundtrack-i-m-a-camp-campbell-kid-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-217-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cameron Campbell the Camp Campbell Camper</td>
+      <td>2018-07-06</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27709" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: Squares Need Love Too - Richie Branson</td>
+      <td>2018-06-30</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-soundtrack-squares-need-love-too-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-215-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Lake Lilac Summer Social</td>
+      <td>2018-06-29</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27626" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: Dang - Richie Branson</td>
+      <td>2018-06-23</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-soundtrack-dang-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-213-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dial M For Jasper</td>
+      <td>2018-06-22</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27532" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: Bucket List - Richie Branson</td>
+      <td>2018-06-16</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-soundtrack-bucket-list-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-212-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nikki's Last Day on Earth</td>
+      <td>2018-06-15</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27451" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: Another Rap Song About Foreign Cars - Richie Branson</td>
+      <td>2018-06-09</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-soundtrack-another-rap-song-about-foreign-cars-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-211-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Foreign Exchange Campers</td>
+      <td>2018-06-08</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27220" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: Old School, New Cool - Richie Branson</td>
+      <td>2018-06-01</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-soundtrack-old-school-new-cool-richie-branson" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-208-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ered Gets Her Cool Back</td>
+      <td>2018-06-01</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27098" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sing Along</td>
+      <td>2018-05-25</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-sing-along" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-205-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Fun-Raiser</td>
+      <td>2018-05-25</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-3-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-27010" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Soundtrack: Technically, That's a Hook - Richie Branson</td>
+      <td>2018-05-25</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-song-of-the-week-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-206-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Camp Season 3 IS REAL????</td>
+      <td>2018-05-16</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-camp-camp-season-3-is-real" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-204-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Holiday Special - A Camp Camp Christmas, or Whatever</td>
+      <td>2017-12-11</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-camp-camp-holiday-special-a-camp-camp-christmas-or-whatever" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2328" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Halloween Special - NIGHT OF THE LIVING ILL</td>
+      <td>2017-10-06</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-halloween" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2329" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Parents' Day</td>
+      <td>2017-08-25</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-12-sfh893yt" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2330" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cookin' Cookies</td>
+      <td>2017-08-18</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-11-gh4yui4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2331" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Space Camp Was a Hoax</td>
+      <td>2017-08-11</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-10-fh84l5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2332" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eggs Benefits</td>
+      <td>2017-08-04</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-9-g84ytkl" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2333" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gwen Gets a Job</td>
+      <td>2017-07-28</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-8-g834jly" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2334" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bonjour Bonquisha</td>
+      <td>2017-07-21</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-7-fgiuihqo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2335" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Quartermaster Appreciation Day</td>
+      <td>2017-07-14</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-6-sofhehfl" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2336" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jasper Dies at the End</td>
+      <td>2017-07-07</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-5-f38hl9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2337" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jermy Fartz</td>
+      <td>2017-06-30</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-4-a73ojfh" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2338" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Quest to Sleepy Peak Peak</td>
+      <td>2017-06-23</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-3-f8w3hl" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2340" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Anti-Social Network</td>
+      <td>2017-06-16</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-2-48-hak8f" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2339" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cult Camp</td>
+      <td>2017-06-09</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-2-episode-1-8-w74yhk" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2341" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Order of the Sparrow</td>
+      <td>2016-09-09</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-the-order-of-the-sparrow-camp-camp-episode-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2343" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camporee</td>
+      <td>2016-09-02</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-camporee-camp-camp-episode-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2342" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mind Freakers</td>
+      <td>2016-08-26</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-mind-freakers-camp-camp-episode-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2345" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>David Gets Hard</td>
+      <td>2016-08-19</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-david-gets-hard-camp-camp-episode-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2344" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Into Town</td>
+      <td>2016-08-05</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-into-town-camp-camp-episode-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2347" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Romeo & Juliet II: Love Resurrected</td>
+      <td>2016-07-29</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-romeo-juliet-i-i-love-ressurrected-camp-camp-episode-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2348" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Midseason Live Stream</td>
+      <td>2016-07-22</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-camp-camp-midseason-live-stream" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1362-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Reigny Day</td>
+      <td>2016-07-22</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-reigny-day-camp-camp-episode-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2350" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Journey to Spooky Island</td>
+      <td>2016-07-08</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-journey-to-spooky-island-camp-camp-episode-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2351" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Cool Kidz</td>
+      <td>2016-07-01</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-camp-cool-kidz-camp-camp-episode-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2352" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scout's Dishonor</td>
+      <td>2016-06-24</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-scout-s-dishonor-camp-camp-episode-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2353" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mascot</td>
+      <td>2016-06-17</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-mascot-camp-camp-episode-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2355" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Escape from Camp Campbell</td>
+      <td>2016-06-10</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-episode-1-escape-from-camp-campbell" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-2356" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Camp Campbell Wants YOU!</td>
+      <td>2016-06-10</td>
+      <td><a href="https://roosterteeth.com/watch/camp-camp-season-1-camp-campbell-wants-y-o-u" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-1361-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Camp+Camp%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

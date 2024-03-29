@@ -1,0 +1,617 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CypherDen's Adventures | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>CypherDen's Adventures<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>56</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>55</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>1</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>98.21%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Love Of My Life Rejected Me!</td>
+      <td>2022-01-22</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-the-love-of-my-life-rejected-me" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SUPER EMBARRASSING MOMENTS :')</td>
+      <td>2021-12-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-super-embarrassing-moments" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-46307" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Getting STUCK In a Public Bathroom | College Stories</td>
+      <td>2021-08-13</td>
+      <td><a href="https://roosterteeth.com/watch/once-upon-a-time-in-college-i-ended-up-getting-stuck-in-the-bathroom-for-hours-on-end-no-way-of-escaping-from-myself-and-my-terrible-decision-i-d-like-to-say-that-college-was-a-fun-time-if-you-want-to-hear-more-college-stories-let-me-know-d" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-44881" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Tried to Control My Dreams</td>
+      <td>2021-06-20</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-tried-to-control-my-dreams" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-44201" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Got Scammed... Feels Bad</td>
+      <td>2021-06-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-got-scammed-feels-bad" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-44196" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>How We First Met (Storytime with Georgey)</td>
+      <td>2021-05-01</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-how-we-first-met-storytime-with-georgey" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-43559" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CATS</td>
+      <td>2021-03-14</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-cats" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-42837" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I RECORDED MY DREAMS FOR 30 DAYS</td>
+      <td>2020-11-25</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-recorded-my-dreams-for-30-days" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-41434" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SHOPLIFTING</td>
+      <td>2020-11-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-shoplifting" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-41231" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>First Time Playing Among Us</td>
+      <td>2020-11-13</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-first-time-playing-among-us-animation" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-41168" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pranking My Terrible Sister</td>
+      <td>2020-11-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-pranking-my-terrible-sister" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-41112" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MY EXPERIENCE WITH MARTIAL ARTS</td>
+      <td>2020-06-30</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-experience-with-martial-arts" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-39143" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MY DAD'S CRAZY EX-GIRLFRIEND</td>
+      <td>2020-06-12</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-dad-s-crazy-ex-girlfriend" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38853" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Surviving The Zombie Apocalypse With Your Friends</td>
+      <td>2020-02-14</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-surviving-the-zombie-apocalypse-with-your-friends" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36805" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Terrible Childhood Accidents</td>
+      <td>2020-02-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-terrible-childhood-accidents" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36753" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>What is a Raccoon Dog? Meet Belle</td>
+      <td>2020-01-20</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-what-is-a-raccoon-dog-meet-belle" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-36499" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>How I Almost Burnt Down My Neighbor's House</td>
+      <td>2019-11-25</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-how-i-almost-burnt-down-my-neighbor-s-house" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35886" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Brought Home Random Animals</td>
+      <td>2019-11-15</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-brought-home-random-animals" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35772" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THREE SISTERS WITH THE SAME NAME</td>
+      <td>2019-09-29</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-three-sisters-with-the-same-name" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35167" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Dad Hated My Boyfriend</td>
+      <td>2019-09-20</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-dad-hated-my-boyfriend" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34987" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Face Full Of Glitter And Regrets</td>
+      <td>2019-06-29</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-a-face-full-of-glitter-and-regrets" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33938" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Saving a Girl From a Creep</td>
+      <td>2019-06-03</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-saving-a-girl-from-a-creep" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33521" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Group Betrayed Me</td>
+      <td>2019-04-27</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-group-betrayed-me" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32875" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MY FAMILY FOUND ME IN A CAR</td>
+      <td>2019-04-23</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-family-found-me-in-a-car" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32697" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WHAT DO YOU WANT TO EAT?</td>
+      <td>2019-04-21</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-what-do-you-want-to-eat" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32736" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Me vs my Bully</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-me-vs-my-bully" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32734" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Almost Got Kidnapped</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-almost-got-kidnapped" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32719" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18th Birthday Surprise!</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-18th-birthday-surprise" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32716" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Crush in High School</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-crush-in-high-school" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32712" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>High School Drama</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-high-school-drama" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32709" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Embarrassing Moments</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-embarrassing-moments" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32707" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Crazy Stalker Classmate</td>
+      <td>2019-03-08</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-crazy-stalker-classmate" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32705" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Self-Doubts And Insecurities</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-self-doubts-and-insecurities" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32728" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Lady Tried To Steal My Dog</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-a-lady-tried-to-steal-my-dog" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32706" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Have a Secret to Tell You</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-have-a-secret-to-tell-you" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32729" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Had a Fake Boyfriend</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-had-a-fake-boyfriend" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32713" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Stranger Followed Me Home</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-a-stranger-followed-me-home" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32726" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Accidentally Went To a Scary Hotel</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-accidentally-went-to-a-scary-hotel" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32691" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Truth About Being An Adult</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-the-truth-about-being-an-adult" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32723" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Customer Tried To Kiss Me</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-a-customer-tried-to-kiss-me" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32733" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Most Relatable Video Ever</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-the-most-relatable-video-ever" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32721" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Mom Fought a Thief</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-mom-fought-a-thief" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32727" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>What Scares Me The Most?</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-what-scares-me-the-most" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32720" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Got Ripped Off $20,000 by a Celebrity</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-got-ripped-off-20-000-by-a-celebrity" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32730" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Asian Stereotypes</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-asian-stereotypes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32735" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Scary Obsessive Stalker</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-scary-obsessive-stalker" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32715" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Things I Learned in Fortnite</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-things-i-learned-in-fortnite" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32732" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>What do Dogs Thinks?</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-what-do-dogs-thinks" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32725" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>How I Made Money Playing Pokemon</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-how-i-made-money-playing-pokemon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32731" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tips for Beginner Artists and Animators</td>
+      <td>2019-02-19</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-tips-for-beginner-artists-and-animators" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32724" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>My Crazy Stalker Showed up at my House</td>
+      <td>2019-02-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-my-crazy-stalker-showed-up-at-my-house" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32711" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Strict Asian Parents</td>
+      <td>2019-02-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-strict-asian-parents" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32708" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weirdest Dream I Ever Had</td>
+      <td>2019-02-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-weirdest-dream-i-ever-had" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32718" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Being a Girl Gamer</td>
+      <td>2019-02-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-being-a-girl-gamer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32710" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Effects of Not Sleeping</td>
+      <td>2019-02-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-effects-of-not-sleeping" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32717" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I Got Caught Skipping School</td>
+      <td>2019-02-18</td>
+      <td><a href="https://roosterteeth.com/watch/cypherden-s-adventures-season-1-i-got-caught-skipping-school" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-32714" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22CypherDen%27s+Adventures%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,383 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hat Chat | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>Hat Chat<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>30</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>30</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Hat Chat Podcast #3 - Who Invented This S**t?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-3-who-invented-this-s-t" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38316" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #1 - How do we do this again?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-1-how-do-we-do-this-again" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38235" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #30 - The REAL 'Joe Exotic'</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-30-the-real-joe-exotic" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38160" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #29 - How GOOD is Good Friday?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-29-how-good-is-good-friday" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38159" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #28 - The Problem with Dog Walkers</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-28-the-problem-with-dog-walkers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38158" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #27 - Kenya Believe it?!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-27-kenya-believe-it" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38157" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #26 - What's the Point?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-26-what-s-the-point" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38156" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #25 - Show me the nips!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-25-show-me-the-nips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38155" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #24 - Prince Harry & WW3</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-24-prince-harry-ww3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38154" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #23 - Dodgy Dads ft. Sips</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-23-dodgy-dads-ft-sips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38153" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #22 - Mad Medicine!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-22-mad-medicine" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38152" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #21 - The Problem with IMMORTALITY</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-21-the-problem-with-immortality" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38151" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #20 - Inside our Mind Palace</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-20-inside-our-mind-palace" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38150" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #19 - Nothing is REAL!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-19-nothing-is-real" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38149" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #18 - Mind Controlled MECHS!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-18-mind-controlled-mechs" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38148" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #17 - We Solve the Climate Crisis ft. Simon Clark</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-17-we-solve-the-climate-crisis-ft-simon-clark" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38147" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #16 - Not For Kids!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-16-not-for-kids" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38146" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #15 - Great British W*** Off</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-15-great-british-w-off" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38145" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #14 - The (almost) Brother Jabber</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-14-the-almost-brother-jabber" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38144" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #13 - We're Being Watched?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-13-we-re-being-watched" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38143" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #12 - Are Games to Blame?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-12-are-games-to-blame" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38142" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #11 - Time to Face the Music!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-11-time-to-face-the-music" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38141" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #10 - The Love Quiz</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-10-the-love-quiz" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38140" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #9 - Bath Water Bait!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-9-bath-water-bait" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38139" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #8 - Do You Like Dogs?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-8-do-you-like-dogs" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38138" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #7 - What's Up With E3?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-7-what-s-up-with-e3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38137" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #6 - How to be Happy</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-6-how-to-be-happy" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38136" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #5 - Damn nature, you scary!</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-5-damn-nature-you-scary" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38135" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #4 - Do Fans Ruin Franchises?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-4-do-fans-ruin-franchises" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38134" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Hat Chat Podcast #2 - So You're A YouTuber?</td>
+      <td>2020-05-04</td>
+      <td><a href="https://roosterteeth.com/watch/hat-chat-2020-the-hat-chat-podcast-2-so-you-re-a-youtuber" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-38131" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Hat+Chat%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

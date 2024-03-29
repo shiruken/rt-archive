@@ -1,0 +1,500 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>RT Twitch | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>RT Twitch<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>43</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>43</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BLAINE BUILDS A HOUSE - Minecraft PART 3</td>
+      <td>2019-11-01</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-11-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35571" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WHY DID IT HAVE TO BE STAIRS? - Minecraft PART 2</td>
+      <td>2019-10-25</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-10-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35484" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PERFECTLY TIMED CREEPER - Minecraft PART 1</td>
+      <td>2019-10-04</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-perfectly-timed-creeper-minecraft-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35232" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FOR THE GAMBO!! - World of Warcraft Classic PART 1</td>
+      <td>2019-09-27</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-for-the-gambo-world-of-warcraft-classic-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35134" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WE BROKE VISAGE - Visage PART 3</td>
+      <td>2019-09-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-we-broke-visage-visage-part-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-35037" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A REAL LIFE POKEMON - Pokemon Let's Go PART 7</td>
+      <td>2019-09-13</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-a-real-life-pokemon-pokemon-lets-go-part-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34946" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NOT JOHN MATRIX! - Pokemon Let's Go PART 6</td>
+      <td>2019-09-10</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-9-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34913" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MAGIKARP EVOLVES? - Pokemon Let's Go PART 5</td>
+      <td>2019-09-08</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-magikarp-evolves-pokemon-let-s-go-part-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34812" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I'M ON A BOAT! - Pokemon Let's Go PART 4</td>
+      <td>2019-09-06</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-i-m-on-a-boat-pokemon-let-s-go-part-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34813" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BEWARE THE DIGLETTS - Pokemon Let's Go PART 3</td>
+      <td>2019-09-03</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-beware-the-digletts-pokemon-let-s-go-part-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34720" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WE FOUND ANA DE ARMAS! - Pokemon Let's Go PART 2</td>
+      <td>2019-09-01</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-we-found-ana-de-armas-pokemon-lets-go-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34725" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NUZLOCKE RUN - Pokemon Let's Go PART 1</td>
+      <td>2019-08-30</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-nuzlocke-run-pokemon-let-s-go-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34721" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GRANDMA LADY FROM HELL - Visage PART 2</td>
+      <td>2019-08-27</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-grandma-lady-from-hell-visage-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34670" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>STILL SCARED OF THE DARK - Visage PART 1</td>
+      <td>2019-08-25</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-still-scared-of-the-dark-visage-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34662" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SUPER CRINGE FAIL MAKER - Super Mario Maker 2 PART 3</td>
+      <td>2019-08-23</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-super-cringe-fail-maker-super-mario-maker-2-part-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34624" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MARIO DOES PUSHUPS - Super Mario Maker 2 PART 2</td>
+      <td>2019-08-20</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-mario-does-pushups-super-mario-maker-2-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34581" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DARK SOULS OF WAR - God of War PART 2</td>
+      <td>2019-08-18</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-dark-souls-of-war-god-of-war-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34540" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE BIRTH OF GAMBO - Super Mario Maker 2 PART 1</td>
+      <td>2019-08-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-birth-of-gambo-super-mario-maker-2-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34538" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>STEAL STARS FOR PROFIT - Super Mario Party</td>
+      <td>2019-08-13</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-steal-stars-for-profit-super-mario-party" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34485" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ROOSTER TEETH TEAM BUILDING - Super Mario Party</td>
+      <td>2019-08-11</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-rt-team-building-super-mario-party" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34455" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE LAST OF THE LAST OF US OF US - The Last of Us PART 6</td>
+      <td>2019-08-09</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-last-of-the-last-of-us-of-us-the-last-of-us-part-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34449" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SHE MAKES HER OWN KNIVES - The Last of Us PART 5</td>
+      <td>2019-08-06</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-she-makes-her-own-knives-the-last-of-us-part-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34357" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ELLIE NEEDS A COCKTAIL - The Last of Us PART 4</td>
+      <td>2019-08-04</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-ellie-needs-a-cocktail-the-last-of-us-part-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34352" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TIME FOR MARIO FAMILY THERAPY - Super Mario Party</td>
+      <td>2019-08-02</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-time-for-mario-family-therapy-super-mario-party" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34323" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NO ONE SCARE ELLIE! - The Last of Us PART 3</td>
+      <td>2019-07-30</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-no-one-scare-ellie-the-last-of-us-part-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34240" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE LAST OF THE ELLIES - The Last of Us PART 2</td>
+      <td>2019-07-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-last-of-the-ellies-the-last-of-us-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34239" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ELLIE PLAYS ELLIE - The Last of Us PART 1</td>
+      <td>2019-07-26</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-ellie-plays-ellie-the-last-of-us-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34235" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE END OF STAR WARS - Star Wars Battlefront 2 PART 4</td>
+      <td>2019-07-23</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-end-of-star-wars-star-wars-battlefront-2-part-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34156" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GIT GUD OR GIT PUNISHED - Star Wars Battlefront PART 3</td>
+      <td>2019-07-21</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-git-gud-or-git-punished-star-wars-battlefront-part-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34149" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HAPPY BIRTHDAY JAR JAR - Star Wars Battlefront PART 2</td>
+      <td>2019-07-19</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-happy-birthday-jar-jar-star-wars-battlefront-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34147" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>STAH WAHS! - Star Wars Battlefront PART 1</td>
+      <td>2019-07-16</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-stah-wahs-star-wars-battlefront-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34086" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>IT WAS THE FINAL SCARE - Layers of Fear PART 2</td>
+      <td>2019-07-14</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-it-was-the-final-scare-layers-of-fear-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34087" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE GREAT BATHROOM SCARE - Layers of Fear PART 1</td>
+      <td>2019-07-12</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-great-bathroom-scare-layers-of-fear-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-34058" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BLAINE HATES MARIO KART - Mario Kart 8 PART 2</td>
+      <td>2019-07-09</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-blaine-hates-mario-kart-mario-kart-8-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33996" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TOO NINTENDUDES TOO FURIOUS - Mario Kart 8 PART 1</td>
+      <td>2019-07-07</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-too-nintendudes-too-furious-mario-kart-8-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33994" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE DADS OF WAR ARE HERE - God of War PART 1</td>
+      <td>2019-07-05</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-dads-of-war-are-here-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33967" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DO THEY SWEAR IN SMASH BROS? - Smash Bros. Ultimate PART 1</td>
+      <td>2019-07-02</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-do-they-swear-in-smash-bros-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33966" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WE LOST THICCUMS - Breath of the Wild PART 3</td>
+      <td>2019-06-30</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-we-lost-thiccums-breath-of-the-wild-part-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33919" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TEACHING ALIENS HOW TO COOK - Cooking Simulator</td>
+      <td>2019-06-28</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-teaching-aliens-how-to-cook-cooking-simulator" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33892" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HOW TO NAME A HORSE - Breath of the Wild PART 2</td>
+      <td>2019-06-25</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-how-to-name-a-horse-breath-of-the-wild-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33854" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NINJA TURTLES 3: LOST IN SEKIRO - Sekiro PART 1</td>
+      <td>2019-06-23</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-ninja-turtles-3-lost-in-sekiro-sekiro-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33813" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>THE DOOM MOVIE SEQUEL - Doom PART 1</td>
+      <td>2019-06-21</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-the-doom-movie-sequel-doom-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33810" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EARLY SEQUEL PREP - Breath of the Wild PART 1</td>
+      <td>2019-06-11</td>
+      <td><a href="https://roosterteeth.com/watch/rt-twitch-2019-early-sequel-prep-breath-of-the-wild-part-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-33863" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22RT+Twitch%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    

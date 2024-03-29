@@ -1,0 +1,311 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>A Simple Walk | Rooster Teeth Website Archival Progress</title>
+        <link rel="stylesheet" type="text/css" href="../w3.css"/>
+        <style>
+            header a {
+                text-decoration: none;
+            }
+            header div.w3-quarter {
+                margin-top: 12px;
+            }
+            #showTable th:first-child {
+                width: 570px;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="w3-row w3-container">
+            <div class="w3-quarter">
+                <h4>
+                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+                </h4>
+            </div>
+            <div class="w3-half w3-center">
+                <h1>A Simple Walk<h1>
+            </div>
+        </header>
+        <div class="w3-row w3-center">
+            <div class="w3-col s2 w3-blue w3-padding-small">
+                <h4>Rooster Teeth Videos</h4>
+                <h2>22</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Uploaded to Archive</h4>
+                <h2>22</h2>
+            </div>
+            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+                <h4>Missing from Archive</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+                <h4>Incomplete Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-red w3-padding-small">
+                <h4>Removed Uploads</h4>
+                <h2>0</h2>
+            </div>
+            <div class="w3-col s2 w3-green w3-padding-small">
+                <h4>Archive Availability</h4>
+                <h2>100.00%</h2>
+            </div>
+        </div>
+        <div class="w3-auto">
+            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+            <table class="dataframe w3-table-all" id="showTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Title</th>
+      <th>Air Date</th>
+      <th>Links</th>
+      <th>FIRST</th>
+      <th>Uploaded</th>
+      <th>Complete</th>
+      <th>Removed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A Simple Walk II: Finale Livestream</td>
+      <td>2023-10-26</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-commentary-livestream" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51831" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk - Our Last Day</td>
+      <td>2023-10-19</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-a-simple-talk-our-last-day" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51789" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk - Kerry Gets Caught</td>
+      <td>2023-10-19</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-a-simple-talk-kerry-gets-caught" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51788" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk II - The Lonely Mountain</td>
+      <td>2023-10-19</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-finale" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51787" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk - The Return of the Tent Talk</td>
+      <td>2023-10-12</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-the-return-of-tent-talk" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51739" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk - Dodging Cars and Cows</td>
+      <td>2023-10-12</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-dodging-cars-and-cows" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51738" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk II - 100 Miles in 3 Days (04)</td>
+      <td>2023-10-12</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-100-miles-in-3-days" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51737" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk - Tent Talk & Monkeys</td>
+      <td>2023-10-05</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-podcast-tent-talk-and-monkeys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51684" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk II - We Are In Trouble (03)</td>
+      <td>2023-10-05</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-we-are-in-trouble" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51683" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk Podcast - Blissfully Ignorant Hobbits Getting Lost (103)</td>
+      <td>2023-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-a-simple-talk-blissfully-ignorant-hobbits-getting-lost" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51638" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk Podcast - Chris Messed Up (102)</td>
+      <td>2023-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-a-simple-talk-chris-messed-up" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51637" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk II - Barrel Riding & Lost in the Woods (02)</td>
+      <td>2023-09-28</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-barrel-riding-and-lost-in-the-woods" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51636" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Talk Podcast - We Missed Our Plane?! (101)</td>
+      <td>2023-09-21</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-a-simple-talk-we-brought-explosives-on-a-plane" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51597" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td>⭐️</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk II -  An Unexpected Prequel (01)</td>
+      <td>2023-09-21</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-a-simple-walk-ii-an-unexpected-prequel" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51595" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk II | Official Trailer</td>
+      <td>2023-09-08</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-season-2-simple-walk-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-51525" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RTX 2013 Panel Highlights</td>
+      <td>2013-12-13</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-bonus-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-25-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk Into Mordor Trailer</td>
+      <td>2013-12-13</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-bonus-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-102-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>The Ring is Found! - Episode 5</td>
+      <td>2013-01-31</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-a-simple-walk-episode-05" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-15960" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mount Doom - Episode 4</td>
+      <td>2012-12-21</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-a-simple-walk-episode-04" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-15961" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Blisters & Balrogs! - Episode 3</td>
+      <td>2012-12-18</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-a-simple-walk-episode-03" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-15962" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rivendell to Moria! - Episode 2</td>
+      <td>2012-12-14</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-a-simple-walk-episode-02" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-18131" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A Simple Walk Into Mordor - Episode 1</td>
+      <td>2012-12-10</td>
+      <td><a href="https://roosterteeth.com/watch/a-simple-walk-a-simple-walk-episode-01" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>· <a href="https://archive.org/details/roosterteeth-18139" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            <div class="w3-section w3-padding">
+                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22A+Simple+Walk%22&sort=-date" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+            </div>
+            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+                <h6>Definitions</h6>
+                <ul>
+                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+                </ul>
+            </div>          
+        </div>
+        <div class="w3-container w3-center w3-text-gray">
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+        </div>
+        <script>
+        function search() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("showTable");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+        </script>
+    </body>
+    </html>
+    
