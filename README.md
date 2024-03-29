@@ -2,6 +2,20 @@
 
 # Rooster Teeth Archive
 
+## Archive Progress Tracker
+
+Track the progress of the ongoing effort to mirror the Rooster Teeth website to Internet Archive.
+
+https://shiruken.github.io/rt-archive/
+
+### Metrics
+
+* Rooster Teeth Videos: 42,487
+* Items on Internet Archive: 40,613 (95.59%)
+* Items Missing from Internet Archive: 1,874 (4.41%)
+* Incomplete Items on Internet Archive: 90
+* Items Removed from Internet Archive: 2
+
 ## Rooster Teeth API
 
 Comprehensive mirror of the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api). The pages of each endpoint are condensed to a single JSON file for easy download.
@@ -56,11 +70,3 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 *Updated daily at 00:45*
 
 * [`dark.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.csv): URLs for every upload *removed* (i.e. made dark) by Internet Archive.
-
-## Metrics
-
-* Rooster Teeth Videos: 42,487
-* Items on Internet Archive: 40,613 (95.59%)
-* Items Missing from Internet Archive: 1,874 (4.41%)
-* Incomplete Items on Internet Archive: 90
-* Items Removed from Internet Archive: 2
