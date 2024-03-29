@@ -204,7 +204,7 @@ def generate_website():
             <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Show" id="search" onkeyup="search()">
             {html_table}
             <div class="w3-section w3-padding">
-                <a href="{archive_search_url}" target="_blank" class="w3-hover-text-red">Search for all uploads on Internet Archive</a>
+                <a href="{archive_search_url}" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="{archive_search_url}">Search for all uploads on Internet Archive</a>
             </div>
             <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
                 <h6>Definitions</h6>
@@ -219,7 +219,7 @@ def generate_website():
             </div>
         </div>
         <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
         </div>
         <script>
             function search() {{
@@ -286,12 +286,18 @@ def generate_show_page(df, show_slug):
     df['Complete'] = df['Complete'].where(~df['is_removed'], "❓")
 
     def make_links(x):
-        s = f'<a href="{x["rt_url"]}" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>'
+        s = (
+            f'<a href="{x["rt_url"]}" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" '
+            f'data-umami-event="outbound-link-click" data-umami-event-link="{x["rt_url"]}">RT</a>'
+        )
         archive_url = f"https://archive.org/details/roosterteeth-{x['rt_id']}"
         if x['is_uploaded']:
-            s += f'· <a href="{archive_url}" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a>'
+            s += (
+                f'· <a href="{archive_url}" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" '
+                f'data-umami-event="outbound-link-click" data-umami-event-link="{archive_url}">Archive</a>'
+            )
         if x['is_removed']:
-            s += f'· <a href="{archive_url}" target="_blank" title="View on Internet Archive" class="w3-hover-text-red"><s>Archive</s></a>'
+            s = s.replace(">Archive<", "><s>Archive</s><")
         return s
 
     df['Links'] = df[['rt_id', 'rt_url', 'is_uploaded', 'is_removed']].apply(make_links, axis=1)
@@ -385,7 +391,7 @@ def generate_show_page(df, show_slug):
             <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
             {html_table}
             <div class="w3-section w3-padding">
-                <a href="{archive_search_url}" target="_blank" class="w3-hover-text-red">Search for all episodes on Internet Archive</a>
+                <a href="{archive_search_url}" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="{archive_search_url}">Search for all episodes on Internet Archive</a>
             </div>
             <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
                 <h6>Definitions</h6>
@@ -398,7 +404,7 @@ def generate_show_page(df, show_slug):
             </div>          
         </div>
         <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red">Source Code</a></p>
+            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
         </div>
         <script>
         function search() {{
