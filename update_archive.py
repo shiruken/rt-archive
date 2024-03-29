@@ -227,6 +227,7 @@ def generate_website():
                 }}
             }}
         </script>
+        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
     </body>
     </html>
     """
@@ -391,6 +392,7 @@ def generate_show_page(df, show_slug):
             }}
         }}
         </script>
+        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
     </body>
     </html>
     """
