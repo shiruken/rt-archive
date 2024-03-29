@@ -148,6 +148,21 @@ def generate_website():
     <head>
         <meta charset="UTF-8">
         <title>Rooster Teeth Website Archival Progress</title>
+        <link rel="icon" type="image/png" sizes="256x256" href="favicon.png">
+        <meta name="description" content="Track the progress of the Rooster Teeth website archival effort">
+        <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+        <meta name="author" content="shiruken">
+        <meta property="og:url" content="https://shiruken.github.io/rt-archive/">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Rooster Teeth Website Archival Progress">
+        <meta property="og:description" content="Track the progress of the Rooster Teeth website archival effort">
+        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="shiruken.github.io">
+        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/">
+        <meta name="twitter:title" content="Rooster Teeth Website Archival Progress">
+        <meta name="twitter:description" content="Track the progress of the Rooster Teeth website archival effort">
+        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
         <link rel="stylesheet" type="text/css" href="w3.css"/>
         <style>
             #showTable th:first-child {{
@@ -273,7 +288,7 @@ def generate_show_page(df, show_slug):
     def make_links(x):
         s = f'<a href="{x["rt_url"]}" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red">RT</a>'
         archive_url = f"https://archive.org/details/roosterteeth-{x['rt_id']}"
-        if x['is_uploaded']:    
+        if x['is_uploaded']:
             s += f'· <a href="{archive_url}" target="_blank" title="View on Internet Archive" class="w3-hover-text-red">Archive</a>'
         if x['is_removed']:
             s += f'· <a href="{archive_url}" target="_blank" title="View on Internet Archive" class="w3-hover-text-red"><s>Archive</s></a>'
@@ -302,6 +317,20 @@ def generate_show_page(df, show_slug):
     <head>
         <meta charset="UTF-8">
         <title>{show_title} | Rooster Teeth Website Archival Progress</title>
+        <link rel="icon" type="image/png" sizes="256x256" href="favicon.png">
+        <meta name="description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
+        <meta name="keywords" content="{show_title}, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+        <meta name="author" content="shiruken">
+        <meta property="og:url" content="https://shiruken.github.io/rt-archive/{show_slug}/">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="{show_title} | Rooster Teeth Website Archival Progress">
+        <meta property="og:description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
+        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/{show_slug}/">
+        <meta name="twitter:title" content="{show_title} | Rooster Teeth Website Archival Progress">
+        <meta name="twitter:description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
+        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
         <link rel="stylesheet" type="text/css" href="../w3.css"/>
         <style>
             header a {{
