@@ -323,7 +323,7 @@ def generate_show_page(df, show_slug):
     <head>
         <meta charset="UTF-8">
         <title>{show_title} | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="favicon.png">
+        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
         <meta name="description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
         <meta name="keywords" content="{show_title}, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
         <meta name="author" content="shiruken">
