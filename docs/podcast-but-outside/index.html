@@ -1,551 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Podcast But Outside | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Podcast But Outside' from the Rooster Teeth website">
-        <meta name="keywords" content="Podcast But Outside, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/podcast-but-outside/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Podcast But Outside | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Podcast But Outside' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/podcast-but-outside/">
-        <meta name="twitter:title" content="Podcast But Outside | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Podcast But Outside' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Podcast But Outside<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>47</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>47</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Podcast But Outside | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Podcast But Outside' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/podcast-but-outside/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Podcast But Outside | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Podcast But Outside' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/podcast-but-outside/">
+    <meta name="twitter:title" content="Podcast But Outside | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Podcast But Outside' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Podcast But In Times Square!</td>
-      <td>2022-03-09</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-in-times-square" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-in-times-square">RT</a>· <a href="https://archive.org/details/roosterteeth-47482" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47482">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But On Wall Street! (the money place)</td>
-      <td>2022-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-on-wall-street-the-money-place" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-on-wall-street-the-money-place">RT</a>· <a href="https://archive.org/details/roosterteeth-47378" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47378">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But OUTSIDE The Apple Store (While INSIDE The Big Apple!) w/ Cole Escola</td>
-      <td>2022-02-23</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-outside-the-apple-store-while-inside-the-big-apple-w-cole-escola" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-outside-the-apple-store-while-inside-the-big-apple-w-cole-escola">RT</a>· <a href="https://archive.org/details/roosterteeth-47010" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47010">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At The FANCIEST WEDDING EVER.</td>
-      <td>2022-02-16</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-at-the-fanciest-wedding-ever" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-at-the-fanciest-wedding-ever">RT</a>· <a href="https://archive.org/details/roosterteeth-46810" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46810">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But On Venice Beach w/ Trevor Wallace</td>
-      <td>2022-02-11</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-on-venice-beach-w-trevor-wallace" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-on-venice-beach-w-trevor-wallace">RT</a>· <a href="https://archive.org/details/roosterteeth-46760" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46760">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At The Most Pretentious College</td>
-      <td>2022-02-11</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-at-the-most-pretentious-college" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2022-podcast-but-at-the-most-pretentious-college">RT</a>· <a href="https://archive.org/details/roosterteeth-46759" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46759">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Very Olive Garden Christmas w/ ADAM SCOTT!</td>
-      <td>2021-12-22</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-a-very-olive-garden-christmas-w-adam-scott" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-a-very-olive-garden-christmas-w-adam-scott">RT</a>· <a href="https://archive.org/details/roosterteeth-46373" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46373">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside The White House w/ Lyle The Therapy Gecko!</td>
-      <td>2021-12-15</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-the-white-house-w-lyle-the-therapy-gecko" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-the-white-house-w-lyle-the-therapy-gecko">RT</a>· <a href="https://archive.org/details/roosterteeth-46271" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46271">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At The Lincoln Memorial</td>
-      <td>2021-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-the-lincoln-memorial" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-the-lincoln-memorial">RT</a>· <a href="https://archive.org/details/roosterteeth-46174" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46174">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Music Festival (PURE CHAOS)</td>
-      <td>2021-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-music-festival-pure-chaos" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-music-festival-pure-chaos">RT</a>· <a href="https://archive.org/details/roosterteeth-46110" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46110">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At The Bean (w/ Karsten Runquist )</td>
-      <td>2021-11-24</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-new-episode" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-new-episode">RT</a>· <a href="https://archive.org/details/roosterteeth-46055" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46055">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But In Seattle! (Pike Place Market)</td>
-      <td>2021-11-17</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-seattle-pike-place-market" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-seattle-pike-place-market">RT</a>· <a href="https://archive.org/details/roosterteeth-45959" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45959">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast but at RTX at Home</td>
-      <td>2021-07-18</td>
-      <td><a href="https://roosterteeth.com/watch/rtx-2021-podcast-but-rtx" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/rtx-2021-podcast-but-rtx">RT</a>· <a href="https://archive.org/details/roosterteeth-44503" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44503">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Some Food Trucks!</td>
-      <td>2021-06-30</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-some-food-trucks" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-some-food-trucks">RT</a>· <a href="https://archive.org/details/roosterteeth-44300" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44300">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Target!</td>
-      <td>2021-06-16</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-target" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-target">RT</a>· <a href="https://archive.org/details/roosterteeth-44144" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44144">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside A Sex Shop</td>
-      <td>2021-06-09</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-sex-shop" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-sex-shop">RT</a>· <a href="https://archive.org/details/roosterteeth-43992" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43992">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside a Public Restroom!</td>
-      <td>2021-06-02</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-public-restroom" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-public-restroom">RT</a>· <a href="https://archive.org/details/roosterteeth-43937" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43937">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside a Garage Sale! (ft/ LoveLeo)</td>
-      <td>2021-05-28</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-yard-sale" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-yard-sale">RT</a>· <a href="https://archive.org/details/roosterteeth-43856" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43856">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Hollywood (blvd)!</td>
-      <td>2021-05-19</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-hollywood" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-hollywood">RT</a>· <a href="https://archive.org/details/roosterteeth-43763" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43763">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside McDonald's (the food place)</td>
-      <td>2021-05-13</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-mcdonald-s-the-food-place" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-mcdonald-s-the-food-place">RT</a>· <a href="https://archive.org/details/roosterteeth-43699" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43699">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside A Marijuana Dispensary (Cool)</td>
-      <td>2021-05-05</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-marijuana-dispensary-cool" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-marijuana-dispensary-cool">RT</a>· <a href="https://archive.org/details/roosterteeth-43601" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43601">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside The Pink Wall!</td>
-      <td>2021-04-28</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-the-pink-wall" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-the-pink-wall">RT</a>· <a href="https://archive.org/details/roosterteeth-43501" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43501">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside: OUR VERY SPECIAL 100th EPISODE W/ Jon Hamm!!!</td>
-      <td>2021-04-21</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside">RT</a>· <a href="https://archive.org/details/roosterteeth-43402" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43402">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside a BANK!</td>
-      <td>2021-04-14</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-bank" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-a-bank">RT</a>· <a href="https://archive.org/details/roosterteeth-43315" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43315">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside California Lutheran University!</td>
-      <td>2021-04-07</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-california-lutheran-university" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-california-lutheran-university">RT</a>· <a href="https://archive.org/details/roosterteeth-43214" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43214">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But In A Horse Town</td>
-      <td>2021-03-31</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-a-horse-town" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-a-horse-town">RT</a>· <a href="https://archive.org/details/roosterteeth-43093" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43093">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Goodwill</td>
-      <td>2021-03-24</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-goodwill" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-goodwill">RT</a>· <a href="https://archive.org/details/roosterteeth-42950" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42950">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Subway</td>
-      <td>2021-03-17</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-subway" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-subway">RT</a>· <a href="https://archive.org/details/roosterteeth-42870" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42870">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But In A Vaccine Line ("Vaccine Chasers")</td>
-      <td>2021-03-10</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-a-vaccine-line-vaccine-chasers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-a-vaccine-line-vaccine-chasers">RT</a>· <a href="https://archive.org/details/roosterteeth-42780" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42780">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast but Outside a Beach Rave</td>
-      <td>2021-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021">RT</a>· <a href="https://archive.org/details/roosterteeth-42658" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42658">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Gone Wild (wings)!</td>
-      <td>2021-02-24</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-gone-wild-wings" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-gone-wild-wings">RT</a>· <a href="https://archive.org/details/roosterteeth-42580" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42580">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Flea Market</td>
-      <td>2021-02-17</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-flea-market" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-flea-market">RT</a>· <a href="https://archive.org/details/roosterteeth-42508" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42508">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside GameStop</td>
-      <td>2021-02-10</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-gamestop" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-gamestop">RT</a>· <a href="https://archive.org/details/roosterteeth-42421" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42421">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But In-N-Outside!</td>
-      <td>2021-02-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-n-outside" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-in-n-outside">RT</a>· <a href="https://archive.org/details/roosterteeth-42322" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42322">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Free Speech Rally</td>
-      <td>2021-01-27</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-free-speech-rally" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-free-speech-rally">RT</a>· <a href="https://archive.org/details/roosterteeth-42233" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42233">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Trader Joe's</td>
-      <td>2021-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-trader-joe-s" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-outside-trader-joe-s">RT</a>· <a href="https://archive.org/details/roosterteeth-42157" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42157">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Gym</td>
-      <td>2021-01-13</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-gym" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-gym">RT</a>· <a href="https://archive.org/details/roosterteeth-42076" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42076">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Dog Park</td>
-      <td>2021-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-dog-park" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2021-podcast-but-at-a-dog-park">RT</a>· <a href="https://archive.org/details/roosterteeth-42005" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42005">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Skatepark</td>
-      <td>2020-12-16</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2020-podcast-but-at-a-skatepark" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2020-podcast-but-at-a-skatepark">RT</a>· <a href="https://archive.org/details/roosterteeth-41773" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41773">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside GAP</td>
-      <td>2020-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-1-podcast-but-outside-gap" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-1-podcast-but-outside-gap">RT</a>· <a href="https://archive.org/details/roosterteeth-41661" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41661">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Olive Garden</td>
-      <td>2020-12-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2020-olive-garden" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2020-olive-garden">RT</a>· <a href="https://archive.org/details/roosterteeth-41574" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41574">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Skechers (ft. CaptainSparklez!)</td>
-      <td>2020-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2020-sketchers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2020-sketchers">RT</a>· <a href="https://archive.org/details/roosterteeth-41575" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41575">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But At A Trump Rally</td>
-      <td>2020-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/some-real-characters-in-this-one" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/some-real-characters-in-this-one">RT</a>· <a href="https://archive.org/details/roosterteeth-41578" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41578">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>"Black Market" Haul with Chris Fleming</td>
-      <td>2020-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2019-black-market-chris-fleming" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2019-black-market-chris-fleming">RT</a>· <a href="https://archive.org/details/roosterteeth-41577" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41577">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Invited Tinder Dates To Meet Us On The Podcast For The First Time</td>
-      <td>2020-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2019-tinder-dates" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2019-tinder-dates">RT</a>· <a href="https://archive.org/details/roosterteeth-41576" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41576">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Blind Date with a Porn Star</td>
-      <td>2020-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2019-blind-date-with-a-porn-star" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2019-blind-date-with-a-porn-star">RT</a>· <a href="https://archive.org/details/roosterteeth-41568" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41568">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcast But Outside Da Club (Simply Chaotic)</td>
-      <td>2020-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/podcast-but-outside-2019-podcast-but-at-da-club-simply-chaotic" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/podcast-but-outside-2019-podcast-but-at-da-club-simply-chaotic">RT</a>· <a href="https://archive.org/details/roosterteeth-41569" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41569">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Podcast+But+Outside%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Podcast+But+Outside%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Podcast But Outside<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Podcast+But+Outside%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Podcast+But+Outside%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

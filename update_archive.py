@@ -4,6 +4,7 @@ import re
 import csv
 import pandas as pd
 import json
+from string import Template
 
 
 def identify_missing_incomplete():
@@ -129,7 +130,11 @@ def generate_website():
     df = pd.read_csv("data/checklist.csv")
     df_show_slugs = pd.read_csv("data/shows.csv", index_col="title")
 
-    def process_shows(df, df_show_slugs):
+    with open("docs/_template.html", "r") as fp:
+        html = fp.read()
+    html_template = MyTemplate(html)
+
+    def process_shows(df):
         slug = df_show_slugs.loc[df.name].values[0]
         summary = generate_summary(df)
         show = pd.concat([pd.Series(slug, index=["slug"]), summary])
@@ -140,6 +145,7 @@ def generate_website():
         summary = generate_summary(df)
         df['rt_url'] = df['rt_url'].str.replace(r'https://roosterteeth.com/watch/', "")
         df.rename(columns={'rt_id': 'id', 'rt_url': 'slug'}, inplace=True)
+
         output = {
             "show": df.name,
             "slug": show_slug,
@@ -148,6 +154,19 @@ def generate_website():
         }
         with open(f"docs/{show_slug}/data.json", "w") as fp:
             json.dump(output, fp)
+
+        query = {
+            'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{df.name}"',
+            'sort': '-date'
+        }
+        show_search_url = f"https://archive.org/search?{urlencode(query)}"
+        html_new = html_template.substitute({
+            "show": df.name,
+            "show_slug": show_slug,
+            "show_search_url": show_search_url,
+        })
+        with open(f"docs/{show_slug}/index.html", "w") as fp:
+            fp.write(html_new)
 
     def generate_summary(df):
         output = {}
@@ -158,7 +177,7 @@ def generate_website():
         output['removed'] = df['is_removed'].sum()
         return pd.Series(output)
 
-    df_shows = df.groupby("show").apply(process_shows, df_show_slugs=df_show_slugs, include_groups=False)
+    df_shows = df.groupby("show").apply(process_shows, include_groups=False)
     df_shows.sort_index(key=lambda x: x.str.lower(), inplace=True)
     summary = generate_summary(df)
 
@@ -166,9 +185,12 @@ def generate_website():
         "summary": summary.to_dict(),
         "data": df_shows.reset_index().to_dict(orient="records"),
     }
-
     with open("docs/data.json", "w") as fp:
         json.dump(output, fp)
+
+
+class MyTemplate(Template):
+    delimiter = '$$'
 
 
 if __name__ == "__main__":

@@ -1,632 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Sportsball | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Sportsball' from the Rooster Teeth website">
-        <meta name="keywords" content="Sportsball, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/sportsball/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Sportsball | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Sportsball' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/sportsball/">
-        <meta name="twitter:title" content="Sportsball | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Sportsball' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Sportsball<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>56</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>56</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sportsball | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Sportsball' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/sportsball/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Sportsball | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Sportsball' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/sportsball/">
+    <meta name="twitter:title" content="Sportsball | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Sportsball' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Guys Hang Out with Seattle Mariners Pitcher Wade Leblanc</td>
-      <td>2018-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-the-guys-hang-out-with-seattle-mariners-pitcher-wade-leblanc" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-the-guys-hang-out-with-seattle-mariners-pitcher-wade-leblanc">RT</a>· <a href="https://archive.org/details/roosterteeth-1310-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1310-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Let's Play - Gus Sorola goes EXTREME!</td>
-      <td>2018-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-sportsball-let-s-play-gus-sorola-goes-extreme" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-sportsball-let-s-play-gus-sorola-goes-extreme">RT</a>· <a href="https://archive.org/details/roosterteeth-1360-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1360-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>WWE Still Going to Saudi Arabia - #15</td>
-      <td>2018-10-30</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-wwe-still-going-to-saudi-arabia-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-wwe-still-going-to-saudi-arabia-15">RT</a>· <a href="https://archive.org/details/roosterteeth-29181" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29181">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Let's Play - NBA Jam - Basketball Talk feat. Geoff Ramsey</td>
-      <td>2018-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-sportsball-let-s-play-nba-jam-basketball-talk-feat-geoff-ramsey" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-sportsball-let-s-play-nba-jam-basketball-talk-feat-geoff-ramsey">RT</a>· <a href="https://archive.org/details/roosterteeth-1359-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1359-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Interview with Writer/Director Ike Barinholtz! (Extended Cut)</td>
-      <td>2018-10-25</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-sportsball-interview-with-writer-director-ike-barinholtz-extended-cut" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-sportsball-interview-with-writer-director-ike-barinholtz-extended-cut">RT</a>· <a href="https://archive.org/details/roosterteeth-1307-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1307-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fans and Frothy Debates - #14</td>
-      <td>2018-10-23</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-fans-and-frothy-debates-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-fans-and-frothy-debates-14">RT</a>· <a href="https://archive.org/details/roosterteeth-29081" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29081">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Let's Play - Joel and Tyler in the Worst Madden Game of All Time</td>
-      <td>2018-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-sportsball-let-s-play-joel-and-tyler-in-the-worst-madden-game-of-all-time" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-sportsball-let-s-play-joel-and-tyler-in-the-worst-madden-game-of-all-time">RT</a>· <a href="https://archive.org/details/roosterteeth-1306-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1306-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Should Student Athletes Get Paid? - #13</td>
-      <td>2018-10-16</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-should-student-athletes-get-paid-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-should-student-athletes-get-paid-13">RT</a>· <a href="https://archive.org/details/roosterteeth-28993" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28993">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Compilation: Our Favorite Intros of All Time</td>
-      <td>2018-10-09</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-compilation-our-favorite-intros-of-all-time-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-compilation-our-favorite-intros-of-all-time-13">RT</a>· <a href="https://archive.org/details/roosterteeth-1358-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1358-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Road to the Playoffs - #12</td>
-      <td>2018-10-02</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-road-to-the-playoffs-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-road-to-the-playoffs-12">RT</a>· <a href="https://archive.org/details/roosterteeth-28819" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28819">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Return of Jack Pattillo - #11</td>
-      <td>2018-09-25</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-the-return-of-jack-pattillo-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-the-return-of-jack-pattillo-11">RT</a>· <a href="https://archive.org/details/roosterteeth-28736" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28736">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mia Flies the Coop - #10</td>
-      <td>2018-09-18</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-10">RT</a>· <a href="https://archive.org/details/roosterteeth-28658" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28658">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>What Happened with Serena Williams? - #9</td>
-      <td>2018-09-11</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-what-happened-with-serena-williams-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-what-happened-with-serena-williams-9">RT</a>· <a href="https://archive.org/details/roosterteeth-28568" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28568">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>F U Tyler #3</td>
-      <td>2018-09-07</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-f-u-tyler-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-f-u-tyler-3">RT</a>· <a href="https://archive.org/details/roosterteeth-1274-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1274-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nike Takes A Knee? - #8</td>
-      <td>2018-09-05</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-nike-takes-a-knee" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-nike-takes-a-knee">RT</a>· <a href="https://archive.org/details/roosterteeth-28494" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28494">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>F U Tyler #2</td>
-      <td>2018-08-30</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-f-u-tyler-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-f-u-tyler-2">RT</a>· <a href="https://archive.org/details/roosterteeth-1272-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1272-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Help the Victims of the Jacksonville Landing Shooting</td>
-      <td>2018-08-28</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-help-the-victims-of-the-jacksonville-landing-shooting" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-help-the-victims-of-the-jacksonville-landing-shooting">RT</a>· <a href="https://archive.org/details/roosterteeth-1271-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1271-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>College Football Is Back! - #7</td>
-      <td>2018-08-28</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-college-football-is-back" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-college-football-is-back">RT</a>· <a href="https://archive.org/details/roosterteeth-28401" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28401">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>FU Tyler #1</td>
-      <td>2018-08-23</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-fu-tyler-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-fu-tyler-1">RT</a>· <a href="https://archive.org/details/roosterteeth-1269-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1269-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Is The NFL In Trouble? - #6</td>
-      <td>2018-08-21</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-is-the-nfl-in-trouble-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-is-the-nfl-in-trouble-6">RT</a>· <a href="https://archive.org/details/roosterteeth-28318" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28318">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Maryland Football Team Scandal - #5</td>
-      <td>2018-08-14</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-the-maryland-football-team-scandal-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-the-maryland-football-team-scandal-5">RT</a>· <a href="https://archive.org/details/roosterteeth-28234" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28234">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ohio State Scandal - #4</td>
-      <td>2018-08-07</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-4">RT</a>· <a href="https://archive.org/details/roosterteeth-28144" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28144">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Baker Mayfield's Bus - #3</td>
-      <td>2018-07-31</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-3">RT</a>· <a href="https://archive.org/details/roosterteeth-28060" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28060">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Kawhi, Tiger, and Buckeyes, Oh My - #2</td>
-      <td>2018-07-24</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-kawhi-tiger-and-buckeyes-oh-my" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-kawhi-tiger-and-buckeyes-oh-my">RT</a>· <a href="https://archive.org/details/roosterteeth-27968" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27968">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mia and Tyler's European Vacation - #1</td>
-      <td>2018-07-17</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2018-mia-and-tyler-s-european-vacation-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2018-mia-and-tyler-s-european-vacation-1">RT</a>· <a href="https://archive.org/details/roosterteeth-27890" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27890">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Trailer - Coming July 16</td>
-      <td>2018-07-05</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-sportsball-trailer-coming-july-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-sportsball-trailer-coming-july-16">RT</a>· <a href="https://archive.org/details/roosterteeth-216-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-216-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Finale – #26</td>
-      <td>2016-02-17</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-26">RT</a>· <a href="https://archive.org/details/roosterteeth-7639" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7639">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sportsball Discusses the Baylor Scandal - #25</td>
-      <td>2016-02-10</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-25">RT</a>· <a href="https://archive.org/details/roosterteeth-7640" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7640">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>PSA: Kickers Are People Too - SB EXTRA</td>
-      <td>2016-02-04</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-commercial" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-commercial">RT</a>· <a href="https://archive.org/details/roosterteeth-7641" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7641">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nommy Graminated Party - #24</td>
-      <td>2016-02-03</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-24" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-24">RT</a>· <a href="https://archive.org/details/roosterteeth-7643" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7643">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sports in 60 Seconds: Carolina v Arizona - SB EXTRA</td>
-      <td>2016-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-sports-in-60-seconds-carolina-v-arizona-sb-extra" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-sports-in-60-seconds-carolina-v-arizona-sb-extra">RT</a>· <a href="https://archive.org/details/roosterteeth-7642" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7642">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>NFL Playoffs: A Toy Story - #23</td>
-      <td>2016-01-27</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-23" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-23">RT</a>· <a href="https://archive.org/details/roosterteeth-7644" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7644">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chicken Predicts NFL Playoff Losers #2</td>
-      <td>2016-01-22</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-chicken-predicts-nfl-playoff-losers-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-chicken-predicts-nfl-playoff-losers-2">RT</a>· <a href="https://archive.org/details/roosterteeth-7645" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7645">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Barbara’s Crappy Predictions - #22</td>
-      <td>2016-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-22">RT</a>· <a href="https://archive.org/details/roosterteeth-7647" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7647">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chicken Predicts NFL Playoff Losers</td>
-      <td>2016-01-16</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-chicken-predicts-nfl-playoff-losers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-chicken-predicts-nfl-playoff-losers">RT</a>· <a href="https://archive.org/details/roosterteeth-7646" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7646">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Did Steelers Get Lucky? - #21</td>
-      <td>2016-01-13</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-21">RT</a>· <a href="https://archive.org/details/roosterteeth-7648" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7648">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Coe Eats Crow - #20</td>
-      <td>2016-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-2016-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-2016-20">RT</a>· <a href="https://archive.org/details/roosterteeth-7649" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7649">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2015 Sportsball Awards - #19</td>
-      <td>2015-12-30</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-19">RT</a>· <a href="https://archive.org/details/roosterteeth-7650" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7650">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Soccer Imports and Odell Beckham Jr Not So Special - #18</td>
-      <td>2015-12-23</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-sportsball-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-sportsball-18">RT</a>· <a href="https://archive.org/details/roosterteeth-7651" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7651">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Is a Horse a Person? - #17</td>
-      <td>2015-12-16</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-17">RT</a>· <a href="https://archive.org/details/roosterteeth-7652" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7652">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hump Day in Buffalo - #16</td>
-      <td>2015-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-16">RT</a>· <a href="https://archive.org/details/roosterteeth-7653" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7653">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Goodbye Kobe - #15</td>
-      <td>2015-12-02</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-15">RT</a>· <a href="https://archive.org/details/roosterteeth-7654" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7654">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Return of the Joel - #14</td>
-      <td>2015-11-25</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-14">RT</a>· <a href="https://archive.org/details/roosterteeth-7655" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7655">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who Deserves The Madden Curse? - #13</td>
-      <td>2015-11-18</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-13">RT</a>· <a href="https://archive.org/details/roosterteeth-7657" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7657">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Missouri Campus Protest - #12</td>
-      <td>2015-11-11</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-missouri-campus-protest-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-missouri-campus-protest-12">RT</a>· <a href="https://archive.org/details/roosterteeth-7656" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7656">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who Farted On Bob Costas' Pillow? - #11</td>
-      <td>2015-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-11">RT</a>· <a href="https://archive.org/details/roosterteeth-7658" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7658">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Kickin' is Easy - #10</td>
-      <td>2015-10-28</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-10">RT</a>· <a href="https://archive.org/details/roosterteeth-7659" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7659">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Big Mistake in the Big House - #09</td>
-      <td>2015-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-09" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-09">RT</a>· <a href="https://archive.org/details/roosterteeth-7660" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7660">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Craziest Sports Day Ever?.of All Time - #08</td>
-      <td>2015-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-the-craziest-sports-day-ever-of-all-time-08" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-the-craziest-sports-day-ever-of-all-time-08">RT</a>· <a href="https://archive.org/details/roosterteeth-7661" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7661">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hibbert, Are You Listening? - #07</td>
-      <td>2015-10-07</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-hibbert-are-you-listening-sportsball-07" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-hibbert-are-you-listening-sportsball-07">RT</a>· <a href="https://archive.org/details/roosterteeth-7662" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7662">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Most Outrageous Sports Fan? - #06</td>
-      <td>2015-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-sportsball-06" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-sportsball-06">RT</a>· <a href="https://archive.org/details/roosterteeth-7663" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7663">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sad Bama Fans & Missed Kicks - #05</td>
-      <td>2015-09-23</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-sportsball-05" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-sportsball-05">RT</a>· <a href="https://archive.org/details/roosterteeth-7664" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7664">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ireland. NFL. Rugby. Funhaus. Drunk. - #04</td>
-      <td>2015-09-16</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-sportsball-04" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-sportsball-04">RT</a>· <a href="https://archive.org/details/roosterteeth-7665" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7665">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Giant Birds from Outer Space? - #03</td>
-      <td>2015-09-09</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-sportsball-03" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-sportsball-03">RT</a>· <a href="https://archive.org/details/roosterteeth-7666" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7666">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dangerous Segways - #02</td>
-      <td>2015-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-2">RT</a>· <a href="https://archive.org/details/roosterteeth-7667" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7667">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Worst Sports Fans  - #01</td>
-      <td>2015-08-26</td>
-      <td><a href="https://roosterteeth.com/watch/sportsball-season-1-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sportsball-season-1-1">RT</a>· <a href="https://archive.org/details/roosterteeth-7668" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7668">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Sportsball%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Sportsball%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Sportsball<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Sportsball%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Sportsball%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

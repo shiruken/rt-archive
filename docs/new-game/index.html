@@ -1,776 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Glitch Please: New Game + | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Glitch Please: New Game +' from the Rooster Teeth website">
-        <meta name="keywords" content="Glitch Please: New Game +, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/new-game/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Glitch Please: New Game + | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Glitch Please: New Game +' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/new-game/">
-        <meta name="twitter:title" content="Glitch Please: New Game + | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Glitch Please: New Game +' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Glitch Please: New Game +<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>72</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>72</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Glitch Please: New Game + | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Glitch Please: New Game +' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/new-game/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Glitch Please: New Game + | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Glitch Please: New Game +' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/new-game/">
+    <meta name="twitter:title" content="Glitch Please: New Game + | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Glitch Please: New Game +' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Final Level</td>
-      <td>2019-02-01</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-the-final-level" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-the-final-level">RT</a>· <a href="https://archive.org/details/roosterteeth-30373" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30373">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Oscar Season For Video Games</td>
-      <td>2019-01-25</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-oscar-season-for-video-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-oscar-season-for-video-games">RT</a>· <a href="https://archive.org/details/roosterteeth-30297" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30297">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Good Video Game Movie?</td>
-      <td>2019-01-18</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-a-good-video-game-movie" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-a-good-video-game-movie">RT</a>· <a href="https://archive.org/details/roosterteeth-30236" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30236">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2019: The Year Bethesda Fails?</td>
-      <td>2019-01-11</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-2019-the-year-bethesda-fails" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-2019-the-year-bethesda-fails">RT</a>· <a href="https://archive.org/details/roosterteeth-30169" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30169">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Runescape Is Back Baby!</td>
-      <td>2019-01-04</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-runescape-is-back-baby" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-runescape-is-back-baby">RT</a>· <a href="https://archive.org/details/roosterteeth-30100" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30100">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Look To 2019</td>
-      <td>2018-12-28</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-a-look-to-2019" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-a-look-to-2019">RT</a>· <a href="https://archive.org/details/roosterteeth-30055" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30055">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>All I want for Christmas is an N64</td>
-      <td>2018-12-21</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-all-i-want-for-christmas-is-an-n64" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-all-i-want-for-christmas-is-an-n64">RT</a>· <a href="https://archive.org/details/roosterteeth-29999" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29999">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Christmas Events To Remember</td>
-      <td>2018-12-14</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-christmas-events-to-remember" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-christmas-events-to-remember">RT</a>· <a href="https://archive.org/details/roosterteeth-29850" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29850">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lootbox Refunds?</td>
-      <td>2018-12-07</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-lootbox-refunds" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-lootbox-refunds">RT</a>· <a href="https://archive.org/details/roosterteeth-29747" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29747">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Kingdom Hearts On Netflix?</td>
-      <td>2018-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-kingdom-hearts-on-netflix" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-kingdom-hearts-on-netflix">RT</a>· <a href="https://archive.org/details/roosterteeth-29636" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29636">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Thanksgaming</td>
-      <td>2018-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-thanksgaming" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-thanksgaming">RT</a>· <a href="https://archive.org/details/roosterteeth-29503" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29503">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mr. Mime's Diddle Fingers</td>
-      <td>2018-11-16</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-mr-mime-s-diddle-fingers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-mr-mime-s-diddle-fingers">RT</a>· <a href="https://archive.org/details/roosterteeth-29423" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29423">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sonic's Speed Metal Band</td>
-      <td>2018-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-sonic-s-speed-metal-band" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-sonic-s-speed-metal-band">RT</a>· <a href="https://archive.org/details/roosterteeth-29323" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29323">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Oh The Horror... Games</td>
-      <td>2018-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-oh-the-horror-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-oh-the-horror-games">RT</a>· <a href="https://archive.org/details/roosterteeth-29236" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29236">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Smash Bros. Prayers Are Ansewered</td>
-      <td>2018-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-smash-bros-prayers-are-ansewered" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-smash-bros-prayers-are-ansewered">RT</a>· <a href="https://archive.org/details/roosterteeth-29163" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29163">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hunting Sean Bean</td>
-      <td>2018-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-hunting-sean-bean" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-hunting-sean-bean">RT</a>· <a href="https://archive.org/details/roosterteeth-29030" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29030">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Preorder Your Cereal?!</td>
-      <td>2018-10-13</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-preorder-your-cereal" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-preorder-your-cereal">RT</a>· <a href="https://archive.org/details/roosterteeth-28948" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28948">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Rogue On The Streets, Bard In The Sheets</td>
-      <td>2018-10-06</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-gryffindor-ravenclaw-slitherland-and-slowlee" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-gryffindor-ravenclaw-slitherland-and-slowlee">RT</a>· <a href="https://archive.org/details/roosterteeth-28873" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28873">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Squished By Thwompette</td>
-      <td>2018-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-squished-by-thwompette" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-squished-by-thwompette">RT</a>· <a href="https://archive.org/details/roosterteeth-28781" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28781">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Make Games Real</td>
-      <td>2018-09-22</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-make-games-real" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-make-games-real">RT</a>· <a href="https://archive.org/details/roosterteeth-28704" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28704">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Devil In The Details</td>
-      <td>2018-09-15</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-devil-in-the-details" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-devil-in-the-details">RT</a>· <a href="https://archive.org/details/roosterteeth-28602" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28602">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Captain Marvel Joins The Fight</td>
-      <td>2018-09-08</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-captain-marvel-joins-the-fight" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-captain-marvel-joins-the-fight">RT</a>· <a href="https://archive.org/details/roosterteeth-28526" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28526">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Your Grandma's Pokemon GO</td>
-      <td>2018-09-01</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-your-grandma-s-pokemon-go" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-your-grandma-s-pokemon-go">RT</a>· <a href="https://archive.org/details/roosterteeth-28452" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28452">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tidus In Memorium</td>
-      <td>2018-08-25</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-tidus-in-memorium" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-tidus-in-memorium">RT</a>· <a href="https://archive.org/details/roosterteeth-28365" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28365">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Put Some Games To Bed</td>
-      <td>2018-08-18</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-put-some-games-to-bed" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-put-some-games-to-bed">RT</a>· <a href="https://archive.org/details/roosterteeth-28293" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28293">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tekken Centipede</td>
-      <td>2018-08-11</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-tekken-centipede" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-tekken-centipede">RT</a>· <a href="https://archive.org/details/roosterteeth-28197" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28197">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who's Your Digital Waifu?</td>
-      <td>2018-08-04</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-who-s-your-digital-waifu" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-who-s-your-digital-waifu">RT</a>· <a href="https://archive.org/details/roosterteeth-28127" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28127">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Horrifying Game Mash-ups</td>
-      <td>2018-08-01</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-horrifying-game-mash-ups" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-horrifying-game-mash-ups">RT</a>· <a href="https://archive.org/details/roosterteeth-28096" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28096">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Goofy In All The Games</td>
-      <td>2018-07-21</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-goofy-in-all-the-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-goofy-in-all-the-games">RT</a>· <a href="https://archive.org/details/roosterteeth-27942" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27942">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We're Fashionable Zombies</td>
-      <td>2018-07-14</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-we-re-fashionable-zombies" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-we-re-fashionable-zombies">RT</a>· <a href="https://archive.org/details/roosterteeth-27860" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27860">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Funko Pops Are Bad, Actually</td>
-      <td>2018-07-07</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-funko-pops-are-bad-actually" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-funko-pops-are-bad-actually">RT</a>· <a href="https://archive.org/details/roosterteeth-27711" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27711">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Become One With The Tofu - #57</td>
-      <td>2018-06-30</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-become-one-with-the-tofu-57" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-become-one-with-the-tofu-57">RT</a>· <a href="https://archive.org/details/roosterteeth-27628" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27628">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Game Marketing Is Weird - #56</td>
-      <td>2018-06-23</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-game-marketing-is-weird-56" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-game-marketing-is-weird-56">RT</a>· <a href="https://archive.org/details/roosterteeth-27536" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27536">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Best New Game Plus - #54</td>
-      <td>2018-06-09</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-gp-new-game-plus-54" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-gp-new-game-plus-54">RT</a>· <a href="https://archive.org/details/roosterteeth-27221" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27221">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Ultimate Cosplay - #53</td>
-      <td>2018-06-02</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-the-ultimate-cosplay-53" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-the-ultimate-cosplay-53">RT</a>· <a href="https://archive.org/details/roosterteeth-27107" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27107">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Give Up! - #52</td>
-      <td>2018-05-26</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-we-give-up-52" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-we-give-up-52">RT</a>· <a href="https://archive.org/details/roosterteeth-27020" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27020">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Black Ops 4 Watch Party! - #51</td>
-      <td>2018-05-19</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-black-ops-4-watch-party-51" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-black-ops-4-watch-party-51">RT</a>· <a href="https://archive.org/details/roosterteeth-26955" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26955">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>E3 Wishes and Dreams - #50</td>
-      <td>2018-05-12</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-e3-wishes-and-dreams-50" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-e3-wishes-and-dreams-50">RT</a>· <a href="https://archive.org/details/roosterteeth-26866" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26866">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Best Worst Games - #49</td>
-      <td>2018-05-05</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-the-best-worst-games-49" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-the-best-worst-games-49">RT</a>· <a href="https://archive.org/details/roosterteeth-26764" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26764">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Finally Time To Fish - #48</td>
-      <td>2018-04-28</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-finally-time-to-fish-48" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-finally-time-to-fish-48">RT</a>· <a href="https://archive.org/details/roosterteeth-26688" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26688">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Got Skills - #47</td>
-      <td>2018-04-21</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-we-got-skills-47" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-we-got-skills-47">RT</a>· <a href="https://archive.org/details/roosterteeth-26590" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26590">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Conker Deserves Better - #46</td>
-      <td>2018-04-14</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-conker-deserves-better-46" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-conker-deserves-better-46">RT</a>· <a href="https://archive.org/details/roosterteeth-26469" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26469">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Vertical Horses Couldn't Drag Me Away - #45</td>
-      <td>2018-04-07</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-vertical-horses-couldn-t-drag-me-away-45" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-vertical-horses-couldn-t-drag-me-away-45">RT</a>· <a href="https://archive.org/details/roosterteeth-26387" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26387">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Best Game Pets - #44</td>
-      <td>2018-03-31</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-best-game-pets-44" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-best-game-pets-44">RT</a>· <a href="https://archive.org/details/roosterteeth-26299" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26299">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cronch The Banana - #43</td>
-      <td>2018-03-24</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-cronch-the-banana-43" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-cronch-the-banana-43">RT</a>· <a href="https://archive.org/details/roosterteeth-26101" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26101">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stop Before You Say Goodbye - #42</td>
-      <td>2018-03-17</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-stop-before-you-say-goodbye-42" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-stop-before-you-say-goodbye-42">RT</a>· <a href="https://archive.org/details/roosterteeth-25996" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-25996">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Make a Labo</td>
-      <td>2018-03-10</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-make-a-labo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-make-a-labo">RT</a>· <a href="https://archive.org/details/roosterteeth-24775" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-24775">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Get Portable - #40</td>
-      <td>2018-03-03</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-get-portable-40" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-let-s-get-portable-40">RT</a>· <a href="https://archive.org/details/roosterteeth-24588" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-24588">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>I Love This Game But Stay Away - #39</td>
-      <td>2018-02-24</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-new-game-39" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-new-game-39">RT</a>· <a href="https://archive.org/details/roosterteeth-24494" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-24494">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Endings That Ended Us - #38</td>
-      <td>2018-02-17</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-endings-that-ended-us-38" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-endings-that-ended-us-38">RT</a>· <a href="https://archive.org/details/roosterteeth-24399" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-24399">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Not So Trendy - #37</td>
-      <td>2018-02-10</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-not-so-trendy" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-not-so-trendy">RT</a>· <a href="https://archive.org/details/roosterteeth-24043" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-24043">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>It's Cool To Be Cruel - #36</td>
-      <td>2018-02-03</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-it-s-cool-to-be-cruel-36" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-it-s-cool-to-be-cruel-36">RT</a>· <a href="https://archive.org/details/roosterteeth-23955" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23955">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New game+ #35</td>
-      <td>2018-01-27</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-new-game-35" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-new-game-35">RT</a>· <a href="https://archive.org/details/roosterteeth-23860" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23860">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #34</td>
-      <td>2018-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-new-game-season-1-new-game-34" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-new-game-season-1-new-game-34">RT</a>· <a href="https://archive.org/details/roosterteeth-23767" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23767">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game + #33</td>
-      <td>2018-01-13</td>
-      <td><a href="https://roosterteeth.com/watch/new-game-season-1-new-game-33" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/new-game-season-1-new-game-33">RT</a>· <a href="https://archive.org/details/roosterteeth-23661" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23661">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game + #32</td>
-      <td>2018-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/new-game-season-1-new-game-32" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/new-game-season-1-new-game-32">RT</a>· <a href="https://archive.org/details/roosterteeth-23586" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23586">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #31</td>
-      <td>2017-12-30</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-31" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-31">RT</a>· <a href="https://archive.org/details/roosterteeth-198" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-198">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #30</td>
-      <td>2017-12-23</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-30">RT</a>· <a href="https://archive.org/details/roosterteeth-199" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-199">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #29</td>
-      <td>2017-12-16</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-glitch-please-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-glitch-please-30">RT</a>· <a href="https://archive.org/details/roosterteeth-200" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-200">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #28</td>
-      <td>2017-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-28">RT</a>· <a href="https://archive.org/details/roosterteeth-201" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-201">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #27</td>
-      <td>2017-12-02</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-27">RT</a>· <a href="https://archive.org/details/roosterteeth-202" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-202">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game + #26</td>
-      <td>2017-11-25</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-26">RT</a>· <a href="https://archive.org/details/roosterteeth-203" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-203">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game + #25</td>
-      <td>2017-11-18</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-25">RT</a>· <a href="https://archive.org/details/roosterteeth-204" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-204">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #24</td>
-      <td>2017-11-11</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-24" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-24">RT</a>· <a href="https://archive.org/details/roosterteeth-205" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-205">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #23</td>
-      <td>2017-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-23" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-23">RT</a>· <a href="https://archive.org/details/roosterteeth-207" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-207">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #22</td>
-      <td>2017-10-28</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-22">RT</a>· <a href="https://archive.org/details/roosterteeth-206" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-206">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #21</td>
-      <td>2017-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-21">RT</a>· <a href="https://archive.org/details/roosterteeth-208" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-208">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #20</td>
-      <td>2017-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-20">RT</a>· <a href="https://archive.org/details/roosterteeth-209" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-209">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #19</td>
-      <td>2017-10-07</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-19">RT</a>· <a href="https://archive.org/details/roosterteeth-210" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-210">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #18</td>
-      <td>2017-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-18">RT</a>· <a href="https://archive.org/details/roosterteeth-211" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-211">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #17</td>
-      <td>2017-09-23</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-17">RT</a>· <a href="https://archive.org/details/roosterteeth-212" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-212">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Game+ #16</td>
-      <td>2017-09-16</td>
-      <td><a href="https://roosterteeth.com/watch/glitch-please-season-1-new-game-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/glitch-please-season-1-new-game-16">RT</a>· <a href="https://archive.org/details/roosterteeth-213" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-213">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Glitch+Please%3A+New+Game+%2B%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Glitch+Please%3A+New+Game+%2B%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Glitch Please: New Game +<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Glitch+Please%3A+New+Game+%2B%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Glitch+Please%3A+New+Game+%2B%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

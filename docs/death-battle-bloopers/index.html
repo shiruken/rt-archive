@@ -1,470 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Death Battle Bloopers | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Death Battle Bloopers' from the Rooster Teeth website">
-        <meta name="keywords" content="Death Battle Bloopers, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/death-battle-bloopers/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Death Battle Bloopers | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Death Battle Bloopers' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/death-battle-bloopers/">
-        <meta name="twitter:title" content="Death Battle Bloopers | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Death Battle Bloopers' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Death Battle Bloopers<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>38</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>38</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Death Battle Bloopers | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Death Battle Bloopers' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/death-battle-bloopers/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Death Battle Bloopers | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Death Battle Bloopers' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/death-battle-bloopers/">
+    <meta name="twitter:title" content="Death Battle Bloopers | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Death Battle Bloopers' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cole VS Alex BLOOPERS!</td>
-      <td>2023-12-20</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-cole-vs-alex-outtakes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-cole-vs-alex-outtakes">RT</a>· <a href="https://archive.org/details/roosterteeth-52263" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52263">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Martian Manhunter vs Silver Surfer BLOOPERS!</td>
-      <td>2023-12-13</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-12-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-12-13">RT</a>· <a href="https://archive.org/details/roosterteeth-52208" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52208">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bill vs Discord BLOOPERS!</td>
-      <td>2023-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-10-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-10-20">RT</a>· <a href="https://archive.org/details/roosterteeth-51793" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51793">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Phoenix VS Raven BLOOPERS!</td>
-      <td>2023-09-01</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-raven-vs-phoenix-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-raven-vs-phoenix-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-51483" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51483">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Guts VS Dimitri BLOOPERS!</td>
-      <td>2023-09-01</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-guts-vs-dimitri-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-guts-vs-dimitri-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-51482" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51482">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stitch VS Rocket BLOOPERS!</td>
-      <td>2023-07-10</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-stitch-vs-rocket-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-stitch-vs-rocket-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-51209" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51209">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Killua VS Misaka BLOOPERS!</td>
-      <td>2023-06-26</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-killua-outtakes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-killua-outtakes">RT</a>· <a href="https://archive.org/details/roosterteeth-51121" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51121">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ant-Man VS Atom BLOOPERS!</td>
-      <td>2023-05-29</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2023-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2023-1">RT</a>· <a href="https://archive.org/details/roosterteeth-50975" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50975">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>She-Ra is BETTER than He-Man?</td>
-      <td>2020-06-03</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-6-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-6-3">RT</a>· <a href="https://archive.org/details/roosterteeth-38659" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38659">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Danny Farted Ectoplasm?</td>
-      <td>2020-05-19</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-5-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-5-19">RT</a>· <a href="https://archive.org/details/roosterteeth-38415" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38415">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who Invented Dabbing?!</td>
-      <td>2020-05-05</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-5-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-5-5">RT</a>· <a href="https://archive.org/details/roosterteeth-37875" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37875">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Boomstick's New Superhero!</td>
-      <td>2020-04-21</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-4-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-4-21">RT</a>· <a href="https://archive.org/details/roosterteeth-37657" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37657">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Boomstick LOVES Machamp!</td>
-      <td>2020-04-07</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-4-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-4-7">RT</a>· <a href="https://archive.org/details/roosterteeth-37429" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37429">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A TEA GOO?! | Gray VS Esdeath BLOOPERS!</td>
-      <td>2020-03-24</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-3-24" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-3-24">RT</a>· <a href="https://archive.org/details/roosterteeth-37276" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37276">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chia Pets are MAGIC?!</td>
-      <td>2020-03-10</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-3-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-3-10">RT</a>· <a href="https://archive.org/details/roosterteeth-37090" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37090">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Leonardo VS Red Ranger Jason BLOOPERS!</td>
-      <td>2020-02-25</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-2-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-2-25">RT</a>· <a href="https://archive.org/details/roosterteeth-36875" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36875">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Black Canary VS Sindel BLOOPERS!</td>
-      <td>2020-02-11</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-2-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-2-11">RT</a>· <a href="https://archive.org/details/roosterteeth-36743" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36743">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Miles Morales VS Static BLOOPERS!</td>
-      <td>2020-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2020-1-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2020-1-28">RT</a>· <a href="https://archive.org/details/roosterteeth-36546" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36546">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>All Might VS Might Guy BLOOPERS!</td>
-      <td>2019-12-19</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-12-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-12-19">RT</a>· <a href="https://archive.org/details/roosterteeth-36188" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36188">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Deadpool VS Mask BLOOPERS!</td>
-      <td>2019-11-28</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-11-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-11-28">RT</a>· <a href="https://archive.org/details/roosterteeth-35892" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35892">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mob VS Tatsumaki BLOOPERS!</td>
-      <td>2019-11-07</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-11-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-11-7">RT</a>· <a href="https://archive.org/details/roosterteeth-35663" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35663">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ganondorf VS Dracula BLOOPERS!</td>
-      <td>2019-10-17</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-10-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-10-17">RT</a>· <a href="https://archive.org/details/roosterteeth-35330" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35330">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sasuke VS Hiei BLOOPERS!</td>
-      <td>2019-09-27</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-9-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-9-26">RT</a>· <a href="https://archive.org/details/roosterteeth-35132" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35132">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dragonzord VS Mechagodzilla BLOOPERS!</td>
-      <td>2019-09-05</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-dragonzord-vs-mechagodzilla-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-dragonzord-vs-mechagodzilla-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-34795" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34795">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ghost Rider VS Lobo BLOOPERS!</td>
-      <td>2019-08-15</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-ghost-rider-vs-lobo-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-ghost-rider-vs-lobo-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-34526" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34526">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Aang VS Edward Elric BLOOPERS!</td>
-      <td>2019-07-25</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-7-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-7-25">RT</a>· <a href="https://archive.org/details/roosterteeth-34193" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34193">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Johnny Cage VS Captain Falcon BLOOPERS!</td>
-      <td>2019-07-04</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-7-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-7-4">RT</a>· <a href="https://archive.org/details/roosterteeth-33990" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-33990">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Weiss VS Mitsuru BLOOPERS!</td>
-      <td>2019-06-13</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-weiss-vs-mitsuru-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-weiss-vs-mitsuru-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-33687" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-33687">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ben 10 VS Green Lantern BLOOPERS!</td>
-      <td>2019-05-23</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-ben-10-vs-green-lantern-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-ben-10-vs-green-lantern-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-33397" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-33397">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wario VS King Dedede BLOOPERS!</td>
-      <td>2019-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-wario-vs-king-dedede-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-wario-vs-king-dedede-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-32920" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-32920">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Captain Marvel VS Shazam BLOOPERS!</td>
-      <td>2019-04-11</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-captain-marvel-vs-shazam-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-captain-marvel-vs-shazam-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-32507" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-32507">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Black Widow VS Widowmaker Bloopers!</td>
-      <td>2019-03-21</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-black-widow-vs-widowmaker-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-black-widow-vs-widowmaker-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-32246" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-32246">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mega Man Battle Royale BLOOPERS!</td>
-      <td>2019-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2019-mega-man-battle-royale-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2019-mega-man-battle-royale-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-31633" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31633">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Aquaman Vs Namor BLOOPERS!</td>
-      <td>2019-02-07</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2018-aquaman-vs-namor-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2018-aquaman-vs-namor-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-30423" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30423">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Thanos Vs Darkseid BLOOPERS!</td>
-      <td>2018-12-20</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2018-thanos-vs-darkseid-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2018-thanos-vs-darkseid-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-29982" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29982">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Roshi VS Jiraiya BLOOPERS!</td>
-      <td>2018-11-29</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2018-roshi-vs-jiraiya-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2018-roshi-vs-jiraiya-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-29624" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29624">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ultron VS Sigma Bloopers!</td>
-      <td>2018-11-08</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2018-ultron-vs-sigma-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2018-ultron-vs-sigma-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-29299" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29299">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mario VS Sonic Bloopers!</td>
-      <td>2018-10-18</td>
-      <td><a href="https://roosterteeth.com/watch/death-battle-bloopers-2018-mario-vs-sonic-bloopers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/death-battle-bloopers-2018-mario-vs-sonic-bloopers">RT</a>· <a href="https://archive.org/details/roosterteeth-29036" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29036">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Death+Battle+Bloopers%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Death+Battle+Bloopers%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Death Battle Bloopers<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Death+Battle+Bloopers%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Death+Battle+Bloopers%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

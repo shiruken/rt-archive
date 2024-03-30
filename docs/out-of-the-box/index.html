@@ -1,713 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Out of the Box | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Out of the Box' from the Rooster Teeth website">
-        <meta name="keywords" content="Out of the Box, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/out-of-the-box/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Out of the Box | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Out of the Box' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/out-of-the-box/">
-        <meta name="twitter:title" content="Out of the Box | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Out of the Box' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Out of the Box<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>65</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>65</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Out of the Box | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Out of the Box' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/out-of-the-box/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Out of the Box | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Out of the Box' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/out-of-the-box/">
+    <meta name="twitter:title" content="Out of the Box | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Out of the Box' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Oddworld: New N' Tasty | Out of the Box</td>
-      <td>2014-07-23</td>
-      <td><a href="https://roosterteeth.com/watch/oddworld-new-n-tasty-out-of-the-box" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/oddworld-new-n-tasty-out-of-the-box">RT</a>· <a href="https://archive.org/details/roosterteeth-6247" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6247">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>[LIVE at 11am Central] Valiant Hearts on Out of the Box! | Out of the Box</td>
-      <td>2014-07-09</td>
-      <td><a href="https://roosterteeth.com/watch/live-at-11am-central-valiant-hearts-on-out-of-the-box-out-of-the-box" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/live-at-11am-central-valiant-hearts-on-out-of-the-box-out-of-the-box">RT</a>· <a href="https://archive.org/details/roosterteeth-6246" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6246">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Grid Autosport | Out of the Box</td>
-      <td>2014-07-02</td>
-      <td><a href="https://roosterteeth.com/watch/grid-autosport-out-of-the-box" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/grid-autosport-out-of-the-box">RT</a>· <a href="https://archive.org/details/roosterteeth-6245" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6245">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wildstar | Out of the Box</td>
-      <td>2014-06-25</td>
-      <td><a href="https://roosterteeth.com/watch/wildstar-out-of-the-box" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/wildstar-out-of-the-box">RT</a>· <a href="https://archive.org/details/roosterteeth-6244" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6244">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hack N' Slash | Out of the Box</td>
-      <td>2014-06-18</td>
-      <td><a href="https://roosterteeth.com/watch/hack-n-slash-out-of-the-box" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/hack-n-slash-out-of-the-box">RT</a>· <a href="https://archive.org/details/roosterteeth-6242" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6242">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Krautscape</td>
-      <td>2014-04-23</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-krautscape" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-krautscape">RT</a>· <a href="https://archive.org/details/roosterteeth-6238" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6238">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Fable Anniversary</td>
-      <td>2014-02-19</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-fable-anniversary" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-fable-anniversary">RT</a>· <a href="https://archive.org/details/roosterteeth-6229" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6229">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Dragon Ball Z: Battle of Z</td>
-      <td>2014-02-05</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-dragon-ball-z-battle-of-z" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-dragon-ball-z-battle-of-z">RT</a>· <a href="https://archive.org/details/roosterteeth-6228" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6228">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Tomb Raider Definitive Edition</td>
-      <td>2014-01-29</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-tomb-raider-definitive-edition" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-tomb-raider-definitive-edition">RT</a>· <a href="https://archive.org/details/roosterteeth-6227" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6227">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Lightning Returns: Final Fantasy XIII</td>
-      <td>2014-01-22</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-lightning-returns-final-fantasy-xiii" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-lightning-returns-final-fantasy-xiii">RT</a>· <a href="https://archive.org/details/roosterteeth-6226" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6226">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Broken Age</td>
-      <td>2014-01-15</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-broken-age" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-broken-age">RT</a>· <a href="https://archive.org/details/roosterteeth-6225" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6225">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Peggle 2</td>
-      <td>2014-01-09</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-peggle-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-peggle-2">RT</a>· <a href="https://archive.org/details/roosterteeth-6224" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6224">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - NES Remix</td>
-      <td>2013-12-18</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-nes-remix" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-nes-remix">RT</a>· <a href="https://archive.org/details/roosterteeth-6223" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6223">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - The Walking Dead Season 2</td>
-      <td>2013-12-18</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-the-walking-dead-season-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-the-walking-dead-season-2">RT</a>· <a href="https://archive.org/details/roosterteeth-6222" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6222">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Gran Turismo 6</td>
-      <td>2013-12-11</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-gran-turismo-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-gran-turismo-6">RT</a>· <a href="https://archive.org/details/roosterteeth-6221" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6221">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Tiny Brains</td>
-      <td>2013-12-04</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-tiny-brains" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-tiny-brains">RT</a>· <a href="https://archive.org/details/roosterteeth-6220" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6220">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - The Bridge</td>
-      <td>2013-11-27</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-the-bridge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-the-bridge">RT</a>· <a href="https://archive.org/details/roosterteeth-6219" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6219">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Soul Calibur 2 HD Online</td>
-      <td>2013-11-20</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-soul-calibur-2-hd-online" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-soul-calibur-2-hd-online">RT</a>· <a href="https://archive.org/details/roosterteeth-6218" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6218">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>[LIVE at 11am CST] Out of the Box - Bioshock: Infinite: Burial At Sea: Episode One</td>
-      <td>2013-11-13</td>
-      <td><a href="https://roosterteeth.com/watch/live-at-11am-cst-out-of-the-box-bioshock-infinite-burial-at-sea-episode-one" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/live-at-11am-cst-out-of-the-box-bioshock-infinite-burial-at-sea-episode-one">RT</a>· <a href="https://archive.org/details/roosterteeth-6217" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6217">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Call of Duty: Ghosts</td>
-      <td>2013-11-06</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-call-of-duty-ghosts" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-call-of-duty-ghosts">RT</a>· <a href="https://archive.org/details/roosterteeth-6216" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6216">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Blood of the Werewolf</td>
-      <td>2013-10-30</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-blood-of-the-werewolf" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-blood-of-the-werewolf">RT</a>· <a href="https://archive.org/details/roosterteeth-6215" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6215">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Naruto Shippuden Ultimate Ninja Storm 3 Full Burst</td>
-      <td>2013-10-23</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-naruto-shippuden-ultimate-ninja-storm-3-full-burst" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-naruto-shippuden-ultimate-ninja-storm-3-full-burst">RT</a>· <a href="https://archive.org/details/roosterteeth-6214" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6214">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - The Wolf Among Us</td>
-      <td>2013-10-16</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-the-wolf-among-us" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-the-wolf-among-us">RT</a>· <a href="https://archive.org/details/roosterteeth-6213" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6213">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Battlefield 4 Beta</td>
-      <td>2013-10-09</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-battlefield-4-beta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-battlefield-4-beta">RT</a>· <a href="https://archive.org/details/roosterteeth-6212" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6212">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Grand Theft Auto Online</td>
-      <td>2013-10-02</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-grand-theft-auto-online" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-grand-theft-auto-online">RT</a>· <a href="https://archive.org/details/roosterteeth-6211" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6211">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Hearthstone</td>
-      <td>2013-09-25</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-hearthstone" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-hearthstone">RT</a>· <a href="https://archive.org/details/roosterteeth-6210" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6210">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Grand Theft Auto V</td>
-      <td>2013-09-18</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-grand-theft-auto-v" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-grand-theft-auto-v">RT</a>· <a href="https://archive.org/details/roosterteeth-6209" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6209">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Mega Man Unlimited</td>
-      <td>2013-07-17</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-mega-man-unlimited" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-mega-man-unlimited">RT</a>· <a href="https://archive.org/details/roosterteeth-6207" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6207">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Remember Me</td>
-      <td>2013-06-05</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-remember-me" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-remember-me">RT</a>· <a href="https://archive.org/details/roosterteeth-6206" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6206">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Injustice: Gods Among Us Demo</td>
-      <td>2013-04-03</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-injustice-gods-among-us-demo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-injustice-gods-among-us-demo">RT</a>· <a href="https://archive.org/details/roosterteeth-6199" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6199">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Bioshock: Infinite and The Giana Sisters' Twisted Dreams</td>
-      <td>2013-03-27</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-bioshock-infinite-and-the-giana-sisters-twisted-dreams" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-bioshock-infinite-and-the-giana-sisters-twisted-dreams">RT</a>· <a href="https://archive.org/details/roosterteeth-6198" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6198">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Gears of War: Judgment</td>
-      <td>2013-03-20</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-gears-of-war-judgment" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-gears-of-war-judgment">RT</a>· <a href="https://archive.org/details/roosterteeth-6197" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6197">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Darkstalkers Resurrection</td>
-      <td>2013-03-13</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-darkstalkers-resurrection" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-darkstalkers-resurrection">RT</a>· <a href="https://archive.org/details/roosterteeth-6313" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6313">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Tomb Raider</td>
-      <td>2013-03-06</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-tomb-raider" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-tomb-raider">RT</a>· <a href="https://archive.org/details/roosterteeth-6321" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6321">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Capcom's Arcade Cabinet Pt. 1</td>
-      <td>2013-02-26</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-capcoms-arcade-cabinet-pt-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-capcoms-arcade-cabinet-pt-1">RT</a>· <a href="https://archive.org/details/roosterteeth-6331" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6331">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Crysis 3</td>
-      <td>2013-02-20</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-crysis-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-crysis-3">RT</a>· <a href="https://archive.org/details/roosterteeth-6328" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6328">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box Special Edition - Let's Look at Wii Street U</td>
-      <td>2013-02-14</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-special-edition-lets-look-at-wii-street-u" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-special-edition-lets-look-at-wii-street-u">RT</a>· <a href="https://archive.org/details/roosterteeth-6302" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6302">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Aliens: Colonial Marines</td>
-      <td>2013-02-13</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-aliens-colonial-marines" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-aliens-colonial-marines">RT</a>· <a href="https://archive.org/details/roosterteeth-6318" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6318">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Dead Space 3</td>
-      <td>2013-02-06</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-dead-space-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-dead-space-3">RT</a>· <a href="https://archive.org/details/roosterteeth-6334" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6334">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - The Cave</td>
-      <td>2013-01-23</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-the-cave" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-the-cave">RT</a>· <a href="https://archive.org/details/roosterteeth-6341" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6341">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - DmC</td>
-      <td>2013-01-16</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-dmc" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-dmc">RT</a>· <a href="https://archive.org/details/roosterteeth-6317" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6317">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Guardians of Middle Earth</td>
-      <td>2012-12-12</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-guardians-of-middle-earth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-guardians-of-middle-earth">RT</a>· <a href="https://archive.org/details/roosterteeth-6330" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6330">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Farcry 3</td>
-      <td>2012-12-05</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-farcry-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-farcry-3">RT</a>· <a href="https://archive.org/details/roosterteeth-6322" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6322">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Sonic All Stars Racing Transformed and Ratchet and Clank Full Frontal Assault</td>
-      <td>2012-11-28</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-sonic-all-stars-racing-transformed-and-ratchet-and-clank-full-frontal-assault" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-sonic-all-stars-racing-transformed-and-ratchet-and-clank-full-frontal-assault">RT</a>· <a href="https://archive.org/details/roosterteeth-6315" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6315">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - ZombiU</td>
-      <td>2012-11-20</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-zombiu" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-zombiu">RT</a>· <a href="https://archive.org/details/roosterteeth-6325" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6325">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Tekken Tag Tournament 2 Wii U Edition</td>
-      <td>2012-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-tekken-tag-tournament-2-wii-u-edition" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-tekken-tag-tournament-2-wii-u-edition">RT</a>· <a href="https://archive.org/details/roosterteeth-6329" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6329">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>ScrewAttack's LIVE Wii U Blowout</td>
-      <td>2012-11-18</td>
-      <td><a href="https://roosterteeth.com/watch/screwattacks-live-wii-u-blowout" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/screwattacks-live-wii-u-blowout">RT</a>· <a href="https://archive.org/details/roosterteeth-6340" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6340">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Black Ops 2</td>
-      <td>2012-11-14</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-black-ops-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-black-ops-2">RT</a>· <a href="https://archive.org/details/roosterteeth-6335" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6335">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Halo 4</td>
-      <td>2012-11-07</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-halo-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-halo-4">RT</a>· <a href="https://archive.org/details/roosterteeth-6336" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6336">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Skylanders Giants</td>
-      <td>2012-10-31</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-skylanders-giants" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-skylanders-giants">RT</a>· <a href="https://archive.org/details/roosterteeth-6316" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6316">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - 007 Legends and Hell Yeah!</td>
-      <td>2012-10-24</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-007-legends-and-hell-yeah" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-007-legends-and-hell-yeah">RT</a>· <a href="https://archive.org/details/roosterteeth-6324" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6324">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - PlayStation All-Stars Battle Royale Private Beta</td>
-      <td>2012-10-18</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-playstation-all-stars-battle-royale-private-beta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-playstation-all-stars-battle-royale-private-beta">RT</a>· <a href="https://archive.org/details/roosterteeth-6332" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6332">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Dragon Ball Z Kinect and Fable the Journey</td>
-      <td>2012-10-17</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-dragon-ball-z-kinect-and-fable-the-journey" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-dragon-ball-z-kinect-and-fable-the-journey">RT</a>· <a href="https://archive.org/details/roosterteeth-6338" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6338">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Retro City Rampage and Double Dragon Neon</td>
-      <td>2012-10-11</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-retro-city-rampage-and-double-dragon-neon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-retro-city-rampage-and-double-dragon-neon">RT</a>· <a href="https://archive.org/details/roosterteeth-6339" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6339">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Sonic Adventure 2 HD and NiGHTS HD</td>
-      <td>2012-10-10</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-sonic-adventure-2-hd-and-nights-hd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-sonic-adventure-2-hd-and-nights-hd">RT</a>· <a href="https://archive.org/details/roosterteeth-6333" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6333">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A New Season of Out of the Box Debuts Wednesday at 11am Central!</td>
-      <td>2012-10-09</td>
-      <td><a href="https://roosterteeth.com/watch/a-new-season-of-out-of-the-box-debuts-wednesday-at-11am-central" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/a-new-season-of-out-of-the-box-debuts-wednesday-at-11am-central">RT</a>· <a href="https://archive.org/details/roosterteeth-6323" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6323">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - NFL Blitz</td>
-      <td>2012-01-05</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-nfl-blitz" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-nfl-blitz">RT</a>· <a href="https://archive.org/details/roosterteeth-6196" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6196">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - King of Fighters XIII</td>
-      <td>2011-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-king-of-fighters-xiii" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-king-of-fighters-xiii">RT</a>· <a href="https://archive.org/details/roosterteeth-6195" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6195">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Tekken Hybrid</td>
-      <td>2011-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-tekken-hybrid" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-tekken-hybrid">RT</a>· <a href="https://archive.org/details/roosterteeth-6193" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6193">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Rocksmith</td>
-      <td>2011-11-13</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-rocksmith" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-rocksmith">RT</a>· <a href="https://archive.org/details/roosterteeth-6194" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6194">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Rayman Origins</td>
-      <td>2011-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-rayman-origins" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-rayman-origins">RT</a>· <a href="https://archive.org/details/roosterteeth-6192" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6192">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - NBA Jam: On Fire Edition</td>
-      <td>2011-10-05</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-nba-jam-on-fire-edition" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-nba-jam-on-fire-edition">RT</a>· <a href="https://archive.org/details/roosterteeth-6191" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6191">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Supremacy MMA and FIFA 12</td>
-      <td>2011-10-02</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-supremacy-mma-and-fifa-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-supremacy-mma-and-fifa-12">RT</a>· <a href="https://archive.org/details/roosterteeth-6190" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6190">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Battlefield 3 Beta</td>
-      <td>2011-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-battlefield-3-beta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-battlefield-3-beta">RT</a>· <a href="https://archive.org/details/roosterteeth-6189" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6189">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Out of the Box - Gears of War 3</td>
-      <td>2011-09-25</td>
-      <td><a href="https://roosterteeth.com/watch/out-of-the-box-gears-of-war-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/out-of-the-box-gears-of-war-3">RT</a>· <a href="https://archive.org/details/roosterteeth-6188" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-6188">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Out+of+the+Box%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Out+of+the+Box%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Out of the Box<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Out+of+the+Box%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Out+of+the+Box%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

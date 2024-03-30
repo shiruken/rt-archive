@@ -1,830 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Stay Zen | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Stay Zen' from the Rooster Teeth website">
-        <meta name="keywords" content="Stay Zen, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/stay-zen/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Stay Zen | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Stay Zen' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/stay-zen/">
-        <meta name="twitter:title" content="Stay Zen | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Stay Zen' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Stay Zen<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>78</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>78</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stay Zen | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Stay Zen' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/stay-zen/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Stay Zen | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Stay Zen' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/stay-zen/">
+    <meta name="twitter:title" content="Stay Zen | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Stay Zen' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Strength of BE with George Panga and Nikki Miles</td>
-      <td>2022-03-05</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-20220215" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-20220215">RT</a>· <a href="https://archive.org/details/roosterteeth-47441" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47441">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Literally Using Your Voice With Christian Young</td>
-      <td>2022-02-25</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-20220218" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-20220218">RT</a>· <a href="https://archive.org/details/roosterteeth-47020" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47020">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Creative Brains ACTIVATED with Tyler Stab</td>
-      <td>2022-02-23</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-20220211" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-20220211">RT</a>· <a href="https://archive.org/details/roosterteeth-46999" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46999">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Creating Cartoons With Noël Wiggins</td>
-      <td>2022-02-12</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-02042022" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-02042022">RT</a>· <a href="https://archive.org/details/roosterteeth-46766" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46766">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Getting Weird With Jessica Vasami</td>
-      <td>2022-02-06</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-jessica-vasami" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2022-stay-zen-jessica-vasami">RT</a>· <a href="https://archive.org/details/roosterteeth-46694" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46694">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Another Year Older Another Year Stronger With Hector Gonzales</td>
-      <td>2022-02-06</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz-12-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz-12-10">RT</a>· <a href="https://archive.org/details/roosterteeth-46693" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46693">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Red Vs RWB: Family Tales</td>
-      <td>2021-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-stay-zen-12-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-stay-zen-12-3">RT</a>· <a href="https://archive.org/details/roosterteeth-46179" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46179">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stubborn Dad Voices With André Ouellette</td>
-      <td>2021-11-17</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz-11-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz-11-12">RT</a>· <a href="https://archive.org/details/roosterteeth-45953" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45953">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind The Tech And Love In Family Shatters With Jenn Tidwell</td>
-      <td>2021-11-17</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz-11-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz-11-5">RT</a>· <a href="https://archive.org/details/roosterteeth-45850" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45850">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Spooky 69th Episode With Chelsea Atkinson</td>
-      <td>2021-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz-10-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz-10-28">RT</a>· <a href="https://archive.org/details/roosterteeth-45785" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45785">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Not Another Goofy Movie Situation With Noël Wiggins</td>
-      <td>2021-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-10-22-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-10-22-21">RT</a>· <a href="https://archive.org/details/roosterteeth-45702" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45702">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Life of Knife Wife With Hannah McCarthy</td>
-      <td>2021-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-stay-zen-10-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-stay-zen-10-15">RT</a>· <a href="https://archive.org/details/roosterteeth-45614" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45614">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Magic Behind RTX with Clarissa Gonzalez</td>
-      <td>2021-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-10-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-10-8">RT</a>· <a href="https://archive.org/details/roosterteeth-45547" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45547">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Life of Death Battle with Gerardo Mejia</td>
-      <td>2021-10-06</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-stay-zen-10-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-stay-zen-10-1">RT</a>· <a href="https://archive.org/details/roosterteeth-45450" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45450">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reinventing The Wheelhaus with Jacob Fullerton</td>
-      <td>2021-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-reinventing-the-wheel-wheelhaus-with-jacob-fullerton" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-reinventing-the-wheel-wheelhaus-with-jacob-fullerton">RT</a>· <a href="https://archive.org/details/roosterteeth-45389" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45389">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pulling Apart The Pitch Process With Tyler Stab</td>
-      <td>2021-09-14</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-pulling-apart-the-pitch-process-with-tyler-stab" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-pulling-apart-the-pitch-process-with-tyler-stab">RT</a>· <a href="https://archive.org/details/roosterteeth-45211" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45211">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Rebuilding Broadcast With Michael Lindblad</td>
-      <td>2021-09-05</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-rebuilding-broadcast-with-michael-lindblad" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-rebuilding-broadcast-with-michael-lindblad">RT</a>· <a href="https://archive.org/details/roosterteeth-45112" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45112">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fooling Around with Foley SFXs with Alena Lecorchick</td>
-      <td>2021-08-22</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-fooling-around-with-foley-with-alena-lecorchick" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-fooling-around-with-foley-with-alena-lecorchick">RT</a>· <a href="https://archive.org/details/roosterteeth-44972" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44972">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Breaking Broadcasting Barriers with Bryan Baker</td>
-      <td>2021-08-15</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-breaking-broadcasting-barriers-with-bryan-baker" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-breaking-broadcasting-barriers-with-bryan-baker">RT</a>· <a href="https://archive.org/details/roosterteeth-44901" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44901">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Casting a wider net with Jeb Aguilar-Kendrick</td>
-      <td>2021-08-01</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-07302021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-07302021">RT</a>· <a href="https://archive.org/details/roosterteeth-44706" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44706">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Writing your story with Joshua Kazemi</td>
-      <td>2021-07-25</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-writing-your-story-with-joshua-kazemi" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-writing-your-story-with-joshua-kazemi">RT</a>· <a href="https://archive.org/details/roosterteeth-44623" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44623">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Becoming a part of the family with Christopher Bak</td>
-      <td>2021-07-10</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-07072021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-07072021">RT</a>· <a href="https://archive.org/details/roosterteeth-44432" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44432">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Making of Marketing with Sam Starr</td>
-      <td>2021-06-25</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-06232021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-06232021">RT</a>· <a href="https://archive.org/details/roosterteeth-44254" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44254">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bringing the Beans with Ariel LaCroix</td>
-      <td>2021-06-17</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz06162021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz06162021">RT</a>· <a href="https://archive.org/details/roosterteeth-44162" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44162">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Anime Hour With Cole Gallian</td>
-      <td>2021-06-03</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz_06022021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz_06022021">RT</a>· <a href="https://archive.org/details/roosterteeth-43956" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43956">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Inspiration In Animation With William Ball</td>
-      <td>2021-05-28</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz_05262021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz_05262021">RT</a>· <a href="https://archive.org/details/roosterteeth-43890" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43890">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Making Things Less Grimm with Eddy Rivas</td>
-      <td>2021-05-20</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz_05192021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz_05192021">RT</a>· <a href="https://archive.org/details/roosterteeth-43790" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43790">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Figuring Out Your Foundation with Al McClelland Jr.</td>
-      <td>2021-05-14</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-sz_05122021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-sz_05122021">RT</a>· <a href="https://archive.org/details/roosterteeth-43709" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43709">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Podcasts and Piledrivers with Mark B. Donica</td>
-      <td>2021-05-07</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-05052021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-05052021">RT</a>· <a href="https://archive.org/details/roosterteeth-43626" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43626">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The World Is Your Oyster with Cody Hawkins</td>
-      <td>2021-04-30</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-04282021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-04282021">RT</a>· <a href="https://archive.org/details/roosterteeth-43542" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43542">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Turning things around (literally) with Molly Flood</td>
-      <td>2021-04-22</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-04222021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-04222021">RT</a>· <a href="https://archive.org/details/roosterteeth-43435" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43435">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>From concept to reality with Erin Winn</td>
-      <td>2021-04-15</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-04142021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-04142021">RT</a>· <a href="https://archive.org/details/roosterteeth-43331" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43331">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learning how to manage with Yssa Badiola</td>
-      <td>2021-04-08</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-04072021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-04072021">RT</a>· <a href="https://archive.org/details/roosterteeth-43242" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43242">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Being A Better Ally with Chad James</td>
-      <td>2021-04-07</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-03172021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-03172021">RT</a>· <a href="https://archive.org/details/roosterteeth-43216" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43216">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Having the last laugh with Stephanie Ard</td>
-      <td>2021-03-11</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-03102021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-03102021">RT</a>· <a href="https://archive.org/details/roosterteeth-42799" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42799">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cherishing The Little Moments With Mark Allen Jr.</td>
-      <td>2021-03-04</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-03042021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-03042021">RT</a>· <a href="https://archive.org/details/roosterteeth-42699" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42699">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Animation NOT Easy With Torrian Crawford</td>
-      <td>2021-02-25</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-02242021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-02242021">RT</a>· <a href="https://archive.org/details/roosterteeth-42595" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42595">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Off the rails with Kayla Milton & Maloree Malone</td>
-      <td>2021-02-11</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-02102021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-02102021">RT</a>· <a href="https://archive.org/details/roosterteeth-42448" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42448">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learning about the day to day with Kahlief Adams</td>
-      <td>2021-02-04</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-02032021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-02032021">RT</a>· <a href="https://archive.org/details/roosterteeth-42343" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42343">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Storyboarding Storytime With Rachel Doda</td>
-      <td>2021-01-29</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-01132021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-01132021">RT</a>· <a href="https://archive.org/details/roosterteeth-42263" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42263">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Being Kind & Finding Opportunity With Jessica Vasami</td>
-      <td>2021-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-01282021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-01282021">RT</a>· <a href="https://archive.org/details/roosterteeth-42257" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42257">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Crafting Your Own Path With Devin Finn</td>
-      <td>2021-01-21</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-stayzen01202021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-stayzen01202021">RT</a>· <a href="https://archive.org/details/roosterteeth-42168" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42168">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A decade of adventures with Kyle Taylor</td>
-      <td>2021-01-07</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2021-36" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2021-36">RT</a>· <a href="https://archive.org/details/roosterteeth-42015" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42015">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2020 is over... onward toward the future!</td>
-      <td>2020-12-31</td>
-      <td><a href="https://roosterteeth.com/watch/2020-is-over-onward-toward-the-future" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/2020-is-over-onward-toward-the-future">RT</a>· <a href="https://archive.org/details/roosterteeth-41945" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41945">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Not At All A Holiday Special "Stay Zen Holiday Special"</td>
-      <td>2020-12-24</td>
-      <td><a href="https://roosterteeth.com/watch/the-not-at-all-a-holiday-special-stay-zen-holiday-special" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-not-at-all-a-holiday-special-stay-zen-holiday-special">RT</a>· <a href="https://archive.org/details/roosterteeth-41812" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41812">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pushing forward with James Davis and Hector Gonzales</td>
-      <td>2020-12-18</td>
-      <td><a href="https://roosterteeth.com/watch/ig-zen-12-16-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-zen-12-16-20">RT</a>· <a href="https://archive.org/details/roosterteeth-41795" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41795">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Making mistakes with Evan Campbell</td>
-      <td>2020-12-11</td>
-      <td><a href="https://roosterteeth.com/watch/ig-zen-12-18-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-zen-12-18-20">RT</a>· <a href="https://archive.org/details/roosterteeth-41711" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41711">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learning the ropes with Kaden Hildreth</td>
-      <td>2020-12-03</td>
-      <td><a href="https://roosterteeth.com/watch/ig-zen-12-02-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-zen-12-02-20">RT</a>· <a href="https://archive.org/details/roosterteeth-41593" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41593">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Designing a good time with Josie Young</td>
-      <td>2020-11-26</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-11-26-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-11-26-20">RT</a>· <a href="https://archive.org/details/roosterteeth-41451" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41451">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Talking shop with the cast of Red vs Blue: Zero</td>
-      <td>2020-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2020-stay-zen-11-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2020-stay-zen-11-19">RT</a>· <a href="https://archive.org/details/roosterteeth-41267" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41267">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Absolutely Not Zen RTExtraLife Episode!</td>
-      <td>2020-11-14</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2020-stay-zen-11-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2020-stay-zen-11-11">RT</a>· <a href="https://archive.org/details/roosterteeth-41183" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41183">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Not Friends, We're Family</td>
-      <td>2020-11-06</td>
-      <td><a href="https://roosterteeth.com/watch/stay-zen-2020-stayzen-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/stay-zen-2020-stayzen-27">RT</a>· <a href="https://archive.org/details/roosterteeth-41090" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41090">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Creating Remnant From Home</td>
-      <td>2020-10-29</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-28">RT</a>· <a href="https://archive.org/details/roosterteeth-40993" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40993">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Getting to know the new Red Vs Blue</td>
-      <td>2020-10-22</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-10_21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-10_21">RT</a>· <a href="https://archive.org/details/roosterteeth-40893" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40893">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Finding the strength to always stand back up</td>
-      <td>2020-10-15</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-26">RT</a>· <a href="https://archive.org/details/roosterteeth-40639" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40639">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learning To Create -  Stay Zen with Kdin #23</td>
-      <td>2020-10-01</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-25">RT</a>· <a href="https://archive.org/details/roosterteeth-40493" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40493">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Collecting Metaphorical Shoes</td>
-      <td>2020-09-10</td>
-      <td><a href="https://roosterteeth.com/watch/ig-live-09-10-20-stay-zen-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-live-09-10-20-stay-zen-22">RT</a>· <a href="https://archive.org/details/roosterteeth-40216" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40216">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Building Yourself Up</td>
-      <td>2020-09-03</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-building-yourself-up-stay-zen-with-kdin-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-building-yourself-up-stay-zen-with-kdin-21">RT</a>· <a href="https://archive.org/details/roosterteeth-40041" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40041">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sound of Mind and Body!</td>
-      <td>2020-08-28</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-8-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-8-27">RT</a>· <a href="https://archive.org/details/roosterteeth-40018" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40018">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Community & Del Taco</td>
-      <td>2020-08-20</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-community-del-taco-stay-zen-with-kdin-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-community-del-taco-stay-zen-with-kdin-19">RT</a>· <a href="https://archive.org/details/roosterteeth-39901" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39901">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Staying INSPIRED!</td>
-      <td>2020-08-13</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-6-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-6-13">RT</a>· <a href="https://archive.org/details/roosterteeth-39769" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39769">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fit For 2020!</td>
-      <td>2020-08-06</td>
-      <td><a href="https://roosterteeth.com/watch/ig-live-08-06-20-stay-zen-kdin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-live-08-06-20-stay-zen-kdin">RT</a>· <a href="https://archive.org/details/roosterteeth-39676" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39676">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pop Your Parts</td>
-      <td>2020-07-31</td>
-      <td><a href="https://roosterteeth.com/watch/ig-live-07-30-20-stay-zen" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-live-07-30-20-stay-zen">RT</a>· <a href="https://archive.org/details/roosterteeth-39610" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39610">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Processing Your Emotions</td>
-      <td>2020-07-24</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-tbd-stay-zen-with-kdin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-tbd-stay-zen-with-kdin">RT</a>· <a href="https://archive.org/details/roosterteeth-39515" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39515">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Where does your story begin?</td>
-      <td>2020-07-16</td>
-      <td><a href="https://roosterteeth.com/watch/ig-live-07-09-20-stay-zen-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/ig-live-07-09-20-stay-zen-14">RT</a>· <a href="https://archive.org/details/roosterteeth-39361" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39361">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Last Woman In Space</td>
-      <td>2020-07-06</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-15">RT</a>· <a href="https://archive.org/details/roosterteeth-39215" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39215">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Zen Games!</td>
-      <td>2020-06-30</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-6-27-stay-zen-with-kdin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-6-27-stay-zen-with-kdin">RT</a>· <a href="https://archive.org/details/roosterteeth-39132" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39132">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Little Positivity!</td>
-      <td>2020-06-23</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-6-20-zen-kdin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-6-20-zen-kdin">RT</a>· <a href="https://archive.org/details/roosterteeth-39023" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39023">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Finding Some Answers</td>
-      <td>2020-06-16</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-12">RT</a>· <a href="https://archive.org/details/roosterteeth-38905" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38905">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>"How Are You Doing?" & Difficult Conversations</td>
-      <td>2020-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-6-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-6-7">RT</a>· <a href="https://archive.org/details/roosterteeth-38765" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38765">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Need To Do Better</td>
-      <td>2020-06-03</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-10">RT</a>· <a href="https://archive.org/details/roosterteeth-38710" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38710">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Talk About Mental Health!</td>
-      <td>2020-05-26</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-05-24" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-05-24">RT</a>· <a href="https://archive.org/details/roosterteeth-38586" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38586">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learning To Forgive</td>
-      <td>2020-05-18</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-08" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-08">RT</a>· <a href="https://archive.org/details/roosterteeth-38447" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38447">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Community Is Family</td>
-      <td>2020-05-12</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-5-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-5-10">RT</a>· <a href="https://archive.org/details/roosterteeth-38000" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38000">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Staying Positive In Negativity</td>
-      <td>2020-05-04</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-5-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-5-3">RT</a>· <a href="https://archive.org/details/roosterteeth-37894" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37894">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Passion From Chaos</td>
-      <td>2020-04-28</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-4-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-stay-zen-with-kdin-4-26">RT</a>· <a href="https://archive.org/details/roosterteeth-37796" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37796">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learning to Breathe</td>
-      <td>2020-04-19</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-chat-chill-4-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-chat-chill-4-19">RT</a>· <a href="https://archive.org/details/roosterteeth-37701" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37701">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We're Here Together</td>
-      <td>2020-04-12</td>
-      <td><a href="https://roosterteeth.com/watch/inside-gaming-live-2020-chill-and-chat-4-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/inside-gaming-live-2020-chill-and-chat-4-12">RT</a>· <a href="https://archive.org/details/roosterteeth-37695" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37695">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Stay+Zen%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Stay+Zen%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Stay Zen<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Stay+Zen%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Stay+Zen%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

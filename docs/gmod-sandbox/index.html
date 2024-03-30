@@ -1,542 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>GMOD Sandbox | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'GMOD Sandbox' from the Rooster Teeth website">
-        <meta name="keywords" content="GMOD Sandbox, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/gmod-sandbox/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="GMOD Sandbox | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'GMOD Sandbox' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/gmod-sandbox/">
-        <meta name="twitter:title" content="GMOD Sandbox | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'GMOD Sandbox' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>GMOD Sandbox<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>46</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>46</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>1</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>97.83%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GMOD Sandbox | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'GMOD Sandbox' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/gmod-sandbox/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="GMOD Sandbox | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'GMOD Sandbox' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/gmod-sandbox/">
+    <meta name="twitter:title" content="GMOD Sandbox | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'GMOD Sandbox' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Can our bomb shelters survive an actual explosion?</td>
-      <td>2021-03-22</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-can-our-bomb-shelters-survive-an-actual-explosion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-can-our-bomb-shelters-survive-an-actual-explosion">RT</a>· <a href="https://archive.org/details/roosterteeth-42938" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42938">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Would you live on a ferris wheel?</td>
-      <td>2021-03-15</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-would-you-live-on-a-ferris-wheel" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-would-you-live-on-a-ferris-wheel">RT</a>· <a href="https://archive.org/details/roosterteeth-42844" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42844">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pitching the next big reality TV show!</td>
-      <td>2021-03-01</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-pitching-the-next-big-reality-tv-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-pitching-the-next-big-reality-tv-show">RT</a>· <a href="https://archive.org/details/roosterteeth-42643" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42643">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Design a get rich quick scheme</td>
-      <td>2021-02-22</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-design-a-get-rich-quick-scheme" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-design-a-get-rich-quick-scheme">RT</a>· <a href="https://archive.org/details/roosterteeth-42558" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42558">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Designing The Ultimate Prison</td>
-      <td>2021-02-15</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-making-inescapable-prisons" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-making-inescapable-prisons">RT</a>· <a href="https://archive.org/details/roosterteeth-42496" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42496">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fighting Grizzly Bears</td>
-      <td>2021-02-08</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-make-a-bear-fighting-suit" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-make-a-bear-fighting-suit">RT</a>· <a href="https://archive.org/details/roosterteeth-42391" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42391">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Made EXACTLY The Same Thing!</td>
-      <td>2021-02-01</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-we-made-exactly-the-same-thing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-we-made-exactly-the-same-thing">RT</a>· <a href="https://archive.org/details/roosterteeth-42299" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42299">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cursed Moana</td>
-      <td>2021-01-25</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2021-cursed-moana" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2021-cursed-moana">RT</a>· <a href="https://archive.org/details/roosterteeth-42213" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42213">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>What's It Doing To Kormit?!</td>
-      <td>2021-01-11</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-what-s-it-doing-to-kormit" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-what-s-it-doing-to-kormit">RT</a>· <a href="https://archive.org/details/roosterteeth-42053" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42053">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Build a Sexy Naked President for Xmas</td>
-      <td>2020-12-21</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-let-s-build-a-sexy-naked-president-for-xmas" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-let-s-build-a-sexy-naked-president-for-xmas">RT</a>· <a href="https://archive.org/details/roosterteeth-41817" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41817">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>What Did You Want To Be When You Grew Up?</td>
-      <td>2020-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-what-s-your-dream-job" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-what-s-your-dream-job">RT</a>· <a href="https://archive.org/details/roosterteeth-41340" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41340">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Defending the Fortress with EXPLODING GNOMES</td>
-      <td>2020-11-09</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-defending-the-fortress-with-exploding-gnomes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-defending-the-fortress-with-exploding-gnomes">RT</a>· <a href="https://archive.org/details/roosterteeth-41118" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41118">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Flying Toilet Cannon</td>
-      <td>2020-11-02</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-flying-toilet-cannon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-flying-toilet-cannon">RT</a>· <a href="https://archive.org/details/roosterteeth-41043" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41043">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Is This The New Siren Head?</td>
-      <td>2020-10-26</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-is-this-the-new-siren-head" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-is-this-the-new-siren-head">RT</a>· <a href="https://archive.org/details/roosterteeth-40943" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40943">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fixing Fantasy Games by Adding RIDICULOUS Microtransactions</td>
-      <td>2020-10-19</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-fixing-fantasy-games-by-adding-ridiculous-microtransactions" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-fixing-fantasy-games-by-adding-ridiculous-microtransactions">RT</a>· <a href="https://archive.org/details/roosterteeth-40672" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40672">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Minecraft Update We've Been Waiting For!</td>
-      <td>2020-10-12</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-finally-the-minecraft-update-we-ve-been-waiting-for-gmod-build-challenge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-finally-the-minecraft-update-we-ve-been-waiting-for-gmod-build-challenge">RT</a>· <a href="https://archive.org/details/roosterteeth-40606" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40606">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Best New Netflix Game Shows! | Gmod Build Challenge</td>
-      <td>2020-10-05</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-make-the-best-new-netflix-game-shows-gmod-build-challenge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-make-the-best-new-netflix-game-shows-gmod-build-challenge">RT</a>· <a href="https://archive.org/details/roosterteeth-40535" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40535">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Making Billions by Tricking People to Buy Air</td>
-      <td>2020-09-28</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-making-billions-by-tricking-people-to-buy-air-gmod-build-dragon-s-den-challenge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-making-billions-by-tricking-people-to-buy-air-gmod-build-dragon-s-den-challenge">RT</a>· <a href="https://archive.org/details/roosterteeth-40460" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40460">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Building an Evil Corp That Isn't Facebook, We Swear</td>
-      <td>2020-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-building-an-evil-corp-that-isn-t-facebook-we-swear" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-building-an-evil-corp-that-isn-t-facebook-we-swear">RT</a>· <a href="https://archive.org/details/roosterteeth-40257" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40257">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Fall Guys Maps That Should Totally Be In Season 2</td>
-      <td>2020-09-14</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-fall-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-fall-guys">RT</a>· <a href="https://archive.org/details/roosterteeth-40256" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40256">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Made the Torch Uruk-Hai in Lord of the Rings and Used Him to Storm a Castle | Gmod Build</td>
-      <td>2020-09-07</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-made-the-torch-uruk-hai-in-lord-of-the-rings-and-used-him-to-storm-a-castle-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-made-the-torch-uruk-hai-in-lord-of-the-rings-and-used-him-to-storm-a-castle-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-40168" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40168">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Death Stranding Downhill Sled Race</td>
-      <td>2020-08-31</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-death-stranding-downhill-sled-race" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-death-stranding-downhill-sled-race">RT</a>· <a href="https://archive.org/details/roosterteeth-39968" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39968">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>SAMUEL J JACKSON'S DRAG RACE</td>
-      <td>2020-08-24</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-samuel-j-jackson-s-drag-race" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-samuel-j-jackson-s-drag-race">RT</a>· <a href="https://archive.org/details/roosterteeth-39938" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39938">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>LEGENDARY MEDIEVAL JOUSTING!</td>
-      <td>2020-08-17</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-re-bringing-back-jousting" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-re-bringing-back-jousting">RT</a>· <a href="https://archive.org/details/roosterteeth-39830" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39830">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>WE MAKE WIZARDS</td>
-      <td>2020-08-10</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-make-battle-wizards" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-make-battle-wizards">RT</a>· <a href="https://archive.org/details/roosterteeth-39716" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39716">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>YOUR NEW FAVOURITE POKEMON</td>
-      <td>2020-08-03</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-your-new-favourite-pokemon-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-your-new-favourite-pokemon-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-39630" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39630">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>THIS IS WHAT FUTURE GAMERS WILL LOOK LIKE</td>
-      <td>2020-07-27</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-this-is-what-future-gamers-will-look-like-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-this-is-what-future-gamers-will-look-like-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-39533" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39533">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>SIPS BUILDS A KILLDOZER</td>
-      <td>2020-07-20</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-sips-builds-a-killdozer-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-sips-builds-a-killdozer-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-39407" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39407">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>JOIN OUR CULT</td>
-      <td>2020-07-13</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-join-our-cult-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-join-our-cult-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-39310" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39310">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HOW ICE CREAM IS REALLY MADE</td>
-      <td>2020-07-06</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-how-ice-cream-is-really-made-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-how-ice-cream-is-really-made-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-39213" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39213">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Built A Meme Ark</td>
-      <td>2020-06-29</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-built-a-meme-ark-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-built-a-meme-ark-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-39111" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-39111">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>PLEASURE CENTAUR</td>
-      <td>2020-06-22</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-pleasure-centaur-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-pleasure-centaur-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38998" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38998">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>MOST AMBITIOUS BOARD GAME IN HISTORY</td>
-      <td>2020-06-15</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-most-ambitious-board-game-in-history-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-most-ambitious-board-game-in-history-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38872" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38872">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BEN DID SOMETHING REALLY BAD</td>
-      <td>2020-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-ben-did-something-really-bad-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-ben-did-something-really-bad-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38757" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38757">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>WE'RE GOING TO SPAAACE</td>
-      <td>2020-06-01</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-re-going-to-spaaace-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-re-going-to-spaaace-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38677" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38677">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>This Is The Worst Thing We Have Ever Made</td>
-      <td>2020-05-25</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-jeff-bezos-is-going-to-love-this-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-jeff-bezos-is-going-to-love-this-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38539" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38539">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Built Hot Wheels</td>
-      <td>2020-05-18</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-built-hot-wheels-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-built-hot-wheels-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38435" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38435">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>ROCK 'N ROLL POPEMOBILE</td>
-      <td>2020-05-15</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-rock-n-roll-popemobile-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-rock-n-roll-popemobile-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38053" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38053">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>WOULD YOU BUY THIS HOUSE?</td>
-      <td>2020-04-30</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-would-you-buy-this-house-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-would-you-buy-this-house-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38052" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38052">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>24 HOURS TO SPEND A BILLION DOLLARS</td>
-      <td>2020-04-27</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-24-hours-to-spend-a-billion-dollars-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-24-hours-to-spend-a-billion-dollars-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38051" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38051">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>ROBOTS ENFORCING LOCKDOWN!</td>
-      <td>2020-04-20</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-robots-enforcing-lockdown-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-robots-enforcing-lockdown-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38050" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38050">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>FROGGY CHAIR IN MARIO KART?</td>
-      <td>2020-04-13</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-froggy-chair-in-mario-kart-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-froggy-chair-in-mario-kart-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38049" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38049">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>WE BUILD DEADLY PIRATE SHIPS | Gmod Build</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-we-build-deadly-pirate-ships-gmod-build" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-we-build-deadly-pirate-ships-gmod-build">RT</a>· <a href="https://archive.org/details/roosterteeth-38048" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38048">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>THE BOMB</td>
-      <td>2020-03-30</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-the-bomb-voltz-in-gmod" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-the-bomb-voltz-in-gmod">RT</a>· <a href="https://archive.org/details/roosterteeth-38231" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38231">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>It's Been 4 Years but We're Back in Gmod Dupes!</td>
-      <td>2020-03-23</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-it-s-been-4-years-but-we-re-back-in-gmod-dupes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-it-s-been-4-years-but-we-re-back-in-gmod-dupes">RT</a>· <a href="https://archive.org/details/roosterteeth-38045" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38045">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>GAMES OF THE FUTURE | Gmod Build Off</td>
-      <td>2020-01-03</td>
-      <td><a href="https://roosterteeth.com/watch/gmod-sandbox-2020-games-of-the-future-gmod-build-off" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/gmod-sandbox-2020-games-of-the-future-gmod-build-off">RT</a>· <a href="https://archive.org/details/roosterteeth-38046" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38046">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22GMOD+Sandbox%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22GMOD+Sandbox%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>GMOD Sandbox<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22GMOD+Sandbox%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22GMOD+Sandbox%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

@@ -1,857 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Castle Super Beast | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Castle Super Beast' from the Rooster Teeth website">
-        <meta name="keywords" content="Castle Super Beast, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/castle-super-beast/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Castle Super Beast | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Castle Super Beast' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/castle-super-beast/">
-        <meta name="twitter:title" content="Castle Super Beast | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Castle Super Beast' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Castle Super Beast<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>81</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>81</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Castle Super Beast | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Castle Super Beast' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/castle-super-beast/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Castle Super Beast | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Castle Super Beast' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/castle-super-beast/">
+    <meta name="twitter:title" content="Castle Super Beast | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Castle Super Beast' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gamer Hands | Castle Super Beast Clips</td>
-      <td>2022-03-12</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-gamer-hands-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-gamer-hands-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47524" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47524">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Speedrun Madness Begins! | Castle Super Beast Clips</td>
-      <td>2022-03-10</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-elden-speedrun-madness-begins-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-elden-speedrun-madness-begins-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47490" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47490">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Ring Chat Part 3 | Castle Super Beast Clips</td>
-      <td>2022-03-04</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-elden-ring-chat-part-3-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-elden-ring-chat-part-3-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47403" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47403">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Ring Chat Part 2 | Castle Super Beast Clips</td>
-      <td>2022-03-03</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-elden-ring-chat-part-2-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-elden-ring-chat-part-2-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47402" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47402">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Ring Part 1 | Castle Super Beast Clips</td>
-      <td>2022-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-elden-ring-part-1-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-elden-ring-part-1-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47377" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47377">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Street Fighter Has 6 Notifications | Castle Super Beast Clips</td>
-      <td>2022-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-street-fighter-has-6-notifications-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-street-fighter-has-6-notifications-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47276" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47276">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>MMOs Built Different | Castle Super Beast Clips</td>
-      <td>2022-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-mmos-built-different-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-mmos-built-different-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47271" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47271">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>"Immortality Is A Curse" | Castle Super Beast Clips</td>
-      <td>2022-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-immortality-is-a-curse-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-immortality-is-a-curse-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47268" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47268">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Peacemaker Dumps on DC Heroes | Castle Super Beast Clips</td>
-      <td>2022-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-peacemaker-dumps-on-dc-heroes-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-peacemaker-dumps-on-dc-heroes-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47274" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47274">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Anti Black Bear McMartial Arts | Castle Super Beast Clips</td>
-      <td>2022-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-anti-black-bear-mcmartial-arts-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-anti-black-bear-mcmartial-arts-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-47266" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47266">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Divorcee Tok | Castle Super Beast Clips</td>
-      <td>2022-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-divorcee-tok-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-divorcee-tok-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46550" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46550">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Encanto & Musicals | Castle Super Beast Clips</td>
-      <td>2022-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-encanto-musicals-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-encanto-musicals-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46549" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46549">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Don't Look Up: Preach To My Anxiety | Castle Super Beast Clips</td>
-      <td>2022-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2022-don-t-look-up-preach-to-my-anxiety-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2022-don-t-look-up-preach-to-my-anxiety-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46548" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46548">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Silent Hill 1 Holds Up | Castle Super Beast Clips</td>
-      <td>2022-01-05</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-silent-hill-1-holds-up-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-silent-hill-1-holds-up-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46432" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46432">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tom Holland, Barely Shorter Than Average King</td>
-      <td>2021-12-15</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-tom-holland-barely-shorter-than-average-king" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-tom-holland-barely-shorter-than-average-king">RT</a>· <a href="https://archive.org/details/roosterteeth-46272" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46272">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Koopy Sandwich Is Only For Purebloods | Castle Super Beast Clips</td>
-      <td>2021-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-koopy-sandwich-is-only-for-purebloods-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-koopy-sandwich-is-only-for-purebloods-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46200" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46200">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Endwalking Into The Queue  | Castle Super Beast Clips</td>
-      <td>2021-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-endwalking-into-the-queue-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-endwalking-into-the-queue-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46175" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46175">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>MCU MMO Classes | Castle Super Beast Clips</td>
-      <td>2021-12-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-mcu-mmo-classes-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-mcu-mmo-classes-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46122" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46122">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode: Just lie to execs | castle super beast clips</td>
-      <td>2021-12-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-episode-just-lie-to-execs-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-episode-just-lie-to-execs-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46121" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46121">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Least Amount Of Goku In A DBZ Game | Castle Super Beast Clips</td>
-      <td>2021-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-least-amount-of-goku-in-a-dbz-game-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-least-amount-of-goku-in-a-dbz-game-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46109" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46109">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>I Refuse To Carry That Weight | Castle Super Beast Clips</td>
-      <td>2021-11-26</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-i-refuse-to-carry-that-weight-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-i-refuse-to-carry-that-weight-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46073" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46073">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>There Is No Ethical Consumption | Castle Super Beast Clips</td>
-      <td>2021-11-24</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-there-is-no-ethical-consumption-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-there-is-no-ethical-consumption-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46057" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46057">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The New World Miracle Class Bugs | Castle Super Beast Clips</td>
-      <td>2021-11-22</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-new-world-miracle-class-bugs-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-new-world-miracle-class-bugs-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46006" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46006">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Grime & Filth Of SMTV | Castle Super Beast Clips</td>
-      <td>2021-11-22</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-grime-filth-of-smtv-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-grime-filth-of-smtv-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-46005" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46005">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>GTA 3: The Definitive Dumpster Fire | Castle Super Beast Clips</td>
-      <td>2021-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-gta-3-the-definitive-dumpster-fire-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-gta-3-the-definitive-dumpster-fire-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-45994" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45994">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Shang-Chi Erased Iron Fist | Castle Super Beast Clips</td>
-      <td>2021-11-17</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-shang-chi-erased-iron-fist-castle-super-beast-clips" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-shang-chi-erased-iron-fist-castle-super-beast-clips">RT</a>· <a href="https://archive.org/details/roosterteeth-45960" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45960">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Castle Super Beast</td>
-      <td>2021-07-15</td>
-      <td><a href="https://roosterteeth.com/watch/rtx-2021-castle-super-beast" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/rtx-2021-castle-super-beast">RT</a>· <a href="https://archive.org/details/roosterteeth-44463" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44463">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nioh 1: More Systems</td>
-      <td>2021-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-nioh-1-more-systems" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-nioh-1-more-systems">RT</a>· <a href="https://archive.org/details/roosterteeth-42663" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42663">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Final Fantasy 7: Gackt Crisis</td>
-      <td>2021-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-final-fantasy-7-gackt-crisis" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-final-fantasy-7-gackt-crisis">RT</a>· <a href="https://archive.org/details/roosterteeth-42662" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42662">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Leaks</td>
-      <td>2021-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021">RT</a>· <a href="https://archive.org/details/roosterteeth-42660" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42660">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pokemon: It's Pokemon</td>
-      <td>2021-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-pokemon-it-s-pokemon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-pokemon-it-s-pokemon">RT</a>· <a href="https://archive.org/details/roosterteeth-42664" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42664">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pat Proposed!</td>
-      <td>2021-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-pat-proposed" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-pat-proposed">RT</a>· <a href="https://archive.org/details/roosterteeth-42637" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42637">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Dissident</td>
-      <td>2021-02-18</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-dissident" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-dissident">RT</a>· <a href="https://archive.org/details/roosterteeth-42532" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42532">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Don't Drop Nioh</td>
-      <td>2021-02-18</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-don-t-drop-nioh" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-don-t-drop-nioh">RT</a>· <a href="https://archive.org/details/roosterteeth-42531" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42531">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Final Fantasy 14: Endwalker Announced</td>
-      <td>2021-02-15</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-final-fantasy-14-endwalker-announced" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-final-fantasy-14-endwalker-announced">RT</a>· <a href="https://archive.org/details/roosterteeth-42498" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42498">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>You Didn't Earn My Points</td>
-      <td>2021-02-12</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-you-didn-t-earn-my-points" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-you-didn-t-earn-my-points">RT</a>· <a href="https://archive.org/details/roosterteeth-42456" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42456">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Butt Effect</td>
-      <td>2021-02-11</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-butt-effect" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-butt-effect">RT</a>· <a href="https://archive.org/details/roosterteeth-42433" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42433">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Goat of Goats: Athletes</td>
-      <td>2021-02-09</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-goat-of-goats-athletes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-goat-of-goats-athletes">RT</a>· <a href="https://archive.org/details/roosterteeth-42415" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42415">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Return Of The Beat 'Em Up</td>
-      <td>2021-02-08</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-return-of-the-beat-em-up" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-return-of-the-beat-em-up">RT</a>· <a href="https://archive.org/details/roosterteeth-42390" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42390">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Perfect Jump Button</td>
-      <td>2021-02-05</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-perfect-jump-button" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-perfect-jump-button">RT</a>· <a href="https://archive.org/details/roosterteeth-42365" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42365">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stadia:Final</td>
-      <td>2021-02-03</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-stadia-final" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-stadia-final">RT</a>· <a href="https://archive.org/details/roosterteeth-42323" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42323">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Mediocre Medium</td>
-      <td>2021-02-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-mediocre-medium" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-mediocre-medium">RT</a>· <a href="https://archive.org/details/roosterteeth-42309" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42309">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hedge Funds VS Infinite Spite</td>
-      <td>2021-02-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-hedge-funds-vs-infinite-spite" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-hedge-funds-vs-infinite-spite">RT</a>· <a href="https://archive.org/details/roosterteeth-42308" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42308">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tencent Is Plotting</td>
-      <td>2021-01-31</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-tencent-is-plotting" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-tencent-is-plotting">RT</a>· <a href="https://archive.org/details/roosterteeth-42295" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42295">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Money Isn't Real</td>
-      <td>2021-01-31</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-money-isn-t-real" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-money-isn-t-real">RT</a>· <a href="https://archive.org/details/roosterteeth-42294" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42294">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stats Are Toxic</td>
-      <td>2021-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-stats-are-toxic" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-stats-are-toxic">RT</a>· <a href="https://archive.org/details/roosterteeth-42255" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42255">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Host With The Least</td>
-      <td>2021-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-the-hose-with-the-least" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-the-hose-with-the-least">RT</a>· <a href="https://archive.org/details/roosterteeth-42254" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42254">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Vagabound Finally Ends</td>
-      <td>2021-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-vagabound-finally-ends" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-vagabound-finally-ends">RT</a>· <a href="https://archive.org/details/roosterteeth-42253" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42253">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Monster Hunter Rise Reinvents World</td>
-      <td>2021-01-13</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-monster-hunter-rise-reinvents-world" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-monster-hunter-rise-reinvents-world">RT</a>· <a href="https://archive.org/details/roosterteeth-42064" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42064">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Truly Live In A Social Society</td>
-      <td>2021-01-12</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-we-truly-live-in-a-social-society" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-we-truly-live-in-a-social-society">RT</a>· <a href="https://archive.org/details/roosterteeth-42063" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42063">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fictional Characters, Who Cares</td>
-      <td>2021-01-08</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-fictional-characters-who-cares" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-fictional-characters-who-cares">RT</a>· <a href="https://archive.org/details/roosterteeth-42022" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42022">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Today's Main Character: Bean Dad</td>
-      <td>2021-01-05</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2021-today-s-main-character-bean-dad" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2021-today-s-main-character-bean-dad">RT</a>· <a href="https://archive.org/details/roosterteeth-41994" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41994">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mandalorian Must Escape Star Wars</td>
-      <td>2020-12-30</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-mandalorian-must-escape-star-wars" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-mandalorian-must-escape-star-wars">RT</a>· <a href="https://archive.org/details/roosterteeth-41967" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41967">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Soulstice Is Upon Us</td>
-      <td>2020-12-23</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-the-soulstice-is-upon-us" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-the-soulstice-is-upon-us">RT</a>· <a href="https://archive.org/details/roosterteeth-41946" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41946">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Waku Waku 7 Vs. THE VGAs</td>
-      <td>2020-12-18</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-waku-waku-7-vs-the-vgas" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-waku-waku-7-vs-the-vgas">RT</a>· <a href="https://archive.org/details/roosterteeth-41824" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41824">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Maybe Cyberpunk In A Year</td>
-      <td>2020-12-17</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-maybe-cyberpunk-in-a-year" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-maybe-cyberpunk-in-a-year">RT</a>· <a href="https://archive.org/details/roosterteeth-41804" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41804">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>DEAD VILLAINS GO TO HEAVEN</td>
-      <td>2020-12-10</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-dead-villains-go-to-heaven" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-dead-villains-go-to-heaven">RT</a>· <a href="https://archive.org/details/roosterteeth-41664" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41664">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>PS5 DEMON'S SOULS KEPT THE GOOD BUGS</td>
-      <td>2020-12-10</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-ps5-demon-s-souls-kept-the-good-bugs" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-ps5-demon-s-souls-kept-the-good-bugs">RT</a>· <a href="https://archive.org/details/roosterteeth-41662" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41662">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>NINTENDOSAURUS</td>
-      <td>2020-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-nintendosaurus" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-nintendosaurus">RT</a>· <a href="https://archive.org/details/roosterteeth-41663" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41663">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>THE NEW KIDS ARE ALRIGHT</td>
-      <td>2020-12-03</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-the-new-kids-are-alright" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-the-new-kids-are-alright">RT</a>· <a href="https://archive.org/details/roosterteeth-41494" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41494">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BUILDING THE ROAD AS YOU RACE TO THE PUNCHLINE</td>
-      <td>2020-12-02</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-building-the-road-as-you-race-to-the-punchline" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-building-the-road-as-you-race-to-the-punchline">RT</a>· <a href="https://archive.org/details/roosterteeth-41482" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41482">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2020 Souls</td>
-      <td>2020-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-2020-souls" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-2020-souls">RT</a>· <a href="https://archive.org/details/roosterteeth-41472" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41472">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Absolute State Of XIII</td>
-      <td>2020-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-the-absolute-state-of-xiii" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-the-absolute-state-of-xiii">RT</a>· <a href="https://archive.org/details/roosterteeth-41305" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41305">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Like A Dragon Quest</td>
-      <td>2020-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-like-a-dragon-quest" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-like-a-dragon-quest">RT</a>· <a href="https://archive.org/details/roosterteeth-41258" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41258">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BugsSnax</td>
-      <td>2020-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-bugssnax" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-bugssnax">RT</a>· <a href="https://archive.org/details/roosterteeth-41248" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41248">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Watch_Puppies: Bad Code</td>
-      <td>2020-11-13</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-watch_puppies-bad-code" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-watch_puppies-bad-code">RT</a>· <a href="https://archive.org/details/roosterteeth-41174" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41174">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dubs Vs Subs: Reloaded</td>
-      <td>2020-11-11</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-dubs-vs-subs-reloaded" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-dubs-vs-subs-reloaded">RT</a>· <a href="https://archive.org/details/roosterteeth-41141" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41141">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Day Of Defeat Gun Meta</td>
-      <td>2020-11-11</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-day-of-defeat-gun-meta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-day-of-defeat-gun-meta">RT</a>· <a href="https://archive.org/details/roosterteeth-41140" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41140">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tom Cruise Is Yasuke</td>
-      <td>2020-11-07</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-tom-cruise-is-yasuke" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-tom-cruise-is-yasuke">RT</a>· <a href="https://archive.org/details/roosterteeth-41101" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41101">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Grab-Ass Terry Is Cannon</td>
-      <td>2020-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-grab-ass-terry-is-cannon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-grab-ass-terry-is-cannon">RT</a>· <a href="https://archive.org/details/roosterteeth-41065" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41065">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mark's Uncharted Facial Hair</td>
-      <td>2020-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-mark-s-uncharted-facial-hair" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-mark-s-uncharted-facial-hair">RT</a>· <a href="https://archive.org/details/roosterteeth-41042" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41042">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Return To Pandora</td>
-      <td>2020-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-return-to-pandora" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-return-to-pandora">RT</a>· <a href="https://archive.org/details/roosterteeth-41040" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41040">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stadia Man, Main Character Of Twitter</td>
-      <td>2020-10-30</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-stadia-man-main-character-of-twitter" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-stadia-man-main-character-of-twitter">RT</a>· <a href="https://archive.org/details/roosterteeth-41014" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41014">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>My Favorite Call Of Duty Is The Least Call Of Duty</td>
-      <td>2020-10-29</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-my-favorite-call-of-duty-is-the-least-call-of-duty" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-my-favorite-call-of-duty-is-the-least-call-of-duty">RT</a>· <a href="https://archive.org/details/roosterteeth-41009" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41009">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>I Stayed Because They Had Pizza</td>
-      <td>2020-10-28</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-i-stayed-because-they-had-pizza" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-i-stayed-because-they-had-pizza">RT</a>· <a href="https://archive.org/details/roosterteeth-40982" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40982">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Clip, Clip, BAN!</td>
-      <td>2020-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-clip-clip-ban" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-clip-clip-ban">RT</a>· <a href="https://archive.org/details/roosterteeth-40952" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40952">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Literal Imposter Syndrome</td>
-      <td>2020-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-literal-imposter-syndrome" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-literal-imposter-syndrome">RT</a>· <a href="https://archive.org/details/roosterteeth-40951" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40951">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Don't Sleep On Tim Rogers</td>
-      <td>2020-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-don-t-sleep-on-tim-rogers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-don-t-sleep-on-tim-rogers">RT</a>· <a href="https://archive.org/details/roosterteeth-40745" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40745">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Drums</td>
-      <td>2020-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-the-drums" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-the-drums">RT</a>· <a href="https://archive.org/details/roosterteeth-40744" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40744">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>GOLDEN AXED LOL RUTHLESS! *RUTHLESS CRUNCH RESUMES*</td>
-      <td>2020-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-golden-axed-lol-ruthless-ruthless-crunch-resumes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-golden-axed-lol-ruthless-ruthless-crunch-resumes">RT</a>· <a href="https://archive.org/details/roosterteeth-40770" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40770">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>STOP BEING YOU, GO BE ME</td>
-      <td>2020-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/castle-super-beast-2020-stop-being-you-go-be-me" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/castle-super-beast-2020-stop-being-you-go-be-me">RT</a>· <a href="https://archive.org/details/roosterteeth-40742" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40742">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Castle+Super+Beast%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Castle+Super+Beast%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Castle Super Beast<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Castle+Super+Beast%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Castle+Super+Beast%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

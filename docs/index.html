@@ -19,14 +19,7 @@
     <meta name="twitter:description" content="Track the progress of the Rooster Teeth website archival effort">
     <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
     <link rel="stylesheet" type="text/css" href="css/w3.css"/>
-    <style>
-        .hidden {
-            display: none;
-        }
-        table th:first-child {
-            width: 570px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
 </head>
 <body>
     <noscript>
@@ -101,7 +94,7 @@
             fetch("data.json")
                 .then((response) => response.json())
                 .then(processJSON);
-        }
+        };
 
         function processJSON(json) {
 
