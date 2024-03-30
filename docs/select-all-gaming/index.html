@@ -1,866 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Select All Gaming | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Select All Gaming' from the Rooster Teeth website">
-        <meta name="keywords" content="Select All Gaming, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/select-all-gaming/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Select All Gaming | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Select All Gaming' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/select-all-gaming/">
-        <meta name="twitter:title" content="Select All Gaming | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Select All Gaming' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Select All Gaming<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>82</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>82</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>17</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>79.27%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select All Gaming | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Select All Gaming' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/select-all-gaming/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Select All Gaming | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Select All Gaming' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/select-all-gaming/">
+    <meta name="twitter:title" content="Select All Gaming | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Select All Gaming' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Last Episode</td>
-      <td>2022-03-21</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-11">RT</a>· <a href="https://archive.org/details/roosterteeth-47590" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47590">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Ring: The Burgeois Qwan</td>
-      <td>2022-03-14</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-10">RT</a>· <a href="https://archive.org/details/roosterteeth-47509" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47509">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elden Ring</td>
-      <td>2022-03-07</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-9">RT</a>· <a href="https://archive.org/details/roosterteeth-47456" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47456">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: RGB Elytra Course</td>
-      <td>2022-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-8">RT</a>· <a href="https://archive.org/details/roosterteeth-47033" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47033">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Discord Crashed</td>
-      <td>2022-02-21</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-7">RT</a>· <a href="https://archive.org/details/roosterteeth-46899" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46899">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Trolls and Giants</td>
-      <td>2022-02-14</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-6">RT</a>· <a href="https://archive.org/details/roosterteeth-46783" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46783">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: You've got Covid AND you've got Covid...</td>
-      <td>2022-01-31</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-4">RT</a>· <a href="https://archive.org/details/roosterteeth-46634" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46634">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: The Dock of The Bay</td>
-      <td>2022-01-24</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-3">RT</a>· <a href="https://archive.org/details/roosterteeth-46575" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46575">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: The Dark Tower Ur-Ghast</td>
-      <td>2022-01-17</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-2">RT</a>· <a href="https://archive.org/details/roosterteeth-46462" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46462">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Goblin Knight Stronghold</td>
-      <td>2022-01-10</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2022-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2022-1">RT</a>· <a href="https://archive.org/details/roosterteeth-46460" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46460">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Naughty Coal Mining</td>
-      <td>2022-01-03</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-1-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-1-3">RT</a>· <a href="https://archive.org/details/roosterteeth-46382" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46382">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Elytra for All!</td>
-      <td>2021-12-27</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-12-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-12-27">RT</a>· <a href="https://archive.org/details/roosterteeth-46381" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46381">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: The End Dragon</td>
-      <td>2021-12-20</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-12-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-12-20">RT</a>· <a href="https://archive.org/details/roosterteeth-46308" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46308">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: The Village Hidden in Sam's Head</td>
-      <td>2021-12-13</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-12-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-12-13">RT</a>· <a href="https://archive.org/details/roosterteeth-46221" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46221">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Beacons and Diamonds</td>
-      <td>2021-12-06</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-12-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-12-6">RT</a>· <a href="https://archive.org/details/roosterteeth-46141" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46141">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Scavenger Hunt</td>
-      <td>2021-11-29</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-67" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-67">RT</a>· <a href="https://archive.org/details/roosterteeth-46007" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46007">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Ocean Water</td>
-      <td>2021-11-22</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-11-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-11-21">RT</a>· <a href="https://archive.org/details/roosterteeth-46000" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46000">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Ky's in the Server!</td>
-      <td>2021-11-15</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-11-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-11-15">RT</a>· <a href="https://archive.org/details/roosterteeth-45903" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45903">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Josh's Tower</td>
-      <td>2021-11-08</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-11-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-11-7">RT</a>· <a href="https://archive.org/details/roosterteeth-45828" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45828">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: One Tough Hydra</td>
-      <td>2021-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-11-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-11-1">RT</a>· <a href="https://archive.org/details/roosterteeth-45746" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45746">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Big Buff Cow Men</td>
-      <td>2021-10-25</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-10-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-10-25">RT</a>· <a href="https://archive.org/details/roosterteeth-45669" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45669">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Rose Gold and a Gamecube</td>
-      <td>2021-10-18</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-10-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-10-18">RT</a>· <a href="https://archive.org/details/roosterteeth-45586" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45586">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Search for the Warped Forest</td>
-      <td>2021-10-11</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-10-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-10-11">RT</a>· <a href="https://archive.org/details/roosterteeth-45504" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45504">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Into the Labyrinth!</td>
-      <td>2021-10-04</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-10-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-10-4">RT</a>· <a href="https://archive.org/details/roosterteeth-45433" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45433">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Nether Fortress vs The Railgun</td>
-      <td>2021-09-27</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-27">RT</a>· <a href="https://archive.org/details/roosterteeth-45356" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45356">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Sims: Party Time!</td>
-      <td>2021-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-21">RT</a>· <a href="https://archive.org/details/roosterteeth-45291" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45291">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Aurora Palace</td>
-      <td>2021-09-20</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-20">RT</a>· <a href="https://archive.org/details/roosterteeth-45275" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45275">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Splitgate</td>
-      <td>2021-09-14</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-14">RT</a>· <a href="https://archive.org/details/roosterteeth-45209" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45209">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Buster Boys</td>
-      <td>2021-09-13</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-13">RT</a>· <a href="https://archive.org/details/roosterteeth-45195" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45195">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bigfoot</td>
-      <td>2021-09-07</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-7">RT</a>· <a href="https://archive.org/details/roosterteeth-45130" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45130">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Big Snake</td>
-      <td>2021-09-06</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-9-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-9-6">RT</a>· <a href="https://archive.org/details/roosterteeth-45113" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45113">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>LIFE</td>
-      <td>2021-08-31</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-31" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-31">RT</a>· <a href="https://archive.org/details/roosterteeth-45053" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45053">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: The Smeltery</td>
-      <td>2021-08-30</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-30">RT</a>· <a href="https://archive.org/details/roosterteeth-45046" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45046">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>GeoGuessr</td>
-      <td>2021-08-24</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-24" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-24">RT</a>· <a href="https://archive.org/details/roosterteeth-44975" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44975">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Twilight Forest</td>
-      <td>2021-08-23</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-23" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-23">RT</a>· <a href="https://archive.org/details/roosterteeth-44974" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44974">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Sims: Pizza Pie</td>
-      <td>2021-08-17</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-17">RT</a>· <a href="https://archive.org/details/roosterteeth-44886" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44886">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Into the Nether</td>
-      <td>2021-08-16</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-16">RT</a>· <a href="https://archive.org/details/roosterteeth-44907" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44907">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Back 4 Blood Beta!</td>
-      <td>2021-08-10</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-10">RT</a>· <a href="https://archive.org/details/roosterteeth-44791" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44791">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft: Josh's Hole</td>
-      <td>2021-08-09</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-9">RT</a>· <a href="https://archive.org/details/roosterteeth-44771" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44771">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Minecraft</td>
-      <td>2021-08-02</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-8-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-8-2">RT</a>· <a href="https://archive.org/details/roosterteeth-44694" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44694">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Golf with your Friends</td>
-      <td>2021-07-27</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-42" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-42">RT</a>· <a href="https://archive.org/details/roosterteeth-44619" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44619">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mario Party: Fortune Favors...</td>
-      <td>2021-07-26</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-41" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-41">RT</a>· <a href="https://archive.org/details/roosterteeth-44618" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44618">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Turnip Boy Commits Tax Evasion</td>
-      <td>2021-07-21</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-7-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-7-21">RT</a>· <a href="https://archive.org/details/roosterteeth-44561" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44561">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Modded Stardew Valley: Spirit's Eve!</td>
-      <td>2021-07-18</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-7-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-7-18">RT</a>· <a href="https://archive.org/details/roosterteeth-44534" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44534">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Sims: Three Dudes & Melanie</td>
-      <td>2021-07-14</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-7-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-7-14">RT</a>· <a href="https://archive.org/details/roosterteeth-44443" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44443">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Sims: Three Dudes</td>
-      <td>2021-07-11</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-7-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-7-11">RT</a>· <a href="https://archive.org/details/roosterteeth-44406" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44406">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stardew Valley: Reset the Timeline</td>
-      <td>2021-07-07</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-7-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-7-7">RT</a>· <a href="https://archive.org/details/roosterteeth-44381" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44381">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dead By Daylight w/ Ky!</td>
-      <td>2021-07-04</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-7-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-7-4">RT</a>· <a href="https://archive.org/details/roosterteeth-44342" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44342">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Back on the Farm!</td>
-      <td>2021-06-30</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-6-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-6-30">RT</a>· <a href="https://archive.org/details/roosterteeth-44293" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44293">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>First Class Trouble w/ CheesyBlueNips</td>
-      <td>2021-06-27</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-6-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-6-27">RT</a>· <a href="https://archive.org/details/roosterteeth-44256" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44256">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mario Party</td>
-      <td>2021-06-20</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-6-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-6-20">RT</a>· <a href="https://archive.org/details/roosterteeth-44173" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44173">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Worms W.M.D</td>
-      <td>2021-06-13</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-6-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-6-13">RT</a>· <a href="https://archive.org/details/roosterteeth-44088" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44088">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>First Class Trouble w/ First Class Kerry</td>
-      <td>2021-06-06</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-6-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-6-6">RT</a>· <a href="https://archive.org/details/roosterteeth-43959" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43959">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Among Us: Town of Us</td>
-      <td>2021-05-30</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-5-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-5-30">RT</a>· <a href="https://archive.org/details/roosterteeth-43913" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43913">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>More First Class Trouble!</td>
-      <td>2021-05-26</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-5-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-5-26">RT</a>· <a href="https://archive.org/details/roosterteeth-43850" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43850">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dead by Daylight</td>
-      <td>2021-05-19</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-5-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-5-19">RT</a>· <a href="https://archive.org/details/roosterteeth-43757" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43757">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>First Class Trouble</td>
-      <td>2021-05-05</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-5-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-5-5">RT</a>· <a href="https://archive.org/details/roosterteeth-43586" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43586">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Clue/Cluedo</td>
-      <td>2021-04-29</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-28">RT</a>· <a href="https://archive.org/details/roosterteeth-43485" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43485">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Pirate Threesome</td>
-      <td>2021-04-23</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-23" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-23">RT</a>· <a href="https://archive.org/details/roosterteeth-43442" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43442">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Among Us w/ friends!</td>
-      <td>2021-04-21</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-21">RT</a>· <a href="https://archive.org/details/roosterteeth-43387" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43387">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bonus Stream</td>
-      <td>2021-04-09</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-9-bonus" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-9-bonus">RT</a>· <a href="https://archive.org/details/roosterteeth-43233" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43233">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sittin' on the Dock of the Bay</td>
-      <td>2021-04-09</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-9">RT</a>· <a href="https://archive.org/details/roosterteeth-43232" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43232">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Deep Rock Galactic w/ echochlo</td>
-      <td>2021-04-07</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-7">RT</a>· <a href="https://archive.org/details/roosterteeth-43209" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43209">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>People Love Salads</td>
-      <td>2021-04-02</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-4-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-4-2">RT</a>· <a href="https://archive.org/details/roosterteeth-43134" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43134">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Baby Park</td>
-      <td>2021-03-31</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-26">RT</a>· <a href="https://archive.org/details/roosterteeth-43113" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43113">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>William Shatner's Birthday</td>
-      <td>2021-03-22</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-22">RT</a>· <a href="https://archive.org/details/roosterteeth-43112" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43112">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bonedaddy</td>
-      <td>2021-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-19">RT</a>· <a href="https://archive.org/details/roosterteeth-43111" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43111">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chris Hates Valheim</td>
-      <td>2021-03-15</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-15">RT</a>· <a href="https://archive.org/details/roosterteeth-43110" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43110">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Taylor's Trench</td>
-      <td>2021-03-12</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-12">RT</a>· <a href="https://archive.org/details/roosterteeth-43109" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43109">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Farmer on the Block</td>
-      <td>2021-03-08</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-8">RT</a>· <a href="https://archive.org/details/roosterteeth-43108" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43108">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Into the Swamp</td>
-      <td>2021-03-05</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-5">RT</a>· <a href="https://archive.org/details/roosterteeth-43107" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43107">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Flower Dance</td>
-      <td>2021-03-01</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-3-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-3-1">RT</a>· <a href="https://archive.org/details/roosterteeth-43106" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43106">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Elder</td>
-      <td>2021-02-26</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-2-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-2-26">RT</a>· <a href="https://archive.org/details/roosterteeth-43105" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43105">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Texas Snowpocalypse Aftermath</td>
-      <td>2021-02-22</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-2-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-2-22">RT</a>· <a href="https://archive.org/details/roosterteeth-43104" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43104">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Valheim</td>
-      <td>2021-02-12</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-2-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-2-12">RT</a>· <a href="https://archive.org/details/roosterteeth-43103" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43103">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Undertaker has a name?</td>
-      <td>2021-02-08</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-2-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-2-8">RT</a>· <a href="https://archive.org/details/roosterteeth-43102" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43102">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Growing Stonks</td>
-      <td>2021-02-01</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-2-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-2-1">RT</a>· <a href="https://archive.org/details/roosterteeth-43101" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43101">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Grandpa Lied!</td>
-      <td>2021-01-25</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-1-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-1-25">RT</a>· <a href="https://archive.org/details/roosterteeth-43100" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43100">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dang it, Bobby!</td>
-      <td>2021-01-22</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-1-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-1-22">RT</a>· <a href="https://archive.org/details/roosterteeth-43099" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43099">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>New Kitchen, Same Cooks</td>
-      <td>2021-01-15</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-1-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-1-15">RT</a>· <a href="https://archive.org/details/roosterteeth-43098" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43098">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Modded Stardew Valley</td>
-      <td>2021-01-11</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-1-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-1-11">RT</a>· <a href="https://archive.org/details/roosterteeth-43097" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43097">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>King of Mario Kart</td>
-      <td>2021-01-08</td>
-      <td><a href="https://roosterteeth.com/watch/select-all-gaming-2021-1-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/select-all-gaming-2021-1-8">RT</a>· <a href="https://archive.org/details/roosterteeth-43096" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43096">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Select+All+Gaming%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Select+All+Gaming%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Select All Gaming<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Select+All+Gaming%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Select+All+Gaming%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

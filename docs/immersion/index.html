@@ -1,632 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Immersion | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Immersion' from the Rooster Teeth website">
-        <meta name="keywords" content="Immersion, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/immersion/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Immersion | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Immersion' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/immersion/">
-        <meta name="twitter:title" content="Immersion | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Immersion' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Immersion<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>56</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>56</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Immersion | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Immersion' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/immersion/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Immersion | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Immersion' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/immersion/">
+    <meta name="twitter:title" content="Immersion | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Immersion' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Fortnite in Real Life Featuring Achievement Hunter</td>
-      <td>2017-08-03</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-5-fortnite-in-real-life-featuring-achievement-hunter" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-5-fortnite-in-real-life-featuring-achievement-hunter">RT</a>· <a href="https://archive.org/details/roosterteeth-20688" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20688">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fortnite in Real Life</td>
-      <td>2017-08-02</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-5-fortnight" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-5-fortnight">RT</a>· <a href="https://archive.org/details/roosterteeth-20689" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20689">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind the Scenes of Mass Effect Immersion</td>
-      <td>2017-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-bonus-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-bonus-3">RT</a>· <a href="https://archive.org/details/roosterteeth-121-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-121-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mass Effect in Real Life</td>
-      <td>2017-04-17</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-5-mass-effect-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-5-mass-effect-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20690" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20690">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Last of Us in Real Life Featuring Funhaus</td>
-      <td>2017-03-21</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-5-q983b92" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-5-q983b92">RT</a>· <a href="https://archive.org/details/roosterteeth-21562" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-21562">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Last of Us in Real Life</td>
-      <td>2017-03-20</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-5-8-wvlh93f" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-5-8-wvlh93f">RT</a>· <a href="https://archive.org/details/roosterteeth-20691" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20691">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>NBA Jam in Real Life - Featuring Geoff and Jack</td>
-      <td>2016-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-nba-jam-in-real-life-featuring-geoff-and-jack" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-nba-jam-in-real-life-featuring-geoff-and-jack">RT</a>· <a href="https://archive.org/details/roosterteeth-20694" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20694">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>NBA Jam in Real Life - Behind the Scenes</td>
-      <td>2016-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-nba-jam-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-nba-jam-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20693" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20693">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>NBA Jam in Real Life</td>
-      <td>2016-12-07</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-nba-jam-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-nba-jam-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20695" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20695">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Surgeon Simulator in an Ambulance - Featuring Gavin and Michael</td>
-      <td>2016-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-surgeon-simulator-in-an-ambulance-featuring-gavin-and-michael" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-surgeon-simulator-in-an-ambulance-featuring-gavin-and-michael">RT</a>· <a href="https://archive.org/details/roosterteeth-20697" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20697">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Surgeon Simulator in Real Life - Behind the Scenes</td>
-      <td>2016-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-surgeon-simulator-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-surgeon-simulator-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20696" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20696">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Surgeon Simulator in Real Life</td>
-      <td>2016-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-surgeon-simulator-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-surgeon-simulator-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-23389" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23389">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Destructibles in Real Life - Behind the Scenes</td>
-      <td>2016-11-24</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-destructibles-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-destructibles-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20699" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20699">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Destructibles in Real Life - Featuring Adam and Jeremy</td>
-      <td>2016-11-24</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-destructibles-in-real-life-featuring-adam-and-jeremy" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-destructibles-in-real-life-featuring-adam-and-jeremy">RT</a>· <a href="https://archive.org/details/roosterteeth-20698" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20698">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Destructibles in Real Life</td>
-      <td>2016-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-destructibles-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-destructibles-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-22456" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22456">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Resident Evil in Real Life - Behind the Scenes</td>
-      <td>2016-11-17</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-resident-evil-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-resident-evil-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-21567" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-21567">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Resident Evil in Real Life - Featuring Lindsay and Mica</td>
-      <td>2016-11-17</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-resident-evil-in-real-life-featuring-lindsay-and-mica" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-resident-evil-in-real-life-featuring-lindsay-and-mica">RT</a>· <a href="https://archive.org/details/roosterteeth-20700" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20700">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Resident Evil in Real Life</td>
-      <td>2016-11-16</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-resident-evil-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-resident-evil-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20702" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20702">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hitman in Real Life - Featuring Chris and Bruce</td>
-      <td>2016-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-hitman-in-real-life-featuring-chris-and-bruce" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-hitman-in-real-life-featuring-chris-and-bruce">RT</a>· <a href="https://archive.org/details/roosterteeth-20703" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20703">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hitman in Real Life - Behind the Scenes</td>
-      <td>2016-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-hitman-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-hitman-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20701" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20701">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hitman in Real Life</td>
-      <td>2016-11-09</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-hitman-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-hitman-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20705" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20705">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Season 4 Trailer</td>
-      <td>2016-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-bonus-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-bonus-2">RT</a>· <a href="https://archive.org/details/roosterteeth-123-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-123-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Warthog Flip - Behind The Scenes</td>
-      <td>2016-10-13</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-the-warthog-flip-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-the-warthog-flip-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20706" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20706">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Special - Warthog Flip in Real Life</td>
-      <td>2016-10-09</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-4-special-warthog-flip-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-4-special-warthog-flip-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20707" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20707">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Space Invaders In Real Life – Featuring Barbara and Lindsay</td>
-      <td>2016-02-17</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-space-invaders-in-real-life-featuring-barbara-and-lindsay" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-space-invaders-in-real-life-featuring-barbara-and-lindsay">RT</a>· <a href="https://archive.org/details/roosterteeth-20708" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20708">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Space Invaders in Real Life - Behind the Scenes</td>
-      <td>2016-02-14</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-space-invaders-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-space-invaders-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20709" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20709">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Space Invaders in Real Life</td>
-      <td>2016-02-07</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-space-invaders-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-space-invaders-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20710" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20710">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Star Wars Jetpacks in Real Life - Behind the Scenes</td>
-      <td>2016-01-31</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-star-wars-jetpacks-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-star-wars-jetpacks-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-22459" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22459">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Star Wars Jetpacks in Real Life</td>
-      <td>2016-01-24</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-jetpack" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-jetpack">RT</a>· <a href="https://archive.org/details/roosterteeth-20712" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20712">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Metal Gear Solid in Real Life - Featuring Chris and Aaron</td>
-      <td>2016-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life-2">RT</a>· <a href="https://archive.org/details/roosterteeth-20713" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20713">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Metal Gear Solid in Real Life - Behind the Scenes</td>
-      <td>2016-01-17</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20714" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20714">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Metal Gear Solid in Real Life - Extended Cut</td>
-      <td>2016-01-13</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life-extended-cut" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life-extended-cut">RT</a>· <a href="https://archive.org/details/roosterteeth-20715" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20715">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Metal Gear Solid in Real Life</td>
-      <td>2016-01-10</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-metal-gear-solid-in-real-life">RT</a>· <a href="https://archive.org/details/roosterteeth-20716" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20716">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Next Time on Immersion - Metal Gear Solid in Real Life</td>
-      <td>2016-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-next-time-on-immersion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-next-time-on-immersion">RT</a>· <a href="https://archive.org/details/roosterteeth-20717" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20717">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Five Nights at Freddy's In Real Life - Extended Cut</td>
-      <td>2015-11-25</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s-in-real-life-extended-cut" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s-in-real-life-extended-cut">RT</a>· <a href="https://archive.org/details/roosterteeth-20718" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20718">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Five Nights at Freddy's In Real Life - Behind the Scenes</td>
-      <td>2015-11-20</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20719" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20719">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Five Nights at Freddy's In Real Life - Featuring Barbara and Lindsay</td>
-      <td>2015-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s-featuring-barbara-and-lindsay" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s-featuring-barbara-and-lindsay">RT</a>· <a href="https://archive.org/details/roosterteeth-20720" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20720">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Five Nights at Freddy's In Real Life</td>
-      <td>2015-11-18</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-five-nights-at-freddy-s">RT</a>· <a href="https://archive.org/details/roosterteeth-20721" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20721">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fallout 4 In Real Life - Behind the Scenes</td>
-      <td>2015-11-11</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-fallout-4-in-real-life-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-fallout-4-in-real-life-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-20723" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20723">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fallout 4 In Real Life - The Finale</td>
-      <td>2015-11-05</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-open-world-part-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-open-world-part-2">RT</a>· <a href="https://archive.org/details/roosterteeth-20724" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20724">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fallout 4 In Real Life</td>
-      <td>2015-11-02</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-3-fallout" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-3-fallout">RT</a>· <a href="https://archive.org/details/roosterteeth-20725" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20725">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mario Kart</td>
-      <td>2014-05-16</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-2-immersion-mario-kart" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-2-immersion-mario-kart">RT</a>· <a href="https://archive.org/details/roosterteeth-23393" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23393">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pacman</td>
-      <td>2014-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-2-immersion-pacman" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-2-immersion-pacman">RT</a>· <a href="https://archive.org/details/roosterteeth-20727" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20727">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Split Screen - Behind the Scenes</td>
-      <td>2014-04-11</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-2-immersion-split-screen-behind-the-scenes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-2-immersion-split-screen-behind-the-scenes">RT</a>· <a href="https://archive.org/details/roosterteeth-22471" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22471">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Split Screen</td>
-      <td>2014-04-02</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-2-immersion-split-screen" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-2-immersion-split-screen">RT</a>· <a href="https://archive.org/details/roosterteeth-20728" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20728">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Simulation Racer</td>
-      <td>2013-05-22</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-2-immersion-simulation-racer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-2-immersion-simulation-racer">RT</a>· <a href="https://archive.org/details/roosterteeth-20729" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20729">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Horde Mode</td>
-      <td>2011-06-18</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-horde-mode" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-horde-mode">RT</a>· <a href="https://archive.org/details/roosterteeth-25312" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-25312">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Video Game Foods : Director Commentary</td>
-      <td>2011-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-bonus-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-bonus-1">RT</a>· <a href="https://archive.org/details/roosterteeth-122-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-122-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Zombie Headshots</td>
-      <td>2011-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-zombie-headshots" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-zombie-headshots">RT</a>· <a href="https://archive.org/details/roosterteeth-20732" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20732">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Video Game Foods</td>
-      <td>2010-12-30</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-video-game-foods" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-video-game-foods">RT</a>· <a href="https://archive.org/details/roosterteeth-20733" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20733">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Video Game Inventory Systems</td>
-      <td>2010-12-23</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-video-game-inventory-systems" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-video-game-inventory-systems">RT</a>· <a href="https://archive.org/details/roosterteeth-20734" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20734">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Side Scroller</td>
-      <td>2010-12-15</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-side-scroller" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-side-scroller">RT</a>· <a href="https://archive.org/details/roosterteeth-20735" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20735">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fighting Girl Clothes</td>
-      <td>2010-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-fighting-girl-clothes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-fighting-girl-clothes">RT</a>· <a href="https://archive.org/details/roosterteeth-20736" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20736">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Online Gaming Distractions</td>
-      <td>2010-12-02</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-online-gaming-distractions" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-online-gaming-distractions">RT</a>· <a href="https://archive.org/details/roosterteeth-20737" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20737">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Video Game Car</td>
-      <td>2010-11-25</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-the-video-game-car" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-the-video-game-car">RT</a>· <a href="https://archive.org/details/roosterteeth-20739" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20739">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pilot</td>
-      <td>2010-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/immersion-season-1-pilot" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/immersion-season-1-pilot">RT</a>· <a href="https://archive.org/details/roosterteeth-20740" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-20740">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Immersion%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Immersion%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Immersion<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Immersion%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Immersion%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

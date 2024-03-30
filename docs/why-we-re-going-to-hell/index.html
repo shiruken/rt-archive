@@ -1,416 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Why We're Going to Hell | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Why We're Going to Hell' from the Rooster Teeth website">
-        <meta name="keywords" content="Why We're Going to Hell, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/why-we-re-going-to-hell/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Why We're Going to Hell | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Why We're Going to Hell' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/why-we-re-going-to-hell/">
-        <meta name="twitter:title" content="Why We're Going to Hell | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Why We're Going to Hell' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Why We're Going to Hell<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>32</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>32</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Why We're Going to Hell | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Why We're Going to Hell' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/why-we-re-going-to-hell/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Why We're Going to Hell | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Why We're Going to Hell' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/why-we-re-going-to-hell/">
+    <meta name="twitter:title" content="Why We're Going to Hell | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Why We're Going to Hell' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cole Gallian is One Sick Dude</td>
-      <td>2021-11-28</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-cole-gallian" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-cole-gallian">RT</a>· <a href="https://archive.org/details/roosterteeth-46050" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46050">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Worst Thanksgiving Ever</td>
-      <td>2021-11-21</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-zach-anner" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-zach-anner">RT</a>· <a href="https://archive.org/details/roosterteeth-45989" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45989">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our Cringiest High School Confessions</td>
-      <td>2021-11-14</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfhps-11-10-brandon-farmahini" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfhps-11-10-brandon-farmahini">RT</a>· <a href="https://archive.org/details/roosterteeth-45894" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45894">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>How To Workout Like an Idiot</td>
-      <td>2021-11-07</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-eddy-rivas" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-eddy-rivas">RT</a>· <a href="https://archive.org/details/roosterteeth-45818" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45818">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cheating at Game Night!</td>
-      <td>2021-10-31</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-10-28-barbara" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-10-28-barbara">RT</a>· <a href="https://archive.org/details/roosterteeth-45748" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45748">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Remembering our E3 Nightmares</td>
-      <td>2021-10-24</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-tamoor-lucy-post-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-tamoor-lucy-post-show">RT</a>· <a href="https://archive.org/details/roosterteeth-45664" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45664">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Vomiting in the Sky</td>
-      <td>2021-10-17</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-10-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-10-14">RT</a>· <a href="https://archive.org/details/roosterteeth-45580" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45580">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mike the Candy Man</td>
-      <td>2021-10-10</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-snowbike-mike" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-snowbike-mike">RT</a>· <a href="https://archive.org/details/roosterteeth-45516" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45516">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sleeping Through a Baptism</td>
-      <td>2021-10-03</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-sleep-paralysis" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-sleep-paralysis">RT</a>· <a href="https://archive.org/details/roosterteeth-45417" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45417">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Couple's Goals... IN HELL</td>
-      <td>2021-09-26</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-jessica-devin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-jessica-devin">RT</a>· <a href="https://archive.org/details/roosterteeth-45349" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45349">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Scaring People so Badly They Go to the Hospital</td>
-      <td>2021-09-19</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-tom-booker" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-tom-booker">RT</a>· <a href="https://archive.org/details/roosterteeth-45261" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45261">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>I Want To Speak To The Manager</td>
-      <td>2021-09-12</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-lindsay" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-lindsay">RT</a>· <a href="https://archive.org/details/roosterteeth-45182" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45182">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>An Evil Prank With a Highschool Crush</td>
-      <td>2021-09-05</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-virgin-horror" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-virgin-horror">RT</a>· <a href="https://archive.org/details/roosterteeth-45119" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45119">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dumb Video Game Purchases with Steven Spohn</td>
-      <td>2021-08-29</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-8-26-stephen-spohn" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-8-26-stephen-spohn">RT</a>· <a href="https://archive.org/details/roosterteeth-45028" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45028">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Charlotte is Too Old for Halloween</td>
-      <td>2021-08-22</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-8-19-charlotte" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-8-19-charlotte">RT</a>· <a href="https://archive.org/details/roosterteeth-44960" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44960">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Eric Runs The Show</td>
-      <td>2021-08-15</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-eric-b" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-eric-b">RT</a>· <a href="https://archive.org/details/roosterteeth-44878" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44878">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Car Chases and Road Rage</td>
-      <td>2021-08-08</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-post-show-ky" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-post-show-ky">RT</a>· <a href="https://archive.org/details/roosterteeth-44765" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44765">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Travel Stories From Hell</td>
-      <td>2021-07-25</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-7-26-kdin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-7-26-kdin">RT</a>· <a href="https://archive.org/details/roosterteeth-44609" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44609">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Breaking into Our Own Houses</td>
-      <td>2021-06-27</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-realtor-from-hell" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-realtor-from-hell">RT</a>· <a href="https://archive.org/details/roosterteeth-44260" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44260">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Austin's Awful Dating Scene</td>
-      <td>2021-06-20</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-love-guru" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-love-guru">RT</a>· <a href="https://archive.org/details/roosterteeth-44171" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44171">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Backstage Pass(ed out)</td>
-      <td>2021-06-06</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-5-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-5-30">RT</a>· <a href="https://archive.org/details/roosterteeth-43978" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43978">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Matt Bragg Attacked Strangers Using Hornets</td>
-      <td>2021-05-23</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-ps-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-ps-11">RT</a>· <a href="https://archive.org/details/roosterteeth-43810" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43810">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elyse Steals Food and Chris Calls the Cops</td>
-      <td>2021-05-16</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-episode-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-episode-10">RT</a>· <a href="https://archive.org/details/roosterteeth-43722" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43722">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>D&D Ended Gus' Friendship</td>
-      <td>2021-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-09" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-gmfh-ps-09">RT</a>· <a href="https://archive.org/details/roosterteeth-43557" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43557">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jack’s Most Hated Theme Park Ride</td>
-      <td>2021-04-25</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-4-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-4-25">RT</a>· <a href="https://archive.org/details/roosterteeth-43473" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43473">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Worst Live Theater **** Up in History</td>
-      <td>2021-04-18</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-4-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-4-18">RT</a>· <a href="https://archive.org/details/roosterteeth-43362" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43362">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Alfredo’s Sports Fail that Ended in Love and Weird People in Costumes</td>
-      <td>2021-04-11</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-4-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-4-11">RT</a>· <a href="https://archive.org/details/roosterteeth-43270" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43270">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mariel's Terrible Celebrity Encounter</td>
-      <td>2021-03-21</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-05" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-05">RT</a>· <a href="https://archive.org/details/roosterteeth-42929" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42929">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Geoff Ramsey is the Worst Thief in the World</td>
-      <td>2021-03-14</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-3-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-3-14">RT</a>· <a href="https://archive.org/details/roosterteeth-42831" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42831">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Why You Shouldn’t Date Gus or Jon</td>
-      <td>2021-03-07</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-03" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-03">RT</a>· <a href="https://archive.org/details/roosterteeth-42740" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42740">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Choking Dudes Out with Jeremy Dooley</td>
-      <td>2021-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-post-show-02" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-post-show-02">RT</a>· <a href="https://archive.org/details/roosterteeth-42613" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42613">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Serial Train Barfer Maria DeCotis</td>
-      <td>2021-02-28</td>
-      <td><a href="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-post-show-01" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/why-we-re-going-to-hell-2021-post-show-01">RT</a>· <a href="https://archive.org/details/roosterteeth-42612" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42612">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Why+We%27re+Going+to+Hell%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Why+We%27re+Going+to+Hell%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Why We're Going to Hell<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Why+We%27re+Going+to+Hell%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Why+We%27re+Going+to+Hell%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

@@ -3,7 +3,8 @@ from urllib.parse import urlencode
 import re
 import csv
 import pandas as pd
-from pathlib import Path
+import json
+from string import Template
 
 
 def identify_missing_incomplete():
@@ -124,317 +125,72 @@ def generate_checklist(missing, incomplete):
 
 
 def generate_website():
-    """Generates archive progress website"""
+    """Generates Archive Progress website"""
+
     df = pd.read_csv("data/checklist.csv")
-    df_show_slugs = pd.read_csv("data/shows.csv")
+    df_show_slugs = pd.read_csv("data/shows.csv", index_col="title")
 
-    df_shows = df.groupby("show").apply(process_show, df_show_slugs=df_show_slugs, include_groups=False)
+    with open("docs/_template.html", "r") as fp:
+        html = fp.read()
+    html_template = MyTemplate(html)
+
+    def process_shows(df):
+        slug = df_show_slugs.loc[df.name].values[0]
+        summary = generate_summary(df)
+        show = pd.concat([pd.Series(slug, index=["slug"]), summary])
+        process_episodes(df, slug)
+        return show
+
+    def process_episodes(df, show_slug):
+        summary = generate_summary(df)
+        df['rt_url'] = df['rt_url'].str.replace(r'https://roosterteeth.com/watch/', "")
+        df.rename(columns={'rt_id': 'id', 'rt_url': 'slug'}, inplace=True)
+
+        output = {
+            "show": df.name,
+            "slug": show_slug,
+            "summary": summary.to_dict(),
+            "data": df.to_dict(orient="records"),
+        }
+        with open(f"docs/{show_slug}/data.json", "w") as fp:
+            json.dump(output, fp)
+
+        query = {
+            'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{df.name}"',
+            'sort': '-date'
+        }
+        show_search_url = f"https://archive.org/search?{urlencode(query)}"
+        html_new = html_template.substitute({
+            "show": df.name,
+            "show_slug": show_slug,
+            "show_search_url": show_search_url,
+        })
+        with open(f"docs/{show_slug}/index.html", "w") as fp:
+            fp.write(html_new)
+
+    def generate_summary(df):
+        output = {}
+        output['count'] = df['rt_id'].count()
+        output['uploaded'] = df['is_uploaded'].sum() + df['is_removed'].sum()
+        output['missing'] = output['count'] - output['uploaded']
+        output['incomplete'] = output['uploaded'] - df['is_complete_upload'].sum() - df['is_removed'].sum()
+        output['removed'] = df['is_removed'].sum()
+        return pd.Series(output)
+
+    df_shows = df.groupby("show").apply(process_shows, include_groups=False)
     df_shows.sort_index(key=lambda x: x.str.lower(), inplace=True)
-
     summary = generate_summary(df)
 
-    html_table = df_shows.to_html(index_names=False, index=False, border=0, escape=False,
-                                  table_id="showTable", classes="w3-table-all")
-
-    query = {
-        'query': f'scanner:"Roosterteeth Website Mirror"',
-        'sort': '-date'
+    output = {
+        "summary": summary.to_dict(),
+        "data": df_shows.reset_index().to_dict(orient="records"),
     }
-    archive_search_url = f"https://archive.org/search?{urlencode(query)}"
-
-    html_string = f"""
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="favicon.png">
-        <meta name="description" content="Track the progress of the Rooster Teeth website archival effort">
-        <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the progress of the Rooster Teeth website archival effort">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="shiruken.github.io">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/">
-        <meta name="twitter:title" content="Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the progress of the Rooster Teeth website archival effort">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="w3.css"/>
-        <style>
-            #showTable th:first-child {{
-                width: 570px;
-            }}
-        </style>
-    </head>
-    <body>
-        <header class="w3-container w3-center">
-            <h1>Rooster Teeth Website Archival Progress<h1>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>{summary['Videos']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>{summary['Uploaded']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>{summary['Missing']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>{summary['Incomplete']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>{summary['Removed']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>{summary['Availability']}</h2>
-            </div>
-        </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Show" id="search" onkeyup="search()">
-            {html_table}
-            <div class="w3-section w3-padding">
-                <a href="{archive_search_url}" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="{archive_search_url}">Search for all uploads on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>Videos:</b> Number of videos reported by the Rooster Teeth API</li>
-                    <li><b>Uploaded:</b> Number of videos that have been uploaded to Internet Archive</li>
-                    <li><b>Missing:</b> Number of videos that have not been uploaded to Internet Archive</li>
-                    <li><b>Incomplete:</b> Number of Internet Archive uploads without the expected items</li>
-                    <li><b>Removed:</b> Number of Internet Archive uploads that have been removed from the website</li>
-                    <li><b>Availability:</b> Percentage of videos that are fully uploaded and available on Internet Archive</li>
-                </ul>
-            </div>
-        </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
-        </div>
-        <script>
-            function search() {{
-                var input, filter, table, tr, td, i;
-                input = document.getElementById("search");
-                filter = input.value.toUpperCase();
-                table = document.getElementById("showTable");
-                tbody = table.getElementsByTagName("tbody")[0];
-                tr = tbody.getElementsByTagName("tr");
-                for (i = 0; i < tr.length; i++) {{
-                    td = tr[i].getElementsByTagName("td")[0];
-                    if (td) {{
-                        txtValue = td.textContent || td.innerText;
-                        if (txtValue.toUpperCase().indexOf(filter) > -1) {{
-                            tr[i].style.display = "";
-                        }} else {{
-                            tr[i].style.display = "none";
-                        }}
-                    }}
-                }}
-            }}
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    """
-
-    with open("docs/index.html", "w") as fp:
-        fp.write(html_string)
+    with open("docs/data.json", "w") as fp:
+        json.dump(output, fp)
 
 
-def generate_summary(df):
-    """Generates summary metrics for a dataframe"""
-    output = {}
-    output['Videos'] = df['rt_id'].count()
-    output['Uploaded'] = df['is_uploaded'].sum() + df['is_removed'].sum()
-    output['Missing'] = output['Videos'] - output['Uploaded']
-    output['Incomplete'] = output['Uploaded'] - df['is_complete_upload'].sum() - df['is_removed'].sum()
-    output['Removed'] = df['is_removed'].sum()
-    output['Availability'] = f"{(output['Uploaded'] - output['Incomplete'] - output['Removed']) / output['Videos']:.2%}"
-    return pd.Series(output, index=list(output.keys()))
-
-
-def process_show(df, df_show_slugs):
-    """Process data for a show"""
-    show_title = df.name
-    show_slug = df_show_slugs[df_show_slugs['title'] == show_title]['slug'].values[0]
-    show_link = f'<a href="{show_slug}" title="View archival status for show" class="w3-hover-text-red">{df.name}</a>'
-    summary = generate_summary(df)
-    show = pd.concat([pd.Series(show_link, index=["Show"]), summary])
-    generate_show_page(df, show_slug)
-    return show
-
-
-def generate_show_page(df, show_slug):
-    """Generates show page for archive progress website"""
-    show_title = df.name
-    summary = generate_summary(df)
-
-    df['FIRST'] = df['is_first'].replace({True: "⭐️", False: ""})
-    df['Uploaded'] = (df['is_uploaded'] | df['is_removed']).replace({True: "✅", False: "❌"})
-    df['Complete'] = df['is_complete_upload'].replace({True: "✅", False: "❌"})
-    df['Removed'] = df['is_removed'].replace({True: "🚨", False: ""})
-    df['Complete'] = df['Complete'].where(~df['is_removed'], "❓")
-
-    def make_links(x):
-        s = (
-            f'<a href="{x["rt_url"]}" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" '
-            f'data-umami-event="outbound-link-click" data-umami-event-link="{x["rt_url"]}">RT</a>'
-        )
-        archive_url = f"https://archive.org/details/roosterteeth-{x['rt_id']}"
-        if x['is_uploaded']:
-            s += (
-                f'· <a href="{archive_url}" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" '
-                f'data-umami-event="outbound-link-click" data-umami-event-link="{archive_url}">Archive</a>'
-            )
-        if x['is_removed']:
-            s = s.replace(">Archive<", "><s>Archive</s><")
-        return s
-
-    df['Links'] = df[['rt_id', 'rt_url', 'is_uploaded', 'is_removed']].apply(make_links, axis=1)
-
-    df.rename(columns={
-        "title": "Title",
-        "date": "Air Date",
-    }, inplace=True)
-
-    df = df[['Title', 'Air Date', 'Links', 'FIRST', 'Uploaded', 'Complete', 'Removed']]
-    html_table = df.to_html(index_names=False, index=False, border=0, escape=False,
-                            table_id="showTable", classes="w3-table-all")
-
-    query = {
-        'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{show_title}"',
-        'sort': '-date'
-    }
-    archive_search_url = f"https://archive.org/search?{urlencode(query)}"
-
-    html_string = f"""
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>{show_title} | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
-        <meta name="keywords" content="{show_title}, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/{show_slug}/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="{show_title} | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/{show_slug}/">
-        <meta name="twitter:title" content="{show_title} | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of '{show_title}' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {{
-                text-decoration: none;
-            }}
-            header div.w3-quarter {{
-                margin-top: 12px;
-            }}
-            #showTable th:first-child {{
-                width: 570px;
-            }}
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>{show_title}<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>{summary['Videos']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>{summary['Uploaded']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>{summary['Missing']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>{summary['Incomplete']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>{summary['Removed']:,}</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>{summary['Availability']}</h2>
-            </div>
-        </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            {html_table}
-            <div class="w3-section w3-padding">
-                <a href="{archive_search_url}" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="{archive_search_url}">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
-        </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
-        </div>
-        <script>
-        function search() {{
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {{
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {{
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {{
-                        tr[i].style.display = "";
-                    }} else {{
-                        tr[i].style.display = "none";
-                    }}
-                }}
-            }}
-        }}
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    """
-
-    Path(f"docs/{show_slug}").mkdir(parents=True, exist_ok=True)
-    with open(f"docs/{show_slug}/index.html", "w") as fp:
-        fp.write(html_string)
+class MyTemplate(Template):
+    delimiter = '$$'
 
 
 if __name__ == "__main__":

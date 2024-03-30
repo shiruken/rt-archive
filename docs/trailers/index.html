@@ -1,497 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Trailers | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Trailers' from the Rooster Teeth website">
-        <meta name="keywords" content="Trailers, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/trailers/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Trailers | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Trailers' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/trailers/">
-        <meta name="twitter:title" content="Trailers | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Trailers' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Trailers<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>41</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>41</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trailers | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Trailers' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/trailers/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Trailers | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Trailers' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/trailers/">
+    <meta name="twitter:title" content="Trailers | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Trailers' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Uno Infinite | Streaming Live, September 9</td>
-      <td>2022-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-uno" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-uno">RT</a>· <a href="https://archive.org/details/roosterteeth-49210" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-49210">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Aliens: Fireteam Elite - Grab Your Flamethrower and Survive the Hive!</td>
-      <td>2021-08-25</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-aliens_fireteam_elite" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-aliens_fireteam_elite">RT</a>· <a href="https://archive.org/details/roosterteeth-45002" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45002">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Don't Breathe 2 Restricted Trailer Reaction w/ Wiz and Boomstick</td>
-      <td>2021-08-05</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-dont-breathe" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-dont-breathe">RT</a>· <a href="https://archive.org/details/roosterteeth-44751" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44751">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>gen:LOCK Season 2 First Look</td>
-      <td>2021-07-25</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-sdcc-genlock" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-sdcc-genlock">RT</a>· <a href="https://archive.org/details/roosterteeth-44626" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44626">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Watch the Trailer for Mortal Kombat Now</td>
-      <td>2021-02-18</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-mortal-kombat" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-mortal-kombat">RT</a>· <a href="https://archive.org/details/roosterteeth-42601" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42601">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Vicious Circle Launch Trailer</td>
-      <td>2019-08-13</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-vc-launch-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-vc-launch-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-34486" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34486">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Vicious Circle RTX Gameplay Trailer</td>
-      <td>2019-07-05</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-vicious-circle-rtx-gameplay-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-vicious-circle-rtx-gameplay-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-33995" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-33995">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bendy and the Ink Machine Trailer</td>
-      <td>2018-11-20</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-2018-bendy-and-the-ink-machine-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-2018-bendy-and-the-ink-machine-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-29467" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29467">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY: Amity Arena Mobile Game Launch Trailer</td>
-      <td>2018-10-31</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-rwby-amity-arena-mobile-game-launch-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-rwby-amity-arena-mobile-game-launch-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-29185" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29185">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Blood Fest Red Band Trailer</td>
-      <td>2018-08-31</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-bloodfest-rb-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-bloodfest-rb-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-28453" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-28453">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Blood Fest Teaser Trailer</td>
-      <td>2018-03-07</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-bloodfest-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-bloodfest-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-24633" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-24633">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BATTLESLOTHS 2025: The Great Pizza Wars - Game Trailer</td>
-      <td>2017-06-04</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-battlesloths-2025-the-great-pizza-wars-game-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-battlesloths-2025-the-great-pizza-wars-game-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7607" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7607">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY: Grimm Eclipse Launch Trailer!</td>
-      <td>2016-07-01</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-grimm-eclipse-launch-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-grimm-eclipse-launch-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7608" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7608">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Heroes & Halfwits Trailer</td>
-      <td>2016-06-07</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-hh" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-hh">RT</a>· <a href="https://archive.org/details/roosterteeth-7609" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7609">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Day 5 Official Trailer (2016) HD</td>
-      <td>2016-06-03</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-day-5-official-trailer-2016-hd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-day-5-official-trailer-2016-hd">RT</a>· <a href="https://archive.org/details/roosterteeth-7611" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7611">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Camp Camp – Official Trailer</td>
-      <td>2016-05-27</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-camp-camp-official-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-camp-camp-official-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7612" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7612">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>DAY 5 Official Teaser Trailer (2016)</td>
-      <td>2016-05-09</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-day-5-teaser-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-day-5-teaser-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7613" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7613">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY Chibi Teaser!</td>
-      <td>2016-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-rwby-announcement" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-rwby-announcement">RT</a>· <a href="https://archive.org/details/roosterteeth-7616" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7616">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Camp Camp – Teaser Trailer</td>
-      <td>2016-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-camp-camp-teaser-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-camp-camp-teaser-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7617" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7617">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Red vs. Blue: Season 14 Introduction Trailer</td>
-      <td>2016-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-red-vs-blue-season-14-introduction-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-red-vs-blue-season-14-introduction-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7615" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7615">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Day of Doom – March 29th (Trailer)</td>
-      <td>2016-03-24</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-day-of-doom-march-29-th-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-day-of-doom-march-29-th-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7618" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7618">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Crunch Time Official Trailer [RED BAND]</td>
-      <td>2016-03-11</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-crunch-time" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-crunch-time">RT</a>· <a href="https://archive.org/details/roosterteeth-7619" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7619">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY: Grimm Eclipse - Steam Early Access</td>
-      <td>2015-12-01</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-grimm-eclipse-steam-early-access" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-grimm-eclipse-steam-early-access">RT</a>· <a href="https://archive.org/details/roosterteeth-7620" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7620">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Introducing Buff Buddies!</td>
-      <td>2015-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-introducing-buff-buddies" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-introducing-buff-buddies">RT</a>· <a href="https://archive.org/details/roosterteeth-7621" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7621">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY: Grimm Eclipse - Steam Greenlight</td>
-      <td>2015-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-grimm-eclipse-steam-greenlight" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-grimm-eclipse-steam-greenlight">RT</a>· <a href="https://archive.org/details/roosterteeth-7622" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7622">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RoosterTeeth.com & You!</td>
-      <td>2015-09-19</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-rooster-teeth-com-you" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-rooster-teeth-com-you">RT</a>· <a href="https://archive.org/details/roosterteeth-7636" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7636">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Rooster Teeth Entertainment System - Coming Soon!</td>
-      <td>2015-09-16</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-t-e-s-rooster-teeth-entertainment-system-official-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-t-e-s-rooster-teeth-entertainment-system-official-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7637" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7637">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Let's Play Live: The Documentary - Official Trailer</td>
-      <td>2015-09-03</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-let-s-play-live" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-let-s-play-live">RT</a>· <a href="https://archive.org/details/roosterteeth-7638" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7638">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Eleven Little Roosters Teaser Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-the-eleven-little-roosters-teaser-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-the-eleven-little-roosters-teaser-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7623" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7623">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Achievement Hunter Channel Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-achievement-hunter-channel-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-achievement-hunter-channel-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7625" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7625">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>X-Ray & Vav: Official Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-x-ray-vav-official-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-x-ray-vav-official-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7624" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7624">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>X-Ray and Vav: Season 2 Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-x-ray-and-vav-season-2-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-x-ray-and-vav-season-2-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7626" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7626">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Red vs. Blue: Season 13 Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-red-vs-blue-season-13-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-red-vs-blue-season-13-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7627" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7627">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lazer Team - Movie Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-lazer-team-movie-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-lazer-team-movie-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7628" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7628">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Simple Walk Into Mordor Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-a-simple-walk-into-mordor-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-a-simple-walk-into-mordor-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7629" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7629">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY Volume 2: Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-volume-2-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-volume-2-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7630" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7630">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY "Yellow" Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-yellow-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-yellow-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7631" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7631">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY: Volume 1 Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-volume-1-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-volume-1-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7632" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7632">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY "Red" Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-red-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-red-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7633" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7633">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY "Black" Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-black-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-black-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7635" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7635">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWBY "White" Trailer</td>
-      <td>2014-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-white-trailer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/trailers-season-1-r-w-b-y-white-trailer">RT</a>· <a href="https://archive.org/details/roosterteeth-7634" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7634">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Trailers%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Trailers%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Trailers<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Trailers%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Trailers%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

@@ -1,551 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Funhaus Unfiltered | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Funhaus Unfiltered' from the Rooster Teeth website">
-        <meta name="keywords" content="Funhaus Unfiltered, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/funhaus-unfiltered/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Funhaus Unfiltered | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Funhaus Unfiltered' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/funhaus-unfiltered/">
-        <meta name="twitter:title" content="Funhaus Unfiltered | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Funhaus Unfiltered' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Funhaus Unfiltered<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>47</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>47</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Funhaus Unfiltered | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Funhaus Unfiltered' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/funhaus-unfiltered/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Funhaus Unfiltered | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Funhaus Unfiltered' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/funhaus-unfiltered/">
+    <meta name="twitter:title" content="Funhaus Unfiltered | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Funhaus Unfiltered' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>(UNFILTERED) Tricking My Co-workers with Eye Tracker</td>
-      <td>2024-03-06</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-ey21nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-ey21nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-52658" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52658">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Deep in the Soak Zone of the Universal Studios Game!</td>
-      <td>2024-03-06</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-ltk205nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-ltk205nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-52282" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52282">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Santa and Napkin the Elf Ruin Christmas (UNFILTERED)</td>
-      <td>2023-12-13</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-xxxmas" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-xxxmas">RT</a>· <a href="https://archive.org/details/roosterteeth-52193" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52193">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Taking Body Blows and Fatalities in the Jank Tank</td>
-      <td>2023-09-07</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-jank2nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-jank2nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-51363" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51363">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Latvian Dating Sims and Christian Fish Racing for Free?</td>
-      <td>2023-09-06</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-freensfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-freensfw">RT</a>· <a href="https://archive.org/details/roosterteeth-51508" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51508">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Still Better Than Fallen Kingdom - We Reboot Jurassic Park in GMOD</td>
-      <td>2023-07-13</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwgmoddino" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwgmoddino">RT</a>· <a href="https://archive.org/details/roosterteeth-51221" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51221">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) You, You, You Oughta Know the Lost Games of 1995 | Abandonware Gameplay</td>
-      <td>2023-06-25</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-abandon22nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-abandon22nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-51139" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51139">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Throwing Tantrums Over a Game for Babies - Board as Hell</td>
-      <td>2023-06-23</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-8ballnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-8ballnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-51120" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51120">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>How Gross Could This Dating Sim Really Be? (UNFILTERED)</td>
-      <td>2023-06-13</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-leapnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-leapnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-51042" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51042">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) A lesson in "Rizz" with Blizz - Together BnB Gameplay</td>
-      <td>2023-05-09</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-bnbnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-bnbnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50875" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50875">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Real Men Sell Seed - Action Packed & Jacked</td>
-      <td>2023-04-09</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-apj2nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-apj2nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50684" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50684">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Does it ROCK or Not? w/ Ryan Hailey - Hi-Fi Rush Gameplay</td>
-      <td>2023-03-24</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-hifinsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-hifinsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50584" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50584">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Finally, a Video Game for Men - PlayStation Garbage</td>
-      <td>2023-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-psg5nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-psg5nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50546" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50546">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We Check Out Some Horse-Drawn Wagons in Let's Ride!</td>
-      <td>2023-03-15</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwhorsey" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwhorsey">RT</a>· <a href="https://archive.org/details/roosterteeth-50531" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50531">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We Commit Seven Deadly Sims in PlayStation Garbage</td>
-      <td>2023-03-12</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-psg4nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-psg4nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50507" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50507">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We Take a Road Trip w/ Bubsy and the Olsen Twins - Playstation Garbage</td>
-      <td>2023-02-19</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-pst1nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-pst1nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50389" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50389">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) The Quantum Realm Reveals Itself in Ant Games</td>
-      <td>2023-02-14</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwants" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwants">RT</a>· <a href="https://archive.org/details/roosterteeth-50313" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50313">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Fall in Love with the Word of the Day Valentines Special!</td>
-      <td>2023-02-12</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wotdnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wotdnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-50332" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50332">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We Debate Dry Farming VS Seed Soaking in Harvester</td>
-      <td>2023-02-09</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwharvest" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwharvest">RT</a>· <a href="https://archive.org/details/roosterteeth-50307" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50307">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Haunted House Fixer Uppers - Madison Gameplay</td>
-      <td>2022-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwmad" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwmad">RT</a>· <a href="https://archive.org/details/roosterteeth-49927" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-49927">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Funhaus Fans Play Along in Grand Theft Auto: The Musical</td>
-      <td>2022-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwgtamusic" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwgtamusic">RT</a>· <a href="https://archive.org/details/roosterteeth-49671" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-49671">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Real Life Body Horror Comes to Deadly Premonition w/ Alanah Pearce</td>
-      <td>2022-10-08</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwdeadprem16-4bc30027-882c-4fa1-95be-05439517506d" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwdeadprem16-4bc30027-882c-4fa1-95be-05439517506d">RT</a>· <a href="https://archive.org/details/roosterteeth-49517" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-49517">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Cheating Our Way Into the WWE!</td>
-      <td>2022-08-04</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwwwe2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwwwe2">RT</a>· <a href="https://archive.org/details/roosterteeth-48948" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48948">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Cocktails and Nightmares in Bartender Hustle</td>
-      <td>2022-07-31</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwdreamjob201" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwdreamjob201">RT</a>· <a href="https://archive.org/details/roosterteeth-48915" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48915">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Say Goodbye to Your Community Haus Party</td>
-      <td>2022-07-25</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwre25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwre25">RT</a>· <a href="https://archive.org/details/roosterteeth-48847" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48847">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Too Late to Cash In On NFTs? - Word of the Day</td>
-      <td>2022-07-24</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wotdshimmynsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wotdshimmynsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48823" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48823">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We Get Stepped On and We LOVE It - Word of the Day Gameplay</td>
-      <td>2022-07-17</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwwotd203" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwwotd203">RT</a>· <a href="https://archive.org/details/roosterteeth-48773" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48773">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Power Pose Your Way to Success - Community Haus Party</td>
-      <td>2022-07-11</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwre23" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwre23">RT</a>· <a href="https://archive.org/details/roosterteeth-48711" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48711">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Cryptids Are the New Crypto - Word of the Day</td>
-      <td>2022-07-10</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wotd202nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wotd202nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48705" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48705">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) What the Hell Has iamBrandon and James Davis so Scared?</td>
-      <td>2022-07-09</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-drunkobservensfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-drunkobservensfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48698" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48698">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) What's in Ryan's Mystery Box? - Community Haus Party</td>
-      <td>2022-07-04</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-re22nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-re22nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48637" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48637">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We Clobber The Brick (emotionally) - Marvel Mondays: Fantastic Four</td>
-      <td>2022-06-26</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-mmffnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-mmffnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48546" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48546">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Drama, Infidelity, and Murder in the TikTok Hype House! - Sims 4 Gameplay</td>
-      <td>2022-06-24</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-sims45nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-sims45nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48567" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48567">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Searching for Destiny 3 with Datto and TravelDanielle</td>
-      <td>2022-06-10</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-unfiltered-searching-for-destiny-3-with-datto-and-traveldanielle" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-unfiltered-searching-for-destiny-3-with-datto-and-traveldanielle">RT</a>· <a href="https://archive.org/details/roosterteeth-48405" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48405">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Revenge of the Smiff - Funhaus Public Broadcasting</td>
-      <td>2022-06-03</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-fpbjonnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-fpbjonnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48345" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48345">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Genius, Billionaire, Playboy, Philanthropist, Corpse - Iron Man Gameplay</td>
-      <td>2022-05-29</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-mmironnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-mmironnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48283" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48283">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Vaders Gonna Hate - Revenge of the Sith Gameplay</td>
-      <td>2022-05-26</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-sithnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-sithnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-48260" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48260">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) We're All Eager for the Climax of Deadly Premonition w/ Alanah Pearce</td>
-      <td>2022-05-21</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwprem11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwprem11">RT</a>· <a href="https://archive.org/details/roosterteeth-48229" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48229">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Ryan "Hollywood" Hailey Rates the Hottest TikTok Hype Houses in Minecraft!</td>
-      <td>2022-05-07</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwmineflip" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-nsfwmineflip">RT</a>· <a href="https://archive.org/details/roosterteeth-48084" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48084">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Beware The Red Seed in Deadly Premonition w/ Alanah Pearce</td>
-      <td>2022-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-deadprem8nsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-deadprem8nsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-47586" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47586">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Four Friends Enter, No Friends Leave - Pico Park Gameplay</td>
-      <td>2022-02-25</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-piconsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-piconsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-47025" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47025">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) How To Drain Your Dragon - Handler of Dragons Gameplay</td>
-      <td>2022-01-27</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-dragonhandlensfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-dragonhandlensfw">RT</a>· <a href="https://archive.org/details/roosterteeth-46601" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46601">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Russian Undressing - Lemuria Gameplay</td>
-      <td>2021-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-unlemuria" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-unlemuria">RT</a>· <a href="https://archive.org/details/roosterteeth-46080" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46080">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(UNFILTERED) Black Friday Challenge: Capitalism Makes Us Sick - Google Trends Show</td>
-      <td>2021-11-05</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-trendsun" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-trendsun">RT</a>· <a href="https://archive.org/details/roosterteeth-45801" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45801">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>(Unfiltered) We Shoot History Full of Holes in The Forgotten City!</td>
-      <td>2021-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-forgotun" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-forgotun">RT</a>· <a href="https://archive.org/details/roosterteeth-45796" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45796">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Play YOUR Watch Us Watch U Theme Songs! (Unfiltered)</td>
-      <td>2021-09-20</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wuwu221unfiltered" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-wuwu221unfiltered">RT</a>· <a href="https://archive.org/details/roosterteeth-45272" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45272">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wet Ass Cloaca - Shark Dating Sim Gameplay (Unfiltered)</td>
-      <td>2021-09-10</td>
-      <td><a href="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-sharksimnsfw" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/funhaus-unfiltered-season-1-sharksimnsfw">RT</a>· <a href="https://archive.org/details/roosterteeth-45165" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45165">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Funhaus+Unfiltered%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Funhaus+Unfiltered%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Funhaus Unfiltered<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Funhaus+Unfiltered%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Funhaus+Unfiltered%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

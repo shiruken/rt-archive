@@ -1,794 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Red vs. Blue: The Chorus Trilogy | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Red vs. Blue: The Chorus Trilogy' from the Rooster Teeth website">
-        <meta name="keywords" content="Red vs. Blue: The Chorus Trilogy, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/the-chorus-trilogy/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Red vs. Blue: The Chorus Trilogy | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Red vs. Blue: The Chorus Trilogy' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/the-chorus-trilogy/">
-        <meta name="twitter:title" content="Red vs. Blue: The Chorus Trilogy | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Red vs. Blue: The Chorus Trilogy' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Red vs. Blue: The Chorus Trilogy<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>74</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>74</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Red vs. Blue: The Chorus Trilogy | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Red vs. Blue: The Chorus Trilogy' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/the-chorus-trilogy/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Red vs. Blue: The Chorus Trilogy | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Red vs. Blue: The Chorus Trilogy' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/the-chorus-trilogy/">
+    <meta name="twitter:title" content="Red vs. Blue: The Chorus Trilogy | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Red vs. Blue: The Chorus Trilogy' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Red vs. Blue | Journal Entries 001 - 003</td>
-      <td>2022-07-14</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-the-chorus-trilogy-red-vs-blue-journal-entries-001-003" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-the-chorus-trilogy-red-vs-blue-journal-entries-001-003">RT</a>· <a href="https://archive.org/details/roosterteeth-1497-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-1497-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RVB Main Panel</td>
-      <td>2015-12-28</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-82" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-82">RT</a>· <a href="https://archive.org/details/roosterteeth-130-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-130-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Holiday Special</td>
-      <td>2015-12-23</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-81" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-81">RT</a>· <a href="https://archive.org/details/roosterteeth-129-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-129-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind the Scenes - The Art of Chorus</td>
-      <td>2015-12-13</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-77" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-77">RT</a>· <a href="https://archive.org/details/roosterteeth-52-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RvB Stunt Panel</td>
-      <td>2015-11-29</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-83" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-83">RT</a>· <a href="https://archive.org/details/roosterteeth-131-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-131-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind the Scenes: Motion Capture</td>
-      <td>2015-11-15</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-78" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-78">RT</a>· <a href="https://archive.org/details/roosterteeth-128-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-128-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind the Scenes: Music</td>
-      <td>2015-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-79" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-79">RT</a>· <a href="https://archive.org/details/roosterteeth-133-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-133-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 20: The End</td>
-      <td>2015-09-06</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-20-the-end" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-20-the-end">RT</a>· <a href="https://archive.org/details/roosterteeth-22988" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22988">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 19: The End is Near</td>
-      <td>2015-08-30</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-19-the-end-is-near" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-19-the-end-is-near">RT</a>· <a href="https://archive.org/details/roosterteeth-22989" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22989">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 18: Great Destroyers</td>
-      <td>2015-08-23</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-18-great-destroyers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-18-great-destroyers">RT</a>· <a href="https://archive.org/details/roosterteeth-22990" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22990">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 17: All or Nothing</td>
-      <td>2015-08-16</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-17-all-or-nothing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-17-all-or-nothing">RT</a>· <a href="https://archive.org/details/roosterteeth-22991" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22991">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 16: Armonia, Part Two</td>
-      <td>2015-08-02</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-16-armonia-part-two" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-16-armonia-part-two">RT</a>· <a href="https://archive.org/details/roosterteeth-22992" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22992">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 15: Armonia, Part One</td>
-      <td>2015-07-26</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-15">RT</a>· <a href="https://archive.org/details/roosterteeth-22994" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22994">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>When We Were Soldiers: 1st Place Music Video Winner - Red vs. Blue Season 13</td>
-      <td>2015-07-25</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-85" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-85">RT</a>· <a href="https://archive.org/details/roosterteeth-49-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-49-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>RWvBXAA: 3rd Place Music Video Winner - Red vs. Blue Season 13</td>
-      <td>2015-07-23</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-84" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-84">RT</a>· <a href="https://archive.org/details/roosterteeth-50-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 14: Counseling</td>
-      <td>2015-07-19</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-14">RT</a>· <a href="https://archive.org/details/roosterteeth-23243" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23243">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 13: The Thin Fed Line</td>
-      <td>2015-07-12</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-the-thin-fed-line" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-the-thin-fed-line">RT</a>· <a href="https://archive.org/details/roosterteeth-22995" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22995">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 12: Off - Key</td>
-      <td>2015-06-28</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-12">RT</a>· <a href="https://archive.org/details/roosterteeth-22996" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22996">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 11: Dish Best Served</td>
-      <td>2015-06-21</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-11">RT</a>· <a href="https://archive.org/details/roosterteeth-22997" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22997">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 10: Temple of the Key</td>
-      <td>2015-06-14</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-10">RT</a>· <a href="https://archive.org/details/roosterteeth-22998" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22998">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 9: You Better Watch Out</td>
-      <td>2015-06-07</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-9">RT</a>· <a href="https://archive.org/details/roosterteeth-22999" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-22999">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 8: Test Your Might</td>
-      <td>2015-05-24</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-8">RT</a>· <a href="https://archive.org/details/roosterteeth-23001" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23001">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 7: Locus of Control</td>
-      <td>2015-05-17</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-7">RT</a>· <a href="https://archive.org/details/roosterteeth-23548" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23548">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 6: Along Came a Spider</td>
-      <td>2015-05-10</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-6">RT</a>· <a href="https://archive.org/details/roosterteeth-23511" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23511">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 5: No Fighting in the War Room</td>
-      <td>2015-05-03</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-5">RT</a>· <a href="https://archive.org/details/roosterteeth-23002" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23002">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 4: Tourist Trap</td>
-      <td>2015-04-19</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-4">RT</a>· <a href="https://archive.org/details/roosterteeth-23003" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23003">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 3: What's Yours is Ours</td>
-      <td>2015-04-12</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-3">RT</a>· <a href="https://archive.org/details/roosterteeth-23004" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23004">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 2: Capital Assets</td>
-      <td>2015-04-05</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-2">RT</a>· <a href="https://archive.org/details/roosterteeth-23006" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23006">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 1: Prologue</td>
-      <td>2015-03-31</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-13-episode-1">RT</a>· <a href="https://archive.org/details/roosterteeth-27542" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27542">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Red vs. Blue: Season 13 Trailer</td>
-      <td>2015-03-06</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-76" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-76">RT</a>· <a href="https://archive.org/details/roosterteeth-53-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-53-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 19: You Know Who We Are</td>
-      <td>2014-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-19">RT</a>· <a href="https://archive.org/details/roosterteeth-23007" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23007">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 18: Fed vs. New</td>
-      <td>2014-09-22</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-18">RT</a>· <a href="https://archive.org/details/roosterteeth-23009" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23009">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 17: Multiple Choice</td>
-      <td>2014-09-15</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-17">RT</a>· <a href="https://archive.org/details/roosterteeth-23010" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23010">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 16: Out of the Frying Pan</td>
-      <td>2014-09-01</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-16">RT</a>· <a href="https://archive.org/details/roosterteeth-23012" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23012">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 15: Accentuate the Interrogative</td>
-      <td>2014-08-25</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-15">RT</a>· <a href="https://archive.org/details/roosterteeth-23549" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23549">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 14: Crash Site Crashers</td>
-      <td>2014-08-18</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-14">RT</a>· <a href="https://archive.org/details/roosterteeth-23217" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23217">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 13: Catch Up, No Mustard</td>
-      <td>2014-08-11</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-13">RT</a>· <a href="https://archive.org/details/roosterteeth-23013" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23013">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 12: The Reunion</td>
-      <td>2014-07-28</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-12">RT</a>· <a href="https://archive.org/details/roosterteeth-23014" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23014">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 11: Long Time No See</td>
-      <td>2014-07-21</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-11">RT</a>· <a href="https://archive.org/details/roosterteeth-23015" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23015">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 10: Cloak and Dagger</td>
-      <td>2014-07-14</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-10">RT</a>· <a href="https://archive.org/details/roosterteeth-23016" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23016">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 9: The Federal Army of Chorus</td>
-      <td>2014-07-07</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-9">RT</a>· <a href="https://archive.org/details/roosterteeth-23017" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23017">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 8: Thin Ice</td>
-      <td>2014-06-23</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-8">RT</a>· <a href="https://archive.org/details/roosterteeth-23018" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23018">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 7: Self Assessment</td>
-      <td>2014-06-16</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-7">RT</a>· <a href="https://archive.org/details/roosterteeth-23019" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23019">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 6: Reflections</td>
-      <td>2014-06-09</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-6">RT</a>· <a href="https://archive.org/details/roosterteeth-23022" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23022">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 5: Training Daze</td>
-      <td>2014-06-02</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-5">RT</a>· <a href="https://archive.org/details/roosterteeth-23023" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23023">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 4: Teaming with Problems</td>
-      <td>2014-05-19</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-4">RT</a>· <a href="https://archive.org/details/roosterteeth-23236" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23236">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 3: Something Else Entirely</td>
-      <td>2014-05-12</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-3">RT</a>· <a href="https://archive.org/details/roosterteeth-23024" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23024">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 2: Hit and Run</td>
-      <td>2014-05-06</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-2">RT</a>· <a href="https://archive.org/details/roosterteeth-23025" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23025">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 1: Oh Captains, My Captains</td>
-      <td>2014-04-28</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-12-episode-1">RT</a>· <a href="https://archive.org/details/roosterteeth-23026" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23026">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Red vs. Blue Season 12: Teaser Trailer</td>
-      <td>2014-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-75" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-75">RT</a>· <a href="https://archive.org/details/roosterteeth-132-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-132-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A Girl Named Tex by Trocadero</td>
-      <td>2014-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-70" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-70">RT</a>· <a href="https://archive.org/details/roosterteeth-135-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-135-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Season 11 Trailer</td>
-      <td>2013-11-18</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-69" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-69">RT</a>· <a href="https://archive.org/details/roosterteeth-56-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-56-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 19: Lost But Not Forgotten</td>
-      <td>2013-11-11</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-19">RT</a>· <a href="https://archive.org/details/roosterteeth-23027" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23027">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 18: Fire</td>
-      <td>2013-11-04</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-18">RT</a>· <a href="https://archive.org/details/roosterteeth-23028" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23028">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Steady Ride by Trocadero</td>
-      <td>2013-11-03</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-71" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-71">RT</a>· <a href="https://archive.org/details/roosterteeth-55-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-55-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 17: Ready... Aim...</td>
-      <td>2013-10-28</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-17">RT</a>· <a href="https://archive.org/details/roosterteeth-23029" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23029">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 16: FAQ</td>
-      <td>2013-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-16">RT</a>· <a href="https://archive.org/details/roosterteeth-23030" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23030">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 15: Neighborhood Watch</td>
-      <td>2013-10-07</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-15">RT</a>· <a href="https://archive.org/details/roosterteeth-23032" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23032">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 14: Reconciliation</td>
-      <td>2013-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-14">RT</a>· <a href="https://archive.org/details/roosterteeth-23033" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23033">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 13: +1 Follower</td>
-      <td>2013-09-23</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-13">RT</a>· <a href="https://archive.org/details/roosterteeth-23425" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23425">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 12: Finders Keepers</td>
-      <td>2013-09-09</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-12">RT</a>· <a href="https://archive.org/details/roosterteeth-23034" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23034">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 11: Worst Laid Plans</td>
-      <td>2013-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-11">RT</a>· <a href="https://archive.org/details/roosterteeth-23035" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23035">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 10: Long Live the King</td>
-      <td>2013-08-26</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-10">RT</a>· <a href="https://archive.org/details/roosterteeth-23550" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23550">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 9: A House Divided, Then Multiplied</td>
-      <td>2013-08-19</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-9">RT</a>· <a href="https://archive.org/details/roosterteeth-23036" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23036">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 8: The Grass is Greener. The Blues are Bluer.</td>
-      <td>2013-08-12</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-8">RT</a>· <a href="https://archive.org/details/roosterteeth-23038" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23038">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Red vs. Blue Blockbuster Trailer</td>
-      <td>2013-08-05</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-72" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-72">RT</a>· <a href="https://archive.org/details/roosterteeth-134-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-134-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 7: Can I Keep It?</td>
-      <td>2013-07-29</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-7">RT</a>· <a href="https://archive.org/details/roosterteeth-23039" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23039">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 6: S.O.S.</td>
-      <td>2013-07-22</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-6">RT</a>· <a href="https://archive.org/details/roosterteeth-23247" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23247">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 5: A Real Fixer Upper</td>
-      <td>2013-07-16</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-5">RT</a>· <a href="https://archive.org/details/roosterteeth-23040" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23040">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 4: Heavy Mettle</td>
-      <td>2013-07-09</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-4">RT</a>· <a href="https://archive.org/details/roosterteeth-23044" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23044">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 3: Barriers to Entry</td>
-      <td>2013-07-02</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-3">RT</a>· <a href="https://archive.org/details/roosterteeth-23045" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23045">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 2: Get Your Tucks in a Row</td>
-      <td>2013-06-25</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-2">RT</a>· <a href="https://archive.org/details/roosterteeth-23046" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23046">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 1: One-Zero-One</td>
-      <td>2013-06-15</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-season-11-episode-1">RT</a>· <a href="https://archive.org/details/roosterteeth-23047" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-23047">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Season 11 Teaser Trailer</td>
-      <td>2013-05-20</td>
-      <td><a href="https://roosterteeth.com/watch/red-vs-blue-bonus-68" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/red-vs-blue-bonus-68">RT</a>· <a href="https://archive.org/details/roosterteeth-138-bonus" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-138-bonus">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Red+vs.+Blue%3A+The+Chorus+Trilogy%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Red+vs.+Blue%3A+The+Chorus+Trilogy%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Red vs. Blue: The Chorus Trilogy<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Red+vs.+Blue%3A+The+Chorus+Trilogy%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Red+vs.+Blue%3A+The+Chorus+Trilogy%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

@@ -1,821 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>The Slow Mo Guys | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'The Slow Mo Guys' from the Rooster Teeth website">
-        <meta name="keywords" content="The Slow Mo Guys, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/the-slow-mo-guys/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="The Slow Mo Guys | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'The Slow Mo Guys' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/the-slow-mo-guys/">
-        <meta name="twitter:title" content="The Slow Mo Guys | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'The Slow Mo Guys' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>The Slow Mo Guys<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>77</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>57</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>20</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>74.03%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Slow Mo Guys | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'The Slow Mo Guys' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/the-slow-mo-guys/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="The Slow Mo Guys | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'The Slow Mo Guys' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/the-slow-mo-guys/">
+    <meta name="twitter:title" content="The Slow Mo Guys | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'The Slow Mo Guys' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Splitting Pellets with a Knife</td>
-      <td>2017-10-11</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-splitting-pellets-with-a-knife" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-splitting-pellets-with-a-knife">RT</a>· <a href="https://archive.org/details/roosterteeth-15895" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15895">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Giant 6ft Balloon Shower</td>
-      <td>2017-06-30</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-giant-6-ft-balloon-shower" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-giant-6-ft-balloon-shower">RT</a>· <a href="https://archive.org/details/roosterteeth-18035" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18035">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Crushed by a Giant 6ft Water Balloon</td>
-      <td>2017-06-07</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-crushed-by-a-giant-6-ft-water-balloon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-crushed-by-a-giant-6-ft-water-balloon">RT</a>· <a href="https://archive.org/details/roosterteeth-15896" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15896">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Diving into 1000 Mousetraps in 4K Slow Motion</td>
-      <td>2017-05-10</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-diving-into-1000-mousetraps-in-4-k-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-diving-into-1000-mousetraps-in-4-k-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15898" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15898">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Slow Mo Pellet Penetration</td>
-      <td>2017-04-16</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-pellet-penetration" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-pellet-penetration">RT</a>· <a href="https://archive.org/details/roosterteeth-15897" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15897">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6ft Rockets</td>
-      <td>2017-03-25</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-6-ft-rockets" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-6-ft-rockets">RT</a>· <a href="https://archive.org/details/roosterteeth-15899" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15899">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1200°C Molten Copper in Slow Motion</td>
-      <td>2017-03-07</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-1200-c-molten-copper-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-1200-c-molten-copper-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15900" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15900">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25 Airbag Rainbow Explosion in 4K</td>
-      <td>2017-02-10</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-25-airbag-rainbow-explosion-in-4-k" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-25-airbag-rainbow-explosion-in-4-k">RT</a>· <a href="https://archive.org/details/roosterteeth-15902" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15902">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Over-inflating Footballs in Super Slow Motion</td>
-      <td>2017-01-30</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-over-inflating-footballs-in-super-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-over-inflating-footballs-in-super-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15903" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15903">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>100mph RC Car Destruction in Slow Motion</td>
-      <td>2017-01-05</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-100-mph-rc-car-destruction-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-100-mph-rc-car-destruction-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-18110" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18110">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Football vs Face Revisited</td>
-      <td>2016-12-11</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-football-vs-face-revisited" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-football-vs-face-revisited">RT</a>· <a href="https://archive.org/details/roosterteeth-15906" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15906">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Air Pistol Vs Candle Challenge - The Slow Mo Guys</td>
-      <td>2016-11-28</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-pellet-vs-candle-challenge-the-slow-mo-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-pellet-vs-candle-challenge-the-slow-mo-guys">RT</a>· <a href="https://archive.org/details/roosterteeth-15908" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15908">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind The Scenes: Bullets vs Propellers</td>
-      <td>2016-11-22</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-behind-the-scenes-bullets-vs-propellers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-behind-the-scenes-bullets-vs-propellers">RT</a>· <a href="https://archive.org/details/roosterteeth-15907" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15907">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bullets vs Propeller in Slow Motion</td>
-      <td>2016-11-21</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-bullets-vs-propeller-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-bullets-vs-propeller-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-18033" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18033">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hydraulic Press in Slow Motion</td>
-      <td>2016-11-16</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-hydraulic-press-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-hydraulic-press-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15909" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15909">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Leg Waxing at 28,000fps - The Slow Mo Guys</td>
-      <td>2016-10-30</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-leg-waxing-at-28-000-fps-the-slow-mo-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-leg-waxing-at-28-000-fps-the-slow-mo-guys">RT</a>· <a href="https://archive.org/details/roosterteeth-18040" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18040">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Underwater Explosions at 120,000fps</td>
-      <td>2016-10-05</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-underwater-explosions-at-120-000-fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-underwater-explosions-at-120-000-fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15910" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15910">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hammer through Mirror at 120,000fps</td>
-      <td>2016-08-29</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-hammer-through-mirror-at-120000-fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-hammer-through-mirror-at-120000-fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15911" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15911">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lego Plane Crash in Slow Motion</td>
-      <td>2016-08-13</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-lego-plane-crash-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-lego-plane-crash-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15912" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15912">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Exploding Glass at 343,000fps</td>
-      <td>2016-07-17</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-glass-cracking-at-343-000-fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-glass-cracking-at-343-000-fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15913" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15913">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Exploding Spray Paint at 2500fps</td>
-      <td>2016-06-26</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-exploding-spray-paint-at-2500-fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-exploding-spray-paint-at-2500-fps">RT</a>· <a href="https://archive.org/details/roosterteeth-18072" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18072">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Slow Mo Rainbow Flame</td>
-      <td>2016-05-31</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-rainbow-flame" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-rainbow-flame">RT</a>· <a href="https://archive.org/details/roosterteeth-15914" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15914">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Corn Drill</td>
-      <td>2016-05-14</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-corn-drill" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-corn-drill">RT</a>· <a href="https://archive.org/details/roosterteeth-18075" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18075">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Inside a Giant 6ft Air Balloon</td>
-      <td>2016-05-03</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-on-a-drum-in-4-k-slow-mo-2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-on-a-drum-in-4-k-slow-mo-2">RT</a>· <a href="https://archive.org/details/roosterteeth-15915" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15915">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Paint on a Drum in 4K Slow Mo</td>
-      <td>2016-04-21</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-on-a-drum-in-4-k-slow-mo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-on-a-drum-in-4-k-slow-mo">RT</a>· <a href="https://archive.org/details/roosterteeth-15916" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15916">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>50ft Flamethrower</td>
-      <td>2016-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-50-ft-flamethrower" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-50-ft-flamethrower">RT</a>· <a href="https://archive.org/details/roosterteeth-15918" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15918">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Human Catherine Wheel In Slow Mo</td>
-      <td>2016-03-07</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-human-catherine-wheel-in-slow-mo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-human-catherine-wheel-in-slow-mo">RT</a>· <a href="https://archive.org/details/roosterteeth-15917" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15917">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tongue in Mousetrap</td>
-      <td>2016-02-07</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-tongue-in-mousetrap" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-tongue-in-mousetrap">RT</a>· <a href="https://archive.org/details/roosterteeth-18129" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18129">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Paint Spinning Drill</td>
-      <td>2016-01-18</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-spinning-drill" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-spinning-drill">RT</a>· <a href="https://archive.org/details/roosterteeth-15919" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15919">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Slow Mo Gargling Uvula</td>
-      <td>2016-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-gargling-uvula" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-gargling-uvula">RT</a>· <a href="https://archive.org/details/roosterteeth-15920" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15920">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fire-breathing Backflip with Steve-O</td>
-      <td>2015-12-19</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-fire-breathing-backflip-with-steve-o" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-fire-breathing-backflip-with-steve-o">RT</a>· <a href="https://archive.org/details/roosterteeth-18043" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18043">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mammoth Stomp</td>
-      <td>2015-12-17</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-mammoth-stomp" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-mammoth-stomp">RT</a>· <a href="https://archive.org/details/roosterteeth-18301" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18301">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Condom Challenge</td>
-      <td>2015-12-09</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-condom-challenge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-condom-challenge">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fire Tornado in Slow Motion</td>
-      <td>2015-11-22</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-fire-tornado-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-fire-tornado-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15922" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15922">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Massive Crusher</td>
-      <td>2015-11-02</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-massive-crusher" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-massive-crusher">RT</a>· <a href="https://archive.org/details/roosterteeth-15923" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15923">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Gnarly Water Spirals at 1600fps</td>
-      <td>2015-10-22</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-gnarly-water-spirals-at-1600-fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-gnarly-water-spirals-at-1600-fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15924" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15924">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jelly Tennis</td>
-      <td>2015-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-jelly-tennis" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-jelly-tennis">RT</a>· <a href="https://archive.org/details/roosterteeth-15925" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15925">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Taser Impacts on Bare Skin at 28,000fps</td>
-      <td>2015-09-19</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-taser-impacts-on-bare-skin-at-28-000-fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-taser-impacts-on-bare-skin-at-28-000-fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15926" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15926">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Match Head Bomb at 2500fps</td>
-      <td>2015-08-21</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-match-head-bomb-at-2500-fps-the-slow-mo-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-match-head-bomb-at-2500-fps-the-slow-mo-guys">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6ft Man in 6ft Giant Water Balloon</td>
-      <td>2015-07-23</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-episode-43" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-episode-43">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Explosive Oil Fire at 2500fps</td>
-      <td>2015-05-27</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-explosive-oil-fire-at-2500fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-explosive-oil-fire-at-2500fps">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lighting a Candle Without Touching It</td>
-      <td>2015-05-13</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-lighting-a-candle-without-touching-it" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-lighting-a-candle-without-touching-it">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Convertible Aerodynamics at 1000fps - The Slow Mo Guys</td>
-      <td>2015-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-convertible-aerodynamics-at-1000fps-the-slow-mo-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-convertible-aerodynamics-at-1000fps-the-slow-mo-guys">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hypnotic Ink Physics in 4K Slow Motion</td>
-      <td>2015-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-hypnotic-ink-physics-in-4k-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-hypnotic-ink-physics-in-4k-slow-motion">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tiny Plasma Cutter in Slow Motion</td>
-      <td>2014-12-10</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-tiny-plasma-cutter-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-tiny-plasma-cutter-in-slow-motion">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Non-Newtonian Fluid in Slow Motion</td>
-      <td>2014-11-06</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-non-newtonian-fluid-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-non-newtonian-fluid-in-slow-motion">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Imploding Drum</td>
-      <td>2014-09-11</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-imploding-drum" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-imploding-drum">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Catching a Bullet with a Watermelon</td>
-      <td>2014-08-22</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-catching-a-bullet-with-a-watermelon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-catching-a-bullet-with-a-watermelon">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Leaping Slow Motion Doggy</td>
-      <td>2014-08-12</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-leaping-slow-motion-doggy" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-leaping-slow-motion-doggy">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Slow Motion Vomit</td>
-      <td>2014-07-28</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-motion-vomit" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-motion-vomit">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Giant Bubbles Popping in Slow Motion</td>
-      <td>2014-06-18</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-giant-bubbles-popping-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-giant-bubbles-popping-in-slow-motion">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Swim Cap Trick in Slow Motion</td>
-      <td>2014-05-13</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-swim-cap-trick-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-swim-cap-trick-in-slow-motion">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cannon Firing in Slow Motion</td>
-      <td>2014-04-22</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-cannon-firing-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-cannon-firing-in-slow-motion">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mousetrap Chain Reaction</td>
-      <td>2014-03-28</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-mousetrap-chain-reaction" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-mousetrap-chain-reaction">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Airbag</td>
-      <td>2014-03-09</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-airbag" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-airbag">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fully Automatic Assault Rifle at 18,000fps</td>
-      <td>2014-02-18</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-fully-automatic-assault-rifle-at-18000fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-fully-automatic-assault-rifle-at-18000fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15941" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15941">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Melon Fragmentation at 2500fps</td>
-      <td>2014-01-21</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-melon-fragmentation-at-2500fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-melon-fragmentation-at-2500fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15942" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15942">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Super Hydrophobic Surface and Magnetic Liquid</td>
-      <td>2014-01-06</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-super-hydrophobic-surface-and-magnetic-liquid" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-super-hydrophobic-surface-and-magnetic-liquid">RT</a>· <a href="https://archive.org/details/roosterteeth-15943" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15943">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Beer Bottle Trick at 2500fps - The Slow Mo Guys</td>
-      <td>2013-12-05</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-beer-bottle-trick-at-2500fps-the-slow-mo-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-beer-bottle-trick-at-2500fps-the-slow-mo-guys">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Slow Mo Car Explosion - The Slow Mo Guys</td>
-      <td>2013-09-16</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-car-explosion-the-slow-mo-guys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-slow-mo-car-explosion-the-slow-mo-guys">RT</a></td>
-      <td></td>
-      <td>❌</td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Behind the Scenes of the RTX Water Balloon Fight</td>
-      <td>2013-08-10</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-behind-the-scenes-of-the-rtx-water-balloon-fight" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-behind-the-scenes-of-the-rtx-water-balloon-fight">RT</a>· <a href="https://archive.org/details/roosterteeth-15948" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15948">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Water Balloon Fight with 1500 people Starring Freddie Wong</td>
-      <td>2013-08-09</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-water-balloon-fight-with-1500-people-starring-freddie-wong" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-water-balloon-fight-with-1500-people-starring-freddie-wong">RT</a>· <a href="https://archive.org/details/roosterteeth-18342" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18342">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Underwater Bullets at 27,000fps</td>
-      <td>2013-07-23</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-underwater-bullets-at-27000fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-underwater-bullets-at-27000fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15949" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15949">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Crossbow vs Dr Pepper TEN at 2500fps</td>
-      <td>2013-06-17</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-crossbow-vs-dr-pepper-ten-at-2500fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-crossbow-vs-dr-pepper-ten-at-2500fps">RT</a>· <a href="https://archive.org/details/roosterteeth-18348" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18348">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Surface Tension Droplets at 2500fps</td>
-      <td>2013-06-04</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-surface-tension-droplets-at-2500fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-surface-tension-droplets-at-2500fps">RT</a>· <a href="https://archive.org/details/roosterteeth-18352" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18352">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Banger Week Day 5 - Giant Paint Explosion</td>
-      <td>2013-05-03</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-5-giant-paint-explosion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-5-giant-paint-explosion">RT</a>· <a href="https://archive.org/details/roosterteeth-15950" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15950">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Banger Week Day 4 - Planet Earth</td>
-      <td>2013-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-4-planet-earth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-4-planet-earth">RT</a>· <a href="https://archive.org/details/roosterteeth-15951" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15951">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Banger Week Day 3 - Lego House</td>
-      <td>2013-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-3-lego-house" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-3-lego-house">RT</a>· <a href="https://archive.org/details/roosterteeth-18082" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18082">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Banger Week Day 2 - Bowl of Cereal</td>
-      <td>2013-04-30</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-2-bowl-of-cereal" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-day-2-bowl-of-cereal">RT</a>· <a href="https://archive.org/details/roosterteeth-15952" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15952">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Banger Week - Exploding Fertility Statue</td>
-      <td>2013-04-29</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-exploding-fertility-statue" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-banger-week-exploding-fertility-statue">RT</a>· <a href="https://archive.org/details/roosterteeth-15953" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15953">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Paint Exploding at 15,000fps</td>
-      <td>2013-04-11</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-exploding-at-15000fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-paint-exploding-at-15000fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15954" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15954">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jackie Chan Coin Challenge</td>
-      <td>2013-03-29</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-jackie-chan-coin-challenge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-jackie-chan-coin-challenge">RT</a>· <a href="https://archive.org/details/roosterteeth-15955" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15955">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cat Jumping in Slow Motion</td>
-      <td>2013-03-21</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-cat-jumping-in-slow-motion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-cat-jumping-in-slow-motion">RT</a>· <a href="https://archive.org/details/roosterteeth-15956" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15956">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tuning Fork at 1600fps</td>
-      <td>2013-03-14</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-tuning-fork-at-1600fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-tuning-fork-at-1600fps">RT</a>· <a href="https://archive.org/details/roosterteeth-18088" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-18088">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Smashing a TV with a Hammer</td>
-      <td>2013-03-07</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-smashing-a-tv-with-a-hammer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-smashing-a-tv-with-a-hammer">RT</a>· <a href="https://archive.org/details/roosterteeth-15957" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15957">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Exploding lighters at 1000fps</td>
-      <td>2013-02-27</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-exploding-lighters-at-1000fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-exploding-lighters-at-1000fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15958" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15958">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bubble bursting at 18,000fps</td>
-      <td>2013-02-20</td>
-      <td><a href="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-bubble-bursting-at-18000fps" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-slow-mo-guys-season-1-bubble-bursting-at-18000fps">RT</a>· <a href="https://archive.org/details/roosterteeth-15959" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-15959">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22The+Slow+Mo+Guys%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22The+Slow+Mo+Guys%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>The Slow Mo Guys<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22The+Slow+Mo+Guys%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22The+Slow+Mo+Guys%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

@@ -1,398 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>FIRST Member Vlog | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'FIRST Member Vlog' from the Rooster Teeth website">
-        <meta name="keywords" content="FIRST Member Vlog, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/sponsor-vlog/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="FIRST Member Vlog | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'FIRST Member Vlog' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/sponsor-vlog/">
-        <meta name="twitter:title" content="FIRST Member Vlog | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'FIRST Member Vlog' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>FIRST Member Vlog<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>30</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>30</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FIRST Member Vlog | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'FIRST Member Vlog' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/sponsor-vlog/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="FIRST Member Vlog | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'FIRST Member Vlog' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/sponsor-vlog/">
+    <meta name="twitter:title" content="FIRST Member Vlog | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'FIRST Member Vlog' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>December 17, 2016: NYC, LA, ELR, and More Acronyms</td>
-      <td>2016-12-17</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-december-17-2016-n-y-c-l-a-e-l-r-and-more-acronyms" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-december-17-2016-n-y-c-l-a-e-l-r-and-more-acronyms">RT</a>· <a href="https://archive.org/details/roosterteeth-7400" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7400">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>November 18, 2016: Behind the Scenes at Extra Life and Immersion</td>
-      <td>2016-11-19</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-november-18-2016-behind-the-scenes-at-extra-life-and-immersion" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-november-18-2016-behind-the-scenes-at-extra-life-and-immersion">RT</a>· <a href="https://archive.org/details/roosterteeth-7401" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7401">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>October 28, 2016: Vlog Equipment and Special Announcement</td>
-      <td>2016-10-28</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-october-28-2016-vlog-equipment-and-special-announcement" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-october-28-2016-vlog-equipment-and-special-announcement">RT</a>· <a href="https://archive.org/details/roosterteeth-7402" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7402">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>October 20, 2016: Cannes, Chicago Meetup, and New Animation Office</td>
-      <td>2016-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-october-20-2016-cannes-chicago-meetup-and-new-animation-office" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-october-20-2016-cannes-chicago-meetup-and-new-animation-office">RT</a>· <a href="https://archive.org/details/roosterteeth-7404" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7404">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>October 14, 2016: Mondays at Rooster Teeth</td>
-      <td>2016-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-october-14-2016-mondays-at-rooster-teeth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-october-14-2016-mondays-at-rooster-teeth">RT</a>· <a href="https://archive.org/details/roosterteeth-7403" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7403">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>October 6, 2016: Vancouver</td>
-      <td>2016-10-07</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-10-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-10-6">RT</a>· <a href="https://archive.org/details/roosterteeth-7405" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7405">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>September 23, 2016: The Emmys</td>
-      <td>2016-09-23</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-september-23-2016-the-emmys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-september-23-2016-the-emmys">RT</a>· <a href="https://archive.org/details/roosterteeth-7406" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7406">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>September 8, 2016: Zip-lining with Barbara</td>
-      <td>2016-09-08</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-september-8-2016-zip-lining-with-barbara" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-september-8-2016-zip-lining-with-barbara">RT</a>· <a href="https://archive.org/details/roosterteeth-7407" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7407">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: August 25, 2016</td>
-      <td>2016-08-25</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-august-25-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-august-25-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7409" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7409">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: August 11, 2016</td>
-      <td>2016-08-11</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-august-11-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-august-11-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7408" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7408">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: July 28, 2016</td>
-      <td>2016-07-28</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-july-28-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-july-28-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7412" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7412">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: July 14, 2016</td>
-      <td>2016-07-14</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-july-14-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-july-14-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7410" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7410">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Introducing Rooster Teeth FIRST</td>
-      <td>2016-06-28</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-introducing-rooster-teeth-first" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-introducing-rooster-teeth-first">RT</a>· <a href="https://archive.org/details/roosterteeth-7411" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7411">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Matt’s Vlog: June 16, 2016</td>
-      <td>2016-06-16</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-matt-s-vlog-june-16-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-matt-s-vlog-june-16-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7413" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7413">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: June 2, 2016</td>
-      <td>2016-06-02</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-june-2-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-june-2-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7415" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7415">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Matt’s Vlog: May 15, 2016</td>
-      <td>2016-05-15</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-matt-s-vlog-may-15-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-matt-s-vlog-may-15-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7414" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7414">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Gus's Vlog: May 1, 2016</td>
-      <td>2016-05-01</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-gus-s-vlog-may-1-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-gus-s-vlog-may-1-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7416" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7416">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Barbara’s Frog Vlog: April 17, 2016</td>
-      <td>2016-04-17</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-barbara-s-frog-vlog-april-17-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-barbara-s-frog-vlog-april-17-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7417" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7417">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: April 3, 2016</td>
-      <td>2016-04-03</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-april-3-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-april-3-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7418" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7418">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Miles Gets the Cold Shoulder</td>
-      <td>2016-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-miles-gets-the-cold-shoulder" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-miles-gets-the-cold-shoulder">RT</a>· <a href="https://archive.org/details/roosterteeth-7420" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7420">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chris's Most Embarrassing Moment</td>
-      <td>2016-03-03</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-chris-s-most-embarrassing-moment" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-chris-s-most-embarrassing-moment">RT</a>· <a href="https://archive.org/details/roosterteeth-7421" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7421">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: January 20, 2016</td>
-      <td>2016-01-20</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-january-20-2016" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2016-burnie-s-vlog-january-20-2016">RT</a>· <a href="https://archive.org/details/roosterteeth-7419" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7419">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: December 16, 2015</td>
-      <td>2015-12-16</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-december-16-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-december-16-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7391" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7391">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Matt’s Vlog: November 29, 2015</td>
-      <td>2015-11-29</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-matt-s-vlog-november-29-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-matt-s-vlog-november-29-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7393" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7393">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Gavin’s Vlog: November 22, 2015</td>
-      <td>2015-11-22</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-gavin-s-vlog-november-22-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-gavin-s-vlog-november-22-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7394" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7394">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Matt’s Vlog: November 15, 2015</td>
-      <td>2015-11-15</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-matt-s-vlog-november-15-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-matt-s-vlog-november-15-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7395" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7395">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: November 8, 2015</td>
-      <td>2015-11-08</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-november-8-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-november-8-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7396" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7396">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: November 1, 2015</td>
-      <td>2015-11-01</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-november-1-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-november-1-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7397" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7397">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: October 26, 2015</td>
-      <td>2015-10-26</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-october-26-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-october-26-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7398" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7398">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Burnie’s Vlog: October 18, 2015</td>
-      <td>2015-10-18</td>
-      <td><a href="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-october-18-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sponsor-vlog-2015-burnie-s-vlog-october-18-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-7399" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-7399">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22FIRST+Member+Vlog%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22FIRST+Member+Vlog%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>FIRST Member Vlog<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22FIRST+Member+Vlog%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22FIRST+Member+Vlog%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

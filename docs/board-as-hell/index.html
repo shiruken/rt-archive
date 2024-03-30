@@ -1,740 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Board as Hell | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Board as Hell' from the Rooster Teeth website">
-        <meta name="keywords" content="Board as Hell, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/board-as-hell/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Board as Hell | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Board as Hell' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/board-as-hell/">
-        <meta name="twitter:title" content="Board as Hell | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Board as Hell' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Board as Hell<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>68</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>68</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Board as Hell | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Board as Hell' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/board-as-hell/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Board as Hell | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Board as Hell' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/board-as-hell/">
+    <meta name="twitter:title" content="Board as Hell | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Board as Hell' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aw, You Sunk My Delta-7B Aethersprite-class Light Interceptor - Star Wars Armada Board Game</td>
-      <td>2023-12-31</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-baharmada" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-baharmada">RT</a>· <a href="https://archive.org/details/roosterteeth-52291" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-52291">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Oral Mastery is Essential in That Sound Game</td>
-      <td>2023-09-24</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahsound" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahsound">RT</a>· <a href="https://archive.org/details/roosterteeth-51600" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51600">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who Will Dangle Their Way to a Win in Suspend?- Board as Hell</td>
-      <td>2023-08-26</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahsuspend" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahsuspend">RT</a>· <a href="https://archive.org/details/roosterteeth-51441" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51441">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>An Unexpected Journey into Gambling Addiction - Board as Hell</td>
-      <td>2023-07-29</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-dragon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-dragon">RT</a>· <a href="https://archive.org/details/roosterteeth-51288" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51288">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Throwing Tantrums Over a Game for Babies - Board as Hell</td>
-      <td>2023-06-23</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-8ball" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-8ball">RT</a>· <a href="https://archive.org/details/roosterteeth-51119" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-51119">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>These Ewoks are Hungry for More Than Food - Board As Hell</td>
-      <td>2023-05-26</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-ewok" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-ewok">RT</a>· <a href="https://archive.org/details/roosterteeth-50963" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50963">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Snake Oil is the Cure for All Your Board Game Doldrums - Board As Hell</td>
-      <td>2023-04-28</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-snake" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-snake">RT</a>· <a href="https://archive.org/details/roosterteeth-50813" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50813">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Watching the World Burn in Fire Tower - Board Game Show</td>
-      <td>2023-03-24</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-firebah" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-firebah">RT</a>· <a href="https://archive.org/details/roosterteeth-50580" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50580">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Klingons Take the Enterprise in the Star Trek VHS Board Game!</td>
-      <td>2023-02-25</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-sttng" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-sttng">RT</a>· <a href="https://archive.org/details/roosterteeth-50430" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-50430">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Head Games: The Thing Infection at Outpost 31 - Board Game Show</td>
-      <td>2022-05-06</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahthing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahthing">RT</a>· <a href="https://archive.org/details/roosterteeth-48075" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-48075">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Beautiful Bean Footage - Board Game Show</td>
-      <td>2022-04-29</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahbeans" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahbeans">RT</a>· <a href="https://archive.org/details/roosterteeth-47994" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47994">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ready to Bust Over Movie Trivia - Board Game Show</td>
-      <td>2022-04-22</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahblock" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahblock">RT</a>· <a href="https://archive.org/details/roosterteeth-47947" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47947">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Finally Play Munchkin w/ Techno Destructo of GWAR! - Board Game Show</td>
-      <td>2022-04-16</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-munch" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-munch">RT</a>· <a href="https://archive.org/details/roosterteeth-47899" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47899">Archive</a></td>
-      <td>⭐️</td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Grim Pickins & Fat Glances - Board Game Show</td>
-      <td>2022-04-08</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-obscurio-board-game" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-obscurio-board-game">RT</a>· <a href="https://archive.org/details/roosterteeth-47837" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47837">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fast and Furious Board Game: Living Life a Quarter Inch at a Time</td>
-      <td>2022-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahfast" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahfast">RT</a>· <a href="https://archive.org/details/roosterteeth-47754" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47754">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fun Enough for Canada (Assez Amusant pour Canada) - Board Game Show</td>
-      <td>2022-03-25</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-crok" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-crok">RT</a>· <a href="https://archive.org/details/roosterteeth-47705" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47705">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Can You Expose the Traitors to the Resistance? - Board Game Show</td>
-      <td>2022-03-18</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahresistance" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-bahresistance">RT</a>· <a href="https://archive.org/details/roosterteeth-47564" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-47564">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Funhaus Saves Christmas: A Somewhat Animated Board as Hell Holiday Special</td>
-      <td>2021-12-24</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-6-bahsanta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-6-bahsanta">RT</a>· <a href="https://archive.org/details/roosterteeth-46299" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-46299">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Trick or Treat Yo Self - Board Game Show Halloween Special</td>
-      <td>2021-10-29</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-6-pilgrim" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-6-pilgrim">RT</a>· <a href="https://archive.org/details/roosterteeth-45726" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45726">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Summer Camp Killers: The Final TRIP - Board Game Show Halloween Special</td>
-      <td>2021-10-22</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-camp3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-camp3">RT</a>· <a href="https://archive.org/details/roosterteeth-45646" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45646">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Return to Camp Kikimama's Revenge Too - Board Game Show Halloween Special</td>
-      <td>2021-10-15</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-dread2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-dread2">RT</a>· <a href="https://archive.org/details/roosterteeth-45566" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45566">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Roleplay Can Be DEADLY! - Board as Hell Halloween Special</td>
-      <td>2021-10-08</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-camp1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-killer-at-camp-kikimama-camp1">RT</a>· <a href="https://archive.org/details/roosterteeth-45486" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45486">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Do NOT Mix Board Games and Mukbang!</td>
-      <td>2021-05-07</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-bah-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-bah-8">RT</a>· <a href="https://archive.org/details/roosterteeth-43618" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43618">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>COUNCIL CULTURE - Funhaus Plays Board Games in Studio Part 7</td>
-      <td>2021-04-30</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-conquered-the-dawn-of-a-new-king-funhaus-plays-board-games-in-studio-part-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-conquered-the-dawn-of-a-new-king-funhaus-plays-board-games-in-studio-part-7">RT</a>· <a href="https://archive.org/details/roosterteeth-43510" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43510">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Shouldn't Be Allowed to Play Board Games - Funhaus Plays Board Games in Studio Part 6!</td>
-      <td>2021-04-23</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-we-shouldn-t-be-allowed-to-play-board-games-funhaus-plays-board-games-in-studio-part-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-we-shouldn-t-be-allowed-to-play-board-games-funhaus-plays-board-games-in-studio-part-6">RT</a>· <a href="https://archive.org/details/roosterteeth-43428" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43428">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Insane Crown Posse - Funhaus Plays Board Games in Studio Part 5!</td>
-      <td>2021-04-16</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kd5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kd5">RT</a>· <a href="https://archive.org/details/roosterteeth-43340" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43340">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Knight Court - Funhaus Plays Board Games in Studio Part 4!</td>
-      <td>2021-04-09</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kings4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kings4">RT</a>· <a href="https://archive.org/details/roosterteeth-43251" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43251">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ready for S'more KING'S DILEMMA? - Funhaus Plays Board Games in Studio Part 3!</td>
-      <td>2021-04-02</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kings3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kings3">RT</a>· <a href="https://archive.org/details/roosterteeth-43152" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43152">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Heir Buds: Funhaus Plays KING'S DILEMMA in Studio Part 2!</td>
-      <td>2021-03-26</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kings2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kings2">RT</a>· <a href="https://archive.org/details/roosterteeth-43038" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43038">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Funhaus BACK In Studio Playing Board Games: The Journey Begins NOW!</td>
-      <td>2021-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kd1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-king-s-dilemma-season-5-kd1">RT</a>· <a href="https://archive.org/details/roosterteeth-42893" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42893">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Die Hard Board Game Part 2 - Board As Hell Special</td>
-      <td>2020-12-23</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-diehard2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-diehard2">RT</a>· <a href="https://archive.org/details/roosterteeth-41857" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41857">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Die Hard Board Game Part 1 - Board As Hell Special</td>
-      <td>2020-12-21</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-diehard1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-diehard1">RT</a>· <a href="https://archive.org/details/roosterteeth-41856" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41856">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Game of LIFE Steam Edition</td>
-      <td>2020-06-03</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-the-game-of-life-online" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-the-game-of-life-online">RT</a>· <a href="https://archive.org/details/roosterteeth-38663" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38663">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mysterium</td>
-      <td>2020-05-21</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-mysterium" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-mysterium">RT</a>· <a href="https://archive.org/details/roosterteeth-38423" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-38423">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fireball Island</td>
-      <td>2020-05-03</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-fireball-island" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-fireball-island">RT</a>· <a href="https://archive.org/details/roosterteeth-37857" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37857">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>sonar</td>
-      <td>2020-04-19</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-sonar" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-sonar">RT</a>· <a href="https://archive.org/details/roosterteeth-37651" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37651">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cash n' Guns</td>
-      <td>2020-04-05</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-cash-n-guns" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-cash-n-guns">RT</a>· <a href="https://archive.org/details/roosterteeth-37415" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37415">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lazer Ryderz</td>
-      <td>2020-03-22</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-ryderz" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-ryderz">RT</a>· <a href="https://archive.org/details/roosterteeth-37258" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37258">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Incan Gold</td>
-      <td>2020-03-08</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-bahaztec" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-bahaztec">RT</a>· <a href="https://archive.org/details/roosterteeth-37107" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37107">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Omega Virus</td>
-      <td>2020-02-29</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-4-omega" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-4-omega">RT</a>· <a href="https://archive.org/details/roosterteeth-36999" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36999">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Santa vs Jesus</td>
-      <td>2019-12-21</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-3-bahsanta" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-3-bahsanta">RT</a>· <a href="https://archive.org/details/roosterteeth-36166" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36166">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13 Dead End Drive</td>
-      <td>2019-12-14</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-3-bah13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-3-bah13">RT</a>· <a href="https://archive.org/details/roosterteeth-36094" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36094">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Photosynthesis</td>
-      <td>2019-12-07</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-3-bah33" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-3-bah33">RT</a>· <a href="https://archive.org/details/roosterteeth-36019" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36019">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jaws</td>
-      <td>2019-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-3-jaws" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-3-jaws">RT</a>· <a href="https://archive.org/details/roosterteeth-35946" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35946">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Binding of Isaac</td>
-      <td>2019-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-3-bah32" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-3-bah32">RT</a>· <a href="https://archive.org/details/roosterteeth-35839" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35839">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Happy Halloween From Funhaus ! - Bonus Video</td>
-      <td>2019-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-3-bahvillian" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-3-bahvillian">RT</a>· <a href="https://archive.org/details/roosterteeth-35498" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35498">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Clue: Master Detective</td>
-      <td>2019-01-25</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-clue" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-clue">RT</a>· <a href="https://archive.org/details/roosterteeth-30288" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30288">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Batman: Gotham Under Siege Part 2</td>
-      <td>2019-01-18</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-gotham2" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-gotham2">RT</a>· <a href="https://archive.org/details/roosterteeth-30228" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30228">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Batman: Gotham Under Siege Part 1</td>
-      <td>2019-01-11</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-gotham1" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-gotham1">RT</a>· <a href="https://archive.org/details/roosterteeth-30166" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30166">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Rival Restaurants</td>
-      <td>2019-01-04</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-bah8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-bah8">RT</a>· <a href="https://archive.org/details/roosterteeth-30091" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30091">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Secret Hitler Part 2</td>
-      <td>2018-12-28</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-bah7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-bah7">RT</a>· <a href="https://archive.org/details/roosterteeth-30005" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-30005">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sheriff of Nottingham</td>
-      <td>2018-12-21</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-bah6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-bah6">RT</a>· <a href="https://archive.org/details/roosterteeth-29972" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29972">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>AtmosFear</td>
-      <td>2018-12-14</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-bah5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-bah5">RT</a>· <a href="https://archive.org/details/roosterteeth-29853" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29853">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mall Madness</td>
-      <td>2018-12-07</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-mall" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-mall">RT</a>· <a href="https://archive.org/details/roosterteeth-29709" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29709">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Formula D</td>
-      <td>2018-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-formulad" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-formulad">RT</a>· <a href="https://archive.org/details/roosterteeth-29642" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29642">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cosmic Encounter</td>
-      <td>2018-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-spacelords" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-spacelords">RT</a>· <a href="https://archive.org/details/roosterteeth-29473" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29473">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Coup: Reformation</td>
-      <td>2018-11-16</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-coupreform" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-coupreform">RT</a>· <a href="https://archive.org/details/roosterteeth-29430" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29430">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Board as Hell Halloween Special: Camp Grizzly</td>
-      <td>2018-10-20</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-2-camp-grizzly" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-2-camp-grizzly">RT</a>· <a href="https://archive.org/details/roosterteeth-29055" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-29055">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Werewolves</td>
-      <td>2018-06-29</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-werewolves" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-werewolves">RT</a>· <a href="https://archive.org/details/roosterteeth-27592" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27592">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lord of the Rings</td>
-      <td>2018-06-22</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-lord-of-the-rings" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-lord-of-the-rings">RT</a>· <a href="https://archive.org/details/roosterteeth-27513" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27513">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Secret Hitler</td>
-      <td>2018-06-15</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-secret-hitler" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-secret-hitler">RT</a>· <a href="https://archive.org/details/roosterteeth-27285" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27285">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Coconuts</td>
-      <td>2018-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-coconuts" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-coconuts">RT</a>· <a href="https://archive.org/details/roosterteeth-27205" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27205">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Despicable Me Labyrinth</td>
-      <td>2018-06-01</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-despicable-me-labyrinth" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-despicable-me-labyrinth">RT</a>· <a href="https://archive.org/details/roosterteeth-27092" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27092">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Game of Life</td>
-      <td>2018-05-25</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-the-game-of-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-the-game-of-life">RT</a>· <a href="https://archive.org/details/roosterteeth-27000" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-27000">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Betrayal at the House on the Hill</td>
-      <td>2018-05-18</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-betrayal-at-the-house-on-the-hill" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-betrayal-at-the-house-on-the-hill">RT</a>· <a href="https://archive.org/details/roosterteeth-26931" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26931">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Codenames</td>
-      <td>2018-05-11</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-codenames" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-codenames">RT</a>· <a href="https://archive.org/details/roosterteeth-26829" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26829">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cargo Noir</td>
-      <td>2018-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-cargo-noir" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-cargo-noir">RT</a>· <a href="https://archive.org/details/roosterteeth-26728" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26728">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Coup</td>
-      <td>2018-04-25</td>
-      <td><a href="https://roosterteeth.com/watch/board-as-hell-season-1-coup" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/board-as-hell-season-1-coup">RT</a>· <a href="https://archive.org/details/roosterteeth-26640" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-26640">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Board+as+Hell%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Board+as+Hell%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Board as Hell<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Board+as+Hell%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Board+as+Hell%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

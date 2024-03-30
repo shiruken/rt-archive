@@ -1,551 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>YOUR SHOW | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'YOUR SHOW' from the Rooster Teeth website">
-        <meta name="keywords" content="YOUR SHOW, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/it-s-your-show/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="YOUR SHOW | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'YOUR SHOW' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/it-s-your-show/">
-        <meta name="twitter:title" content="YOUR SHOW | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'YOUR SHOW' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>YOUR SHOW<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>47</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>47</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YOUR SHOW | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'YOUR SHOW' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/it-s-your-show/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="YOUR SHOW | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'YOUR SHOW' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/it-s-your-show/">
+    <meta name="twitter:title" content="YOUR SHOW | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'YOUR SHOW' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Does Elliott hate Christmas?! | YOUR SHOW</td>
-      <td>2019-12-15</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-47" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-47">RT</a>· <a href="https://archive.org/details/roosterteeth-36135" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36135">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Breaking Stuff and Screaming Butts | YOUR SHOW (ft. Anthony Carboni, Whitney Moore & Will)</td>
-      <td>2019-12-15</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-48" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-48">RT</a>· <a href="https://archive.org/details/roosterteeth-36134" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-36134">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Planning a HEIST with ELYSE WILLEMS from FUNHAUS | YOUR SHOW</td>
-      <td>2019-10-18</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-planning-a-heist-with-elyse-willems-from-funhaus-your-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-planning-a-heist-with-elyse-willems-from-funhaus-your-show">RT</a>· <a href="https://archive.org/details/roosterteeth-35409" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35409">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our BAD ROOMMATE Stories (Ft. RANDY FELTFACE) | YOUR SHOW</td>
-      <td>2019-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-45" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-45">RT</a>· <a href="https://archive.org/details/roosterteeth-35347" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35347">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our SECRET VIDEOS from BRING THE FUNNY | YOUR SHOW</td>
-      <td>2019-09-21</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-44" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-your-show-episode-44">RT</a>· <a href="https://archive.org/details/roosterteeth-35072" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-35072">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We filmed with a FAMOUS CELEBRITY ft. MALCOLM BARRETT | YOUR SHOW</td>
-      <td>2019-09-09</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-we-filmed-with-a-famous-celebrity-ft-malcolm-barrett-your-show-episode-43" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-we-filmed-with-a-famous-celebrity-ft-malcolm-barrett-your-show-episode-43">RT</a>· <a href="https://archive.org/details/roosterteeth-34902" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34902">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The MOST INSANE WOULD YOU RATHER EVER ft. Trisha Hershberger | YOUR SHOW</td>
-      <td>2019-09-09</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-the-most-insane-would-you-rather-ever-ft-trisha-hershberger-your-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-the-most-insane-would-you-rather-ever-ft-trisha-hershberger-your-show">RT</a>· <a href="https://archive.org/details/roosterteeth-34901" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34901">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>THREE WORDS YOU CANNOT SAY | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-three-words-you-cannot-say-your-show-ep-6" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-three-words-you-cannot-say-your-show-ep-6">RT</a>· <a href="https://archive.org/details/roosterteeth-34900" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34900">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lee Newton Gives Us Dating Advice | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-lee-newton-gives-us-dating-advice-your-show-episode-26" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-lee-newton-gives-us-dating-advice-your-show-episode-26">RT</a>· <a href="https://archive.org/details/roosterteeth-34899" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34899">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our Most Insane Episode Yet | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-our-most-insane-episode-yet-your-show-episode-28" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-our-most-insane-episode-yet-your-show-episode-28">RT</a>· <a href="https://archive.org/details/roosterteeth-34898" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34898">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Joe RUINS this video | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-joe-ruins-this-video-your-show-episode-20" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-joe-ruins-this-video-your-show-episode-20">RT</a>· <a href="https://archive.org/details/roosterteeth-34897" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34897">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Booty Call Our Significant Others | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-we-booty-call-our-significant-others-your-show-episode-19" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-we-booty-call-our-significant-others-your-show-episode-19">RT</a>· <a href="https://archive.org/details/roosterteeth-34896" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34896">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who ruined Steve's night? | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-who-ruined-steve-s-night-your-show-episode-18" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-who-ruined-steve-s-night-your-show-episode-18">RT</a>· <a href="https://archive.org/details/roosterteeth-34895" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34895">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>How To Succeed on YouTube | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-how-to-succeed-on-youtube-your-show-episode-23" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-how-to-succeed-on-youtube-your-show-episode-23">RT</a>· <a href="https://archive.org/details/roosterteeth-34894" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34894">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Joe Bereta almost kills Elliott Morgan | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-joe-bereta-almost-kills-elliott-morgan-your-show-episode-21" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-joe-bereta-almost-kills-elliott-morgan-your-show-episode-21">RT</a>· <a href="https://archive.org/details/roosterteeth-34893" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34893">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We discovered a new curse word | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-we-discovered-a-new-curse-word-your-show-episode-15" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-we-discovered-a-new-curse-word-your-show-episode-15">RT</a>· <a href="https://archive.org/details/roosterteeth-34892" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34892">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Play Trivia Bidet | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-we-play-trivia-bidet-your-show-episode-13" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-we-play-trivia-bidet-your-show-episode-13">RT</a>· <a href="https://archive.org/details/roosterteeth-34891" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34891">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We all go to therapy | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-we-all-go-to-therapy-your-show-episode-17" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-we-all-go-to-therapy-your-show-episode-17">RT</a>· <a href="https://archive.org/details/roosterteeth-34890" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34890">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Play HORROR MOVIE Movie Game | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-we-play-horror-movie-movie-game-your-show-episode-12" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-we-play-horror-movie-movie-game-your-show-episode-12">RT</a>· <a href="https://archive.org/details/roosterteeth-34889" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34889">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Elliott Morgan gets a MAKEOVER | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-elliott-morgan-gets-a-makeover-your-show-episode-30" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-elliott-morgan-gets-a-makeover-your-show-episode-30">RT</a>· <a href="https://archive.org/details/roosterteeth-34888" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34888">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our office has a troll | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-our-office-has-a-troll-your-show-episode-8" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-our-office-has-a-troll-your-show-episode-8">RT</a>· <a href="https://archive.org/details/roosterteeth-34887" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34887">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>What if your life had a RESET BUTTON? | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-what-if-your-life-had-a-reset-button-your-show-episode-34" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-what-if-your-life-had-a-reset-button-your-show-episode-34">RT</a>· <a href="https://archive.org/details/roosterteeth-34886" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34886">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Latino Halloween Curse | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-the-latino-halloween-curse-your-show-episode-14" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-the-latino-halloween-curse-your-show-episode-14">RT</a>· <a href="https://archive.org/details/roosterteeth-34885" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34885">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>How to Kill Your Co-Worker | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-how-to-kill-your-co-worker-your-show-episode-10" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-how-to-kill-your-co-worker-your-show-episode-10">RT</a>· <a href="https://archive.org/details/roosterteeth-34884" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34884">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Dirty Olivia Munn Confession | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-the-dirty-olivia-munn-confession-your-show-episode-9" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-the-dirty-olivia-munn-confession-your-show-episode-9">RT</a>· <a href="https://archive.org/details/roosterteeth-34883" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34883">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Two Men have a Meaningful Conversation about Divorce | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-two-men-have-a-meaningful-conversation-about-divorce-your-show-episode-11" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-two-men-have-a-meaningful-conversation-about-divorce-your-show-episode-11">RT</a>· <a href="https://archive.org/details/roosterteeth-34882" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34882">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our Most Embarrassing High School Stories | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-our-most-embarrassing-high-school-stories-your-show-episode-27" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-our-most-embarrassing-high-school-stories-your-show-episode-27">RT</a>· <a href="https://archive.org/details/roosterteeth-34881" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34881">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Our Toilet Broke and HE Showed Up | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-our-toilet-broke-and-he-showed-up-your-show-episode-22" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-our-toilet-broke-and-he-showed-up-your-show-episode-22">RT</a>· <a href="https://archive.org/details/roosterteeth-34880" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34880">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>STEVE'S DARK SECRET | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-steve-s-dark-secret-your-show-ep-5" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-steve-s-dark-secret-your-show-ep-5">RT</a>· <a href="https://archive.org/details/roosterteeth-34879" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34879">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>How We Lost Our Virginity | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-how-we-lost-our-virginity-your-show-episode-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-how-we-lost-our-virginity-your-show-episode-4">RT</a>· <a href="https://archive.org/details/roosterteeth-34878" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34878">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The BEST OF The Valleyfolk: A Retrospective ft. LIZA KOSHY | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-the-best-of-the-valleyfolk-a-retrospective-ft-liza-koshy-your-show-episode-16" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-the-best-of-the-valleyfolk-a-retrospective-ft-liza-koshy-your-show-episode-16">RT</a>· <a href="https://archive.org/details/roosterteeth-34877" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34877">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Handmaid's Tale Makeup Tutorial | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-handmaid-s-tale-makeup-tutorial-your-show-episode-32" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-handmaid-s-tale-makeup-tutorial-your-show-episode-32">RT</a>· <a href="https://archive.org/details/roosterteeth-34876" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34876">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>FIRST AID Training on a Budget | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-first-aid-training-on-a-budget-your-show-episode-31" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-first-aid-training-on-a-budget-your-show-episode-31">RT</a>· <a href="https://archive.org/details/roosterteeth-34875" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34875">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>That's a Whoopsie! | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-that-s-a-whoopsie-your-show-episode-24" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-that-s-a-whoopsie-your-show-episode-24">RT</a>· <a href="https://archive.org/details/roosterteeth-34874" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34874">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TRISHA HERSHBERGER JOINS US | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-trisha-hershberger-is-on-your-show-episode-25" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-trisha-hershberger-is-on-your-show-episode-25">RT</a>· <a href="https://archive.org/details/roosterteeth-34873" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34873">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Who robbed us? | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-who-robbed-us-episode-7" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-who-robbed-us-episode-7">RT</a>· <a href="https://archive.org/details/roosterteeth-34872" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34872">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Read SERIAL KILLER Quotes on HELIUM | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-episode-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-episode-3">RT</a>· <a href="https://archive.org/details/roosterteeth-34871" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34871">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The BABY CHEESE CHALLENGE w/MIKE FALZONE | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-the-baby-cheese-challenge-w-mike-falzone-your-show-episode-29" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-the-baby-cheese-challenge-w-mike-falzone-your-show-episode-29">RT</a>· <a href="https://archive.org/details/roosterteeth-34870" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34870">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Four Adults Prank Call Salon at Same Time | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-1-four-adults-prank-call-salon-at-same-time-your-show" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-1-four-adults-prank-call-salon-at-same-time-your-show">RT</a>· <a href="https://archive.org/details/roosterteeth-34869" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34869">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The SCARED OF DYING SONG with CIB (Sugar Pine 7) | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-the-scared-of-dying-song-with-cib-sugar-pine-7-your-show-episode-41" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-the-scared-of-dying-song-with-cib-sugar-pine-7-your-show-episode-41">RT</a>· <a href="https://archive.org/details/roosterteeth-34866" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34866">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>We Try WEIRD FOOD COMBO DARES (Ft. JACKSFILMS) | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-we-try-weird-food-combo-dares-ft-jacksfilms-your-show-episode-35" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-we-try-weird-food-combo-dares-ft-jacksfilms-your-show-episode-35">RT</a>· <a href="https://archive.org/details/roosterteeth-34865" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34865">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BALLOON ACCIDENT almost BLINDS ELLIOTT MORGAN (actually) | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-balloon-accident-almost-blinds-elliott-morgan-actually-your-show-episode-40" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-balloon-accident-almost-blinds-elliott-morgan-actually-your-show-episode-40">RT</a>· <a href="https://archive.org/details/roosterteeth-34864" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34864">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Steve Zaragoza ADOPTS A BABY | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-steve-zaragoza-adopts-a-baby-your-show-episode-37" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-steve-zaragoza-adopts-a-baby-your-show-episode-37">RT</a>· <a href="https://archive.org/details/roosterteeth-34863" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34863">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TOO MANY JUGS | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-too-many-jugs-your-show-episode-36" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-too-many-jugs-your-show-episode-36">RT</a>· <a href="https://archive.org/details/roosterteeth-34862" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34862">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Revealing our BRING THE FUNNY audition! | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-revealing-our-bring-the-funny-audition-your-show-episode-39" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-revealing-our-bring-the-funny-audition-your-show-episode-39">RT</a>· <a href="https://archive.org/details/roosterteeth-34861" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34861">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>FIGHT KEEP EAT: Lion, Crocodile, and Giraffe | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-fight-keep-eat-lion-crocodile-and-giraffe-your-show-episode-42" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-fight-keep-eat-lion-crocodile-and-giraffe-your-show-episode-42">RT</a>· <a href="https://archive.org/details/roosterteeth-34860" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34860">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>REVEALING Our SEXY GENDER SWAPS | YOUR SHOW</td>
-      <td>2019-09-02</td>
-      <td><a href="https://roosterteeth.com/watch/your-show-season-2-revealing-our-sexy-gender-swaps-your-show-episode-32" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-show-season-2-revealing-our-sexy-gender-swaps-your-show-episode-32">RT</a>· <a href="https://archive.org/details/roosterteeth-34867" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-34867">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22YOUR+SHOW%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22YOUR+SHOW%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>YOUR SHOW<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22YOUR+SHOW%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22YOUR+SHOW%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+header a {
+    text-decoration: none;
+}
+header div.w3-quarter {
+    margin-top: 12px;
+}
+table th:first-child {
+    width: 570px;
+}

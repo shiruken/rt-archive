@@ -1,362 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Kinda Funny Doodles | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Kinda Funny Doodles' from the Rooster Teeth website">
-        <meta name="keywords" content="Kinda Funny Doodles, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/kinda-funny-doodles/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Kinda Funny Doodles | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Kinda Funny Doodles' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/kinda-funny-doodles/">
-        <meta name="twitter:title" content="Kinda Funny Doodles | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Kinda Funny Doodles' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Kinda Funny Doodles<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>26</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>26</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kinda Funny Doodles | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Kinda Funny Doodles' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/kinda-funny-doodles/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Kinda Funny Doodles | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Kinda Funny Doodles' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/kinda-funny-doodles/">
+    <meta name="twitter:title" content="Kinda Funny Doodles | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Kinda Funny Doodles' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>X-Men's Beast Loves Mangos</td>
-      <td>2020-04-14</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-x-men-s-beast-loves-mangos-best-kinda-funny-moments-animated" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-x-men-s-beast-loves-mangos-best-kinda-funny-moments-animated">RT</a>· <a href="https://archive.org/details/roosterteeth-37063" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37063">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Flying With Josh Macuga</td>
-      <td>2020-03-30</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-flying-with-josh-macuga-best-kinda-funny-moments-animated" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-flying-with-josh-macuga-best-kinda-funny-moments-animated">RT</a>· <a href="https://archive.org/details/roosterteeth-37062" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37062">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Best of Cool Greg</td>
-      <td>2020-03-23</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-best-of-cool-greg-best-kinda-funny-moments-animated" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-best-of-cool-greg-best-kinda-funny-moments-animated">RT</a>· <a href="https://archive.org/details/roosterteeth-37061" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37061">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Andy Loves Hot Cheetos</td>
-      <td>2020-03-16</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-andy-loves-hot-cheetos-best-kinda-funny-moments-animated" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-andy-loves-hot-cheetos-best-kinda-funny-moments-animated">RT</a>· <a href="https://archive.org/details/roosterteeth-37060" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37060">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nick's Chair Rant</td>
-      <td>2020-03-09</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-nick-s-chair-rant-best-kinda-funny-moments-animated" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-full-series-nick-s-chair-rant-best-kinda-funny-moments-animated">RT</a>· <a href="https://archive.org/details/roosterteeth-37059" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-37059">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>100 Bears Attack San Francisco</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-100-bears-attack-san-francisco-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-100-bears-attack-san-francisco-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31524" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31524">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Greg Miller's Worst Story Ever</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-miller-s-worst-story-ever-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-miller-s-worst-story-ever-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31329" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31329">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Beat Cops</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-beat-cops-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-beat-cops-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31328" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31328">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Greg's Gazette</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-s-gazette-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-s-gazette-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31326" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31326">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Path To Citizenship</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-path-to-citizenship-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-path-to-citizenship-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31325" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31325">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Dog Shit Conspiracy (Pt. 2)</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-the-dog-shit-conspiracy-pt-2-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-the-dog-shit-conspiracy-pt-2-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31324" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31324">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Greg Plans A Murder</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-plans-a-murder-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-plans-a-murder-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31323" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31323">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nick Loses His Shit At Starbucks</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-nick-loses-his-shit-at-starbucks-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-nick-loses-his-shit-at-starbucks-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31322" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31322">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Dog Shit Conspiracy (Pt. 1)</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-the-dog-shit-conspiracy-pt-1-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-the-dog-shit-conspiracy-pt-1-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31321" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31321">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Greg Miller Pangaea Timeline</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-the-greg-miller-pangaea-timeline-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-the-greg-miller-pangaea-timeline-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31320" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31320">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Destroying Greg Miller's Awards</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-destroying-greg-miller-s-awards-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-destroying-greg-miller-s-awards-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31319" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31319">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fruity Pebbles Horse</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-fruity-pebbles-horse-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-fruity-pebbles-horse-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31318" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31318">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>One Of Them Dumb Kids</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-one-of-them-dumb-kids-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-one-of-them-dumb-kids-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31317" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31317">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Greg's No Man's Sky Mariachi Dreams</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-s-no-man-s-sky-mariachi-dreams-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-greg-s-no-man-s-sky-mariachi-dreams-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31316" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31316">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tim and Kevin's Sleepover</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-tim-and-kevin-s-sleepover-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-tim-and-kevin-s-sleepover-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31315" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31315">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Google Watch Naked Pictures</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-google-watch-naked-pictures-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-google-watch-naked-pictures-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31314" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31314">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tim Gettys Wanted For Murder</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-tim-gettys-wanted-for-murder-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-tim-gettys-wanted-for-murder-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31313" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31313">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Thor and The Fuckwad</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-thor-and-the-fuckwad-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-thor-and-the-fuckwad-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31311" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31311">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Grandma Miller vs. The Sickly Raccoon</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-grandma-miller-vs-the-sickly-raccoon-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-grandma-miller-vs-the-sickly-raccoon-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31310" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31310">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>How Many 5 Year Olds Could We Fight?</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-how-many-5-year-olds-could-we-fight-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-how-many-5-year-olds-could-we-fight-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31327" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31327">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Can We Talk About Kevin?</td>
-      <td>2019-01-19</td>
-      <td><a href="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-can-we-talk-about-kevin-kinda-funny-doodles" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/kinda-funny-doodles-season-1-can-we-talk-about-kevin-kinda-funny-doodles">RT</a>· <a href="https://archive.org/details/roosterteeth-31312" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-31312">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Kinda+Funny+Doodles%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Kinda+Funny+Doodles%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Kinda Funny Doodles<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Kinda+Funny+Doodles%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Kinda+Funny+Doodles%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

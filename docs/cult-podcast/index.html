@@ -1,659 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Cult Podcast | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Cult Podcast' from the Rooster Teeth website">
-        <meta name="keywords" content="Cult Podcast, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/cult-podcast/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Cult Podcast | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Cult Podcast' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/cult-podcast/">
-        <meta name="twitter:title" content="Cult Podcast | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Cult Podcast' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Cult Podcast<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>59</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>59</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cult Podcast | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Cult Podcast' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/cult-podcast/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Cult Podcast | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Cult Podcast' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/cult-podcast/">
+    <meta name="twitter:title" content="Cult Podcast | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Cult Podcast' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Ep. 188 Symbionese Liberation Army: Pocket Bomb!</td>
-      <td>2021-06-28</td>
-      <td><a href="https://roosterteeth.com/watch/pocket-bomb-sha-sha-shaaa" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/pocket-bomb-sha-sha-shaaa">RT</a>· <a href="https://archive.org/details/roosterteeth-44275" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44275">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Texas Madness: Paige is a Bread Sorceress</td>
-      <td>2021-06-22</td>
-      <td><a href="https://roosterteeth.com/watch/you-have-a-choice-cheese-or-your-life" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/you-have-a-choice-cheese-or-your-life">RT</a>· <a href="https://archive.org/details/roosterteeth-44210" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44210">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 187 Love Has Won: Let’s Get Sheep Faced (ft. Barbara Dunkelman)</td>
-      <td>2021-06-22</td>
-      <td><a href="https://roosterteeth.com/watch/i-only-drink-the-most-organic-vodka" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/i-only-drink-the-most-organic-vodka">RT</a>· <a href="https://archive.org/details/roosterteeth-44209" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44209">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 184 Deprogramming Pt. 3: Comedy for Food Handlers (ft. Blaine Gibson)</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/this-one-is-for-my-food-handlers" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/this-one-is-for-my-food-handlers">RT</a>· <a href="https://archive.org/details/roosterteeth-44017" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44017">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 186 Fiat Lux Pt. 2: My Little Phony (ft. Mikey from Horror Virgin)</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/this-one-gets-real-wild-real-fast" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/this-one-gets-real-wild-real-fast">RT</a>· <a href="https://archive.org/details/roosterteeth-44019" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44019">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 185 Fiat Lux: Harold Christ (ft. Mikey from Horror Virgin)</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/hey-lady-that-s-a-really-weird-hat" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/hey-lady-that-s-a-really-weird-hat">RT</a>· <a href="https://archive.org/details/roosterteeth-44018" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44018">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 182 Deprogramming: The Daddy Grace Cinematic Universe (ft. Blaine Gibson)</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/really-excited-for-black-lightning-s-endgame" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/really-excited-for-black-lightning-s-endgame">RT</a>· <a href="https://archive.org/details/roosterteeth-44016" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44016">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 183 Deprogramming Pt. 2: Danny Karate (ft. Blaine Gibson)</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/always-check-the-trunk-unless-you-wanna-get-chopped" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/always-check-the-trunk-unless-you-wanna-get-chopped">RT</a>· <a href="https://archive.org/details/roosterteeth-44015" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44015">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 181 The Aetherius Society: The Caucacity (ft. Kristal Adams)</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/how-much-yoga-is-too-much-yoga" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/how-much-yoga-is-too-much-yoga">RT</a>· <a href="https://archive.org/details/roosterteeth-44014" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44014">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 179 Carlos Castaneda: Mama Mia, Sharks are Stupid!</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/is-it-me-or-are-things-getting-italian-in-here" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/is-it-me-or-are-things-getting-italian-in-here">RT</a>· <a href="https://archive.org/details/roosterteeth-44013" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44013">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 180 Carlos Castaneda Pt. 2: Dad Went Out for Infinity Cigarettes</td>
-      <td>2021-06-08</td>
-      <td><a href="https://roosterteeth.com/watch/typical-deadbeat-dad-leaving-their-kids-to-become-a-beam-of-inter-dimensional-light" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/typical-deadbeat-dad-leaving-their-kids-to-become-a-beam-of-inter-dimensional-light">RT</a>· <a href="https://archive.org/details/roosterteeth-44012" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44012">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Web Crawlers Crossover: Valentina De Andrade</td>
-      <td>2021-06-07</td>
-      <td><a href="https://roosterteeth.com/watch/boys-suck-but-this-is-taking-it-a-bit-far" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/boys-suck-but-this-is-taking-it-a-bit-far">RT</a>· <a href="https://archive.org/details/roosterteeth-44006" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44006">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 178 Brad Tyler: Eat a Donut & Hate a Woman (ft. Todd from Horror Virgin)</td>
-      <td>2021-06-07</td>
-      <td><a href="https://roosterteeth.com/watch/this-ain-t-a-movie-it-s-real-motherf-ing-life-todd" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/this-ain-t-a-movie-it-s-real-motherf-ing-life-todd">RT</a>· <a href="https://archive.org/details/roosterteeth-44005" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-44005">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 177 The DayLife Army Pt. 3: Loads of Cupholders</td>
-      <td>2021-03-30</td>
-      <td><a href="https://roosterteeth.com/watch/strap-in-folks-daylife-is-going-to-space-in-a-toyota-sequoia" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/strap-in-folks-daylife-is-going-to-space-in-a-toyota-sequoia">RT</a>· <a href="https://archive.org/details/roosterteeth-43080" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43080">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 176 DayLife Army Pt 2: Detergunt</td>
-      <td>2021-03-30</td>
-      <td><a href="https://roosterteeth.com/watch/wu-hupe-yuu-re-reudy-fur-thus-une" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/wu-hupe-yuu-re-reudy-fur-thus-une">RT</a>· <a href="https://archive.org/details/roosterteeth-43079" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43079">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 174 Strong City: Meat World</td>
-      <td>2021-03-15</td>
-      <td><a href="https://roosterteeth.com/watch/remember-that-weird-video-from-college-yeah-it-s-back" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/remember-that-weird-video-from-college-yeah-it-s-back">RT</a>· <a href="https://archive.org/details/roosterteeth-42848" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42848">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 175 DayLife Army: Mando Ruins Gumby</td>
-      <td>2021-03-15</td>
-      <td><a href="https://roosterteeth.com/watch/your-childhood-will-never-be-the-same" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/your-childhood-will-never-be-the-same">RT</a>· <a href="https://archive.org/details/roosterteeth-42847" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42847">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 171 Satanic Panic Pt. 5: The Kitty Toy</td>
-      <td>2021-03-01</td>
-      <td><a href="https://roosterteeth.com/watch/the-end-of-a-series-also-paige-s-cat-gets-a-very-interesting-new-toy" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/the-end-of-a-series-also-paige-s-cat-gets-a-very-interesting-new-toy">RT</a>· <a href="https://archive.org/details/roosterteeth-42654" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42654">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 173 The Mandela Effect: Thot Experiment</td>
-      <td>2021-03-01</td>
-      <td><a href="https://roosterteeth.com/watch/albert-einstein-was-the-original-cardi-b" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/albert-einstein-was-the-original-cardi-b">RT</a>· <a href="https://archive.org/details/roosterteeth-42653" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42653">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 172 Huna: Onde the D?</td>
-      <td>2021-03-01</td>
-      <td><a href="https://roosterteeth.com/watch/huna-isn-t-hawiaan-but-it-is-stupid-as-hell" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/huna-isn-t-hawiaan-but-it-is-stupid-as-hell">RT</a>· <a href="https://archive.org/details/roosterteeth-42651" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42651">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 167 Satanic Panic: Swans Get Cancelled (Ft. Blaine Gibson)</td>
-      <td>2021-03-01</td>
-      <td><a href="https://roosterteeth.com/watch/we-have-one-hell-of-a-time-with-this-one" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/we-have-one-hell-of-a-time-with-this-one">RT</a>· <a href="https://archive.org/details/roosterteeth-42648" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42648">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 170 Satanic Panic Pt. 4: Tropical Medicine (Ft. Blaine Gibson)</td>
-      <td>2021-02-09</td>
-      <td><a href="https://roosterteeth.com/watch/would-you-ever-do-it-with-a-magician-some-of-us-might" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/would-you-ever-do-it-with-a-magician-some-of-us-might">RT</a>· <a href="https://archive.org/details/roosterteeth-42406" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42406">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 169 Satanic Panic Pt. 3: Mind Your P’s & Q’s (Ft. Blaine Gibson)</td>
-      <td>2021-02-09</td>
-      <td><a href="https://roosterteeth.com/watch/sgnos-ni-segassem-desrever-fo-draeh-reve-uoy-evah" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/sgnos-ni-segassem-desrever-fo-draeh-reve-uoy-evah">RT</a>· <a href="https://archive.org/details/roosterteeth-42405" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42405">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 168 Satanic Panic Pt. 2: Build-A-Berg Workshop (Ft. Blaine Gibson)</td>
-      <td>2021-02-09</td>
-      <td><a href="https://roosterteeth.com/watch/back-when-the-satanic-panic-was-more-of-a-satanic-anxiety" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/back-when-the-satanic-panic-was-more-of-a-satanic-anxiety">RT</a>· <a href="https://archive.org/details/roosterteeth-42404" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42404">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Capitol Madness: Villain Slow Clap Rhythm</td>
-      <td>2021-02-08</td>
-      <td><a href="https://roosterteeth.com/watch/this-is-just-the-calm-before-the-capitol-storm-ing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/this-is-just-the-calm-before-the-capitol-storm-ing">RT</a>· <a href="https://archive.org/details/roosterteeth-42399" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42399">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>The Speculation Zone: Insane Clown Posse</td>
-      <td>2021-02-08</td>
-      <td><a href="https://roosterteeth.com/watch/we-ve-all-got-some-crazy-family-but-this-is-ridiculous" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/we-ve-all-got-some-crazy-family-but-this-is-ridiculous">RT</a>· <a href="https://archive.org/details/roosterteeth-42398" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42398">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 166 Donald Trump Pt. 5: Thar She Blows</td>
-      <td>2021-02-08</td>
-      <td><a href="https://roosterteeth.com/watch/there-s-a-very-fishy-strip-club-in-the-middle-of-america" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/there-s-a-very-fishy-strip-club-in-the-middle-of-america">RT</a>· <a href="https://archive.org/details/roosterteeth-42395" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42395">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cult News & Paula White: The Blessed Chain</td>
-      <td>2020-12-07</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-cult-news-paula-white-the-blessed-chain" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-cult-news-paula-white-the-blessed-chain">RT</a>· <a href="https://archive.org/details/roosterteeth-41637" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41637">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Interview with Jordan Coburn: Every 15 Minutes</td>
-      <td>2020-11-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-interview-with-jordan-coburn-every-15-minutes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-interview-with-jordan-coburn-every-15-minutes">RT</a>· <a href="https://archive.org/details/roosterteeth-41460" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41460">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 163 Donald Trump Pt. 3: Don King with Worse Hair</td>
-      <td>2020-11-23</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-163-donald-trump-pt-3-don-king-with-worse-hair" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-163-donald-trump-pt-3-don-king-with-worse-hair">RT</a>· <a href="https://archive.org/details/roosterteeth-41306" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41306">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 163 Donald Trump Pt. 2: Swordfish Balloons</td>
-      <td>2020-11-16</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-163-donald-trump-pt-2-swordfish-balloons" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-163-donald-trump-pt-2-swordfish-balloons">RT</a>· <a href="https://archive.org/details/roosterteeth-41206" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41206">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 161 OneTaste Pt. 2: ChickenLube.biz</td>
-      <td>2020-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-161-onetaste-pt-2-chickenlube-biz" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-161-onetaste-pt-2-chickenlube-biz">RT</a>· <a href="https://archive.org/details/roosterteeth-41124" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41124">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 160 OneTaste: Breadbowls From Artby’s</td>
-      <td>2020-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-160-onetaste-breadbowls-from-artby-s" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-160-onetaste-breadbowls-from-artby-s">RT</a>· <a href="https://archive.org/details/roosterteeth-41123" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41123">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 162 Donald Trump Pt. 1: The Poodle Dog</td>
-      <td>2020-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-162-donald-trump-pt-1-the-poodle-dog" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-162-donald-trump-pt-1-the-poodle-dog">RT</a>· <a href="https://archive.org/details/roosterteeth-41122" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41122">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 159 Church of God with Signs Following: Are You CNNing This?</td>
-      <td>2020-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-159-church-of-god-with-signs-following-are-you-cnning-this" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-159-church-of-god-with-signs-following-are-you-cnning-this">RT</a>· <a href="https://archive.org/details/roosterteeth-41121" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41121">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 158 Hell’s Angels Pt. 4: Fireworks for Knives</td>
-      <td>2020-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-158-hell-s-angels-pt-4-fireworks-for-knives" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-158-hell-s-angels-pt-4-fireworks-for-knives">RT</a>· <a href="https://archive.org/details/roosterteeth-40769" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40769">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 136 The Branch Davidians Pt. 1: Ruby Ridge</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-136-the-branch-davidians-pt-1-ruby-ridge" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-136-the-branch-davidians-pt-1-ruby-ridge">RT</a>· <a href="https://archive.org/details/roosterteeth-40768" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40768">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 137 The Branch Davidians Pt. 2: God’s Honor Roll</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-137-the-branch-davidians-pt-2-god-s-honor-roll" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-137-the-branch-davidians-pt-2-god-s-honor-roll">RT</a>· <a href="https://archive.org/details/roosterteeth-40767" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40767">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 138 The Branch Davidians Pt. 3: The Real Ph.D.</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-138-the-branch-davidians-pt-3-the-real-ph-d" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-138-the-branch-davidians-pt-3-the-real-ph-d">RT</a>· <a href="https://archive.org/details/roosterteeth-40766" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40766">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 139 The Branch Davidians Pt. 4: Ladies Night at The Lord’s House</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-139-the-branch-davidians-pt-4-ladies-night-at-the-lord-s-house" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-139-the-branch-davidians-pt-4-ladies-night-at-the-lord-s-house">RT</a>· <a href="https://archive.org/details/roosterteeth-40765" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40765">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 140 The Branch Davidians Pt. 5: Catch Me If You Can Pt. BOO</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-140-the-branch-davidians-pt-5-catch-me-if-you-can-pt-boo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-140-the-branch-davidians-pt-5-catch-me-if-you-can-pt-boo">RT</a>· <a href="https://archive.org/details/roosterteeth-40764" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40764">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 141 Antifa: Ropes of Justice</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-141-antifa-ropes-of-justice" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-141-antifa-ropes-of-justice">RT</a>· <a href="https://archive.org/details/roosterteeth-40763" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40763">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 142 Timothy McVeigh: Meat Cute</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-142-timothy-mcveigh-meat-cute" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-142-timothy-mcveigh-meat-cute">RT</a>· <a href="https://archive.org/details/roosterteeth-40762" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40762">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 143 Timothy McVeigh Pt. 2: Gun Baby</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-143-timothy-mcveigh-pt-2-gun-baby" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-143-timothy-mcveigh-pt-2-gun-baby">RT</a>· <a href="https://archive.org/details/roosterteeth-40761" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40761">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 144 Timothy McVeigh Pt. 3: Free Range Guns</td>
-      <td>2020-09-30</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-144-timothy-mcveigh-pt-3-free-range-guns" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-144-timothy-mcveigh-pt-3-free-range-guns">RT</a>· <a href="https://archive.org/details/roosterteeth-40760" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40760">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 145 The Sacrament (Feat. Horror Virgin)</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-145-the-sacrament-feat-horror-virgin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-145-the-sacrament-feat-horror-virgin">RT</a>· <a href="https://archive.org/details/roosterteeth-40759" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40759">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 146 Sylvester Graham: Cracker, Please</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-146-sylvester-graham-cracker-please" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-146-sylvester-graham-cracker-please">RT</a>· <a href="https://archive.org/details/roosterteeth-40758" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40758">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 147 John Kellogg: Take You To The Broom Factory</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-147-john-kellogg-take-you-to-the-broom-factory" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-147-john-kellogg-take-you-to-the-broom-factory">RT</a>· <a href="https://archive.org/details/roosterteeth-40757" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40757">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 148 Mary Baker Eddy: Brain Too Big</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-148-mary-baker-eddy-brain-too-big" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-148-mary-baker-eddy-brain-too-big">RT</a>· <a href="https://archive.org/details/roosterteeth-40756" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40756">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 149 America’s Frontline Doctors: Send Fauci’s Pee (Ft. Good Morning From Hell)</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-149-america-s-frontline-doctors-send-fauci-s-pee-ft-good-morning-from-hell" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-149-america-s-frontline-doctors-send-fauci-s-pee-ft-good-morning-from-hell">RT</a>· <a href="https://archive.org/details/roosterteeth-40755" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40755">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 150 Chen Tao: A Very Nutty Episode</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-150-chen-tao-a-very-nutty-episode" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-150-chen-tao-a-very-nutty-episode">RT</a>· <a href="https://archive.org/details/roosterteeth-40754" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40754">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 151 Chen Tao Pt. 2: Again Tao</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-151-chen-tao-pt-2-again-tao" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-151-chen-tao-pt-2-again-tao">RT</a>· <a href="https://archive.org/details/roosterteeth-40753" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40753">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 152 Adidam: Guru Fight</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-152-adidam-guru-fight" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-152-adidam-guru-fight">RT</a>· <a href="https://archive.org/details/roosterteeth-40752" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40752">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 153: Multi-Level Marketing: Buttery Soft</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-153-multi-level-marketing-buttery-soft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-153-multi-level-marketing-buttery-soft">RT</a>· <a href="https://archive.org/details/roosterteeth-40751" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40751">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 154 Flordelis Dos Santos: You’ve Got Crabs</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-154-flordelis-dos-santos-you-ve-got-crabs" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-154-flordelis-dos-santos-you-ve-got-crabs">RT</a>· <a href="https://archive.org/details/roosterteeth-40750" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40750">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 155 Hell’s Angels: Metallic Horse Girls</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-155-hell-s-angels-metallic-horse-girls" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-155-hell-s-angels-metallic-horse-girls">RT</a>· <a href="https://archive.org/details/roosterteeth-40749" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40749">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 156 Hell’s Angels Pt. 2: $500 Worth of Beer</td>
-      <td>2020-09-29</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-156-hell-s-angels-pt-2-500-worth-of-beer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-156-hell-s-angels-pt-2-500-worth-of-beer">RT</a>· <a href="https://archive.org/details/roosterteeth-40748" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40748">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 157 Hell’s Angels Pt. 3 Tony “Truth” Taint</td>
-      <td>2020-09-28</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-157-hell-s-angels-pt-3-tony-truth-taint" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-157-hell-s-angels-pt-3-tony-truth-taint">RT</a>· <a href="https://archive.org/details/roosterteeth-40746" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40746">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ep. 1 Sathya Sai Baba: Green Diamonds</td>
-      <td>2020-09-23</td>
-      <td><a href="https://roosterteeth.com/watch/cult-podcast-season-ep-1-sathya-sai-baba-green-diamonds" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/cult-podcast-season-ep-1-sathya-sai-baba-green-diamonds">RT</a>· <a href="https://archive.org/details/roosterteeth-40871" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40871">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Cult+Podcast%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Cult+Podcast%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Cult Podcast<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Cult+Podcast%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Cult+Podcast%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

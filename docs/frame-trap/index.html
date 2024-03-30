@@ -1,434 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Frame Trap | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Frame Trap' from the Rooster Teeth website">
-        <meta name="keywords" content="Frame Trap, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/frame-trap/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Frame Trap | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Frame Trap' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/frame-trap/">
-        <meta name="twitter:title" content="Frame Trap | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Frame Trap' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Frame Trap<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>34</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>34</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Frame Trap | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Frame Trap' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/frame-trap/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Frame Trap | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Frame Trap' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/frame-trap/">
+    <meta name="twitter:title" content="Frame Trap | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Frame Trap' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Episode 132 "Village Violence"</td>
-      <td>2021-05-13</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-132-village-violence" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-132-village-violence">RT</a>· <a href="https://archive.org/details/roosterteeth-43696" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43696">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 131 "Nier To My Heart"</td>
-      <td>2021-04-29</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-131-nier-to-my-heart" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-131-nier-to-my-heart">RT</a>· <a href="https://archive.org/details/roosterteeth-43520" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43520">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 130 "Riders on the Storm"</td>
-      <td>2021-04-15</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-130-riders-on-the-storm" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-130-riders-on-the-storm">RT</a>· <a href="https://archive.org/details/roosterteeth-43335" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43335">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 129 "Hunting Bliss"</td>
-      <td>2021-04-01</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-129-hunting-bliss" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-129-hunting-bliss">RT</a>· <a href="https://archive.org/details/roosterteeth-43141" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-43141">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 127 "Braving The Default"</td>
-      <td>2021-03-02</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-127-braving-the-default" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-127-braving-the-default">RT</a>· <a href="https://archive.org/details/roosterteeth-42657" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42657">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 126 "Persona Strikes Back"</td>
-      <td>2021-02-16</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-126-persona-strikes-back" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-126-persona-strikes-back">RT</a>· <a href="https://archive.org/details/roosterteeth-42501" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42501">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 125 "Haunting Assassinations"</td>
-      <td>2021-02-07</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-125-haunting-assassinations" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-125-haunting-assassinations">RT</a>· <a href="https://archive.org/details/roosterteeth-42388" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42388">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 124 "A Monstrous Rise"</td>
-      <td>2021-01-26</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-124-a-monstrous-rise" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-124-a-monstrous-rise">RT</a>· <a href="https://archive.org/details/roosterteeth-42215" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-42215">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 123 "Flying Forward"</td>
-      <td>2021-01-05</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2021-episode-123-flying-forward" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2021-episode-123-flying-forward">RT</a>· <a href="https://archive.org/details/roosterteeth-41988" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41988">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 122 "The Cyberpunk Episode"</td>
-      <td>2020-12-22</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-122-the-cyberpunk-episode" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-122-the-cyberpunk-episode">RT</a>· <a href="https://archive.org/details/roosterteeth-41889" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41889">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 121 "Rising Up"</td>
-      <td>2020-12-08</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-121-rising-up" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-121-rising-up">RT</a>· <a href="https://archive.org/details/roosterteeth-41656" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41656">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 120 "Umbasa"</td>
-      <td>2020-11-24</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-120-umbasa" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-120-umbasa">RT</a>· <a href="https://archive.org/details/roosterteeth-41356" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41356">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 119 "Next-Gen Nearly Here"</td>
-      <td>2020-11-10</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-119-next-gen-nearly-here" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-119-next-gen-nearly-here">RT</a>· <a href="https://archive.org/details/roosterteeth-41133" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-41133">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 118 "Spooky Spooks"</td>
-      <td>2020-10-27</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-118-spooky-spooks" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-118-spooky-spooks">RT</a>· <a href="https://archive.org/details/roosterteeth-40965" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40965">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 117 "Impacting The Genshin"</td>
-      <td>2020-10-14</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-117-impacting-the-genshin" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-117-impacting-the-genshin">RT</a>· <a href="https://archive.org/details/roosterteeth-40848" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40848">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 116 "Diving Into The Underworld"</td>
-      <td>2020-10-03</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-episode-116-diving-into-the-underworld" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-episode-116-diving-into-the-underworld">RT</a>· <a href="https://archive.org/details/roosterteeth-40847" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40847">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 115 "Superheroes and Super Skating"</td>
-      <td>2020-09-26</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-115-superheroes-and-super-skating" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-115-superheroes-and-super-skating">RT</a>· <a href="https://archive.org/details/roosterteeth-40846" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40846">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 114 "Frigid Wastes"</td>
-      <td>2020-09-03</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-114-frigid-wastes" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-114-frigid-wastes">RT</a>· <a href="https://archive.org/details/roosterteeth-40845" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40845">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 113 "On the Horizon"</td>
-      <td>2020-08-24</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-113-on-the-horizon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-113-on-the-horizon">RT</a>· <a href="https://archive.org/details/roosterteeth-40844" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40844">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 112 "To Infinity and Beyond"</td>
-      <td>2020-08-05</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-112-to-infinity-and-beyond" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-112-to-infinity-and-beyond">RT</a>· <a href="https://archive.org/details/roosterteeth-40843" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40843">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 111 "Honor and Glory"</td>
-      <td>2020-08-05</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-111-honor-and-glory" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-111-honor-and-glory">RT</a>· <a href="https://archive.org/details/roosterteeth-40842" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40842">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 110 "Punkish Steam"</td>
-      <td>2020-07-17</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-110-punkish-steam" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-110-punkish-steam">RT</a>· <a href="https://archive.org/details/roosterteeth-40841" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40841">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 109 "Cycle of Violence"</td>
-      <td>2020-07-07</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-109-cycle-of-violence" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-109-cycle-of-violence">RT</a>· <a href="https://archive.org/details/roosterteeth-40840" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40840">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 108 "Konquering Realms"</td>
-      <td>2020-06-20</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-108-konquering-realms" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-108-konquering-realms">RT</a>· <a href="https://archive.org/details/roosterteeth-40839" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40839">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 107 "Staring Into the Future"</td>
-      <td>2020-05-25</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-107-staring-into-the-future" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-107-staring-into-the-future">RT</a>· <a href="https://archive.org/details/roosterteeth-40838" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40838">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 106 "Streets of Hype"</td>
-      <td>2020-05-11</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-106-streets-of-hype" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-106-streets-of-hype">RT</a>· <a href="https://archive.org/details/roosterteeth-40837" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40837">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 105 "Trial By Mana"</td>
-      <td>2020-04-27</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-105-trial-by-mana" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-105-trial-by-mana">RT</a>· <a href="https://archive.org/details/roosterteeth-40835" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40835">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 104 "7th Heaven"</td>
-      <td>2020-04-13</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-104-7th-heaven" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-104-7th-heaven">RT</a>· <a href="https://archive.org/details/roosterteeth-40834" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40834">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 98 "The Boys"</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-98-the-boys" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-98-the-boys">RT</a>· <a href="https://archive.org/details/roosterteeth-40836" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40836">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 99 "Killer"</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-99-killer" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-99-killer">RT</a>· <a href="https://archive.org/details/roosterteeth-40833" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40833">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 100 "Thank You"</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-100-thank-you" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-100-thank-you">RT</a>· <a href="https://archive.org/details/roosterteeth-40832" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40832">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 101 "Relentless"</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-101-relentless" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-101-relentless">RT</a>· <a href="https://archive.org/details/roosterteeth-40831" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40831">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 102 "A Demonic Amount of Games"</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-102-a-demonic-amount-of-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-102-a-demonic-amount-of-games">RT</a>· <a href="https://archive.org/details/roosterteeth-40830" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40830">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Episode 103 "Back From The Dead"</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-103-back-from-the-dead" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/frame-trap-2020-frame-trap-episode-103-back-from-the-dead">RT</a>· <a href="https://archive.org/details/roosterteeth-40829" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40829">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Frame+Trap%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Frame+Trap%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Frame Trap<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Frame+Trap%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Frame+Trap%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

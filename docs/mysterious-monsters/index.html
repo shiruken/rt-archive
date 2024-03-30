@@ -1,254 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Mysterious Monsters | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Mysterious Monsters' from the Rooster Teeth website">
-        <meta name="keywords" content="Mysterious Monsters, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/mysterious-monsters/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Mysterious Monsters | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Mysterious Monsters' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/mysterious-monsters/">
-        <meta name="twitter:title" content="Mysterious Monsters | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Mysterious Monsters' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Mysterious Monsters<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>14</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>14</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mysterious Monsters | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Mysterious Monsters' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/mysterious-monsters/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Mysterious Monsters | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Mysterious Monsters' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/mysterious-monsters/">
+    <meta name="twitter:title" content="Mysterious Monsters | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Mysterious Monsters' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Fellowship of the Dog!</td>
-      <td>2021-09-28</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-2-the-fellowship-of-the-dog" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-2-the-fellowship-of-the-dog">RT</a>· <a href="https://archive.org/details/roosterteeth-45353" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-45353">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bad Boy Monster Daddies! - Tyler Hutchison, Kyle Bosman, Bradley Ellis</td>
-      <td>2020-10-21</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-bad-boy-monster-daddies-tyler-hutchison-kyle-bosman-bradley-ellis-mysterious-monsters" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-bad-boy-monster-daddies-tyler-hutchison-kyle-bosman-bradley-ellis-mysterious-monsters">RT</a>· <a href="https://archive.org/details/roosterteeth-40819" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40819">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Titans! - Lawrence Sonntag, Bruce Greene, Michael Damiani</td>
-      <td>2020-06-01</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-titans-lawrence-sonntag-bruce-greene-michael-damiani-mysterious-monsters" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-titans-lawrence-sonntag-bruce-greene-michael-damiani-mysterious-monsters">RT</a>· <a href="https://archive.org/details/roosterteeth-40816" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40816">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bright Beginnings! - Brandon, Jessica Lynn Verdi, Damiani</td>
-      <td>2020-04-15</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-bright-beginnings-brandon-jessica-lynn-verdi-damiani" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-bright-beginnings-brandon-jessica-lynn-verdi-damiani">RT</a>· <a href="https://archive.org/details/roosterteeth-40827" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40827">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Items Vs Pure Grit! - Kyle Bosman, Don Casanova, Noah Rayne</td>
-      <td>2020-04-15</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-items-vs-pure-grit-kyle-bosman-don-casanova-noah-rayne" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-items-vs-pure-grit-kyle-bosman-don-casanova-noah-rayne">RT</a>· <a href="https://archive.org/details/roosterteeth-40826" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40826">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bloody Battle! - Daniel Bloodworth vs Husband and Wife Chris Nguyen and Pamela Tsing!</td>
-      <td>2020-04-09</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-bloody-battle-daniel-bloodworth-vs-husband-and-wife-chris-nguyen-and-pamela-tsing" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-bloody-battle-daniel-bloodworth-vs-husband-and-wife-chris-nguyen-and-pamela-tsing">RT</a>· <a href="https://archive.org/details/roosterteeth-40825" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40825">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Total Chaos! - AJ LoCascio, Matthew Walden, Ben Moore</td>
-      <td>2020-04-07</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-total-chaos-aj-locascio-matthew-walden-ben-moore" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-total-chaos-aj-locascio-matthew-walden-ben-moore">RT</a>· <a href="https://archive.org/details/roosterteeth-40824" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40824">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Accidental Allies - Elyse Willems, Ashly Burch, Erica Lindbeck</td>
-      <td>2020-04-06</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-accidental-allies-elyse-willems-ashly-burch-erica-lindbeck" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-accidental-allies-elyse-willems-ashly-burch-erica-lindbeck">RT</a>· <a href="https://archive.org/details/roosterteeth-40823" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40823">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bitterest of Rivals! - Gabby Montoute, Uli Gurgel, Justin Yngelmo</td>
-      <td>2020-04-05</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-bitterest-of-rivals-gabby-montoute-uli-gurgel-justin-yngelmo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-bitterest-of-rivals-gabby-montoute-uli-gurgel-justin-yngelmo">RT</a>· <a href="https://archive.org/details/roosterteeth-40822" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40822">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bonds! - Brandon Jones, Amanda Troop, Jessica Lynn Verdi</td>
-      <td>2020-04-05</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-bonds-brandon-jones-amanda-troop-jessica-lynn-verdi" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-bonds-brandon-jones-amanda-troop-jessica-lynn-verdi">RT</a>· <a href="https://archive.org/details/roosterteeth-40821" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40821">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Game Dev Showdown! - Asher Vollmer (Threes), Felix Park (Uncharted 4), Alex Belzer (God of War)</td>
-      <td>2020-04-04</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-game-dev-showdown-asher-vollmer-threes-felix-park-uncharted-4-alex-belzer-god-of-war" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-game-dev-showdown-asher-vollmer-threes-felix-park-uncharted-4-alex-belzer-god-of-war">RT</a>· <a href="https://archive.org/details/roosterteeth-40820" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40820">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Easy Alliances! - Beth May, Ben Moore, Sean Clinton</td>
-      <td>2020-04-04</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-easy-alliances-beth-may-ben-moore-sean-clinton-mysterious-monsters" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-easy-alliances-beth-may-ben-moore-sean-clinton-mysterious-monsters">RT</a>· <a href="https://archive.org/details/roosterteeth-40818" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40818">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Band Together! - Freddie Wong, Tamara Bruketta, Josh Wolf</td>
-      <td>2020-04-03</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-band-together-freddie-wong-tamara-bruketta-josh-wolf-mysterious-monsters" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-band-together-freddie-wong-tamara-bruketta-josh-wolf-mysterious-monsters">RT</a>· <a href="https://archive.org/details/roosterteeth-40817" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40817">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Battle of the Bots! - Alexa vs. Google vs. Siri - Bonus Episode</td>
-      <td>2020-04-03</td>
-      <td><a href="https://roosterteeth.com/watch/mysterious-monsters-season-1-battle-of-the-bots-alexa-vs-google-vs-siri-bonus-episode" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/mysterious-monsters-season-1-battle-of-the-bots-alexa-vs-google-vs-siri-bonus-episode">RT</a>· <a href="https://archive.org/details/roosterteeth-40815" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-40815">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Mysterious+Monsters%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Mysterious+Monsters%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Mysterious Monsters<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Mysterious+Monsters%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Mysterious+Monsters%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

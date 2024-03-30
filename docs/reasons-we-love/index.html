@@ -1,659 +1,99 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Reasons We Love | Rooster Teeth Website Archival Progress</title>
-        <link rel="icon" type="image/png" sizes="256x256" href="../favicon.png">
-        <meta name="description" content="Track the archival progress of 'Reasons We Love' from the Rooster Teeth website">
-        <meta name="keywords" content="Reasons We Love, Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
-        <meta name="author" content="shiruken">
-        <meta property="og:url" content="https://shiruken.github.io/rt-archive/reasons-we-love/">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Reasons We Love | Rooster Teeth Website Archival Progress">
-        <meta property="og:description" content="Track the archival progress of 'Reasons We Love' from the Rooster Teeth website">
-        <meta property="og:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/reasons-we-love/">
-        <meta name="twitter:title" content="Reasons We Love | Rooster Teeth Website Archival Progress">
-        <meta name="twitter:description" content="Track the archival progress of 'Reasons We Love' from the Rooster Teeth website">
-        <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/social.png">
-        <link rel="stylesheet" type="text/css" href="../w3.css"/>
-        <style>
-            header a {
-                text-decoration: none;
-            }
-            header div.w3-quarter {
-                margin-top: 12px;
-            }
-            #showTable th:first-child {
-                width: 570px;
-            }
-        </style>
-    </head>
-    <body>
-        <header class="w3-row w3-container">
-            <div class="w3-quarter">
-                <h4>
-                    <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
-                </h4>
-            </div>
-            <div class="w3-half w3-center">
-                <h1>Reasons We Love<h1>
-            </div>
-        </header>
-        <div class="w3-row w3-center">
-            <div class="w3-col s2 w3-blue w3-padding-small">
-                <h4>Rooster Teeth Videos</h4>
-                <h2>59</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Uploaded to Archive</h4>
-                <h2>59</h2>
-            </div>
-            <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
-                <h4>Missing from Archive</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
-                <h4>Incomplete Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-red w3-padding-small">
-                <h4>Removed Uploads</h4>
-                <h2>0</h2>
-            </div>
-            <div class="w3-col s2 w3-green w3-padding-small">
-                <h4>Archive Availability</h4>
-                <h2>100.00%</h2>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reasons We Love | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the archival progress of 'Reasons We Love' from the Rooster Teeth website">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/reasons-we-love/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Reasons We Love | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the archival progress of 'Reasons We Love' from the Rooster Teeth website">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/reasons-we-love/">
+    <meta name="twitter:title" content="Reasons We Love | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the archival progress of 'Reasons We Love' from the Rooster Teeth website">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+    <script src="../js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-red">&larr; All Shows</a>
+            </h4>
         </div>
-        <div class="w3-auto">
-            <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
-            <table class="dataframe w3-table-all" id="showTable">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Title</th>
-      <th>Air Date</th>
-      <th>Links</th>
-      <th>FIRST</th>
-      <th>Uploaded</th>
-      <th>Complete</th>
-      <th>Removed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>19 Reasons We LOVE Humanity</td>
-      <td>2016-03-29</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-season-1-19-reasons-we-love-humanity" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-season-1-19-reasons-we-love-humanity">RT</a>· <a href="https://archive.org/details/roosterteeth-3691" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3691">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE the Internet</td>
-      <td>2016-03-22</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-season-1-18-reasons-we-love-the-internet" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-season-1-18-reasons-we-love-the-internet">RT</a>· <a href="https://archive.org/details/roosterteeth-3692" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3692">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25 Reasons We LOVE Video Games</td>
-      <td>2016-03-15</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-season-1-25-reasons-we-love-video-games" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-season-1-25-reasons-we-love-video-games">RT</a>· <a href="https://archive.org/details/roosterteeth-3693" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3693">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>15 Reasons We LOVE DEATH BATTLE!</td>
-      <td>2016-03-11</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-season-1-15-reasons-we-love-death-b-a-t-t-l-e" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-season-1-15-reasons-we-love-death-b-a-t-t-l-e">RT</a>· <a href="https://archive.org/details/roosterteeth-3694" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3694">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17 Reasons We LOVE Undertale</td>
-      <td>2016-02-04</td>
-      <td><a href="https://roosterteeth.com/watch/17-reasons-we-love-undertale" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/17-reasons-we-love-undertale">RT</a>· <a href="https://archive.org/details/roosterteeth-3750" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3750">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 Reasons We LOVE Mobile Gaming</td>
-      <td>2016-01-28</td>
-      <td><a href="https://roosterteeth.com/watch/14-reasons-we-love-mobile-gaming" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/14-reasons-we-love-mobile-gaming">RT</a>· <a href="https://archive.org/details/roosterteeth-3749" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3749">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>20 Reasons We LOVE Super Smash Bros. Wii U</td>
-      <td>2016-01-14</td>
-      <td><a href="https://roosterteeth.com/watch/20-reasons-we-love-super-smash-bros-wii-u" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/20-reasons-we-love-super-smash-bros-wii-u">RT</a>· <a href="https://archive.org/details/roosterteeth-3747" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3747">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Fallout 4</td>
-      <td>2015-12-31</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-fallout-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-fallout-4">RT</a>· <a href="https://archive.org/details/roosterteeth-3746" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3746">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 Reasons We LOVE Princess Peach</td>
-      <td>2015-12-16</td>
-      <td><a href="https://roosterteeth.com/watch/14-reasons-we-love-princess-peach" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/14-reasons-we-love-princess-peach">RT</a>· <a href="https://archive.org/details/roosterteeth-3742" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3742">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19 Reasons We LOVE Contra</td>
-      <td>2015-12-10</td>
-      <td><a href="https://roosterteeth.com/watch/19-reasons-we-love-contra" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/19-reasons-we-love-contra">RT</a>· <a href="https://archive.org/details/roosterteeth-3741" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3741">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>23 Reasons We LOVE Super Mario World</td>
-      <td>2015-12-03</td>
-      <td><a href="https://roosterteeth.com/watch/23-reasons-we-love-super-mario-world" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/23-reasons-we-love-super-mario-world">RT</a>· <a href="https://archive.org/details/roosterteeth-3740" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3740">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Castlevania</td>
-      <td>2015-11-26</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-castlevania" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-castlevania">RT</a>· <a href="https://archive.org/details/roosterteeth-3744" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3744">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Minecraft</td>
-      <td>2015-10-29</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-minecraft" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-minecraft">RT</a>· <a href="https://archive.org/details/roosterteeth-3739" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3739">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>20 Reasons We LOVE Destiny: Year One</td>
-      <td>2015-10-08</td>
-      <td><a href="https://roosterteeth.com/watch/20-reasons-we-love-destiny-year-one" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/20-reasons-we-love-destiny-year-one">RT</a>· <a href="https://archive.org/details/roosterteeth-3738" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3738">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 Reasons We LOVE Kratos</td>
-      <td>2015-09-10</td>
-      <td><a href="https://roosterteeth.com/watch/14-reasons-we-love-kratos" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/14-reasons-we-love-kratos">RT</a>· <a href="https://archive.org/details/roosterteeth-3737" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3737">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Toad</td>
-      <td>2015-09-03</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-toad" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-toad">RT</a>· <a href="https://archive.org/details/roosterteeth-3736" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3736">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>11 Reasons We LOVE Amiibo</td>
-      <td>2015-08-27</td>
-      <td><a href="https://roosterteeth.com/watch/11-reasons-we-love-amiibo" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/11-reasons-we-love-amiibo">RT</a>· <a href="https://archive.org/details/roosterteeth-3735" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3735">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons we LOVE The Nintendo 64!</td>
-      <td>2015-08-20</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-the-nintendo-64" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-the-nintendo-64">RT</a>· <a href="https://archive.org/details/roosterteeth-3734" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3734">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19 Reasons We LOVE Battletoads</td>
-      <td>2015-08-13</td>
-      <td><a href="https://roosterteeth.com/watch/19-reasons-we-love-battletoads" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/19-reasons-we-love-battletoads">RT</a>· <a href="https://archive.org/details/roosterteeth-3752" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3752">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Kirby!</td>
-      <td>2015-08-06</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-kirby" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-kirby">RT</a>· <a href="https://archive.org/details/roosterteeth-3733" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3733">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25 Reasons We LOVE E3 2015!</td>
-      <td>2015-06-18</td>
-      <td><a href="https://roosterteeth.com/watch/25-reasons-we-love-e3-2015" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/25-reasons-we-love-e3-2015">RT</a>· <a href="https://archive.org/details/roosterteeth-3732" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3732">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Fallout!</td>
-      <td>2015-06-11</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-fallout" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-fallout">RT</a>· <a href="https://archive.org/details/roosterteeth-3731" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3731">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17 Reasons We LOVE Konami!</td>
-      <td>2015-05-28</td>
-      <td><a href="https://roosterteeth.com/watch/17-reasons-we-love-konami" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/17-reasons-we-love-konami">RT</a>· <a href="https://archive.org/details/roosterteeth-3730" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3730">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons We LOVE Iron Man!</td>
-      <td>2015-05-14</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-iron-man" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-iron-man">RT</a>· <a href="https://archive.org/details/roosterteeth-3748" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3748">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>15 Reasons We LOVE Banjo-Kazooie!</td>
-      <td>2015-05-07</td>
-      <td><a href="https://roosterteeth.com/watch/15-reasons-we-love-banjo-kazooie" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/15-reasons-we-love-banjo-kazooie">RT</a>· <a href="https://archive.org/details/roosterteeth-3729" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3729">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>22 Reasons We LOVE Pokemon!</td>
-      <td>2015-05-01</td>
-      <td><a href="https://roosterteeth.com/watch/22-reasons-we-love-pokemon" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/22-reasons-we-love-pokemon">RT</a>· <a href="https://archive.org/details/roosterteeth-3727" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3727">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>24 Reasons We LOVE Assassin's Creed!</td>
-      <td>2015-04-23</td>
-      <td><a href="https://roosterteeth.com/watch/24-reasons-we-love-assassins-creed" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/24-reasons-we-love-assassins-creed">RT</a>· <a href="https://archive.org/details/roosterteeth-3728" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3728">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons We LOVE Mario Kart 64!</td>
-      <td>2015-04-16</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-mario-kart-64" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-mario-kart-64">RT</a>· <a href="https://archive.org/details/roosterteeth-3745" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3745">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Gears of War!</td>
-      <td>2015-04-09</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-gears-of-war" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-gears-of-war">RT</a>· <a href="https://archive.org/details/roosterteeth-3726" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3726">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Attack on Titan!</td>
-      <td>2015-04-02</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-attack-on-titan" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-attack-on-titan">RT</a>· <a href="https://archive.org/details/roosterteeth-3725" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3725">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons We LOVE Star Fox 64!</td>
-      <td>2015-03-27</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-star-fox-64" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-star-fox-64">RT</a>· <a href="https://archive.org/details/roosterteeth-3723" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3723">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Mario Party!</td>
-      <td>2015-03-19</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-mario-party" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-mario-party">RT</a>· <a href="https://archive.org/details/roosterteeth-3722" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3722">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons We LOVE The Order!</td>
-      <td>2015-03-12</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-the-order" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-the-order">RT</a>· <a href="https://archive.org/details/roosterteeth-3724" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3724">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons we LOVE Luigi!</td>
-      <td>2015-03-04</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-luigi" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-luigi">RT</a>· <a href="https://archive.org/details/roosterteeth-3721" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3721">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>20 Reasons We LOVE the Nintendo 3DS</td>
-      <td>2015-02-26</td>
-      <td><a href="https://roosterteeth.com/watch/20-reasons-we-love-the-nintendo-3ds" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/20-reasons-we-love-the-nintendo-3ds">RT</a>· <a href="https://archive.org/details/roosterteeth-3720" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3720">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19 Reasons We LOVE Sonic the Hedgehog</td>
-      <td>2015-02-12</td>
-      <td><a href="https://roosterteeth.com/watch/19-reasons-we-love-sonic-the-hedgehog" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/19-reasons-we-love-sonic-the-hedgehog">RT</a>· <a href="https://archive.org/details/roosterteeth-3719" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3719">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Reasons We Love Link!</td>
-      <td>2015-01-29</td>
-      <td><a href="https://roosterteeth.com/watch/reasons-we-love-link" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/reasons-we-love-link">RT</a>· <a href="https://archive.org/details/roosterteeth-3718" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3718">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE the Xbox One</td>
-      <td>2015-01-22</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-the-xbox-one" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-the-xbox-one">RT</a>· <a href="https://archive.org/details/roosterteeth-3717" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3717">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>15 Reasons We LOVE the PlayStation 4</td>
-      <td>2015-01-15</td>
-      <td><a href="https://roosterteeth.com/watch/15-reasons-we-love-the-playstation-4" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/15-reasons-we-love-the-playstation-4">RT</a>· <a href="https://archive.org/details/roosterteeth-3716" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3716">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 Reasons We LOVE the Wii U</td>
-      <td>2015-01-08</td>
-      <td><a href="https://roosterteeth.com/watch/14-reasons-we-love-the-wii-u" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/14-reasons-we-love-the-wii-u">RT</a>· <a href="https://archive.org/details/roosterteeth-3715" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3715">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13 Reasons We LOVE Oregon Trail! | ScrewAttack</td>
-      <td>2014-07-03</td>
-      <td><a href="https://roosterteeth.com/watch/13-reasons-we-love-oregon-trail-screwattack" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/13-reasons-we-love-oregon-trail-screwattack">RT</a>· <a href="https://archive.org/details/roosterteeth-3713" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3713">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17 Reasons we LOVE Godzilla!</td>
-      <td>2014-05-30</td>
-      <td><a href="https://roosterteeth.com/watch/17-reasons-we-love-godzilla" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/17-reasons-we-love-godzilla">RT</a>· <a href="https://archive.org/details/roosterteeth-3712" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3712">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 Reasons We LOVE World of Tanks!</td>
-      <td>2014-05-20</td>
-      <td><a href="https://roosterteeth.com/watch/14-reasons-we-love-world-of-tanks" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/14-reasons-we-love-world-of-tanks">RT</a>· <a href="https://archive.org/details/roosterteeth-3714" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3714">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Mario Kart 64!</td>
-      <td>2014-05-15</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-mario-kart-64" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-mario-kart-64">RT</a>· <a href="https://archive.org/details/roosterteeth-3711" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3711">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>22 Reasons We LOVE Call of Duty!</td>
-      <td>2014-05-08</td>
-      <td><a href="https://roosterteeth.com/watch/22-reasons-we-love-call-of-duty" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/22-reasons-we-love-call-of-duty">RT</a>· <a href="https://archive.org/details/roosterteeth-3709" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3709">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>24 Reasons We LOVE Spider-Man!</td>
-      <td>2014-05-02</td>
-      <td><a href="https://roosterteeth.com/watch/24-reasons-we-love-spider-man" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/24-reasons-we-love-spider-man">RT</a>· <a href="https://archive.org/details/roosterteeth-3710" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3710">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13 Reasons We LOVE Zelda II!</td>
-      <td>2014-04-24</td>
-      <td><a href="https://roosterteeth.com/watch/13-reasons-we-love-zelda-ii" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/13-reasons-we-love-zelda-ii">RT</a>· <a href="https://archive.org/details/roosterteeth-3707" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3707">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Titanfall!</td>
-      <td>2014-04-10</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-titanfall" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-titanfall">RT</a>· <a href="https://archive.org/details/roosterteeth-3708" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3708">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17 Reasons We LOVE Diablo 3!</td>
-      <td>2014-04-03</td>
-      <td><a href="https://roosterteeth.com/watch/17-reasons-we-love-diablo-3" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/17-reasons-we-love-diablo-3">RT</a>· <a href="https://archive.org/details/roosterteeth-3706" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3706">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE Metal Gear Solid 3: Snake Eater!</td>
-      <td>2014-03-27</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-metal-gear-solid-3-snake-eater" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-metal-gear-solid-3-snake-eater">RT</a>· <a href="https://archive.org/details/roosterteeth-3704" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3704">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18 Reasons We LOVE South Park!</td>
-      <td>2014-03-20</td>
-      <td><a href="https://roosterteeth.com/watch/18-reasons-we-love-south-park" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/18-reasons-we-love-south-park">RT</a>· <a href="https://archive.org/details/roosterteeth-3703" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3703">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Final Fantasy XIII</td>
-      <td>2014-03-06</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-final-fantasy-xiii" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-final-fantasy-xiii">RT</a>· <a href="https://archive.org/details/roosterteeth-3701" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3701">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16 Reasons We LOVE Chun Li</td>
-      <td>2014-02-20</td>
-      <td><a href="https://roosterteeth.com/watch/16-reasons-we-love-chun-li" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/16-reasons-we-love-chun-li">RT</a>· <a href="https://archive.org/details/roosterteeth-3705" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3705">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>28 Reasons We LOVE Dragon Ball Z!</td>
-      <td>2014-02-06</td>
-      <td><a href="https://roosterteeth.com/watch/28-reasons-we-love-dragon-ball-z" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/28-reasons-we-love-dragon-ball-z">RT</a>· <a href="https://archive.org/details/roosterteeth-3700" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3700">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19 Reasons we LOVE Zelda</td>
-      <td>2014-01-30</td>
-      <td><a href="https://roosterteeth.com/watch/19-reasons-we-love-zelda" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/19-reasons-we-love-zelda">RT</a>· <a href="https://archive.org/details/roosterteeth-3699" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3699">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17 Reasons We LOVE the X-Men Arcade Game</td>
-      <td>2014-01-15</td>
-      <td><a href="https://roosterteeth.com/watch/17-reasons-we-love-the-x-men-arcade-game" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/17-reasons-we-love-the-x-men-arcade-game">RT</a>· <a href="https://archive.org/details/roosterteeth-3698" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3698">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>23 Reasons we LOVE Killer Instinct (2013)</td>
-      <td>2014-01-01</td>
-      <td><a href="https://roosterteeth.com/watch/23-reasons-we-love-killer-instinct-2013" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/23-reasons-we-love-killer-instinct-2013">RT</a>· <a href="https://archive.org/details/roosterteeth-3696" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3696">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>21 Reasons We LOVE Super Mario 3D World!</td>
-      <td>2013-12-20</td>
-      <td><a href="https://roosterteeth.com/watch/21-reasons-we-love-super-mario-3d-world" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/21-reasons-we-love-super-mario-3d-world">RT</a>· <a href="https://archive.org/details/roosterteeth-3697" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3697">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19 Reasons We LOVE Killer Instinct (NOW A VIDEO!)</td>
-      <td>2013-08-19</td>
-      <td><a href="https://roosterteeth.com/watch/19-reasons-we-love-killer-instinct-now-a-video" target="_blank" title="View on Rooster Teeth" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://roosterteeth.com/watch/19-reasons-we-love-killer-instinct-now-a-video">RT</a>· <a href="https://archive.org/details/roosterteeth-3695" target="_blank" title="View on Internet Archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/details/roosterteeth-3695">Archive</a></td>
-      <td></td>
-      <td>✅</td>
-      <td>✅</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-            <div class="w3-section w3-padding">
-                <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Reasons+We+Love%22&sort=-date" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Reasons+We+Love%22&sort=-date">Search for all episodes on Internet Archive</a>
-            </div>
-            <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
-                <h6>Definitions</h6>
-                <ul>
-                    <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
-                    <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
-                    <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
-                    <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
-                </ul>
-            </div>          
+        <div class="w3-half w3-center">
+            <h1>Reasons We Love<h1>
         </div>
-        <div class="w3-container w3-center w3-text-gray">
-            <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </header>
+    <div class="w3-row w3-center hidden">
+        <div class="w3-col s2 w3-blue w3-padding-small">
+            <h4>Rooster Teeth Videos</h4>
+            <h2 id="count"></h2>
         </div>
-        <script>
-        function search() {
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("showTable");
-            tbody = table.getElementsByTagName("tbody")[0];
-            tr = tbody.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    txtValue = td.textContent || td.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        </script>
-        <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
-    </body>
-    </html>
-    
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Uploaded to Archive</h4>
+            <h2 id="uploaded"></h2>
+        </div>
+        <div class="w3-col s2 w3-deep-orange w3-text-white w3-padding-small">
+            <h4>Missing from Archive</h4>
+            <h2 id="missing"></h2>
+        </div>
+        <div class="w3-col s2 w3-orange w3-text-white w3-padding-small">
+            <h4>Incomplete Uploads</h4>
+            <h2 id="incomplete"></h2>
+        </div>
+        <div class="w3-col s2 w3-red w3-padding-small">
+            <h4>Removed Uploads</h4>
+            <h2 id="removed"></h2>
+        </div>
+        <div class="w3-col s2 w3-green w3-padding-small">
+            <h4>Archive Availability</h4>
+            <h2 id="availability"></h2>
+        </div>
+    </div>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title" id="search" onkeyup="search()">
+        <table id="table" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                    <th>Removed</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Reasons+We+Love%22&sort=-date" target="_blank" id="archive_search" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://archive.org/search?query=scanner%3A%22Roosterteeth+Website+Mirror%22+AND+show_title%3A%22Reasons+We+Love%22&sort=-date">Search for all episodes on Internet Archive</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+                <li><b>Removed:</b> Internet Archive upload has been removed from the website</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>
