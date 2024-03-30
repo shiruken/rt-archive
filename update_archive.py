@@ -146,7 +146,7 @@ def generate_website():
             "summary": summary.to_dict(),
             "data": df.to_dict(orient="records"),
         }
-        with open(f"docs/json/{show_slug}.json", "w") as fp:
+        with open(f"docs/{show_slug}/data.json", "w") as fp:
             json.dump(output, fp)
 
     def generate_summary(df):
@@ -167,7 +167,7 @@ def generate_website():
         "data": df_shows.reset_index().to_dict(orient="records"),
     }
 
-    with open("docs/json/shows.json", "w") as fp:
+    with open("docs/data.json", "w") as fp:
         json.dump(output, fp)
 
 
