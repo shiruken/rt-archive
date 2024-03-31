@@ -3,7 +3,7 @@
         "count": 42506,
         "uploaded": 40634,
         "missing": 1872,
-        "incomplete": 65,
+        "incomplete": 58,
         "removed": 2
     },
     "data": [
@@ -868,7 +868,7 @@
             "count": 3,
             "uploaded": 2,
             "missing": 1,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -895,7 +895,7 @@
             "count": 168,
             "uploaded": 168,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1498,7 +1498,7 @@
             "count": 76,
             "uploaded": 76,
             "missing": 0,
-            "incomplete": 10,
+            "incomplete": 9,
             "removed": 0
         },
         {
@@ -1687,7 +1687,7 @@
             "count": 121,
             "uploaded": 103,
             "missing": 18,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1939,7 +1939,7 @@
             "count": 920,
             "uploaded": 919,
             "missing": 1,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1948,7 +1948,7 @@
             "count": 207,
             "uploaded": 207,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2389,7 +2389,7 @@
             "count": 407,
             "uploaded": 405,
             "missing": 2,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
