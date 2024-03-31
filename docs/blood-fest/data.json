@@ -1,1 +1,33 @@
-{"show": "Blood Fest", "slug": "blood-fest", "summary": {"count": 2, "uploaded": 2, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Blood Fest", "id": "30482", "slug": "blood-fest-2019-blood-fest-1", "date": "2019-02-14", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blood Fest Official Trailer", "id": "1341-bonus", "slug": "blood-fest-2019-blood-fest-official-trailer", "date": "2019-01-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Blood Fest",
+    "slug": "blood-fest",
+    "summary": {
+        "count": 2,
+        "uploaded": 2,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Blood Fest",
+            "id": "30482",
+            "slug": "blood-fest-2019-blood-fest-1",
+            "date": "2019-02-14",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blood Fest Official Trailer",
+            "id": "1341-bonus",
+            "slug": "blood-fest-2019-blood-fest-official-trailer",
+            "date": "2019-01-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

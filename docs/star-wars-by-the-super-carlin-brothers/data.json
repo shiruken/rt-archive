@@ -1,1 +1,43 @@
-{"show": "Star Wars by the Super Carlin Brothers", "slug": "star-wars-by-the-super-carlin-brothers", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Omega is Rey\u2019s Mother | Star Wars Theory", "id": "43674", "slug": "star-wars-by-the-super-carlin-brothers-2021-omega-is-rey-s-mother-star-wars-theory", "date": "2021-05-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 7 Unanswered Questions From The Mandalorian", "id": "41958", "slug": "star-wars-by-the-super-carlin-brothers-2020-top-7-unanswered-questions-from-the-mandalorian", "date": "2020-12-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Theory - Rey and Grogu\u2019s SECRET Connection!", "id": "41670", "slug": "star-wars-by-the-super-carlin-brothers-2020-star-wars-theory-rey-and-grogu-s-secret-connection", "date": "2020-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Star Wars by the Super Carlin Brothers",
+    "slug": "star-wars-by-the-super-carlin-brothers",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Omega is Rey\u2019s Mother | Star Wars Theory",
+            "id": "43674",
+            "slug": "star-wars-by-the-super-carlin-brothers-2021-omega-is-rey-s-mother-star-wars-theory",
+            "date": "2021-05-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 7 Unanswered Questions From The Mandalorian",
+            "id": "41958",
+            "slug": "star-wars-by-the-super-carlin-brothers-2020-top-7-unanswered-questions-from-the-mandalorian",
+            "date": "2020-12-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Theory - Rey and Grogu\u2019s SECRET Connection!",
+            "id": "41670",
+            "slug": "star-wars-by-the-super-carlin-brothers-2020-star-wars-theory-rey-and-grogu-s-secret-connection",
+            "date": "2020-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

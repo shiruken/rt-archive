@@ -1,1 +1,623 @@
-{"show": "Red vs. Blue: The Shisno Trilogy", "slug": "the-shisno-trilogy", "summary": {"count": 61, "uploaded": 61, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Theogeny", "id": "33417", "slug": "red-vs-blue-season-17-12", "date": "2019-05-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Omphalos", "id": "33069", "slug": "red-vs-blue-season-17-11", "date": "2019-05-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Killing Time", "id": "32950", "slug": "red-vs-blue-season-17-10", "date": "2019-05-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Succession", "id": "32851", "slug": "red-vs-blue-season-17-9", "date": "2019-05-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Finally", "id": "32747", "slug": "red-vs-blue-season-17-8", "date": "2019-04-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Limbo", "id": "32520", "slug": "red-vs-blue-season-17-7", "date": "2019-04-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Self-Fulfilling Odyssey", "id": "32407", "slug": "red-vs-blue-season-17-6", "date": "2019-04-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Not-So-Good Ol' Days", "id": "32311", "slug": "red-vs-blue-season-17-5", "date": "2019-04-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Breaching the Torus", "id": "32310", "slug": "red-vs-blue-season-17-4", "date": "2019-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Schr\u00f6dingin'", "id": "31930", "slug": "red-vs-blue-season-17-3", "date": "2019-03-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Everwhen", "id": "31914", "slug": "red-vs-blue-season-17-2", "date": "2019-03-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Stitch in Time", "id": "31819", "slug": "red-vs-blue-season-17-1", "date": "2019-03-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Singularity Trailer", "id": "1343-bonus", "slug": "red-vs-blue-singularity-trailer", "date": "2019-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes with Joe and Minni", "id": "1262-bonus", "slug": "red-vs-blue-behind-the-scenes-with-joe-and-minnie", "date": "2018-08-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Animation of Red vs. Blue | Red vs. Blue", "id": "1221-bonus", "slug": "red-vs-blue-behind-the-animation-of-red-vs-blue-red-vs-blue", "date": "2018-07-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "\"Machinmating\" Red vs. Blue Season 16 | Red vs. Blue", "id": "1178-bonus", "slug": "red-vs-blue-bts-machinima", "date": "2018-07-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Paradox", "id": "27961", "slug": "red-vs-blue-season-16-15", "date": "2018-07-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Designing Sound for Red vs. Blue - Behind the Scenes", "id": "959-bonus", "slug": "red-vs-blue-designing-sound-for-red-vs-blue-behind-the-scenes", "date": "2018-07-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lights Out", "id": "27851", "slug": "red-vs-blue-season-16-14", "date": "2018-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Time For Hammers", "id": "27708", "slug": "red-vs-blue-season-16-13", "date": "2018-07-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Docudrama", "id": "27616", "slug": "red-vs-blue-season-16-12", "date": "2018-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sword Loser", "id": "27533", "slug": "red-vs-blue-season-16-11", "date": "2018-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes with Sister and Tucker", "id": "214-bonus", "slug": "red-vs-blue-sister-tucker-interview", "date": "2018-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Caboose's Travels", "id": "27424", "slug": "red-vs-blue-season-16-10", "date": "2018-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Walk and Talk", "id": "27187", "slug": "red-vs-blue-season-16-9", "date": "2018-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recovery", "id": "27087", "slug": "red-vs-blue-season-16-8", "date": "2018-06-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five More Letters...", "id": "210-bonus", "slug": "red-vs-blue-five-more-letters", "date": "2018-06-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "It Just Winked At Me", "id": "27012", "slug": "red-vs-blue-season-16-7", "date": "2018-05-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Pizza the Action", "id": "26959", "slug": "red-vs-blue-season-16-6", "date": "2018-05-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Headshots", "id": "26871", "slug": "red-vs-blue-season-16-5", "date": "2018-05-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sis and Tuc's Sexellent Adventure", "id": "26795", "slug": "red-vs-blue-season-16-sis-and-tuc-s-sexellent-adventure", "date": "2018-05-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lost Time", "id": "26638", "slug": "red-vs-blue-season-16-lost-time", "date": "2018-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Incendiary Incidents", "id": "26543", "slug": "red-vs-blue-season-16-incendiary-incidents", "date": "2018-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Season 16 is Free At RoosterTeeth.com!", "id": "202-bonus", "slug": "red-vs-blue-season-16-is-free-at-roosterteeth-com", "date": "2018-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Shisno", "id": "26499", "slug": "red-vs-blue-season-16-1", "date": "2018-04-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red vs. Blue Season 16 - Intro", "id": "201-bonus", "slug": "red-vs-blue-red-vs-blue-season-16-intro", "date": "2018-04-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red Vs. Blue Season 16 - Trailer", "id": "200-bonus", "slug": "red-vs-blue-red-vs-blue-season-16-trailer", "date": "2018-04-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Caboose's Guide To Finding Your Home", "id": "1364-bonus", "slug": "red-vs-blue-season-15-caboose-s-guide-to-finding-your-home", "date": "2017-12-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 21: Epilogues", "id": "22938", "slug": "red-vs-blue-season-15-episode-21-g340guj", "date": "2017-08-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 20: Blue vs Blue", "id": "22939", "slug": "red-vs-blue-season-15-episode-20-r39ugkj", "date": "2017-08-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 19: Red vs Red", "id": "22940", "slug": "red-vs-blue-season-15-episode-19-f093uf", "date": "2017-08-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 18: Desolation", "id": "23508", "slug": "red-vs-blue-season-15-episode-18-fh849f", "date": "2017-07-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 17: Quicksave", "id": "22942", "slug": "red-vs-blue-season-15-episode-17-go34h", "date": "2017-07-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 16: Grif Does a Rescue", "id": "23544", "slug": "red-vs-blue-season-15-episode-16-n8wthdg", "date": "2017-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 15: Objects in Space", "id": "22943", "slug": "red-vs-blue-season-15-episode-15-f84hfl", "date": "2017-07-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 14: True Colors", "id": "22944", "slug": "red-vs-blue-season-15-episode-14-98-w4thj", "date": "2017-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 13: Blue vs. Red - Part 2", "id": "22946", "slug": "red-vs-blue-season-15-episode-13-sdfiy45", "date": "2017-06-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 12: Blue vs. Red", "id": "22945", "slug": "red-vs-blue-season-15-episode-12-fshfy44", "date": "2017-06-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 11: Belly of the Beast", "id": "22947", "slug": "red-vs-blue-season-15-episode-11-387-ghd", "date": "2017-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 10: Battlescars", "id": "22948", "slug": "red-vs-blue-season-15-10-ai7g4bj", "date": "2017-06-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 9: Rigged", "id": "23198", "slug": "red-vs-blue-season-15-9-ie7t48", "date": "2017-05-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 8: A Fistful of Colours", "id": "22949", "slug": "red-vs-blue-season-15-8-28-gysl", "date": "2017-05-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Season 15, Episode 8 - Trailer", "id": "125-bonus", "slug": "red-vs-blue-bonus-89", "date": "2017-05-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 7: Nightmare on Planet Evil", "id": "22950", "slug": "red-vs-blue-season-15-7-hw87gh", "date": "2017-05-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 6: Reacts", "id": "22951", "slug": "red-vs-blue-season-15-6-s8gj49", "date": "2017-05-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 5: Previously On", "id": "22952", "slug": "red-vs-blue-season-15-5-a84jh9", "date": "2017-04-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 4: Chorus Lessons", "id": "23509", "slug": "red-vs-blue-season-15-4-49-hj0m", "date": "2017-04-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 3: The Mother of Destruction", "id": "22953", "slug": "red-vs-blue-season-15-3-s73bhh", "date": "2017-04-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 2: The Chronicle", "id": "23510", "slug": "red-vs-blue-season-15-2-ba85h9h", "date": "2017-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 1: Prologue", "id": "22954", "slug": "red-vs-blue-season-15-1-83-bfog7", "date": "2017-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Complete, Unabridged Story of Red vs. Blue. Abridged.", "id": "62-bonus", "slug": "red-vs-blue-bonus-90", "date": "2017-03-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Red vs. Blue: The Shisno Trilogy",
+    "slug": "the-shisno-trilogy",
+    "summary": {
+        "count": 61,
+        "uploaded": 61,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Theogeny",
+            "id": "33417",
+            "slug": "red-vs-blue-season-17-12",
+            "date": "2019-05-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Omphalos",
+            "id": "33069",
+            "slug": "red-vs-blue-season-17-11",
+            "date": "2019-05-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Killing Time",
+            "id": "32950",
+            "slug": "red-vs-blue-season-17-10",
+            "date": "2019-05-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Succession",
+            "id": "32851",
+            "slug": "red-vs-blue-season-17-9",
+            "date": "2019-05-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Finally",
+            "id": "32747",
+            "slug": "red-vs-blue-season-17-8",
+            "date": "2019-04-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Limbo",
+            "id": "32520",
+            "slug": "red-vs-blue-season-17-7",
+            "date": "2019-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Self-Fulfilling Odyssey",
+            "id": "32407",
+            "slug": "red-vs-blue-season-17-6",
+            "date": "2019-04-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Not-So-Good Ol' Days",
+            "id": "32311",
+            "slug": "red-vs-blue-season-17-5",
+            "date": "2019-04-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Breaching the Torus",
+            "id": "32310",
+            "slug": "red-vs-blue-season-17-4",
+            "date": "2019-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Schr\u00f6dingin'",
+            "id": "31930",
+            "slug": "red-vs-blue-season-17-3",
+            "date": "2019-03-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Everwhen",
+            "id": "31914",
+            "slug": "red-vs-blue-season-17-2",
+            "date": "2019-03-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Stitch in Time",
+            "id": "31819",
+            "slug": "red-vs-blue-season-17-1",
+            "date": "2019-03-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Singularity Trailer",
+            "id": "1343-bonus",
+            "slug": "red-vs-blue-singularity-trailer",
+            "date": "2019-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes with Joe and Minni",
+            "id": "1262-bonus",
+            "slug": "red-vs-blue-behind-the-scenes-with-joe-and-minnie",
+            "date": "2018-08-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Animation of Red vs. Blue | Red vs. Blue",
+            "id": "1221-bonus",
+            "slug": "red-vs-blue-behind-the-animation-of-red-vs-blue-red-vs-blue",
+            "date": "2018-07-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "\"Machinmating\" Red vs. Blue Season 16 | Red vs. Blue",
+            "id": "1178-bonus",
+            "slug": "red-vs-blue-bts-machinima",
+            "date": "2018-07-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Paradox",
+            "id": "27961",
+            "slug": "red-vs-blue-season-16-15",
+            "date": "2018-07-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Designing Sound for Red vs. Blue - Behind the Scenes",
+            "id": "959-bonus",
+            "slug": "red-vs-blue-designing-sound-for-red-vs-blue-behind-the-scenes",
+            "date": "2018-07-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lights Out",
+            "id": "27851",
+            "slug": "red-vs-blue-season-16-14",
+            "date": "2018-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Time For Hammers",
+            "id": "27708",
+            "slug": "red-vs-blue-season-16-13",
+            "date": "2018-07-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Docudrama",
+            "id": "27616",
+            "slug": "red-vs-blue-season-16-12",
+            "date": "2018-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sword Loser",
+            "id": "27533",
+            "slug": "red-vs-blue-season-16-11",
+            "date": "2018-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes with Sister and Tucker",
+            "id": "214-bonus",
+            "slug": "red-vs-blue-sister-tucker-interview",
+            "date": "2018-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Caboose's Travels",
+            "id": "27424",
+            "slug": "red-vs-blue-season-16-10",
+            "date": "2018-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Walk and Talk",
+            "id": "27187",
+            "slug": "red-vs-blue-season-16-9",
+            "date": "2018-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recovery",
+            "id": "27087",
+            "slug": "red-vs-blue-season-16-8",
+            "date": "2018-06-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five More Letters...",
+            "id": "210-bonus",
+            "slug": "red-vs-blue-five-more-letters",
+            "date": "2018-06-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "It Just Winked At Me",
+            "id": "27012",
+            "slug": "red-vs-blue-season-16-7",
+            "date": "2018-05-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Pizza the Action",
+            "id": "26959",
+            "slug": "red-vs-blue-season-16-6",
+            "date": "2018-05-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Headshots",
+            "id": "26871",
+            "slug": "red-vs-blue-season-16-5",
+            "date": "2018-05-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sis and Tuc's Sexellent Adventure",
+            "id": "26795",
+            "slug": "red-vs-blue-season-16-sis-and-tuc-s-sexellent-adventure",
+            "date": "2018-05-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lost Time",
+            "id": "26638",
+            "slug": "red-vs-blue-season-16-lost-time",
+            "date": "2018-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Incendiary Incidents",
+            "id": "26543",
+            "slug": "red-vs-blue-season-16-incendiary-incidents",
+            "date": "2018-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Season 16 is Free At RoosterTeeth.com!",
+            "id": "202-bonus",
+            "slug": "red-vs-blue-season-16-is-free-at-roosterteeth-com",
+            "date": "2018-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Shisno",
+            "id": "26499",
+            "slug": "red-vs-blue-season-16-1",
+            "date": "2018-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red vs. Blue Season 16 - Intro",
+            "id": "201-bonus",
+            "slug": "red-vs-blue-red-vs-blue-season-16-intro",
+            "date": "2018-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red Vs. Blue Season 16 - Trailer",
+            "id": "200-bonus",
+            "slug": "red-vs-blue-red-vs-blue-season-16-trailer",
+            "date": "2018-04-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Caboose's Guide To Finding Your Home",
+            "id": "1364-bonus",
+            "slug": "red-vs-blue-season-15-caboose-s-guide-to-finding-your-home",
+            "date": "2017-12-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 21: Epilogues",
+            "id": "22938",
+            "slug": "red-vs-blue-season-15-episode-21-g340guj",
+            "date": "2017-08-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 20: Blue vs Blue",
+            "id": "22939",
+            "slug": "red-vs-blue-season-15-episode-20-r39ugkj",
+            "date": "2017-08-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 19: Red vs Red",
+            "id": "22940",
+            "slug": "red-vs-blue-season-15-episode-19-f093uf",
+            "date": "2017-08-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 18: Desolation",
+            "id": "23508",
+            "slug": "red-vs-blue-season-15-episode-18-fh849f",
+            "date": "2017-07-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 17: Quicksave",
+            "id": "22942",
+            "slug": "red-vs-blue-season-15-episode-17-go34h",
+            "date": "2017-07-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 16: Grif Does a Rescue",
+            "id": "23544",
+            "slug": "red-vs-blue-season-15-episode-16-n8wthdg",
+            "date": "2017-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 15: Objects in Space",
+            "id": "22943",
+            "slug": "red-vs-blue-season-15-episode-15-f84hfl",
+            "date": "2017-07-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 14: True Colors",
+            "id": "22944",
+            "slug": "red-vs-blue-season-15-episode-14-98-w4thj",
+            "date": "2017-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 13: Blue vs. Red - Part 2",
+            "id": "22946",
+            "slug": "red-vs-blue-season-15-episode-13-sdfiy45",
+            "date": "2017-06-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 12: Blue vs. Red",
+            "id": "22945",
+            "slug": "red-vs-blue-season-15-episode-12-fshfy44",
+            "date": "2017-06-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 11: Belly of the Beast",
+            "id": "22947",
+            "slug": "red-vs-blue-season-15-episode-11-387-ghd",
+            "date": "2017-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 10: Battlescars",
+            "id": "22948",
+            "slug": "red-vs-blue-season-15-10-ai7g4bj",
+            "date": "2017-06-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 9: Rigged",
+            "id": "23198",
+            "slug": "red-vs-blue-season-15-9-ie7t48",
+            "date": "2017-05-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 8: A Fistful of Colours",
+            "id": "22949",
+            "slug": "red-vs-blue-season-15-8-28-gysl",
+            "date": "2017-05-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Season 15, Episode 8 - Trailer",
+            "id": "125-bonus",
+            "slug": "red-vs-blue-bonus-89",
+            "date": "2017-05-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 7: Nightmare on Planet Evil",
+            "id": "22950",
+            "slug": "red-vs-blue-season-15-7-hw87gh",
+            "date": "2017-05-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 6: Reacts",
+            "id": "22951",
+            "slug": "red-vs-blue-season-15-6-s8gj49",
+            "date": "2017-05-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 5: Previously On",
+            "id": "22952",
+            "slug": "red-vs-blue-season-15-5-a84jh9",
+            "date": "2017-04-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 4: Chorus Lessons",
+            "id": "23509",
+            "slug": "red-vs-blue-season-15-4-49-hj0m",
+            "date": "2017-04-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 3: The Mother of Destruction",
+            "id": "22953",
+            "slug": "red-vs-blue-season-15-3-s73bhh",
+            "date": "2017-04-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 2: The Chronicle",
+            "id": "23510",
+            "slug": "red-vs-blue-season-15-2-ba85h9h",
+            "date": "2017-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 1: Prologue",
+            "id": "22954",
+            "slug": "red-vs-blue-season-15-1-83-bfog7",
+            "date": "2017-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Complete, Unabridged Story of Red vs. Blue. Abridged.",
+            "id": "62-bonus",
+            "slug": "red-vs-blue-bonus-90",
+            "date": "2017-03-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

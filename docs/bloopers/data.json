@@ -1,1 +1,53 @@
-{"show": "Bloopers", "slug": "bloopers", "summary": {"count": 4, "uploaded": 4, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Smosh, farts and Steve's haircut - Season 4 Bloopers", "id": "31714", "slug": "bloopers-season-1-bloopers-3", "date": "2019-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BLOOPER REEL: Sugar Pine 7 Season 2 Finale", "id": "486", "slug": "bloopers-season-1-blooper-reel-sugar-pine-7-season-2-finale", "date": "2017-12-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SP7 Blooper Reel #2", "id": "487", "slug": "bloopers-season-1-sp7-blooper-reel-2", "date": "2017-12-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SP7 Blooper Reel #1", "id": "488", "slug": "bloopers-season-1-sp7-blooper-reel-1", "date": "2017-10-31", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Bloopers",
+    "slug": "bloopers",
+    "summary": {
+        "count": 4,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Smosh, farts and Steve's haircut - Season 4 Bloopers",
+            "id": "31714",
+            "slug": "bloopers-season-1-bloopers-3",
+            "date": "2019-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BLOOPER REEL: Sugar Pine 7 Season 2 Finale",
+            "id": "486",
+            "slug": "bloopers-season-1-blooper-reel-sugar-pine-7-season-2-finale",
+            "date": "2017-12-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SP7 Blooper Reel #2",
+            "id": "487",
+            "slug": "bloopers-season-1-sp7-blooper-reel-2",
+            "date": "2017-12-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SP7 Blooper Reel #1",
+            "id": "488",
+            "slug": "bloopers-season-1-sp7-blooper-reel-1",
+            "date": "2017-10-31",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

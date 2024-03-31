@@ -1,1 +1,653 @@
-{"show": "Role Initiative", "slug": "role-initiative", "summary": {"count": 64, "uploaded": 64, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Goodbye Party", "id": "45858", "slug": "role-initiative-arc-3-ri-63-finale", "date": "2021-11-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Chained God", "id": "45783", "slug": "role-initiative-arc-3-ri-62", "date": "2021-11-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Into the Unknown", "id": "45546", "slug": "role-initiative-arc-3-61", "date": "2021-10-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rising Tides from Hell", "id": "45404", "slug": "role-initiative-arc-3-ri-60-prerecord", "date": "2021-10-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "NEVER Split the Party", "id": "45385", "slug": "role-initiative-arc-3-ri-9-24", "date": "2021-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "In a Sea of Locked Memories", "id": "45310", "slug": "role-initiative-arc-3-ri-58", "date": "2021-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gone, Not Forgotten", "id": "45227", "slug": "role-initiative-arc-3-ri-57", "date": "2021-09-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Do You Fear Justice?", "id": "45157", "slug": "role-initiative-arc-3-09-07-21", "date": "2021-09-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who's Behind the Golden Mask?", "id": "45087", "slug": "role-initiative-arc-3-ri-55", "date": "2021-09-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Closing Ceremonies", "id": "44807", "slug": "role-initiative-arc-3-ri-54", "date": "2021-08-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rising Problems", "id": "44743", "slug": "role-initiative-arc-3-ri-53", "date": "2021-08-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Keep an Eye Out for Spiders", "id": "44665", "slug": "role-initiative-arc-3-ri-52", "date": "2021-07-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Big Bird, Big Problem", "id": "44395", "slug": "role-initiative-arc-3-ri-51", "date": "2021-07-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "No Laughing Matter", "id": "44313", "slug": "role-initiative-2021-ri-50", "date": "2021-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "It's Just Nature", "id": "44159", "slug": "role-initiative-2021-ri-49-prerecord", "date": "2021-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Of Muscle and Thunder", "id": "44060", "slug": "role-initiative-2021-ri48-pre-record", "date": "2021-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Fungi in Need is a Friend Indeed", "id": "44052", "slug": "role-initiative-2021-ri47", "date": "2021-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Now Your Home is Haunted", "id": "43780", "slug": "role-initiative-2021-ri-46", "date": "2021-05-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Missing Menagerie", "id": "43515", "slug": "role-initiative-2021-ri-45", "date": "2021-05-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Out of the Fry Pan", "id": "43446", "slug": "role-initiative-2021-ri-44", "date": "2021-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Long Rest At Last", "id": "43433", "slug": "role-initiative-2021-ri-43", "date": "2021-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Gouda Samaritan", "id": "43333", "slug": "role-initiative-2021-ri-42", "date": "2021-04-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Story Arc One Recap", "id": "43150", "slug": "role-initiative-2021-4-8", "date": "2021-04-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tall Tales for Short Folk", "id": "43143", "slug": "role-initiative-2021-ri41", "date": "2021-04-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ghosts in the Machine", "id": "42967", "slug": "role-initiative-2021-ri-40", "date": "2021-03-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gravity of the Situation", "id": "42882", "slug": "role-initiative-2021-ri39", "date": "2021-03-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hot Headed into Danger", "id": "42690", "slug": "role-initiative-2021-ri38", "date": "2021-03-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Long Way Down", "id": "42515", "slug": "role-initiative-2021-ri37", "date": "2021-02-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Lion, the Warehouse, and the Warlock", "id": "42442", "slug": "role-initiative-2021-ri36", "date": "2021-02-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Don't Fear the Repo", "id": "42341", "slug": "role-initiative-2021-ri-35", "date": "2021-02-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Big Booms in the Broken Brewery", "id": "42245", "slug": "role-initiative-2021-ri-34", "date": "2021-01-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dude Where's My Camel?", "id": "42165", "slug": "role-initiative-2021-1-21", "date": "2021-01-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A City of Devils", "id": "42082", "slug": "role-initiative-2020-1-14", "date": "2021-01-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Merry Mismanagement - Winter Special", "id": "41884", "slug": "role-initiative-2020-ri-holiday-episode-2-prerecord", "date": "2021-01-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sweet Dreams - Winter Special", "id": "41883", "slug": "role-initiative-2020-ri-holiday-episode-1-prerecord", "date": "2020-12-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Outlaws of the Oaisis - Line in the Sand", "id": "41936", "slug": "role-initiative-2020-12-19", "date": "2020-12-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Say Hello to Consequences - Line in the Sand", "id": "41702", "slug": "role-initiative-2020-ri-28", "date": "2020-12-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Forest of Lies - Line in the Sand", "id": "41684", "slug": "role-initiative-2020-ri27", "date": "2020-12-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rough Landing - Line in the Sand", "id": "41443", "slug": "role-initiative-2020-11-26", "date": "2020-11-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pumpkin Patch Panic - Spooky Special", "id": "41069", "slug": "role-initiative-2020-ri-25", "date": "2020-11-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Gauntlet - Line in the Sand", "id": "40994", "slug": "role-initiative-2020-ri24", "date": "2020-10-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Night of Fire - Line in the Sand", "id": "40884", "slug": "role-initiative-2020-ri23", "date": "2020-10-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Infernal Combustion - Line in the Sand", "id": "40632", "slug": "role-initiative-2020-role-initiative-22", "date": "2020-10-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blood Canyon Actual - Line in the Sand", "id": "40311", "slug": "role-initiative-2020-ri21", "date": "2020-09-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bumpy Road - Line in the Sand", "id": "40176", "slug": "role-initiative-2020-episode-20", "date": "2020-09-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "We Gotta Go - Line in the Sand", "id": "40071", "slug": "role-initiative-2020-episode-19", "date": "2020-09-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Training Wheels - Line in the Sand", "id": "39912", "slug": "role-initiative-2020-episode-18", "date": "2020-08-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Anauroch n\u2019 Roll - Line in the Sand", "id": "39863", "slug": "role-initiative-2020-episode-17", "date": "2020-08-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hit the Road - Line in the Sand", "id": "39748", "slug": "role-initiative-2020-episode-16", "date": "2020-08-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Cherry Festival", "id": "39655", "slug": "role-initiative-2020-episode-15", "date": "2020-08-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Brunch Buddies", "id": "39563", "slug": "role-initiative-2020-ri-14", "date": "2020-07-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thunderbolt and Lightning", "id": "39463", "slug": "role-initiative-2020-episode-13", "date": "2020-07-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bringing Down the House", "id": "39341", "slug": "role-initiative-2020-episode-12", "date": "2020-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Cherry Riot", "id": "39145", "slug": "role-initiative-2020-episode-11", "date": "2020-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ballroom Blitz", "id": "39030", "slug": "role-initiative-2020-episode-10", "date": "2020-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nightmares of a Nothic", "id": "38913", "slug": "role-initiative-2020-episode-9", "date": "2020-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rage Against the Machine - Role Initiative", "id": "38783", "slug": "achievement-hunter-stream-archive-2020-roll-initiative-08", "date": "2020-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Party Crashers - Role Initiative", "id": "38687", "slug": "achievement-hunter-stream-archive-2020-role-initiative-07", "date": "2020-06-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Do You Trust Me? - Role Initiative", "id": "38588", "slug": "achievement-hunter-stream-archive-2020-role-initiative-06", "date": "2020-05-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ballad of Branagh the Bard - Role Initiative", "id": "38442", "slug": "achievement-hunter-stream-archive-2020-roll-initiative-5-16", "date": "2020-05-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Barbarian Named Sorry - Role Initiative", "id": "37994", "slug": "achievement-hunter-stream-archive-2020-roll-initiative-5-9", "date": "2020-05-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Attack of the 10 Foot Lobster Ant - Role Initiative", "id": "37897", "slug": "achievement-hunter-stream-archive-2020-roll-initiative-5-2", "date": "2020-05-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Going Point Blank with a Longbow Covered in Bees - Role Initiative", "id": "37804", "slug": "achievement-hunter-stream-archive-2020-roll-initiative-4-25", "date": "2020-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "I Don't Want to Hurt the Goblin - Role Initiative: Welcome to Phandalin", "id": "37743", "slug": "achievement-hunter-stream-archive-2020-roll-initiative-4-18", "date": "2020-04-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Role Initiative",
+    "slug": "role-initiative",
+    "summary": {
+        "count": 64,
+        "uploaded": 64,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Goodbye Party",
+            "id": "45858",
+            "slug": "role-initiative-arc-3-ri-63-finale",
+            "date": "2021-11-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Chained God",
+            "id": "45783",
+            "slug": "role-initiative-arc-3-ri-62",
+            "date": "2021-11-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Into the Unknown",
+            "id": "45546",
+            "slug": "role-initiative-arc-3-61",
+            "date": "2021-10-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rising Tides from Hell",
+            "id": "45404",
+            "slug": "role-initiative-arc-3-ri-60-prerecord",
+            "date": "2021-10-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "NEVER Split the Party",
+            "id": "45385",
+            "slug": "role-initiative-arc-3-ri-9-24",
+            "date": "2021-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "In a Sea of Locked Memories",
+            "id": "45310",
+            "slug": "role-initiative-arc-3-ri-58",
+            "date": "2021-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gone, Not Forgotten",
+            "id": "45227",
+            "slug": "role-initiative-arc-3-ri-57",
+            "date": "2021-09-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Do You Fear Justice?",
+            "id": "45157",
+            "slug": "role-initiative-arc-3-09-07-21",
+            "date": "2021-09-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who's Behind the Golden Mask?",
+            "id": "45087",
+            "slug": "role-initiative-arc-3-ri-55",
+            "date": "2021-09-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Closing Ceremonies",
+            "id": "44807",
+            "slug": "role-initiative-arc-3-ri-54",
+            "date": "2021-08-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rising Problems",
+            "id": "44743",
+            "slug": "role-initiative-arc-3-ri-53",
+            "date": "2021-08-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Keep an Eye Out for Spiders",
+            "id": "44665",
+            "slug": "role-initiative-arc-3-ri-52",
+            "date": "2021-07-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Big Bird, Big Problem",
+            "id": "44395",
+            "slug": "role-initiative-arc-3-ri-51",
+            "date": "2021-07-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "No Laughing Matter",
+            "id": "44313",
+            "slug": "role-initiative-2021-ri-50",
+            "date": "2021-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "It's Just Nature",
+            "id": "44159",
+            "slug": "role-initiative-2021-ri-49-prerecord",
+            "date": "2021-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Of Muscle and Thunder",
+            "id": "44060",
+            "slug": "role-initiative-2021-ri48-pre-record",
+            "date": "2021-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Fungi in Need is a Friend Indeed",
+            "id": "44052",
+            "slug": "role-initiative-2021-ri47",
+            "date": "2021-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Now Your Home is Haunted",
+            "id": "43780",
+            "slug": "role-initiative-2021-ri-46",
+            "date": "2021-05-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Missing Menagerie",
+            "id": "43515",
+            "slug": "role-initiative-2021-ri-45",
+            "date": "2021-05-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Out of the Fry Pan",
+            "id": "43446",
+            "slug": "role-initiative-2021-ri-44",
+            "date": "2021-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Long Rest At Last",
+            "id": "43433",
+            "slug": "role-initiative-2021-ri-43",
+            "date": "2021-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Gouda Samaritan",
+            "id": "43333",
+            "slug": "role-initiative-2021-ri-42",
+            "date": "2021-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Story Arc One Recap",
+            "id": "43150",
+            "slug": "role-initiative-2021-4-8",
+            "date": "2021-04-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tall Tales for Short Folk",
+            "id": "43143",
+            "slug": "role-initiative-2021-ri41",
+            "date": "2021-04-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ghosts in the Machine",
+            "id": "42967",
+            "slug": "role-initiative-2021-ri-40",
+            "date": "2021-03-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gravity of the Situation",
+            "id": "42882",
+            "slug": "role-initiative-2021-ri39",
+            "date": "2021-03-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hot Headed into Danger",
+            "id": "42690",
+            "slug": "role-initiative-2021-ri38",
+            "date": "2021-03-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Long Way Down",
+            "id": "42515",
+            "slug": "role-initiative-2021-ri37",
+            "date": "2021-02-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Lion, the Warehouse, and the Warlock",
+            "id": "42442",
+            "slug": "role-initiative-2021-ri36",
+            "date": "2021-02-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Don't Fear the Repo",
+            "id": "42341",
+            "slug": "role-initiative-2021-ri-35",
+            "date": "2021-02-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Big Booms in the Broken Brewery",
+            "id": "42245",
+            "slug": "role-initiative-2021-ri-34",
+            "date": "2021-01-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dude Where's My Camel?",
+            "id": "42165",
+            "slug": "role-initiative-2021-1-21",
+            "date": "2021-01-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A City of Devils",
+            "id": "42082",
+            "slug": "role-initiative-2020-1-14",
+            "date": "2021-01-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Merry Mismanagement - Winter Special",
+            "id": "41884",
+            "slug": "role-initiative-2020-ri-holiday-episode-2-prerecord",
+            "date": "2021-01-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sweet Dreams - Winter Special",
+            "id": "41883",
+            "slug": "role-initiative-2020-ri-holiday-episode-1-prerecord",
+            "date": "2020-12-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Outlaws of the Oaisis - Line in the Sand",
+            "id": "41936",
+            "slug": "role-initiative-2020-12-19",
+            "date": "2020-12-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Say Hello to Consequences - Line in the Sand",
+            "id": "41702",
+            "slug": "role-initiative-2020-ri-28",
+            "date": "2020-12-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Forest of Lies - Line in the Sand",
+            "id": "41684",
+            "slug": "role-initiative-2020-ri27",
+            "date": "2020-12-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rough Landing - Line in the Sand",
+            "id": "41443",
+            "slug": "role-initiative-2020-11-26",
+            "date": "2020-11-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pumpkin Patch Panic - Spooky Special",
+            "id": "41069",
+            "slug": "role-initiative-2020-ri-25",
+            "date": "2020-11-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Gauntlet - Line in the Sand",
+            "id": "40994",
+            "slug": "role-initiative-2020-ri24",
+            "date": "2020-10-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Night of Fire - Line in the Sand",
+            "id": "40884",
+            "slug": "role-initiative-2020-ri23",
+            "date": "2020-10-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Infernal Combustion - Line in the Sand",
+            "id": "40632",
+            "slug": "role-initiative-2020-role-initiative-22",
+            "date": "2020-10-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blood Canyon Actual - Line in the Sand",
+            "id": "40311",
+            "slug": "role-initiative-2020-ri21",
+            "date": "2020-09-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bumpy Road - Line in the Sand",
+            "id": "40176",
+            "slug": "role-initiative-2020-episode-20",
+            "date": "2020-09-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "We Gotta Go - Line in the Sand",
+            "id": "40071",
+            "slug": "role-initiative-2020-episode-19",
+            "date": "2020-09-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Training Wheels - Line in the Sand",
+            "id": "39912",
+            "slug": "role-initiative-2020-episode-18",
+            "date": "2020-08-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Anauroch n\u2019 Roll - Line in the Sand",
+            "id": "39863",
+            "slug": "role-initiative-2020-episode-17",
+            "date": "2020-08-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hit the Road - Line in the Sand",
+            "id": "39748",
+            "slug": "role-initiative-2020-episode-16",
+            "date": "2020-08-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Cherry Festival",
+            "id": "39655",
+            "slug": "role-initiative-2020-episode-15",
+            "date": "2020-08-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Brunch Buddies",
+            "id": "39563",
+            "slug": "role-initiative-2020-ri-14",
+            "date": "2020-07-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thunderbolt and Lightning",
+            "id": "39463",
+            "slug": "role-initiative-2020-episode-13",
+            "date": "2020-07-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bringing Down the House",
+            "id": "39341",
+            "slug": "role-initiative-2020-episode-12",
+            "date": "2020-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Cherry Riot",
+            "id": "39145",
+            "slug": "role-initiative-2020-episode-11",
+            "date": "2020-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ballroom Blitz",
+            "id": "39030",
+            "slug": "role-initiative-2020-episode-10",
+            "date": "2020-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nightmares of a Nothic",
+            "id": "38913",
+            "slug": "role-initiative-2020-episode-9",
+            "date": "2020-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rage Against the Machine - Role Initiative",
+            "id": "38783",
+            "slug": "achievement-hunter-stream-archive-2020-roll-initiative-08",
+            "date": "2020-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Party Crashers - Role Initiative",
+            "id": "38687",
+            "slug": "achievement-hunter-stream-archive-2020-role-initiative-07",
+            "date": "2020-06-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Do You Trust Me? - Role Initiative",
+            "id": "38588",
+            "slug": "achievement-hunter-stream-archive-2020-role-initiative-06",
+            "date": "2020-05-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ballad of Branagh the Bard - Role Initiative",
+            "id": "38442",
+            "slug": "achievement-hunter-stream-archive-2020-roll-initiative-5-16",
+            "date": "2020-05-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Barbarian Named Sorry - Role Initiative",
+            "id": "37994",
+            "slug": "achievement-hunter-stream-archive-2020-roll-initiative-5-9",
+            "date": "2020-05-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Attack of the 10 Foot Lobster Ant - Role Initiative",
+            "id": "37897",
+            "slug": "achievement-hunter-stream-archive-2020-roll-initiative-5-2",
+            "date": "2020-05-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Going Point Blank with a Longbow Covered in Bees - Role Initiative",
+            "id": "37804",
+            "slug": "achievement-hunter-stream-archive-2020-roll-initiative-4-25",
+            "date": "2020-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "I Don't Want to Hurt the Goblin - Role Initiative: Welcome to Phandalin",
+            "id": "37743",
+            "slug": "achievement-hunter-stream-archive-2020-roll-initiative-4-18",
+            "date": "2020-04-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

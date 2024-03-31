@@ -1,1 +1,113 @@
-{"show": "Murder Room: After The Verdict", "slug": "murder-room-after-the-verdict", "summary": {"count": 10, "uploaded": 10, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Red Brick Killer's Confession", "id": "34006", "slug": "murder-room-after-the-verdict-2019-6", "date": "2019-07-07", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Wee Winkle Killer", "id": "33923", "slug": "murder-room-after-the-verdict-2019-5", "date": "2019-06-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Horse Savior", "id": "33807", "slug": "murder-room-after-the-verdict-2019-4", "date": "2019-06-23", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Golf Ballers", "id": "33730", "slug": "murder-room-after-the-verdict-2019-3", "date": "2019-06-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Camping Club", "id": "33599", "slug": "murder-room-after-the-verdict-2019-2", "date": "2019-06-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hot Water", "id": "33523", "slug": "murder-room-after-the-verdict-2019-1", "date": "2019-06-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Twisted Sisters", "id": "28492", "slug": "pilot-program-2018-after-the-verdict-twisted-sisters", "date": "2018-09-06", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Boom Goes The Neighborhood", "id": "28422", "slug": "pilot-program-2018-after-the-verdict-boom-goes-the-neighborhood", "date": "2018-08-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fit to be Killed", "id": "28335", "slug": "pilot-program-2018-murder-room-after-the-verdict-fit-to-be-killed", "date": "2018-08-23", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The 14k Killer", "id": "28265", "slug": "pilot-program-2018-murder-room-post-1", "date": "2018-08-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Murder Room: After The Verdict",
+    "slug": "murder-room-after-the-verdict",
+    "summary": {
+        "count": 10,
+        "uploaded": 10,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Red Brick Killer's Confession",
+            "id": "34006",
+            "slug": "murder-room-after-the-verdict-2019-6",
+            "date": "2019-07-07",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Wee Winkle Killer",
+            "id": "33923",
+            "slug": "murder-room-after-the-verdict-2019-5",
+            "date": "2019-06-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Horse Savior",
+            "id": "33807",
+            "slug": "murder-room-after-the-verdict-2019-4",
+            "date": "2019-06-23",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Golf Ballers",
+            "id": "33730",
+            "slug": "murder-room-after-the-verdict-2019-3",
+            "date": "2019-06-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Camping Club",
+            "id": "33599",
+            "slug": "murder-room-after-the-verdict-2019-2",
+            "date": "2019-06-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hot Water",
+            "id": "33523",
+            "slug": "murder-room-after-the-verdict-2019-1",
+            "date": "2019-06-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Twisted Sisters",
+            "id": "28492",
+            "slug": "pilot-program-2018-after-the-verdict-twisted-sisters",
+            "date": "2018-09-06",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Boom Goes The Neighborhood",
+            "id": "28422",
+            "slug": "pilot-program-2018-after-the-verdict-boom-goes-the-neighborhood",
+            "date": "2018-08-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fit to be Killed",
+            "id": "28335",
+            "slug": "pilot-program-2018-murder-room-after-the-verdict-fit-to-be-killed",
+            "date": "2018-08-23",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The 14k Killer",
+            "id": "28265",
+            "slug": "pilot-program-2018-murder-room-post-1",
+            "date": "2018-08-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

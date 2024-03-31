@@ -1,1 +1,73 @@
-{"show": "Pajamachievements", "slug": "pajamachievements", "summary": {"count": 6, "uploaded": 1, "missing": 5, "incomplete": 0, "removed": 0}, "data": [{"title": "UFC", "id": "25912", "slug": "pajamachievements-season-1-pajamachievements-ufc", "date": "2009-09-25", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Prototype", "id": "25911", "slug": "pajamachievements-season-1-pajamachievements-prototype", "date": "2009-06-29", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Preview: 06", "id": "25910", "slug": "pajamachievements-season-1-pajamachievements-preview-06", "date": "2009-06-19", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Community Video: Street Fighter IV", "id": "25909", "slug": "pajamachievements-season-1-pajamachievements-community-video-street-fighter-iv", "date": "2009-06-12", "is_first": true, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Uno", "id": "25913", "slug": "pajamachievements-season-1-pajamachievements-uno", "date": "2009-06-05", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Soul Calibur IV", "id": "23369", "slug": "pajamachievements-season-1-pajamachievements-soul-calibur-iv", "date": "2009-03-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Pajamachievements",
+    "slug": "pajamachievements",
+    "summary": {
+        "count": 6,
+        "uploaded": 1,
+        "missing": 5,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "UFC",
+            "id": "25912",
+            "slug": "pajamachievements-season-1-pajamachievements-ufc",
+            "date": "2009-09-25",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Prototype",
+            "id": "25911",
+            "slug": "pajamachievements-season-1-pajamachievements-prototype",
+            "date": "2009-06-29",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Preview: 06",
+            "id": "25910",
+            "slug": "pajamachievements-season-1-pajamachievements-preview-06",
+            "date": "2009-06-19",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Community Video: Street Fighter IV",
+            "id": "25909",
+            "slug": "pajamachievements-season-1-pajamachievements-community-video-street-fighter-iv",
+            "date": "2009-06-12",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Uno",
+            "id": "25913",
+            "slug": "pajamachievements-season-1-pajamachievements-uno",
+            "date": "2009-06-05",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Soul Calibur IV",
+            "id": "23369",
+            "slug": "pajamachievements-season-1-pajamachievements-soul-calibur-iv",
+            "date": "2009-03-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

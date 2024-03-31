@@ -1,1 +1,83 @@
-{"show": "Achievement Hunter Wrestling", "slug": "achievement-hunter-wrestling", "summary": {"count": 7, "uploaded": 7, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Achievement Hunter Wrestling - AHW Last Call!", "id": "48693", "slug": "achievement-hunter-wrestling-season-1-ahw-rtx", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AHW: Internal Dispute", "id": "46731", "slug": "achievement-hunter-wrestling-season-1-episode-5", "date": "2022-02-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AHW: Legally Allowed Destruction - Backstage Politics", "id": "46653", "slug": "achievement-hunter-wrestling-season-1-episode-4", "date": "2022-02-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AHW: Legally Allowed Destruction - To Catch a Rat", "id": "46588", "slug": "achievement-hunter-wrestling-season-1-episode-3", "date": "2022-01-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AHW: Legally Allowed Destruction - Respect The Champ!", "id": "46536", "slug": "achievement-hunter-wrestling-season-1-episode-2", "date": "2022-01-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AHW: Thrash in the Trash", "id": "46477", "slug": "achievement-hunter-wrestling-season-1-episode-1", "date": "2022-01-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter Wrestling | Official Trailer", "id": "46447", "slug": "achievement-hunter-wrestling-season-1-trailer", "date": "2022-01-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Achievement Hunter Wrestling",
+    "slug": "achievement-hunter-wrestling",
+    "summary": {
+        "count": 7,
+        "uploaded": 7,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Achievement Hunter Wrestling - AHW Last Call!",
+            "id": "48693",
+            "slug": "achievement-hunter-wrestling-season-1-ahw-rtx",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AHW: Internal Dispute",
+            "id": "46731",
+            "slug": "achievement-hunter-wrestling-season-1-episode-5",
+            "date": "2022-02-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AHW: Legally Allowed Destruction - Backstage Politics",
+            "id": "46653",
+            "slug": "achievement-hunter-wrestling-season-1-episode-4",
+            "date": "2022-02-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AHW: Legally Allowed Destruction - To Catch a Rat",
+            "id": "46588",
+            "slug": "achievement-hunter-wrestling-season-1-episode-3",
+            "date": "2022-01-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AHW: Legally Allowed Destruction - Respect The Champ!",
+            "id": "46536",
+            "slug": "achievement-hunter-wrestling-season-1-episode-2",
+            "date": "2022-01-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AHW: Thrash in the Trash",
+            "id": "46477",
+            "slug": "achievement-hunter-wrestling-season-1-episode-1",
+            "date": "2022-01-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter Wrestling | Official Trailer",
+            "id": "46447",
+            "slug": "achievement-hunter-wrestling-season-1-trailer",
+            "date": "2022-01-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

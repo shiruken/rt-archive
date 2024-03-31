@@ -1,1 +1,253 @@
-{"show": "What Do You Know", "slug": "what-do-you-know", "summary": {"count": 24, "uploaded": 24, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Robots", "id": "29866", "slug": "what-do-you-know-season-1-robots", "date": "2018-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Time Travel", "id": "29903", "slug": "what-do-you-know-season-1-time-travel", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Marijuana", "id": "29898", "slug": "what-do-you-know-season-1-marijuana", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sharing Economy", "id": "29897", "slug": "what-do-you-know-season-1-sharing-economy", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Genetic Engineering", "id": "29896", "slug": "what-do-you-know-season-1-genetic-engineering", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cheating", "id": "29895", "slug": "what-do-you-know-season-1-cheating", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Social Media Etiquette", "id": "29894", "slug": "what-do-you-know-season-1-social-media-etiquette", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Urban Legends", "id": "29893", "slug": "what-do-you-know-season-1-urban-legends", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Marriage", "id": "29892", "slug": "what-do-you-know-season-1-marriage", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dating Apps", "id": "29891", "slug": "what-do-you-know-season-1-dating-apps", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pets", "id": "29890", "slug": "what-do-you-know-season-1-pets", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ghosts & Spirits", "id": "29889", "slug": "what-do-you-know-season-1-ghosts-spirits", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "College", "id": "29888", "slug": "what-do-you-know-season-1-college", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Vanity", "id": "29887", "slug": "what-do-you-know-season-1-vanity", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Social Media Oversharing", "id": "29886", "slug": "what-do-you-know-season-1-social-media-oversharing", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Apocalypse", "id": "29885", "slug": "what-do-you-know-season-1-apocalypse", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Holidays", "id": "29884", "slug": "what-do-you-know-season-1-holidays", "date": "2018-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "High School", "id": "29649", "slug": "what-do-you-know-season-1-high-school", "date": "2018-12-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Augmented & Virtual Reality", "id": "29458", "slug": "what-do-you-know-season-1-augmented-virtual-reality", "date": "2018-11-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Getting Fat or Getting Ripped? We Decide.", "id": "29432", "slug": "what-do-you-know-season-1-health-nutrition", "date": "2018-11-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space", "id": "29326", "slug": "what-do-you-know-season-1-space", "date": "2018-11-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Trolling and Catfishing", "id": "29229", "slug": "what-do-you-know-season-1-trolling-and-catfishing", "date": "2018-11-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Vices", "id": "29141", "slug": "what-do-you-know-season-1-vices", "date": "2018-10-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Adult Films", "id": "29048", "slug": "what-do-you-know-season-1-1", "date": "2018-10-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "What Do You Know",
+    "slug": "what-do-you-know",
+    "summary": {
+        "count": 24,
+        "uploaded": 24,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Robots",
+            "id": "29866",
+            "slug": "what-do-you-know-season-1-robots",
+            "date": "2018-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Time Travel",
+            "id": "29903",
+            "slug": "what-do-you-know-season-1-time-travel",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Marijuana",
+            "id": "29898",
+            "slug": "what-do-you-know-season-1-marijuana",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sharing Economy",
+            "id": "29897",
+            "slug": "what-do-you-know-season-1-sharing-economy",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Genetic Engineering",
+            "id": "29896",
+            "slug": "what-do-you-know-season-1-genetic-engineering",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cheating",
+            "id": "29895",
+            "slug": "what-do-you-know-season-1-cheating",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Social Media Etiquette",
+            "id": "29894",
+            "slug": "what-do-you-know-season-1-social-media-etiquette",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Urban Legends",
+            "id": "29893",
+            "slug": "what-do-you-know-season-1-urban-legends",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Marriage",
+            "id": "29892",
+            "slug": "what-do-you-know-season-1-marriage",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dating Apps",
+            "id": "29891",
+            "slug": "what-do-you-know-season-1-dating-apps",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pets",
+            "id": "29890",
+            "slug": "what-do-you-know-season-1-pets",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ghosts & Spirits",
+            "id": "29889",
+            "slug": "what-do-you-know-season-1-ghosts-spirits",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "College",
+            "id": "29888",
+            "slug": "what-do-you-know-season-1-college",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Vanity",
+            "id": "29887",
+            "slug": "what-do-you-know-season-1-vanity",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Social Media Oversharing",
+            "id": "29886",
+            "slug": "what-do-you-know-season-1-social-media-oversharing",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Apocalypse",
+            "id": "29885",
+            "slug": "what-do-you-know-season-1-apocalypse",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Holidays",
+            "id": "29884",
+            "slug": "what-do-you-know-season-1-holidays",
+            "date": "2018-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "High School",
+            "id": "29649",
+            "slug": "what-do-you-know-season-1-high-school",
+            "date": "2018-12-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Augmented & Virtual Reality",
+            "id": "29458",
+            "slug": "what-do-you-know-season-1-augmented-virtual-reality",
+            "date": "2018-11-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Getting Fat or Getting Ripped? We Decide.",
+            "id": "29432",
+            "slug": "what-do-you-know-season-1-health-nutrition",
+            "date": "2018-11-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space",
+            "id": "29326",
+            "slug": "what-do-you-know-season-1-space",
+            "date": "2018-11-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Trolling and Catfishing",
+            "id": "29229",
+            "slug": "what-do-you-know-season-1-trolling-and-catfishing",
+            "date": "2018-11-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Vices",
+            "id": "29141",
+            "slug": "what-do-you-know-season-1-vices",
+            "date": "2018-10-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Adult Films",
+            "id": "29048",
+            "slug": "what-do-you-know-season-1-1",
+            "date": "2018-10-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

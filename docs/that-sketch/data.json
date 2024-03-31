@@ -1,1 +1,73 @@
-{"show": "That Sketch", "slug": "that-sketch", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Sexy live stream fail.", "id": "31688", "slug": "that-sketch-that-sketch-livestream-fail", "date": "2019-03-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "4 Won One \"$MOOTHIE\" Official Lyrics & Meaning | Unverified", "id": "30434", "slug": "that-sketch-that-sketch-4-won-one-moothie-official-lyrics-meaning-unverified", "date": "2019-02-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The benefits of freaky sex.", "id": "30242", "slug": "that-sketch-that-sketch-sex-positions", "date": "2019-01-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "WORST UBER DRIVER EVER", "id": "30060", "slug": "that-sketch-that-sketch-sketch-03", "date": "2018-12-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "To Catch A Predator: The Lost Episode", "id": "29987", "slug": "that-sketch-that-sketch-walk-like-a-predator", "date": "2018-12-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Catfished by Ariana Grande!", "id": "29845", "slug": "that-sketch-that-sketch-catfished-by-ariana-grande", "date": "2018-12-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "That Sketch",
+    "slug": "that-sketch",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Sexy live stream fail.",
+            "id": "31688",
+            "slug": "that-sketch-that-sketch-livestream-fail",
+            "date": "2019-03-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "4 Won One \"$MOOTHIE\" Official Lyrics & Meaning | Unverified",
+            "id": "30434",
+            "slug": "that-sketch-that-sketch-4-won-one-moothie-official-lyrics-meaning-unverified",
+            "date": "2019-02-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The benefits of freaky sex.",
+            "id": "30242",
+            "slug": "that-sketch-that-sketch-sex-positions",
+            "date": "2019-01-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "WORST UBER DRIVER EVER",
+            "id": "30060",
+            "slug": "that-sketch-that-sketch-sketch-03",
+            "date": "2018-12-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "To Catch A Predator: The Lost Episode",
+            "id": "29987",
+            "slug": "that-sketch-that-sketch-walk-like-a-predator",
+            "date": "2018-12-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Catfished by Ariana Grande!",
+            "id": "29845",
+            "slug": "that-sketch-that-sketch-catfished-by-ariana-grande",
+            "date": "2018-12-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

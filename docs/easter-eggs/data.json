@@ -1,1 +1,3353 @@
-{"show": "Easter Eggs", "slug": "easter-eggs", "summary": {"count": 334, "uploaded": 307, "missing": 27, "incomplete": 1, "removed": 0}, "data": [{"title": "Just Cause 4 - Cow Gun Easter Egg", "id": "29726", "slug": "easter-eggs-2018-just-cause-4", "date": "2018-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destiny 2 - The New Traveler", "id": "11705", "slug": "easter-eggs-2016-destiny-2-the-new-traveler", "date": "2017-09-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destiny 2 - Scouting Commander & Sentry Ranks x4 (Easter Egg)", "id": "11706", "slug": "easter-eggs-2016-destiny-2-scouting-commander-sentry-ranks-x4-easter-egg", "date": "2017-09-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destiny 2 - First Mission Easter Eggs", "id": "11719", "slug": "easter-eggs-2016-destiny-2-first-mission-easter-eggs", "date": "2017-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Friday the 13th: The Game - Achievement Hunter Easter Egg", "id": "11707", "slug": "easter-eggs-2016-friday-the-13-th-the-game-achievement-hunter-easter-egg", "date": "2017-06-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman - Puddle Pile", "id": "11708", "slug": "easter-eggs-2016-hitman-puddle-pile-easter-egg", "date": "2016-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants Vs Zombies Garden Warfare 2 \u2013 Achievement Hunter Easter Egg", "id": "11710", "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-achievement-hunter-easter-egg", "date": "2016-06-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Division \u2013 Mr. Bean, Ubisoft Office, and Breaking Bad Easter Eggs", "id": "11709", "slug": "easter-eggs-2016-the-division-mr-bean-ubisoft-office-and-breaking-bad-easter-eggs", "date": "2016-03-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Division \u2013 The Joker, Rick and Morty, and Tom Clancy Easter Eggs", "id": "11711", "slug": "easter-eggs-2016-the-division-the-joker-rick-and-morty-and-tom-clancy-easter-eggs", "date": "2016-03-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Division \u2013 Adventure Time, Grow Home, and Raving Rabbids Easter Eggs", "id": "11712", "slug": "easter-eggs-2016-the-division-adventure-time-grow-home-and-raving-rabbids-easter-eggs", "date": "2016-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pok\u00e9mon Red & Blue \u2013 Catch Mew!", "id": "11713", "slug": "easter-eggs-2016-pok-mon-red-blue-catch-mew", "date": "2016-03-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Division \u2013 TMNT and Splinter Cell Easter Eggs", "id": "11714", "slug": "easter-eggs-2016-the-division-tmnt-and-splinter-cell-easter-eggs", "date": "2016-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Legend Of Zelda Twilight Princess HD - Zelda Wii U Easter Egg", "id": "11715", "slug": "easter-eggs-2016-2", "date": "2016-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Far Cry Primal \u2013 Hidden Assassin's Creed and Ubisoft Logos Easter Egg", "id": "11726", "slug": "easter-eggs-2016-far-cry-primal-hidden-assassin-s-creed-and-ubisoft-logos-easter-egg", "date": "2016-02-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pokemon Red & Blue \u2013 Classic Gameboy Feature", "id": "11716", "slug": "easter-eggs-2016-episode", "date": "2016-02-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants vs. Zombies Garden Warfare 2 \u2013 Star Wars and 2001 A Space Odyssey Easter Eggs", "id": "11717", "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-star-wars-and-2001-a-space-odyssey-easter-eggs", "date": "2016-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants vs. Zombies Garden Warfare 2 \u2013 Two Secret Rooms and 70,000 Coins", "id": "11718", "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-two-secret-rooms-and-70-000-coins", "date": "2016-02-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Far Cry Primal \u2013 Flintstones Car Easter Egg", "id": "11721", "slug": "easter-eggs-2016-far-cry-primal-flintstones-car-easter-egg", "date": "2016-02-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants vs. Zombies Garden Warfare 2 \u2013 Indiana Jones Easter Egg", "id": "11720", "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-indiana-jones-easter-egg", "date": "2016-02-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Far Cry Primal \u2013 Blood Dragon Easter Egg", "id": "11732", "slug": "easter-eggs-2016-far-cry-primal-blood-dragon-easter-egg", "date": "2016-02-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman Arkham Knight - Secret Wall Easter Egg", "id": "11722", "slug": "easter-eggs-2016-batman", "date": "2016-01-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Just Cause 3 - Rubber Duck Easter Egg", "id": "11723", "slug": "easter-eggs-2016", "date": "2016-01-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Just Cause 3 - Doge Mode Easter Egg", "id": "11724", "slug": "easter-eggs-2015-just-cause-3-doge-mode-easter-egg", "date": "2015-12-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Just Cause 3 - Teleportation Easter Egg", "id": "11725", "slug": "easter-eggs-2015-7", "date": "2015-12-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Just Cause 3 - Thor's Hammer Easter Egg", "id": "11727", "slug": "easter-eggs-2015-8", "date": "2015-12-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 5 - Sand Monster", "id": "11729", "slug": "easter-eggs-2015-halo-5-sand-monster", "date": "2015-11-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 5 - Soccer Easter Egg", "id": "11728", "slug": "easter-eggs-2015-halo-5-soccer-easter-egg", "date": "2015-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 5 - Gun Vendor Easter Egg", "id": "11730", "slug": "easter-eggs-2015-halo-5-gun-vendor-easter-egg", "date": "2015-10-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Half Life 3 Easter Egg - Mad Max", "id": "11731", "slug": "easter-eggs-2015-6", "date": "2015-10-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "PT Easter Egg - Metal Gear Solid V: The Phantom Pain", "id": "11733", "slug": "easter-eggs-2015-5", "date": "2015-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman Arkham Knight - Man Bat Easter Egg", "id": "11734", "slug": "easter-eggs-2015-4", "date": "2015-07-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wolfenstein: The Old Blood - Six Easter Eggs", "id": "11735", "slug": "easter-eggs-2015-3", "date": "2015-05-22", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Shovel Knight - Kratos Easter Egg", "id": "11746", "slug": "easter-eggs-2015-2", "date": "2015-05-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shovel Knight - Hall Champion Guide & Battletoads Easter Egg", "id": "11736", "slug": "easter-eggs-2015", "date": "2015-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grand Theft Auto V - Hidden Peyote Plant Easter Eggs Part 1", "id": "11737", "slug": "easter-eggs-2014-12", "date": "2014-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo: The Master Chief Collection - Rooster Teeth Assault Bomb Easter Egg", "id": "11738", "slug": "easter-eggs-2014-2", "date": "2014-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Pink Floyd Easter Egg", "id": "11739", "slug": "easter-eggs-2014-21", "date": "2014-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Daft Punk Easter Egg", "id": "11740", "slug": "easter-eggs-2014-20", "date": "2014-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Oscar the Grouch Easter Egg", "id": "11741", "slug": "easter-eggs-2014-19", "date": "2014-10-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Gaige Chest Easter Egg", "id": "11742", "slug": "easter-eggs-2014-18", "date": "2014-10-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - 2001 A Space Odyssey Easter Egg", "id": "11743", "slug": "easter-eggs-2014-17", "date": "2014-10-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Super Mario Bros Easter Egg", "id": "11744", "slug": "easter-eggs-2014-16", "date": "2014-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Buzz Lightyear Easter Egg", "id": "11754", "slug": "easter-eggs-2014-15", "date": "2014-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands The Pre-Sequel - Not Pink, Light Red! Easter Egg", "id": "11745", "slug": "easter-eggs-2014-14", "date": "2014-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destiny - Loot Cave Easter Egg", "id": "11747", "slug": "easter-eggs-2014-8", "date": "2014-10-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Ghosts - Hidden Intel Easter Egg", "id": "11748", "slug": "easter-eggs-2014-5", "date": "2014-08-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Ghosts - Star Power Easter Egg", "id": "11749", "slug": "easter-eggs-2014-4", "date": "2014-08-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants vs. Zombies: Garden Warfare - Bioware Easter Eggs", "id": "11751", "slug": "easter-eggs-2014-13", "date": "2014-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Watch Dogs - Assassin's Creed Easter Egg", "id": "11750", "slug": "easter-eggs-2014-3", "date": "2014-06-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wolfenstein: The New Order - Vault 101 Easter Egg", "id": "11752", "slug": "easter-eggs-2014-23", "date": "2014-05-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wolfenstein: The New Order - Wolfenstein 3D Easter Egg", "id": "11753", "slug": "easter-eggs-2014-22", "date": "2014-05-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants vs Zombies: Garden Warfare - Slender Man Easter Egg", "id": "11757", "slug": "easter-eggs-2014-6", "date": "2014-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Ghosts - Venom X Easter Egg", "id": "11755", "slug": "easter-eggs-2014", "date": "2014-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plants vs. Zombies: Garden Warfare - Achievement Hunter Easter Egg", "id": "11756", "slug": "easter-eggs-2014-11", "date": "2014-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battlefield 4 - Exploding Ship Easter Egg", "id": "11758", "slug": "easter-eggs-2014-10", "date": "2014-01-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grand Theft Auto V - Snowman Easter Egg", "id": "11759", "slug": "easter-eggs-2014-9", "date": "2014-01-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Easter Eggs of 2013", "id": "11760", "slug": "easter-eggs-2014-7", "date": "2014-01-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RYSE: Son of Rome - Lady Of The Lake Easter Egg", "id": "11761", "slug": "easter-eggs-2013-29", "date": "2013-12-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RYSE: Son of Rome: Ghost Legion Easter Egg", "id": "11762", "slug": "easter-eggs-2013-28", "date": "2013-12-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Assassin's Creed IV: Black Flag - Squid vs. Whale Easter Egg", "id": "11763", "slug": "easter-eggs-2013-16", "date": "2013-11-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Ghosts - LOL Easter Egg", "id": "11764", "slug": "easter-eggs-2013-15", "date": "2013-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battlefield 4 - Dog Tags and Hidden Weapons Part 1", "id": "11766", "slug": "easter-eggs-2013-9", "date": "2013-10-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Creepiest Xbox 360 Easter Eggs", "id": "11765", "slug": "easter-eggs-2013-4", "date": "2013-10-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grand Theft Auto V - Bigfoot Easter Egg", "id": "11767", "slug": "easter-eggs-2013-24", "date": "2013-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grand Theft Auto V - No Country For Old Men Easter Egg", "id": "11768", "slug": "easter-eggs-2013-23", "date": "2013-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grand Theft Auto V - Ghost Easter Egg", "id": "11769", "slug": "easter-eggs-2013-22", "date": "2013-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grand Theft Auto V - Alien Easter Egg", "id": "11770", "slug": "easter-eggs-2013-19", "date": "2013-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Black Ops 2 - Origins Easter Egg Song", "id": "11779", "slug": "easter-eggs-2013-8", "date": "2013-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Developer Easter Egg", "id": "11785", "slug": "easter-eggs-2013-3", "date": "2013-08-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Buried Teddy Bear Song", "id": "11771", "slug": "easter-eggs-2013-20", "date": "2013-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Seven Dwarves Easter Egg", "id": "11774", "slug": "easter-eggs-2013-66", "date": "2013-06-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - Halo Artifact[s] Easter Egg", "id": "11775", "slug": "easter-eggs-2013-64", "date": "2013-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - Hidden Cortana Easter Egg", "id": "11777", "slug": "easter-eggs-2013-62", "date": "2013-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Black Ops 2 - Hijacked in Real Life Easter Egg", "id": "11778", "slug": "easter-eggs-2013-61", "date": "2013-06-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State of Decay - 3 Easter Eggs", "id": "11781", "slug": "easter-eggs-2013-59", "date": "2013-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State of Decay - Plants vs Zombies Easter Egg", "id": "11782", "slug": "easter-eggs-2013-58", "date": "2013-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 3: ODST - Destiny Easter Egg", "id": "11784", "slug": "easter-eggs-2013-57", "date": "2013-06-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - Big Scary Laser Easter Egg", "id": "11783", "slug": "easter-eggs-2013-56", "date": "2013-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dead Island: Riptide - I am Legend Easter Egg", "id": "11786", "slug": "easter-eggs-2013-55", "date": "2013-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dead Island: Riptide - Borderlands Loot Midget Easter Egg", "id": "11787", "slug": "easter-eggs-2013-54", "date": "2013-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - Inverted Stick Easter Egg", "id": "11790", "slug": "easter-eggs-2013-51", "date": "2013-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Black Ops II - Double Rainbow Easter Egg", "id": "11791", "slug": "easter-eggs-2013-50", "date": "2013-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - PolyCount Easter Egg", "id": "11793", "slug": "easter-eggs-2013-48", "date": "2013-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jump Scare Easter Egg", "id": "11794", "slug": "easter-eggs-2013-27", "date": "2013-04-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Black Ops II - Thor Easter Egg", "id": "11795", "slug": "easter-eggs-2013-47", "date": "2013-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Black Ops 2 - Zombie Face Easter Egg", "id": "11796", "slug": "easter-eggs-2013-46", "date": "2013-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "World of Warcraft - Portal Easter Egg", "id": "11797", "slug": "easter-eggs-2013-45", "date": "2013-04-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gears of War: Judgement - Latin Music Easter Egg", "id": "11800", "slug": "easter-eggs-2013-43", "date": "2013-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BioShock Infinite - La Revanche Du Jedi Easter Egg", "id": "11799", "slug": "easter-eggs-2013-42", "date": "2013-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BioShock Infinite - Fortune Son Easter Egg", "id": "11801", "slug": "easter-eggs-2013-41", "date": "2013-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gears of War Judgement Easter Egg \"Reaver Says Hi\"", "id": "40671", "slug": "easter-eggs-2013-40", "date": "2013-04-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Crocodile Easter Egg", "id": "11805", "slug": "easter-eggs-2013-21", "date": "2013-03-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mushroom Trip Easter Egg", "id": "11803", "slug": "easter-eggs-2013-18", "date": "2013-03-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dancing Men Easter Egg", "id": "11804", "slug": "easter-eggs-2013-13", "date": "2013-02-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space Balls Easter Egg", "id": "11806", "slug": "easter-eggs-2013-11", "date": "2013-02-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Giant Donut Easter Egg", "id": "11807", "slug": "easter-eggs-2013-10", "date": "2013-02-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sonic 3 and Knuckles Easter Egg", "id": "11808", "slug": "easter-eggs-2013-7", "date": "2013-02-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 10", "id": "11809", "slug": "easter-eggs-2013-5", "date": "2013-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": false, "is_removed": false}, {"title": "Aliens: Colonial Marines - Easter Egg Guide v2", "id": "11810", "slug": "easter-eggs-2013-39", "date": "2013-02-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Aliens: Colonial Marines - Easter Egg Guide", "id": "11811", "slug": "easter-eggs-2013-38", "date": "2013-02-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Easter Egg Guide", "id": "11813", "slug": "easter-eggs-2013", "date": "2013-02-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 9", "id": "11812", "slug": "easter-eggs-2013-26", "date": "2013-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 8", "id": "11814", "slug": "easter-eggs-2013-17", "date": "2013-02-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Max Payne 3 - Demon Baby Easter Egg", "id": "11815", "slug": "easter-eggs-2013-37", "date": "2013-01-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 7", "id": "11816", "slug": "easter-eggs-2013-14", "date": "2013-01-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout: New Vegas - Futurama Easter Egg", "id": "11817", "slug": "easter-eggs-2013-36", "date": "2013-01-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nuketown 115 Song Easter Egg", "id": "11818", "slug": "easter-eggs-2013-6", "date": "2013-01-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman Absolution - Kane and Lynch Easter Egg", "id": "11819", "slug": "easter-eggs-2013-35", "date": "2013-01-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 6", "id": "11820", "slug": "easter-eggs-2013-2", "date": "2013-01-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Old Dante Easter Egg", "id": "11821", "slug": "easter-eggs-2013-25", "date": "2013-01-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sonic Adventure 2 - Big the Cat Easter Egg", "id": "11822", "slug": "easter-eggs-2013-34", "date": "2013-01-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Elder Scrolls V: Skyrim - Billy Goats Gruff Easter Egg", "id": "11823", "slug": "easter-eggs-2013-33", "date": "2013-01-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Extra Wubs Easter Egg", "id": "11824", "slug": "easter-eggs-2013-32", "date": "2013-01-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Retro City Rampage - Arcade Games Easter Egg", "id": "11825", "slug": "easter-eggs-2013-31", "date": "2013-01-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Trials Evolution - Lab Rat Easter Egg", "id": "11826", "slug": "easter-eggs-2013-30", "date": "2013-01-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Easter Eggs of 2012", "id": "11827", "slug": "easter-eggs-2013-12", "date": "2013-01-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battlefield 1942 Easter Egg", "id": "11828", "slug": "easter-eggs-2012-13", "date": "2012-12-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "XCOM: Enemy Unknown - Character Easter Egg", "id": "11829", "slug": "easter-eggs-2012-126", "date": "2012-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bioshock/Assassin's Creed Easter Eggs", "id": "40670", "slug": "easter-eggs-2012-67", "date": "2012-12-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Far Cry 3 - Underwater Toilet Easter Egg", "id": "11831", "slug": "easter-eggs-2012-125", "date": "2012-12-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Underwater Drunk Easter Egg", "id": "11832", "slug": "easter-eggs-2012-54", "date": "2012-12-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sand Castle Easter Egg", "id": "11833", "slug": "easter-eggs-2012-53", "date": "2012-12-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dead Space Easter Egg", "id": "11834", "slug": "easter-eggs-2012-51", "date": "2012-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "COD Black Ops 2: Thor's Hammer Easter Egg", "id": "40669", "slug": "easter-eggs-2012-124", "date": "2012-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mirror's Edge Easter Egg", "id": "11835", "slug": "easter-eggs-2012-41", "date": "2012-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Black Ops 2 - Nacht Der Untoten Easter Egg", "id": "11838", "slug": "easter-eggs-2012-122", "date": "2012-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 5", "id": "11839", "slug": "easter-eggs-2012-21", "date": "2012-12-03", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Sex Dogs Easter Egg", "id": "11840", "slug": "easter-eggs-2012-19", "date": "2012-11-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Double Rainbow Easter Egg", "id": "11841", "slug": "easter-eggs-2012-16", "date": "2012-11-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman Absolution - Grave Easter Egg", "id": "11842", "slug": "easter-eggs-2012-14", "date": "2012-11-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman Absolution - Nuke Easter Egg", "id": "11843", "slug": "easter-eggs-2012-12", "date": "2012-11-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 4", "id": "11844", "slug": "easter-eggs-2012-10", "date": "2012-11-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Loch Ness Monster Easter Egg", "id": "11845", "slug": "easter-eggs-2012-4", "date": "2012-11-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 3", "id": "11846", "slug": "easter-eggs-2012", "date": "2012-11-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Conan O'Brien and Andy Richter Easter Egg", "id": "40668", "slug": "easter-eggs-2012-77", "date": "2012-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - Waypoint Easter Eggs", "id": "11848", "slug": "easter-eggs-2012-121", "date": "2012-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4 - Conan O'Brien Easter Egg", "id": "11849", "slug": "easter-eggs-2012-120", "date": "2012-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TranZit Song Easter Egg", "id": "11850", "slug": "easter-eggs-2012-69", "date": "2012-11-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4: Grunt Rocket Jump - Easter Egg", "id": "11851", "slug": "easter-eggs-2012-66", "date": "2012-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dancing Grunts Easter Egg", "id": "11852", "slug": "easter-eggs-2012-64", "date": "2012-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Easter Egg Number 2", "id": "11853", "slug": "easter-eggs-2012-63", "date": "2012-11-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4: Easter Egg - Halo 4 Collector's Edition", "id": "40613", "slug": "easter-eggs-2012-61", "date": "2012-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Assassin Turkey Easter Egg", "id": "11855", "slug": "easter-eggs-2012-60", "date": "2012-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Double Rainbow Easter Egg", "id": "11856", "slug": "easter-eggs-2012-58", "date": "2012-11-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 4: HoloHump - Easter Egg", "id": "11857", "slug": "easter-eggs-2012-47", "date": "2012-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Torchlight 2 - Skyrim & Borderlands 2 Easter Eggs", "id": "11858", "slug": "easter-eggs-2012-30", "date": "2012-10-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Torchlight 2 - Minecraft Easter Egg", "id": "11859", "slug": "easter-eggs-2012-29", "date": "2012-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Return of The King Easter Egg", "id": "44304", "slug": "easter-eggs-2012-119", "date": "2012-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Portal Easter Egg", "id": "11861", "slug": "easter-eggs-2012-20", "date": "2012-10-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bioshock Easter Egg", "id": "11862", "slug": "easter-eggs-2012-11", "date": "2012-10-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "New Nether Portal Easter Egg", "id": "11863", "slug": "easter-eggs-2012-9", "date": "2012-10-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Elder Scrolls V: Skyrim - Headless Horseman Easter Egg", "id": "40169", "slug": "easter-eggs-2012-117", "date": "2012-10-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Starscream's Crown Easter Egg", "id": "40170", "slug": "easter-eggs-2012-116", "date": "2012-10-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Playground Easter Egg", "id": "11867", "slug": "easter-eggs-2012-52", "date": "2012-10-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dark Souls Easter Egg", "id": "11869", "slug": "easter-eggs-2012-48", "date": "2012-10-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Fish Rider Easter Egg", "id": "11868", "slug": "easter-eggs-2012-115", "date": "2012-10-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - TMNT Easter Egg", "id": "11870", "slug": "easter-eggs-2012-114", "date": "2012-10-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Metal Gear Easter Egg", "id": "11871", "slug": "easter-eggs-2012-113", "date": "2012-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Wildlife Preserve Easter Eggs", "id": "11872", "slug": "easter-eggs-2012-112", "date": "2012-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "God of War - Secret Message Easter Egg", "id": "11873", "slug": "easter-eggs-2012-111", "date": "2012-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TMNT Easter Egg", "id": "11874", "slug": "easter-eggs-2012-32", "date": "2012-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Seven Easter Egg", "id": "11877", "slug": "easter-eggs-2012-25", "date": "2012-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "God of War 2 - Now I Am Become Death Easter Egg", "id": "11875", "slug": "easter-eggs-2012-110", "date": "2012-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Moxxi's Good Touch Easter Egg", "id": "40611", "slug": "easter-eggs-2012-18", "date": "2012-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rakkman Easter Egg", "id": "11878", "slug": "easter-eggs-2012-17", "date": "2012-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Dark Souls Easter Egg", "id": "11879", "slug": "easter-eggs-2012-109", "date": "2012-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Borderlands 2 - Steve Easter Egg", "id": "11880", "slug": "easter-eggs-2012-108", "date": "2012-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tekken Tag Tournament 2 - \"Chubby Fighter\" Easter Egg", "id": "40605", "slug": "easter-eggs-2012-107", "date": "2012-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Minecraft Easter Egg", "id": "11882", "slug": "easter-eggs-2012-78", "date": "2012-09-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mirror's Edge Easter Egg", "id": "40604", "slug": "easter-eggs-2012-72", "date": "2012-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "T-Rex Skull Easter Egg", "id": "11884", "slug": "easter-eggs-2012-70", "date": "2012-09-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gnome Easter Egg", "id": "11885", "slug": "easter-eggs-2012-68", "date": "2012-09-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Skyrim - Oblivion Bucket Easter Egg", "id": "11888", "slug": "easter-eggs-2012-6", "date": "2012-07-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Elder Scrolls V: Skyrim - Cave Devil Easter Egg", "id": "11889", "slug": "easter-eggs-2012-104", "date": "2012-07-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hidden Diamond Easter Egg", "id": "11892", "slug": "easter-eggs-2012-76", "date": "2012-07-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nether Portal Easter Egg", "id": "11890", "slug": "easter-eggs-2012-74", "date": "2012-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Off Shore Easter Egg", "id": "11891", "slug": "easter-eggs-2012-62", "date": "2012-07-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Castlevania II Easter Egg", "id": "11893", "slug": "easter-eggs-2012-56", "date": "2012-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gotham City Impostors - 300 Easter Egg", "id": "11894", "slug": "easter-eggs-2012-103", "date": "2012-07-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Saints Row: The Third - Bunny Easter Eggs", "id": "11895", "slug": "easter-eggs-2012-102", "date": "2012-07-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Vortex Easter Egg Easter Egg", "id": "11896", "slug": "easter-eggs-2012-36", "date": "2012-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Normandy SR-2 Easter Egg", "id": "11897", "slug": "easter-eggs-2012-28", "date": "2012-06-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wine Easter Egg", "id": "11898", "slug": "easter-eggs-2012-22", "date": "2012-06-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Vortex / Intersection Easter Eggs", "id": "11899", "slug": "easter-eggs-2012-15", "date": "2012-06-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Duke Nukem Forever:Halo, Dead Space, Borderlands Easter Eggs", "id": "11900", "slug": "easter-eggs-2012-101", "date": "2012-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Duke Nukem Forever: Halo & Inception Easter Eggs", "id": "40603", "slug": "easter-eggs-2012-100", "date": "2012-06-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sonic CD - Debug Mode Easter Egg", "id": "11902", "slug": "easter-eggs-2012-99", "date": "2012-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sonic CD - Sound Test Easter Eggs", "id": "11903", "slug": "easter-eggs-2012-98", "date": "2012-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Diablo 3 - League of Legends Easter Egg", "id": "11904", "slug": "easter-eggs-2012-97", "date": "2012-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Demon Spawn Easter Egg Part 2", "id": "11905", "slug": "easter-eggs-2012-40", "date": "2012-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Head Coach Obama Easter Egg", "id": "11906", "slug": "easter-eggs-2012-38", "date": "2012-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Max Payne 3 - Evil Demon Baby Easter Egg", "id": "11910", "slug": "easter-eggs-2012-96", "date": "2012-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Getaway Easter Egg", "id": "11907", "slug": "easter-eggs-2012-34", "date": "2012-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "LOST Easter Egg", "id": "11908", "slug": "easter-eggs-2012-27", "date": "2012-05-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Max Payne 3 - Piano Easter Egg", "id": "11909", "slug": "easter-eggs-2012-95", "date": "2012-05-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Piano Easter Egg", "id": "11911", "slug": "easter-eggs-2012-23", "date": "2012-05-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Penguin Easter Egg", "id": "11912", "slug": "easter-eggs-2012-8", "date": "2012-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout: New Vegas - Beer and Hand Grenades Easter Eggs", "id": "11913", "slug": "easter-eggs-2012-94", "date": "2012-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Suicide Dude Easter Egg", "id": "11914", "slug": "easter-eggs-2012-75", "date": "2012-05-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "10 of the Best Portal Easter Eggs", "id": "11915", "slug": "easter-eggs-2012-73", "date": "2012-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout: New Vegas - Valve Easter Egg", "id": "11916", "slug": "easter-eggs-2012-93", "date": "2012-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Falling Down Easter Egg", "id": "11917", "slug": "easter-eggs-2012-57", "date": "2012-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gears of War 3 - Mad World Easter Egg", "id": "11919", "slug": "easter-eggs-2012-91", "date": "2012-05-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Roller Coaster Easter Egg", "id": "11921", "slug": "easter-eggs-2012-45", "date": "2012-04-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zerg Rush Easter Egg", "id": "11922", "slug": "easter-eggs-2012-43", "date": "2012-04-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Witcher 2: AOK - Assassin's Creed Easter Egg", "id": "40582", "slug": "easter-eggs-2012-89", "date": "2012-04-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cliff Jumper Easter Egg", "id": "11925", "slug": "easter-eggs-2012-42", "date": "2012-04-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Suspense Easter Egg", "id": "11924", "slug": "easter-eggs-2012-39", "date": "2012-04-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Way of the Ninja Easter Egg", "id": "11926", "slug": "easter-eggs-2012-35", "date": "2012-04-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo: Reach - Developers Easter Eggs", "id": "11927", "slug": "easter-eggs-2012-88", "date": "2012-04-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo: Reach - Three Easter Eggs", "id": "11928", "slug": "easter-eggs-2012-87", "date": "2012-04-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "William Tell Easter Egg", "id": "11929", "slug": "easter-eggs-2012-86", "date": "2012-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Elder Scrolls V: Skyrim - Poltergeist Easter Egg", "id": "11930", "slug": "easter-eggs-2012-85", "date": "2012-04-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo: CE Anniversary - Thirsty Grunt Easter Egg", "id": "11932", "slug": "easter-eggs-2012-84", "date": "2012-04-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Elder Scrolls V: Skyrim - Frozen Mammoth Easter Egg", "id": "11931", "slug": "easter-eggs-2012-83", "date": "2012-04-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sanctuary Teddy Bear Easter Egg", "id": "11933", "slug": "easter-eggs-2012-5", "date": "2012-04-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cove Easter Egg", "id": "11934", "slug": "easter-eggs-2012-2", "date": "2012-04-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Aftermath Water Cleaver Easter Egg", "id": "11935", "slug": "easter-eggs-2012-79", "date": "2012-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Artillery Lightning Cleaver Easter Egg", "id": "11936", "slug": "easter-eggs-2012-71", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Raven Down Frost Cleaver Easter Egg", "id": "11937", "slug": "easter-eggs-2012-65", "date": "2012-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jacinto Imulsion Cleaver Easter Egg", "id": "11938", "slug": "easter-eggs-2012-59", "date": "2012-03-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Box Easter Eggs", "id": "11939", "slug": "easter-eggs-2012-37", "date": "2012-03-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space Hamster Easter Egg", "id": "11941", "slug": "easter-eggs-2012-33", "date": "2012-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Don't Touch That Easter Egg", "id": "40580", "slug": "easter-eggs-2012-31", "date": "2012-03-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of Duty: Modern Warfare 3 - Overwatch Easter Eggs", "id": "11944", "slug": "easter-eggs-2012-7", "date": "2012-02-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Singing Fish Easter Egg", "id": "11945", "slug": "easter-eggs-2012-3", "date": "2012-02-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "U Mad Bro? Easter Egg", "id": "11946", "slug": "easter-eggs-2012-55", "date": "2012-01-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pacman Easter Egg", "id": "11947", "slug": "easter-eggs-2012-50", "date": "2012-01-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "300 Easter Egg", "id": "11948", "slug": "easter-eggs-2012-49", "date": "2012-01-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Piazza Teddy Bear Easter Egg", "id": "11949", "slug": "easter-eggs-2012-46", "date": "2012-01-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lost \"Hatch\" Easter Egg", "id": "40579", "slug": "easter-eggs-2012-44", "date": "2012-01-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Golden Chicken Easter Egg", "id": "11952", "slug": "easter-eggs-2012-80", "date": "2012-01-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Night at the Roxbury Easter Egg", "id": "11951", "slug": "easter-eggs-2012-26", "date": "2012-01-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Easter Eggs of 2011", "id": "11954", "slug": "easter-eggs-2011-17", "date": "2011-12-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Raam's Gift Easter Egg", "id": "11955", "slug": "easter-eggs-2011-15", "date": "2011-12-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battlefield 2143 Easter Egg", "id": "11956", "slug": "easter-eggs-2011-14", "date": "2011-12-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Titanic Easter Egg", "id": "11957", "slug": "easter-eggs-2011-8", "date": "2011-12-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "All Dinosaurs Easter Egg", "id": "11958", "slug": "easter-eggs-2011-7", "date": "2011-12-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Commemorative Plaque Easter Egg", "id": "11960", "slug": "easter-eggs-2011-60", "date": "2011-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "343 Guilty Spark Easter Egg", "id": "11959", "slug": "easter-eggs-2011-59", "date": "2011-12-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dinosaur Easter Egg", "id": "11961", "slug": "easter-eggs-2011-58", "date": "2011-12-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Invisible Treasure Chest Easter Egg", "id": "11962", "slug": "easter-eggs-2011-55", "date": "2011-12-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "11th Terminal Easter Egg", "id": "11963", "slug": "easter-eggs-2011-50", "date": "2011-12-06", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Grunt Barrel Easter Egg", "id": "11964", "slug": "easter-eggs-2011-48", "date": "2011-12-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Arthurian Easter Eggs", "id": "11965", "slug": "easter-eggs-2011-45", "date": "2011-11-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Empire Strikes Back - Star Wars Easter Egg", "id": "11966", "slug": "easter-eggs-2011-43", "date": "2011-11-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Linda 058 Easter Egg", "id": "11967", "slug": "easter-eggs-2011-36", "date": "2011-11-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Troll Face Easter Egg", "id": "11968", "slug": "easter-eggs-2011-33", "date": "2011-11-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "GRD Dolls Easter Egg", "id": "11969", "slug": "easter-eggs-2011-32", "date": "2011-11-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Big Head Mode Easter Egg", "id": "11970", "slug": "easter-eggs-2011-29", "date": "2011-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Teddy Bear Easter Eggs", "id": "11971", "slug": "easter-eggs-2011-27", "date": "2011-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Minecraft Easter Egg", "id": "11972", "slug": "easter-eggs-2011-26", "date": "2011-11-14", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Samantha Easter Egg", "id": "11973", "slug": "easter-eggs-2011-24", "date": "2011-11-14", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Teddy Bear Easter Egg", "id": "11974", "slug": "easter-eggs-2011-20", "date": "2011-11-14", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "The Dom Beard Easter Egg", "id": "11975", "slug": "easter-eggs-2011-6", "date": "2011-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Photobooth Easter Egg", "id": "11976", "slug": "easter-eggs-2011-2", "date": "2011-11-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rat Easter Egg", "id": "24815", "slug": "easter-eggs-2011", "date": "2011-11-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sandcastle Easter Egg", "id": "40614", "slug": "easter-eggs-2011-57", "date": "2011-10-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Scarecrow Easter Egg", "id": "25308", "slug": "easter-eggs-2011-54", "date": "2011-10-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Killer Croc Easter Egg", "id": "25307", "slug": "easter-eggs-2011-52", "date": "2011-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Demon Spawn Easter Egg", "id": "25306", "slug": "easter-eggs-2011-51", "date": "2011-10-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Radio Easter Egg", "id": "25305", "slug": "easter-eggs-2011-49", "date": "2011-10-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Protoman Easter Egg", "id": "25304", "slug": "easter-eggs-2011-47", "date": "2011-10-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DOOM Easter Egg", "id": "25303", "slug": "easter-eggs-2011-42", "date": "2011-10-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sawed Off Chicken Easter Egg", "id": "25300", "slug": "easter-eggs-2011-39", "date": "2011-10-07", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Quake Easter Egg", "id": "25299", "slug": "easter-eggs-2011-31", "date": "2011-10-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wolfenstein 3D Easter Egg", "id": "25297", "slug": "easter-eggs-2011-28", "date": "2011-10-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cluckshot Easter Egg", "id": "25296", "slug": "easter-eggs-2011-25", "date": "2011-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lambent Chicken Easter Egg", "id": "25294", "slug": "easter-eggs-2011-18", "date": "2011-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Easter Egg Grab Bag", "id": "25293", "slug": "easter-eggs-2011-16", "date": "2011-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fighting Tickers Easter Egg", "id": "25292", "slug": "easter-eggs-2011-12", "date": "2011-09-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cole Train Baseball Cap Easter Egg", "id": "25291", "slug": "easter-eggs-2011-11", "date": "2011-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dancing Wretch Easter Egg", "id": "25311", "slug": "easter-eggs-2011-9", "date": "2011-09-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hidden Song Easter Egg (Moon)", "id": "11995", "slug": "easter-eggs-2011-53", "date": "2011-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Old World Blues - Wild Wasteland Easter Eggs!", "id": "11997", "slug": "easter-eggs-2011-46", "date": "2011-08-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dog Poker Easter Egg", "id": "25302", "slug": "easter-eggs-2011-41", "date": "2011-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Portal 2 Easter Egg (Suicide Blitz 2)", "id": "40680", "slug": "easter-eggs-2011-34", "date": "2011-07-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Strip Club Easter Eggs", "id": "25298", "slug": "easter-eggs-2011-30", "date": "2011-07-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shangri-la Easter Egg Song", "id": "12000", "slug": "easter-eggs-2011-21", "date": "2011-06-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Portal Easter Egg", "id": "40679", "slug": "easter-eggs-2011-19", "date": "2011-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Assassin's Creed Easter Egg", "id": "24732", "slug": "easter-eggs-2011-5", "date": "2011-06-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mr Toots Easter Egg", "id": "40678", "slug": "easter-eggs-2011-3", "date": "2011-06-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Theatre Marquee Easter Egg", "id": "25309", "slug": "easter-eggs-2011-56", "date": "2011-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Call of the Dead: Avenged Sevenfold Easter Egg Song", "id": "25301", "slug": "easter-eggs-2011-40", "date": "2011-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "No Hard Feelings Achievement Guide and Easter Eggs", "id": "12006", "slug": "easter-eggs-2011-38", "date": "2011-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Singing Turrets Easter Egg", "id": "12007", "slug": "easter-eggs-2011-37", "date": "2011-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "P-Body Easter Egg", "id": "12008", "slug": "easter-eggs-2011-35", "date": "2011-04-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Easter Eggs for the 360!", "id": "25295", "slug": "easter-eggs-2011-23", "date": "2011-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Easter Eggs", "id": "40677", "slug": "easter-eggs-2011-13", "date": "2011-04-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Halo Easter Eggs (of all time)", "id": "12011", "slug": "easter-eggs-2011-10", "date": "2011-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dragon Age: Origins Easter Egg", "id": "44305", "slug": "easter-eggs-2011-72", "date": "2011-03-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "First Strike DLC Zombie Music Easter Egg", "id": "12014", "slug": "easter-eggs-2011-70", "date": "2011-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Talking Dolls Easter Egg", "id": "44324", "slug": "easter-eggs-2011-71", "date": "2011-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red Ring of Doom Easter Egg", "id": "12015", "slug": "easter-eggs-2011-44", "date": "2011-03-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "In Loving Memory Easter Egg", "id": "12016", "slug": "easter-eggs-2011-22", "date": "2011-02-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Skate 3000 Easter Egg", "id": "12017", "slug": "easter-eggs-2011-73", "date": "2011-02-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Creepy Troll Easter Egg", "id": "12018", "slug": "easter-eggs-2011-69", "date": "2011-01-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Statue of Liberty Easter Egg", "id": "12019", "slug": "easter-eggs-2011-68", "date": "2011-01-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Beach Ball Easter Egg", "id": "12021", "slug": "easter-eggs-2011-67", "date": "2011-01-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TMNT Easter Egg", "id": "12020", "slug": "easter-eggs-2011-66", "date": "2011-01-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "LOST Hatch Easter Egg", "id": "12022", "slug": "easter-eggs-2011-65", "date": "2011-01-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zombie Music Easter Egg", "id": "25310", "slug": "easter-eggs-2011-64", "date": "2011-01-10", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Thunder Gun Easter Egg", "id": "12025", "slug": "easter-eggs-2011-63", "date": "2011-01-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Witch Easter Egg", "id": "12024", "slug": "easter-eggs-2011-62", "date": "2011-01-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bar of Soap Easter Egg", "id": "12026", "slug": "easter-eggs-2011-61", "date": "2011-01-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tombstone Easter Eggs", "id": "12027", "slug": "easter-eggs-2010-28", "date": "2010-11-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Portal Easter Egg", "id": "12028", "slug": "easter-eggs-2010-27", "date": "2010-10-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Monty Python Easter Eggs", "id": "12029", "slug": "easter-eggs-2010-26", "date": "2010-10-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Easter Eggs (George Lucas Version)", "id": "25287", "slug": "easter-eggs-2010-25", "date": "2010-10-21", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "\"The Sacrifice\" DLC Easter Eggs", "id": "24714", "slug": "easter-eggs-2010-24", "date": "2010-10-06", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "How to get four banshees on \"The Package\" (Easter Egg)", "id": "24713", "slug": "easter-eggs-2010-23", "date": "2010-09-29", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Hidden Ammo Cache Easter Egg", "id": "25286", "slug": "easter-eggs-2010-22", "date": "2010-09-28", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Master Chief Statue Easter Egg", "id": "25285", "slug": "easter-eggs-2010-21", "date": "2010-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Suicidal Marine Easter Egg", "id": "25284", "slug": "easter-eggs-2010-20", "date": "2010-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Reach Racer Easter Egg", "id": "25283", "slug": "easter-eggs-2010-19", "date": "2010-09-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Master Chief is in Reach \"Easter Egg\"", "id": "24711", "slug": "easter-eggs-2010-18", "date": "2010-09-16", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Never Surrender, Siege of Madrigal Easter Egg", "id": "25281", "slug": "easter-eggs-2010-16", "date": "2010-09-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Unicorn Easter Egg", "id": "25280", "slug": "easter-eggs-2010-15", "date": "2010-08-11", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Tauren Space Marine Easter Egg", "id": "25279", "slug": "easter-eggs-2010-14", "date": "2010-08-03", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Hitman Easter Egg", "id": "25278", "slug": "easter-eggs-2010-13", "date": "2010-07-28", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Rubber Ducky Easter Egg", "id": "25277", "slug": "easter-eggs-2010-12", "date": "2010-06-21", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Sandcastle Easter Egg", "id": "25276", "slug": "easter-eggs-2010-11", "date": "2010-06-09", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Mr. Snowman Easter Egg", "id": "25275", "slug": "easter-eggs-2010-10", "date": "2010-05-14", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Pie Island Easter Egg", "id": "25290", "slug": "easter-eggs-2010-9", "date": "2010-05-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mysterious Lights Easter Egg", "id": "25289", "slug": "easter-eggs-2010-8", "date": "2010-05-12", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "I Am Legend Easter Egg", "id": "25288", "slug": "easter-eggs-2010-7", "date": "2010-05-07", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Beached Whale Easter Egg", "id": "25908", "slug": "easter-eggs-2010-6", "date": "2010-05-04", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Mechanical Shark Easter Egg", "id": "25907", "slug": "easter-eggs-2010-5", "date": "2010-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "\"Baby\" Panay Moustache Easter Egg", "id": "24693", "slug": "easter-eggs-2010-4", "date": "2010-05-03", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Lost Easter Eggs - The Hatch, Plane, Smoke Monster", "id": "25906", "slug": "easter-eggs-2010-3", "date": "2010-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Midnight Riders Tour Bus Easter Egg", "id": "25905", "slug": "easter-eggs-2010-2", "date": "2010-04-22", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Frank West \"Dead Rising\" Easter Egg", "id": "24690", "slug": "easter-eggs-2010", "date": "2010-04-22", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Easter Eggs (Still Alive)", "id": "25904", "slug": "easter-eggs-2009-2", "date": "2009-11-05", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Easter Eggs", "id": "25903", "slug": "easter-eggs-2009", "date": "2009-07-14", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}]}
+{
+    "show": "Easter Eggs",
+    "slug": "easter-eggs",
+    "summary": {
+        "count": 334,
+        "uploaded": 307,
+        "missing": 27,
+        "incomplete": 1,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Just Cause 4 - Cow Gun Easter Egg",
+            "id": "29726",
+            "slug": "easter-eggs-2018-just-cause-4",
+            "date": "2018-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destiny 2 - The New Traveler",
+            "id": "11705",
+            "slug": "easter-eggs-2016-destiny-2-the-new-traveler",
+            "date": "2017-09-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destiny 2 - Scouting Commander & Sentry Ranks x4 (Easter Egg)",
+            "id": "11706",
+            "slug": "easter-eggs-2016-destiny-2-scouting-commander-sentry-ranks-x4-easter-egg",
+            "date": "2017-09-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destiny 2 - First Mission Easter Eggs",
+            "id": "11719",
+            "slug": "easter-eggs-2016-destiny-2-first-mission-easter-eggs",
+            "date": "2017-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Friday the 13th: The Game - Achievement Hunter Easter Egg",
+            "id": "11707",
+            "slug": "easter-eggs-2016-friday-the-13-th-the-game-achievement-hunter-easter-egg",
+            "date": "2017-06-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman - Puddle Pile",
+            "id": "11708",
+            "slug": "easter-eggs-2016-hitman-puddle-pile-easter-egg",
+            "date": "2016-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants Vs Zombies Garden Warfare 2 \u2013 Achievement Hunter Easter Egg",
+            "id": "11710",
+            "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-achievement-hunter-easter-egg",
+            "date": "2016-06-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Division \u2013 Mr. Bean, Ubisoft Office, and Breaking Bad Easter Eggs",
+            "id": "11709",
+            "slug": "easter-eggs-2016-the-division-mr-bean-ubisoft-office-and-breaking-bad-easter-eggs",
+            "date": "2016-03-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Division \u2013 The Joker, Rick and Morty, and Tom Clancy Easter Eggs",
+            "id": "11711",
+            "slug": "easter-eggs-2016-the-division-the-joker-rick-and-morty-and-tom-clancy-easter-eggs",
+            "date": "2016-03-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Division \u2013 Adventure Time, Grow Home, and Raving Rabbids Easter Eggs",
+            "id": "11712",
+            "slug": "easter-eggs-2016-the-division-adventure-time-grow-home-and-raving-rabbids-easter-eggs",
+            "date": "2016-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pok\u00e9mon Red & Blue \u2013 Catch Mew!",
+            "id": "11713",
+            "slug": "easter-eggs-2016-pok-mon-red-blue-catch-mew",
+            "date": "2016-03-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Division \u2013 TMNT and Splinter Cell Easter Eggs",
+            "id": "11714",
+            "slug": "easter-eggs-2016-the-division-tmnt-and-splinter-cell-easter-eggs",
+            "date": "2016-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Legend Of Zelda Twilight Princess HD - Zelda Wii U Easter Egg",
+            "id": "11715",
+            "slug": "easter-eggs-2016-2",
+            "date": "2016-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Far Cry Primal \u2013 Hidden Assassin's Creed and Ubisoft Logos Easter Egg",
+            "id": "11726",
+            "slug": "easter-eggs-2016-far-cry-primal-hidden-assassin-s-creed-and-ubisoft-logos-easter-egg",
+            "date": "2016-02-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pokemon Red & Blue \u2013 Classic Gameboy Feature",
+            "id": "11716",
+            "slug": "easter-eggs-2016-episode",
+            "date": "2016-02-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants vs. Zombies Garden Warfare 2 \u2013 Star Wars and 2001 A Space Odyssey Easter Eggs",
+            "id": "11717",
+            "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-star-wars-and-2001-a-space-odyssey-easter-eggs",
+            "date": "2016-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants vs. Zombies Garden Warfare 2 \u2013 Two Secret Rooms and 70,000 Coins",
+            "id": "11718",
+            "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-two-secret-rooms-and-70-000-coins",
+            "date": "2016-02-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Far Cry Primal \u2013 Flintstones Car Easter Egg",
+            "id": "11721",
+            "slug": "easter-eggs-2016-far-cry-primal-flintstones-car-easter-egg",
+            "date": "2016-02-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants vs. Zombies Garden Warfare 2 \u2013 Indiana Jones Easter Egg",
+            "id": "11720",
+            "slug": "easter-eggs-2016-plants-vs-zombies-garden-warfare-2-indiana-jones-easter-egg",
+            "date": "2016-02-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Far Cry Primal \u2013 Blood Dragon Easter Egg",
+            "id": "11732",
+            "slug": "easter-eggs-2016-far-cry-primal-blood-dragon-easter-egg",
+            "date": "2016-02-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman Arkham Knight - Secret Wall Easter Egg",
+            "id": "11722",
+            "slug": "easter-eggs-2016-batman",
+            "date": "2016-01-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Just Cause 3 - Rubber Duck Easter Egg",
+            "id": "11723",
+            "slug": "easter-eggs-2016",
+            "date": "2016-01-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Just Cause 3 - Doge Mode Easter Egg",
+            "id": "11724",
+            "slug": "easter-eggs-2015-just-cause-3-doge-mode-easter-egg",
+            "date": "2015-12-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Just Cause 3 - Teleportation Easter Egg",
+            "id": "11725",
+            "slug": "easter-eggs-2015-7",
+            "date": "2015-12-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Just Cause 3 - Thor's Hammer Easter Egg",
+            "id": "11727",
+            "slug": "easter-eggs-2015-8",
+            "date": "2015-12-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 5 - Sand Monster",
+            "id": "11729",
+            "slug": "easter-eggs-2015-halo-5-sand-monster",
+            "date": "2015-11-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 5 - Soccer Easter Egg",
+            "id": "11728",
+            "slug": "easter-eggs-2015-halo-5-soccer-easter-egg",
+            "date": "2015-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 5 - Gun Vendor Easter Egg",
+            "id": "11730",
+            "slug": "easter-eggs-2015-halo-5-gun-vendor-easter-egg",
+            "date": "2015-10-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Half Life 3 Easter Egg - Mad Max",
+            "id": "11731",
+            "slug": "easter-eggs-2015-6",
+            "date": "2015-10-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "PT Easter Egg - Metal Gear Solid V: The Phantom Pain",
+            "id": "11733",
+            "slug": "easter-eggs-2015-5",
+            "date": "2015-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman Arkham Knight - Man Bat Easter Egg",
+            "id": "11734",
+            "slug": "easter-eggs-2015-4",
+            "date": "2015-07-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wolfenstein: The Old Blood - Six Easter Eggs",
+            "id": "11735",
+            "slug": "easter-eggs-2015-3",
+            "date": "2015-05-22",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Shovel Knight - Kratos Easter Egg",
+            "id": "11746",
+            "slug": "easter-eggs-2015-2",
+            "date": "2015-05-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shovel Knight - Hall Champion Guide & Battletoads Easter Egg",
+            "id": "11736",
+            "slug": "easter-eggs-2015",
+            "date": "2015-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grand Theft Auto V - Hidden Peyote Plant Easter Eggs Part 1",
+            "id": "11737",
+            "slug": "easter-eggs-2014-12",
+            "date": "2014-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo: The Master Chief Collection - Rooster Teeth Assault Bomb Easter Egg",
+            "id": "11738",
+            "slug": "easter-eggs-2014-2",
+            "date": "2014-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Pink Floyd Easter Egg",
+            "id": "11739",
+            "slug": "easter-eggs-2014-21",
+            "date": "2014-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Daft Punk Easter Egg",
+            "id": "11740",
+            "slug": "easter-eggs-2014-20",
+            "date": "2014-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Oscar the Grouch Easter Egg",
+            "id": "11741",
+            "slug": "easter-eggs-2014-19",
+            "date": "2014-10-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Gaige Chest Easter Egg",
+            "id": "11742",
+            "slug": "easter-eggs-2014-18",
+            "date": "2014-10-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - 2001 A Space Odyssey Easter Egg",
+            "id": "11743",
+            "slug": "easter-eggs-2014-17",
+            "date": "2014-10-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Super Mario Bros Easter Egg",
+            "id": "11744",
+            "slug": "easter-eggs-2014-16",
+            "date": "2014-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Buzz Lightyear Easter Egg",
+            "id": "11754",
+            "slug": "easter-eggs-2014-15",
+            "date": "2014-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands The Pre-Sequel - Not Pink, Light Red! Easter Egg",
+            "id": "11745",
+            "slug": "easter-eggs-2014-14",
+            "date": "2014-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destiny - Loot Cave Easter Egg",
+            "id": "11747",
+            "slug": "easter-eggs-2014-8",
+            "date": "2014-10-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Ghosts - Hidden Intel Easter Egg",
+            "id": "11748",
+            "slug": "easter-eggs-2014-5",
+            "date": "2014-08-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Ghosts - Star Power Easter Egg",
+            "id": "11749",
+            "slug": "easter-eggs-2014-4",
+            "date": "2014-08-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants vs. Zombies: Garden Warfare - Bioware Easter Eggs",
+            "id": "11751",
+            "slug": "easter-eggs-2014-13",
+            "date": "2014-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Watch Dogs - Assassin's Creed Easter Egg",
+            "id": "11750",
+            "slug": "easter-eggs-2014-3",
+            "date": "2014-06-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wolfenstein: The New Order - Vault 101 Easter Egg",
+            "id": "11752",
+            "slug": "easter-eggs-2014-23",
+            "date": "2014-05-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wolfenstein: The New Order - Wolfenstein 3D Easter Egg",
+            "id": "11753",
+            "slug": "easter-eggs-2014-22",
+            "date": "2014-05-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants vs Zombies: Garden Warfare - Slender Man Easter Egg",
+            "id": "11757",
+            "slug": "easter-eggs-2014-6",
+            "date": "2014-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Ghosts - Venom X Easter Egg",
+            "id": "11755",
+            "slug": "easter-eggs-2014",
+            "date": "2014-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plants vs. Zombies: Garden Warfare - Achievement Hunter Easter Egg",
+            "id": "11756",
+            "slug": "easter-eggs-2014-11",
+            "date": "2014-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battlefield 4 - Exploding Ship Easter Egg",
+            "id": "11758",
+            "slug": "easter-eggs-2014-10",
+            "date": "2014-01-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grand Theft Auto V - Snowman Easter Egg",
+            "id": "11759",
+            "slug": "easter-eggs-2014-9",
+            "date": "2014-01-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Easter Eggs of 2013",
+            "id": "11760",
+            "slug": "easter-eggs-2014-7",
+            "date": "2014-01-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RYSE: Son of Rome - Lady Of The Lake Easter Egg",
+            "id": "11761",
+            "slug": "easter-eggs-2013-29",
+            "date": "2013-12-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RYSE: Son of Rome: Ghost Legion Easter Egg",
+            "id": "11762",
+            "slug": "easter-eggs-2013-28",
+            "date": "2013-12-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Assassin's Creed IV: Black Flag - Squid vs. Whale Easter Egg",
+            "id": "11763",
+            "slug": "easter-eggs-2013-16",
+            "date": "2013-11-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Ghosts - LOL Easter Egg",
+            "id": "11764",
+            "slug": "easter-eggs-2013-15",
+            "date": "2013-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battlefield 4 - Dog Tags and Hidden Weapons Part 1",
+            "id": "11766",
+            "slug": "easter-eggs-2013-9",
+            "date": "2013-10-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Creepiest Xbox 360 Easter Eggs",
+            "id": "11765",
+            "slug": "easter-eggs-2013-4",
+            "date": "2013-10-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grand Theft Auto V - Bigfoot Easter Egg",
+            "id": "11767",
+            "slug": "easter-eggs-2013-24",
+            "date": "2013-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grand Theft Auto V - No Country For Old Men Easter Egg",
+            "id": "11768",
+            "slug": "easter-eggs-2013-23",
+            "date": "2013-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grand Theft Auto V - Ghost Easter Egg",
+            "id": "11769",
+            "slug": "easter-eggs-2013-22",
+            "date": "2013-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grand Theft Auto V - Alien Easter Egg",
+            "id": "11770",
+            "slug": "easter-eggs-2013-19",
+            "date": "2013-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Black Ops 2 - Origins Easter Egg Song",
+            "id": "11779",
+            "slug": "easter-eggs-2013-8",
+            "date": "2013-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Developer Easter Egg",
+            "id": "11785",
+            "slug": "easter-eggs-2013-3",
+            "date": "2013-08-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Buried Teddy Bear Song",
+            "id": "11771",
+            "slug": "easter-eggs-2013-20",
+            "date": "2013-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Seven Dwarves Easter Egg",
+            "id": "11774",
+            "slug": "easter-eggs-2013-66",
+            "date": "2013-06-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - Halo Artifact[s] Easter Egg",
+            "id": "11775",
+            "slug": "easter-eggs-2013-64",
+            "date": "2013-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - Hidden Cortana Easter Egg",
+            "id": "11777",
+            "slug": "easter-eggs-2013-62",
+            "date": "2013-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Black Ops 2 - Hijacked in Real Life Easter Egg",
+            "id": "11778",
+            "slug": "easter-eggs-2013-61",
+            "date": "2013-06-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State of Decay - 3 Easter Eggs",
+            "id": "11781",
+            "slug": "easter-eggs-2013-59",
+            "date": "2013-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State of Decay - Plants vs Zombies Easter Egg",
+            "id": "11782",
+            "slug": "easter-eggs-2013-58",
+            "date": "2013-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 3: ODST - Destiny Easter Egg",
+            "id": "11784",
+            "slug": "easter-eggs-2013-57",
+            "date": "2013-06-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - Big Scary Laser Easter Egg",
+            "id": "11783",
+            "slug": "easter-eggs-2013-56",
+            "date": "2013-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dead Island: Riptide - I am Legend Easter Egg",
+            "id": "11786",
+            "slug": "easter-eggs-2013-55",
+            "date": "2013-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dead Island: Riptide - Borderlands Loot Midget Easter Egg",
+            "id": "11787",
+            "slug": "easter-eggs-2013-54",
+            "date": "2013-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - Inverted Stick Easter Egg",
+            "id": "11790",
+            "slug": "easter-eggs-2013-51",
+            "date": "2013-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Black Ops II - Double Rainbow Easter Egg",
+            "id": "11791",
+            "slug": "easter-eggs-2013-50",
+            "date": "2013-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - PolyCount Easter Egg",
+            "id": "11793",
+            "slug": "easter-eggs-2013-48",
+            "date": "2013-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jump Scare Easter Egg",
+            "id": "11794",
+            "slug": "easter-eggs-2013-27",
+            "date": "2013-04-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Black Ops II - Thor Easter Egg",
+            "id": "11795",
+            "slug": "easter-eggs-2013-47",
+            "date": "2013-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Black Ops 2 - Zombie Face Easter Egg",
+            "id": "11796",
+            "slug": "easter-eggs-2013-46",
+            "date": "2013-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "World of Warcraft - Portal Easter Egg",
+            "id": "11797",
+            "slug": "easter-eggs-2013-45",
+            "date": "2013-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gears of War: Judgement - Latin Music Easter Egg",
+            "id": "11800",
+            "slug": "easter-eggs-2013-43",
+            "date": "2013-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BioShock Infinite - La Revanche Du Jedi Easter Egg",
+            "id": "11799",
+            "slug": "easter-eggs-2013-42",
+            "date": "2013-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BioShock Infinite - Fortune Son Easter Egg",
+            "id": "11801",
+            "slug": "easter-eggs-2013-41",
+            "date": "2013-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gears of War Judgement Easter Egg \"Reaver Says Hi\"",
+            "id": "40671",
+            "slug": "easter-eggs-2013-40",
+            "date": "2013-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Crocodile Easter Egg",
+            "id": "11805",
+            "slug": "easter-eggs-2013-21",
+            "date": "2013-03-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mushroom Trip Easter Egg",
+            "id": "11803",
+            "slug": "easter-eggs-2013-18",
+            "date": "2013-03-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dancing Men Easter Egg",
+            "id": "11804",
+            "slug": "easter-eggs-2013-13",
+            "date": "2013-02-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space Balls Easter Egg",
+            "id": "11806",
+            "slug": "easter-eggs-2013-11",
+            "date": "2013-02-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Giant Donut Easter Egg",
+            "id": "11807",
+            "slug": "easter-eggs-2013-10",
+            "date": "2013-02-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sonic 3 and Knuckles Easter Egg",
+            "id": "11808",
+            "slug": "easter-eggs-2013-7",
+            "date": "2013-02-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 10",
+            "id": "11809",
+            "slug": "easter-eggs-2013-5",
+            "date": "2013-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Aliens: Colonial Marines - Easter Egg Guide v2",
+            "id": "11810",
+            "slug": "easter-eggs-2013-39",
+            "date": "2013-02-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Aliens: Colonial Marines - Easter Egg Guide",
+            "id": "11811",
+            "slug": "easter-eggs-2013-38",
+            "date": "2013-02-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Easter Egg Guide",
+            "id": "11813",
+            "slug": "easter-eggs-2013",
+            "date": "2013-02-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 9",
+            "id": "11812",
+            "slug": "easter-eggs-2013-26",
+            "date": "2013-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 8",
+            "id": "11814",
+            "slug": "easter-eggs-2013-17",
+            "date": "2013-02-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Max Payne 3 - Demon Baby Easter Egg",
+            "id": "11815",
+            "slug": "easter-eggs-2013-37",
+            "date": "2013-01-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 7",
+            "id": "11816",
+            "slug": "easter-eggs-2013-14",
+            "date": "2013-01-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout: New Vegas - Futurama Easter Egg",
+            "id": "11817",
+            "slug": "easter-eggs-2013-36",
+            "date": "2013-01-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nuketown 115 Song Easter Egg",
+            "id": "11818",
+            "slug": "easter-eggs-2013-6",
+            "date": "2013-01-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman Absolution - Kane and Lynch Easter Egg",
+            "id": "11819",
+            "slug": "easter-eggs-2013-35",
+            "date": "2013-01-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 6",
+            "id": "11820",
+            "slug": "easter-eggs-2013-2",
+            "date": "2013-01-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Old Dante Easter Egg",
+            "id": "11821",
+            "slug": "easter-eggs-2013-25",
+            "date": "2013-01-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sonic Adventure 2 - Big the Cat Easter Egg",
+            "id": "11822",
+            "slug": "easter-eggs-2013-34",
+            "date": "2013-01-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim - Billy Goats Gruff Easter Egg",
+            "id": "11823",
+            "slug": "easter-eggs-2013-33",
+            "date": "2013-01-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Extra Wubs Easter Egg",
+            "id": "11824",
+            "slug": "easter-eggs-2013-32",
+            "date": "2013-01-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Retro City Rampage - Arcade Games Easter Egg",
+            "id": "11825",
+            "slug": "easter-eggs-2013-31",
+            "date": "2013-01-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Trials Evolution - Lab Rat Easter Egg",
+            "id": "11826",
+            "slug": "easter-eggs-2013-30",
+            "date": "2013-01-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Easter Eggs of 2012",
+            "id": "11827",
+            "slug": "easter-eggs-2013-12",
+            "date": "2013-01-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battlefield 1942 Easter Egg",
+            "id": "11828",
+            "slug": "easter-eggs-2012-13",
+            "date": "2012-12-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "XCOM: Enemy Unknown - Character Easter Egg",
+            "id": "11829",
+            "slug": "easter-eggs-2012-126",
+            "date": "2012-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bioshock/Assassin's Creed Easter Eggs",
+            "id": "40670",
+            "slug": "easter-eggs-2012-67",
+            "date": "2012-12-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Far Cry 3 - Underwater Toilet Easter Egg",
+            "id": "11831",
+            "slug": "easter-eggs-2012-125",
+            "date": "2012-12-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Underwater Drunk Easter Egg",
+            "id": "11832",
+            "slug": "easter-eggs-2012-54",
+            "date": "2012-12-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sand Castle Easter Egg",
+            "id": "11833",
+            "slug": "easter-eggs-2012-53",
+            "date": "2012-12-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dead Space Easter Egg",
+            "id": "11834",
+            "slug": "easter-eggs-2012-51",
+            "date": "2012-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "COD Black Ops 2: Thor's Hammer Easter Egg",
+            "id": "40669",
+            "slug": "easter-eggs-2012-124",
+            "date": "2012-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mirror's Edge Easter Egg",
+            "id": "11835",
+            "slug": "easter-eggs-2012-41",
+            "date": "2012-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Black Ops 2 - Nacht Der Untoten Easter Egg",
+            "id": "11838",
+            "slug": "easter-eggs-2012-122",
+            "date": "2012-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 5",
+            "id": "11839",
+            "slug": "easter-eggs-2012-21",
+            "date": "2012-12-03",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Sex Dogs Easter Egg",
+            "id": "11840",
+            "slug": "easter-eggs-2012-19",
+            "date": "2012-11-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Double Rainbow Easter Egg",
+            "id": "11841",
+            "slug": "easter-eggs-2012-16",
+            "date": "2012-11-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman Absolution - Grave Easter Egg",
+            "id": "11842",
+            "slug": "easter-eggs-2012-14",
+            "date": "2012-11-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman Absolution - Nuke Easter Egg",
+            "id": "11843",
+            "slug": "easter-eggs-2012-12",
+            "date": "2012-11-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 4",
+            "id": "11844",
+            "slug": "easter-eggs-2012-10",
+            "date": "2012-11-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Loch Ness Monster Easter Egg",
+            "id": "11845",
+            "slug": "easter-eggs-2012-4",
+            "date": "2012-11-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 3",
+            "id": "11846",
+            "slug": "easter-eggs-2012",
+            "date": "2012-11-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Conan O'Brien and Andy Richter Easter Egg",
+            "id": "40668",
+            "slug": "easter-eggs-2012-77",
+            "date": "2012-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - Waypoint Easter Eggs",
+            "id": "11848",
+            "slug": "easter-eggs-2012-121",
+            "date": "2012-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4 - Conan O'Brien Easter Egg",
+            "id": "11849",
+            "slug": "easter-eggs-2012-120",
+            "date": "2012-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TranZit Song Easter Egg",
+            "id": "11850",
+            "slug": "easter-eggs-2012-69",
+            "date": "2012-11-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4: Grunt Rocket Jump - Easter Egg",
+            "id": "11851",
+            "slug": "easter-eggs-2012-66",
+            "date": "2012-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dancing Grunts Easter Egg",
+            "id": "11852",
+            "slug": "easter-eggs-2012-64",
+            "date": "2012-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Easter Egg Number 2",
+            "id": "11853",
+            "slug": "easter-eggs-2012-63",
+            "date": "2012-11-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4: Easter Egg - Halo 4 Collector's Edition",
+            "id": "40613",
+            "slug": "easter-eggs-2012-61",
+            "date": "2012-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Assassin Turkey Easter Egg",
+            "id": "11855",
+            "slug": "easter-eggs-2012-60",
+            "date": "2012-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Double Rainbow Easter Egg",
+            "id": "11856",
+            "slug": "easter-eggs-2012-58",
+            "date": "2012-11-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 4: HoloHump - Easter Egg",
+            "id": "11857",
+            "slug": "easter-eggs-2012-47",
+            "date": "2012-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Torchlight 2 - Skyrim & Borderlands 2 Easter Eggs",
+            "id": "11858",
+            "slug": "easter-eggs-2012-30",
+            "date": "2012-10-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Torchlight 2 - Minecraft Easter Egg",
+            "id": "11859",
+            "slug": "easter-eggs-2012-29",
+            "date": "2012-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Return of The King Easter Egg",
+            "id": "44304",
+            "slug": "easter-eggs-2012-119",
+            "date": "2012-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Portal Easter Egg",
+            "id": "11861",
+            "slug": "easter-eggs-2012-20",
+            "date": "2012-10-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bioshock Easter Egg",
+            "id": "11862",
+            "slug": "easter-eggs-2012-11",
+            "date": "2012-10-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "New Nether Portal Easter Egg",
+            "id": "11863",
+            "slug": "easter-eggs-2012-9",
+            "date": "2012-10-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim - Headless Horseman Easter Egg",
+            "id": "40169",
+            "slug": "easter-eggs-2012-117",
+            "date": "2012-10-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Starscream's Crown Easter Egg",
+            "id": "40170",
+            "slug": "easter-eggs-2012-116",
+            "date": "2012-10-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Playground Easter Egg",
+            "id": "11867",
+            "slug": "easter-eggs-2012-52",
+            "date": "2012-10-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dark Souls Easter Egg",
+            "id": "11869",
+            "slug": "easter-eggs-2012-48",
+            "date": "2012-10-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Fish Rider Easter Egg",
+            "id": "11868",
+            "slug": "easter-eggs-2012-115",
+            "date": "2012-10-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - TMNT Easter Egg",
+            "id": "11870",
+            "slug": "easter-eggs-2012-114",
+            "date": "2012-10-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Metal Gear Easter Egg",
+            "id": "11871",
+            "slug": "easter-eggs-2012-113",
+            "date": "2012-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Wildlife Preserve Easter Eggs",
+            "id": "11872",
+            "slug": "easter-eggs-2012-112",
+            "date": "2012-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "God of War - Secret Message Easter Egg",
+            "id": "11873",
+            "slug": "easter-eggs-2012-111",
+            "date": "2012-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TMNT Easter Egg",
+            "id": "11874",
+            "slug": "easter-eggs-2012-32",
+            "date": "2012-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Seven Easter Egg",
+            "id": "11877",
+            "slug": "easter-eggs-2012-25",
+            "date": "2012-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "God of War 2 - Now I Am Become Death Easter Egg",
+            "id": "11875",
+            "slug": "easter-eggs-2012-110",
+            "date": "2012-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Moxxi's Good Touch Easter Egg",
+            "id": "40611",
+            "slug": "easter-eggs-2012-18",
+            "date": "2012-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rakkman Easter Egg",
+            "id": "11878",
+            "slug": "easter-eggs-2012-17",
+            "date": "2012-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Dark Souls Easter Egg",
+            "id": "11879",
+            "slug": "easter-eggs-2012-109",
+            "date": "2012-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Borderlands 2 - Steve Easter Egg",
+            "id": "11880",
+            "slug": "easter-eggs-2012-108",
+            "date": "2012-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tekken Tag Tournament 2 - \"Chubby Fighter\" Easter Egg",
+            "id": "40605",
+            "slug": "easter-eggs-2012-107",
+            "date": "2012-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Minecraft Easter Egg",
+            "id": "11882",
+            "slug": "easter-eggs-2012-78",
+            "date": "2012-09-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mirror's Edge Easter Egg",
+            "id": "40604",
+            "slug": "easter-eggs-2012-72",
+            "date": "2012-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "T-Rex Skull Easter Egg",
+            "id": "11884",
+            "slug": "easter-eggs-2012-70",
+            "date": "2012-09-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gnome Easter Egg",
+            "id": "11885",
+            "slug": "easter-eggs-2012-68",
+            "date": "2012-09-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Skyrim - Oblivion Bucket Easter Egg",
+            "id": "11888",
+            "slug": "easter-eggs-2012-6",
+            "date": "2012-07-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim - Cave Devil Easter Egg",
+            "id": "11889",
+            "slug": "easter-eggs-2012-104",
+            "date": "2012-07-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hidden Diamond Easter Egg",
+            "id": "11892",
+            "slug": "easter-eggs-2012-76",
+            "date": "2012-07-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nether Portal Easter Egg",
+            "id": "11890",
+            "slug": "easter-eggs-2012-74",
+            "date": "2012-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Off Shore Easter Egg",
+            "id": "11891",
+            "slug": "easter-eggs-2012-62",
+            "date": "2012-07-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Castlevania II Easter Egg",
+            "id": "11893",
+            "slug": "easter-eggs-2012-56",
+            "date": "2012-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gotham City Impostors - 300 Easter Egg",
+            "id": "11894",
+            "slug": "easter-eggs-2012-103",
+            "date": "2012-07-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Saints Row: The Third - Bunny Easter Eggs",
+            "id": "11895",
+            "slug": "easter-eggs-2012-102",
+            "date": "2012-07-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Vortex Easter Egg Easter Egg",
+            "id": "11896",
+            "slug": "easter-eggs-2012-36",
+            "date": "2012-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Normandy SR-2 Easter Egg",
+            "id": "11897",
+            "slug": "easter-eggs-2012-28",
+            "date": "2012-06-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wine Easter Egg",
+            "id": "11898",
+            "slug": "easter-eggs-2012-22",
+            "date": "2012-06-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Vortex / Intersection Easter Eggs",
+            "id": "11899",
+            "slug": "easter-eggs-2012-15",
+            "date": "2012-06-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Duke Nukem Forever:Halo, Dead Space, Borderlands Easter Eggs",
+            "id": "11900",
+            "slug": "easter-eggs-2012-101",
+            "date": "2012-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Duke Nukem Forever: Halo & Inception Easter Eggs",
+            "id": "40603",
+            "slug": "easter-eggs-2012-100",
+            "date": "2012-06-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sonic CD - Debug Mode Easter Egg",
+            "id": "11902",
+            "slug": "easter-eggs-2012-99",
+            "date": "2012-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sonic CD - Sound Test Easter Eggs",
+            "id": "11903",
+            "slug": "easter-eggs-2012-98",
+            "date": "2012-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Diablo 3 - League of Legends Easter Egg",
+            "id": "11904",
+            "slug": "easter-eggs-2012-97",
+            "date": "2012-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Demon Spawn Easter Egg Part 2",
+            "id": "11905",
+            "slug": "easter-eggs-2012-40",
+            "date": "2012-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Head Coach Obama Easter Egg",
+            "id": "11906",
+            "slug": "easter-eggs-2012-38",
+            "date": "2012-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Max Payne 3 - Evil Demon Baby Easter Egg",
+            "id": "11910",
+            "slug": "easter-eggs-2012-96",
+            "date": "2012-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Getaway Easter Egg",
+            "id": "11907",
+            "slug": "easter-eggs-2012-34",
+            "date": "2012-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "LOST Easter Egg",
+            "id": "11908",
+            "slug": "easter-eggs-2012-27",
+            "date": "2012-05-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Max Payne 3 - Piano Easter Egg",
+            "id": "11909",
+            "slug": "easter-eggs-2012-95",
+            "date": "2012-05-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Piano Easter Egg",
+            "id": "11911",
+            "slug": "easter-eggs-2012-23",
+            "date": "2012-05-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Penguin Easter Egg",
+            "id": "11912",
+            "slug": "easter-eggs-2012-8",
+            "date": "2012-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout: New Vegas - Beer and Hand Grenades Easter Eggs",
+            "id": "11913",
+            "slug": "easter-eggs-2012-94",
+            "date": "2012-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Suicide Dude Easter Egg",
+            "id": "11914",
+            "slug": "easter-eggs-2012-75",
+            "date": "2012-05-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "10 of the Best Portal Easter Eggs",
+            "id": "11915",
+            "slug": "easter-eggs-2012-73",
+            "date": "2012-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout: New Vegas - Valve Easter Egg",
+            "id": "11916",
+            "slug": "easter-eggs-2012-93",
+            "date": "2012-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Falling Down Easter Egg",
+            "id": "11917",
+            "slug": "easter-eggs-2012-57",
+            "date": "2012-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gears of War 3 - Mad World Easter Egg",
+            "id": "11919",
+            "slug": "easter-eggs-2012-91",
+            "date": "2012-05-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Roller Coaster Easter Egg",
+            "id": "11921",
+            "slug": "easter-eggs-2012-45",
+            "date": "2012-04-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zerg Rush Easter Egg",
+            "id": "11922",
+            "slug": "easter-eggs-2012-43",
+            "date": "2012-04-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Witcher 2: AOK - Assassin's Creed Easter Egg",
+            "id": "40582",
+            "slug": "easter-eggs-2012-89",
+            "date": "2012-04-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cliff Jumper Easter Egg",
+            "id": "11925",
+            "slug": "easter-eggs-2012-42",
+            "date": "2012-04-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Suspense Easter Egg",
+            "id": "11924",
+            "slug": "easter-eggs-2012-39",
+            "date": "2012-04-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Way of the Ninja Easter Egg",
+            "id": "11926",
+            "slug": "easter-eggs-2012-35",
+            "date": "2012-04-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo: Reach - Developers Easter Eggs",
+            "id": "11927",
+            "slug": "easter-eggs-2012-88",
+            "date": "2012-04-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo: Reach - Three Easter Eggs",
+            "id": "11928",
+            "slug": "easter-eggs-2012-87",
+            "date": "2012-04-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "William Tell Easter Egg",
+            "id": "11929",
+            "slug": "easter-eggs-2012-86",
+            "date": "2012-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim - Poltergeist Easter Egg",
+            "id": "11930",
+            "slug": "easter-eggs-2012-85",
+            "date": "2012-04-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo: CE Anniversary - Thirsty Grunt Easter Egg",
+            "id": "11932",
+            "slug": "easter-eggs-2012-84",
+            "date": "2012-04-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim - Frozen Mammoth Easter Egg",
+            "id": "11931",
+            "slug": "easter-eggs-2012-83",
+            "date": "2012-04-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sanctuary Teddy Bear Easter Egg",
+            "id": "11933",
+            "slug": "easter-eggs-2012-5",
+            "date": "2012-04-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cove Easter Egg",
+            "id": "11934",
+            "slug": "easter-eggs-2012-2",
+            "date": "2012-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Aftermath Water Cleaver Easter Egg",
+            "id": "11935",
+            "slug": "easter-eggs-2012-79",
+            "date": "2012-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Artillery Lightning Cleaver Easter Egg",
+            "id": "11936",
+            "slug": "easter-eggs-2012-71",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Raven Down Frost Cleaver Easter Egg",
+            "id": "11937",
+            "slug": "easter-eggs-2012-65",
+            "date": "2012-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jacinto Imulsion Cleaver Easter Egg",
+            "id": "11938",
+            "slug": "easter-eggs-2012-59",
+            "date": "2012-03-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Box Easter Eggs",
+            "id": "11939",
+            "slug": "easter-eggs-2012-37",
+            "date": "2012-03-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space Hamster Easter Egg",
+            "id": "11941",
+            "slug": "easter-eggs-2012-33",
+            "date": "2012-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Don't Touch That Easter Egg",
+            "id": "40580",
+            "slug": "easter-eggs-2012-31",
+            "date": "2012-03-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of Duty: Modern Warfare 3 - Overwatch Easter Eggs",
+            "id": "11944",
+            "slug": "easter-eggs-2012-7",
+            "date": "2012-02-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Singing Fish Easter Egg",
+            "id": "11945",
+            "slug": "easter-eggs-2012-3",
+            "date": "2012-02-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "U Mad Bro? Easter Egg",
+            "id": "11946",
+            "slug": "easter-eggs-2012-55",
+            "date": "2012-01-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pacman Easter Egg",
+            "id": "11947",
+            "slug": "easter-eggs-2012-50",
+            "date": "2012-01-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "300 Easter Egg",
+            "id": "11948",
+            "slug": "easter-eggs-2012-49",
+            "date": "2012-01-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Piazza Teddy Bear Easter Egg",
+            "id": "11949",
+            "slug": "easter-eggs-2012-46",
+            "date": "2012-01-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lost \"Hatch\" Easter Egg",
+            "id": "40579",
+            "slug": "easter-eggs-2012-44",
+            "date": "2012-01-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Golden Chicken Easter Egg",
+            "id": "11952",
+            "slug": "easter-eggs-2012-80",
+            "date": "2012-01-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Night at the Roxbury Easter Egg",
+            "id": "11951",
+            "slug": "easter-eggs-2012-26",
+            "date": "2012-01-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Easter Eggs of 2011",
+            "id": "11954",
+            "slug": "easter-eggs-2011-17",
+            "date": "2011-12-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Raam's Gift Easter Egg",
+            "id": "11955",
+            "slug": "easter-eggs-2011-15",
+            "date": "2011-12-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battlefield 2143 Easter Egg",
+            "id": "11956",
+            "slug": "easter-eggs-2011-14",
+            "date": "2011-12-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Titanic Easter Egg",
+            "id": "11957",
+            "slug": "easter-eggs-2011-8",
+            "date": "2011-12-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "All Dinosaurs Easter Egg",
+            "id": "11958",
+            "slug": "easter-eggs-2011-7",
+            "date": "2011-12-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Commemorative Plaque Easter Egg",
+            "id": "11960",
+            "slug": "easter-eggs-2011-60",
+            "date": "2011-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "343 Guilty Spark Easter Egg",
+            "id": "11959",
+            "slug": "easter-eggs-2011-59",
+            "date": "2011-12-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dinosaur Easter Egg",
+            "id": "11961",
+            "slug": "easter-eggs-2011-58",
+            "date": "2011-12-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Invisible Treasure Chest Easter Egg",
+            "id": "11962",
+            "slug": "easter-eggs-2011-55",
+            "date": "2011-12-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "11th Terminal Easter Egg",
+            "id": "11963",
+            "slug": "easter-eggs-2011-50",
+            "date": "2011-12-06",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Grunt Barrel Easter Egg",
+            "id": "11964",
+            "slug": "easter-eggs-2011-48",
+            "date": "2011-12-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Arthurian Easter Eggs",
+            "id": "11965",
+            "slug": "easter-eggs-2011-45",
+            "date": "2011-11-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Empire Strikes Back - Star Wars Easter Egg",
+            "id": "11966",
+            "slug": "easter-eggs-2011-43",
+            "date": "2011-11-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Linda 058 Easter Egg",
+            "id": "11967",
+            "slug": "easter-eggs-2011-36",
+            "date": "2011-11-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Troll Face Easter Egg",
+            "id": "11968",
+            "slug": "easter-eggs-2011-33",
+            "date": "2011-11-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "GRD Dolls Easter Egg",
+            "id": "11969",
+            "slug": "easter-eggs-2011-32",
+            "date": "2011-11-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Big Head Mode Easter Egg",
+            "id": "11970",
+            "slug": "easter-eggs-2011-29",
+            "date": "2011-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Teddy Bear Easter Eggs",
+            "id": "11971",
+            "slug": "easter-eggs-2011-27",
+            "date": "2011-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Minecraft Easter Egg",
+            "id": "11972",
+            "slug": "easter-eggs-2011-26",
+            "date": "2011-11-14",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Samantha Easter Egg",
+            "id": "11973",
+            "slug": "easter-eggs-2011-24",
+            "date": "2011-11-14",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Teddy Bear Easter Egg",
+            "id": "11974",
+            "slug": "easter-eggs-2011-20",
+            "date": "2011-11-14",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "The Dom Beard Easter Egg",
+            "id": "11975",
+            "slug": "easter-eggs-2011-6",
+            "date": "2011-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Photobooth Easter Egg",
+            "id": "11976",
+            "slug": "easter-eggs-2011-2",
+            "date": "2011-11-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rat Easter Egg",
+            "id": "24815",
+            "slug": "easter-eggs-2011",
+            "date": "2011-11-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sandcastle Easter Egg",
+            "id": "40614",
+            "slug": "easter-eggs-2011-57",
+            "date": "2011-10-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Scarecrow Easter Egg",
+            "id": "25308",
+            "slug": "easter-eggs-2011-54",
+            "date": "2011-10-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Killer Croc Easter Egg",
+            "id": "25307",
+            "slug": "easter-eggs-2011-52",
+            "date": "2011-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Demon Spawn Easter Egg",
+            "id": "25306",
+            "slug": "easter-eggs-2011-51",
+            "date": "2011-10-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Radio Easter Egg",
+            "id": "25305",
+            "slug": "easter-eggs-2011-49",
+            "date": "2011-10-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Protoman Easter Egg",
+            "id": "25304",
+            "slug": "easter-eggs-2011-47",
+            "date": "2011-10-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DOOM Easter Egg",
+            "id": "25303",
+            "slug": "easter-eggs-2011-42",
+            "date": "2011-10-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sawed Off Chicken Easter Egg",
+            "id": "25300",
+            "slug": "easter-eggs-2011-39",
+            "date": "2011-10-07",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Quake Easter Egg",
+            "id": "25299",
+            "slug": "easter-eggs-2011-31",
+            "date": "2011-10-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wolfenstein 3D Easter Egg",
+            "id": "25297",
+            "slug": "easter-eggs-2011-28",
+            "date": "2011-10-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cluckshot Easter Egg",
+            "id": "25296",
+            "slug": "easter-eggs-2011-25",
+            "date": "2011-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lambent Chicken Easter Egg",
+            "id": "25294",
+            "slug": "easter-eggs-2011-18",
+            "date": "2011-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Easter Egg Grab Bag",
+            "id": "25293",
+            "slug": "easter-eggs-2011-16",
+            "date": "2011-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fighting Tickers Easter Egg",
+            "id": "25292",
+            "slug": "easter-eggs-2011-12",
+            "date": "2011-09-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cole Train Baseball Cap Easter Egg",
+            "id": "25291",
+            "slug": "easter-eggs-2011-11",
+            "date": "2011-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dancing Wretch Easter Egg",
+            "id": "25311",
+            "slug": "easter-eggs-2011-9",
+            "date": "2011-09-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hidden Song Easter Egg (Moon)",
+            "id": "11995",
+            "slug": "easter-eggs-2011-53",
+            "date": "2011-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Old World Blues - Wild Wasteland Easter Eggs!",
+            "id": "11997",
+            "slug": "easter-eggs-2011-46",
+            "date": "2011-08-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dog Poker Easter Egg",
+            "id": "25302",
+            "slug": "easter-eggs-2011-41",
+            "date": "2011-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Portal 2 Easter Egg (Suicide Blitz 2)",
+            "id": "40680",
+            "slug": "easter-eggs-2011-34",
+            "date": "2011-07-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Strip Club Easter Eggs",
+            "id": "25298",
+            "slug": "easter-eggs-2011-30",
+            "date": "2011-07-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shangri-la Easter Egg Song",
+            "id": "12000",
+            "slug": "easter-eggs-2011-21",
+            "date": "2011-06-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Portal Easter Egg",
+            "id": "40679",
+            "slug": "easter-eggs-2011-19",
+            "date": "2011-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Assassin's Creed Easter Egg",
+            "id": "24732",
+            "slug": "easter-eggs-2011-5",
+            "date": "2011-06-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mr Toots Easter Egg",
+            "id": "40678",
+            "slug": "easter-eggs-2011-3",
+            "date": "2011-06-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Theatre Marquee Easter Egg",
+            "id": "25309",
+            "slug": "easter-eggs-2011-56",
+            "date": "2011-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Call of the Dead: Avenged Sevenfold Easter Egg Song",
+            "id": "25301",
+            "slug": "easter-eggs-2011-40",
+            "date": "2011-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "No Hard Feelings Achievement Guide and Easter Eggs",
+            "id": "12006",
+            "slug": "easter-eggs-2011-38",
+            "date": "2011-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Singing Turrets Easter Egg",
+            "id": "12007",
+            "slug": "easter-eggs-2011-37",
+            "date": "2011-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "P-Body Easter Egg",
+            "id": "12008",
+            "slug": "easter-eggs-2011-35",
+            "date": "2011-04-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Easter Eggs for the 360!",
+            "id": "25295",
+            "slug": "easter-eggs-2011-23",
+            "date": "2011-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Easter Eggs",
+            "id": "40677",
+            "slug": "easter-eggs-2011-13",
+            "date": "2011-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Halo Easter Eggs (of all time)",
+            "id": "12011",
+            "slug": "easter-eggs-2011-10",
+            "date": "2011-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dragon Age: Origins Easter Egg",
+            "id": "44305",
+            "slug": "easter-eggs-2011-72",
+            "date": "2011-03-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "First Strike DLC Zombie Music Easter Egg",
+            "id": "12014",
+            "slug": "easter-eggs-2011-70",
+            "date": "2011-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Talking Dolls Easter Egg",
+            "id": "44324",
+            "slug": "easter-eggs-2011-71",
+            "date": "2011-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red Ring of Doom Easter Egg",
+            "id": "12015",
+            "slug": "easter-eggs-2011-44",
+            "date": "2011-03-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "In Loving Memory Easter Egg",
+            "id": "12016",
+            "slug": "easter-eggs-2011-22",
+            "date": "2011-02-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Skate 3000 Easter Egg",
+            "id": "12017",
+            "slug": "easter-eggs-2011-73",
+            "date": "2011-02-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Creepy Troll Easter Egg",
+            "id": "12018",
+            "slug": "easter-eggs-2011-69",
+            "date": "2011-01-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Statue of Liberty Easter Egg",
+            "id": "12019",
+            "slug": "easter-eggs-2011-68",
+            "date": "2011-01-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Beach Ball Easter Egg",
+            "id": "12021",
+            "slug": "easter-eggs-2011-67",
+            "date": "2011-01-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TMNT Easter Egg",
+            "id": "12020",
+            "slug": "easter-eggs-2011-66",
+            "date": "2011-01-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "LOST Hatch Easter Egg",
+            "id": "12022",
+            "slug": "easter-eggs-2011-65",
+            "date": "2011-01-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zombie Music Easter Egg",
+            "id": "25310",
+            "slug": "easter-eggs-2011-64",
+            "date": "2011-01-10",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Thunder Gun Easter Egg",
+            "id": "12025",
+            "slug": "easter-eggs-2011-63",
+            "date": "2011-01-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Witch Easter Egg",
+            "id": "12024",
+            "slug": "easter-eggs-2011-62",
+            "date": "2011-01-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bar of Soap Easter Egg",
+            "id": "12026",
+            "slug": "easter-eggs-2011-61",
+            "date": "2011-01-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tombstone Easter Eggs",
+            "id": "12027",
+            "slug": "easter-eggs-2010-28",
+            "date": "2010-11-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Portal Easter Egg",
+            "id": "12028",
+            "slug": "easter-eggs-2010-27",
+            "date": "2010-10-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Monty Python Easter Eggs",
+            "id": "12029",
+            "slug": "easter-eggs-2010-26",
+            "date": "2010-10-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Easter Eggs (George Lucas Version)",
+            "id": "25287",
+            "slug": "easter-eggs-2010-25",
+            "date": "2010-10-21",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "\"The Sacrifice\" DLC Easter Eggs",
+            "id": "24714",
+            "slug": "easter-eggs-2010-24",
+            "date": "2010-10-06",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "How to get four banshees on \"The Package\" (Easter Egg)",
+            "id": "24713",
+            "slug": "easter-eggs-2010-23",
+            "date": "2010-09-29",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Hidden Ammo Cache Easter Egg",
+            "id": "25286",
+            "slug": "easter-eggs-2010-22",
+            "date": "2010-09-28",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Master Chief Statue Easter Egg",
+            "id": "25285",
+            "slug": "easter-eggs-2010-21",
+            "date": "2010-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Suicidal Marine Easter Egg",
+            "id": "25284",
+            "slug": "easter-eggs-2010-20",
+            "date": "2010-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Reach Racer Easter Egg",
+            "id": "25283",
+            "slug": "easter-eggs-2010-19",
+            "date": "2010-09-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Master Chief is in Reach \"Easter Egg\"",
+            "id": "24711",
+            "slug": "easter-eggs-2010-18",
+            "date": "2010-09-16",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Never Surrender, Siege of Madrigal Easter Egg",
+            "id": "25281",
+            "slug": "easter-eggs-2010-16",
+            "date": "2010-09-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Unicorn Easter Egg",
+            "id": "25280",
+            "slug": "easter-eggs-2010-15",
+            "date": "2010-08-11",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Tauren Space Marine Easter Egg",
+            "id": "25279",
+            "slug": "easter-eggs-2010-14",
+            "date": "2010-08-03",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman Easter Egg",
+            "id": "25278",
+            "slug": "easter-eggs-2010-13",
+            "date": "2010-07-28",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Rubber Ducky Easter Egg",
+            "id": "25277",
+            "slug": "easter-eggs-2010-12",
+            "date": "2010-06-21",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Sandcastle Easter Egg",
+            "id": "25276",
+            "slug": "easter-eggs-2010-11",
+            "date": "2010-06-09",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Mr. Snowman Easter Egg",
+            "id": "25275",
+            "slug": "easter-eggs-2010-10",
+            "date": "2010-05-14",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Pie Island Easter Egg",
+            "id": "25290",
+            "slug": "easter-eggs-2010-9",
+            "date": "2010-05-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mysterious Lights Easter Egg",
+            "id": "25289",
+            "slug": "easter-eggs-2010-8",
+            "date": "2010-05-12",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "I Am Legend Easter Egg",
+            "id": "25288",
+            "slug": "easter-eggs-2010-7",
+            "date": "2010-05-07",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Beached Whale Easter Egg",
+            "id": "25908",
+            "slug": "easter-eggs-2010-6",
+            "date": "2010-05-04",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Mechanical Shark Easter Egg",
+            "id": "25907",
+            "slug": "easter-eggs-2010-5",
+            "date": "2010-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "\"Baby\" Panay Moustache Easter Egg",
+            "id": "24693",
+            "slug": "easter-eggs-2010-4",
+            "date": "2010-05-03",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Lost Easter Eggs - The Hatch, Plane, Smoke Monster",
+            "id": "25906",
+            "slug": "easter-eggs-2010-3",
+            "date": "2010-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Midnight Riders Tour Bus Easter Egg",
+            "id": "25905",
+            "slug": "easter-eggs-2010-2",
+            "date": "2010-04-22",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Frank West \"Dead Rising\" Easter Egg",
+            "id": "24690",
+            "slug": "easter-eggs-2010",
+            "date": "2010-04-22",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Easter Eggs (Still Alive)",
+            "id": "25904",
+            "slug": "easter-eggs-2009-2",
+            "date": "2009-11-05",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Easter Eggs",
+            "id": "25903",
+            "slug": "easter-eggs-2009",
+            "date": "2009-07-14",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        }
+    ]
+}

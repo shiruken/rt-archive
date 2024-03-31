@@ -1,1 +1,93 @@
-{"show": "7 Wonderings", "slug": "7-wonderings", "summary": {"count": 8, "uploaded": 8, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "SACRAMENTO, CALIFORNIA", "id": "37919", "slug": "7-wonderings-season-1-8-redwoods", "date": "2020-05-20", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "MINNEAPOLIS, MINNESOTA", "id": "37918", "slug": "7-wonderings-season-1-7-minneapolis", "date": "2020-05-13", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SEOUL, SOUTH KOREA", "id": "37598", "slug": "7-wonderings-season-1-6-seoul", "date": "2020-05-06", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "MOBILE, ALABAMA", "id": "37399", "slug": "7-wonderings-season-1-5-mobile", "date": "2020-04-29", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "PAPA WESTRAY, SCOTLAND", "id": "37398", "slug": "7-wonderings-season-1-4-scotland", "date": "2020-04-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "MIDLAND, TEXAS", "id": "37397", "slug": "7-wonderings-season-1-3-midland", "date": "2020-04-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "PARIS, FRANCE", "id": "37377", "slug": "7-wonderings-season-1-2-paris", "date": "2020-04-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SEATTLE, WASHINGTON", "id": "37375", "slug": "7-wonderings-season-1-1-seattle", "date": "2020-04-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "7 Wonderings",
+    "slug": "7-wonderings",
+    "summary": {
+        "count": 8,
+        "uploaded": 8,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "SACRAMENTO, CALIFORNIA",
+            "id": "37919",
+            "slug": "7-wonderings-season-1-8-redwoods",
+            "date": "2020-05-20",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "MINNEAPOLIS, MINNESOTA",
+            "id": "37918",
+            "slug": "7-wonderings-season-1-7-minneapolis",
+            "date": "2020-05-13",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SEOUL, SOUTH KOREA",
+            "id": "37598",
+            "slug": "7-wonderings-season-1-6-seoul",
+            "date": "2020-05-06",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "MOBILE, ALABAMA",
+            "id": "37399",
+            "slug": "7-wonderings-season-1-5-mobile",
+            "date": "2020-04-29",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "PAPA WESTRAY, SCOTLAND",
+            "id": "37398",
+            "slug": "7-wonderings-season-1-4-scotland",
+            "date": "2020-04-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "MIDLAND, TEXAS",
+            "id": "37397",
+            "slug": "7-wonderings-season-1-3-midland",
+            "date": "2020-04-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "PARIS, FRANCE",
+            "id": "37377",
+            "slug": "7-wonderings-season-1-2-paris",
+            "date": "2020-04-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SEATTLE, WASHINGTON",
+            "id": "37375",
+            "slug": "7-wonderings-season-1-1-seattle",
+            "date": "2020-04-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

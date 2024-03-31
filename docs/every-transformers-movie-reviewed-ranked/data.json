@@ -1,1 +1,73 @@
-{"show": "Every Transformers Movie Reviewed & Ranked", "slug": "every-transformers-movie-reviewed-ranked", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Bumblebee", "id": "38814", "slug": "kinda-funny-in-review-kinda-funny-in-review-bumblebee-every-transformers-movie-reviewed-ranked", "date": "2020-06-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Transformers The Last Knight", "id": "38813", "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-the-last-knight-every-transformers-movie-reviewed-ranked", "date": "2020-06-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Transformers Age of Extinction", "id": "38812", "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-age-of-extinction-every-transformers-movie-reviewed-ranked", "date": "2020-06-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Transformers Dark of the Moon", "id": "38811", "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-dark-of-the-moon-every-transformers-movie-reviewed-ranked", "date": "2020-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Transformers Revenge of the Fallen", "id": "37682", "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-revenge-of-the-fallen-every-transformers-movie-reviewed-ranked", "date": "2020-04-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Transformers", "id": "37681", "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-every-transformers-movie-reviewed-ranked", "date": "2020-04-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Transformers Movie Reviewed & Ranked",
+    "slug": "every-transformers-movie-reviewed-ranked",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Bumblebee",
+            "id": "38814",
+            "slug": "kinda-funny-in-review-kinda-funny-in-review-bumblebee-every-transformers-movie-reviewed-ranked",
+            "date": "2020-06-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Transformers The Last Knight",
+            "id": "38813",
+            "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-the-last-knight-every-transformers-movie-reviewed-ranked",
+            "date": "2020-06-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Transformers Age of Extinction",
+            "id": "38812",
+            "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-age-of-extinction-every-transformers-movie-reviewed-ranked",
+            "date": "2020-06-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Transformers Dark of the Moon",
+            "id": "38811",
+            "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-dark-of-the-moon-every-transformers-movie-reviewed-ranked",
+            "date": "2020-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Transformers Revenge of the Fallen",
+            "id": "37682",
+            "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-revenge-of-the-fallen-every-transformers-movie-reviewed-ranked",
+            "date": "2020-04-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Transformers",
+            "id": "37681",
+            "slug": "kinda-funny-in-review-kinda-funny-in-review-transformers-every-transformers-movie-reviewed-ranked",
+            "date": "2020-04-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

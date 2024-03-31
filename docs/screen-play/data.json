@@ -1,1 +1,23 @@
-{"show": "Screen Play", "slug": "screen-play", "summary": {"count": 1, "uploaded": 1, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Screen Play #1", "id": "9210", "slug": "screen-play-season-1-screen-play-1", "date": "2014-08-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Screen Play",
+    "slug": "screen-play",
+    "summary": {
+        "count": 1,
+        "uploaded": 1,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Screen Play #1",
+            "id": "9210",
+            "slug": "screen-play-season-1-screen-play-1",
+            "date": "2014-08-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

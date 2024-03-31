@@ -163,7 +163,7 @@ def generate_website():
             "data": df.to_dict(orient="records"),
         }
         with open(f"docs/{show_slug}/data.json", "w") as fp:
-            json.dump(output, fp)
+            json.dump(output, fp, indent=4)
 
         query = {
             'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{df.name}"',
@@ -196,7 +196,7 @@ def generate_website():
         "data": df_shows.reset_index().to_dict(orient="records"),
     }
     with open("docs/data.json", "w") as fp:
-        json.dump(output, fp)
+        json.dump(output, fp, indent=4)
 
 
 class MyTemplate(Template):

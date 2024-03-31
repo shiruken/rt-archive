@@ -1,1 +1,73 @@
-{"show": "Sex Swing", "slug": "sex-swing", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Billy Zane's Phantom Pain - Episode 6", "id": "2322", "slug": "sex-swing-season-1-6-a86fhh", "date": "2017-03-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Welcome to the Clam Jam - Episode 5", "id": "2323", "slug": "sex-swing-season-1-5-fg76jf", "date": "2017-03-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Save The Princess - Episode 4", "id": "2324", "slug": "sex-swing-season-1-4-h8a6fj", "date": "2017-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Make Them Wet - Episode 3", "id": "2325", "slug": "sex-swing-season-1-3-ba86ab", "date": "2017-03-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Robot Rock - Episode 2", "id": "2326", "slug": "sex-swing-season-1-2-na6avl", "date": "2017-02-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Can You Dig It - Episode 1", "id": "2327", "slug": "sex-swing-season-1-1-97-abl9", "date": "2017-02-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Sex Swing",
+    "slug": "sex-swing",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Billy Zane's Phantom Pain - Episode 6",
+            "id": "2322",
+            "slug": "sex-swing-season-1-6-a86fhh",
+            "date": "2017-03-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Welcome to the Clam Jam - Episode 5",
+            "id": "2323",
+            "slug": "sex-swing-season-1-5-fg76jf",
+            "date": "2017-03-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Save The Princess - Episode 4",
+            "id": "2324",
+            "slug": "sex-swing-season-1-4-h8a6fj",
+            "date": "2017-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Make Them Wet - Episode 3",
+            "id": "2325",
+            "slug": "sex-swing-season-1-3-ba86ab",
+            "date": "2017-03-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Robot Rock - Episode 2",
+            "id": "2326",
+            "slug": "sex-swing-season-1-2-na6avl",
+            "date": "2017-02-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Can You Dig It - Episode 1",
+            "id": "2327",
+            "slug": "sex-swing-season-1-1-97-abl9",
+            "date": "2017-02-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

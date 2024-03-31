@@ -1,1 +1,23 @@
-{"show": "Halo 4: Forward Unto Dawn", "slug": "halo-4-forward-unto-dawn", "summary": {"count": 1, "uploaded": 1, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Halo 4: Forward Unto Dawn", "id": "32846", "slug": "halo-4-forward-unto-dawn-season-1-halo-4-forward-unto-dawn", "date": "2019-04-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Halo 4: Forward Unto Dawn",
+    "slug": "halo-4-forward-unto-dawn",
+    "summary": {
+        "count": 1,
+        "uploaded": 1,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Halo 4: Forward Unto Dawn",
+            "id": "32846",
+            "slug": "halo-4-forward-unto-dawn-season-1-halo-4-forward-unto-dawn",
+            "date": "2019-04-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

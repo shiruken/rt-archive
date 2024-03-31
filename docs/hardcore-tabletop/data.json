@@ -1,1 +1,203 @@
-{"show": "Hardcore Tabletop", "slug": "hardcore-tabletop", "summary": {"count": 19, "uploaded": 19, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Deadly Doubles", "id": "33372", "slug": "hardcore-tabletop-world-series-deadly-doubles", "date": "2019-05-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Carboys for Life", "id": "1353-bonus", "slug": "hardcore-tabletop-carboys-for-life", "date": "2019-05-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Crass Capitalism", "id": "33077", "slug": "hardcore-tabletop-world-series-6", "date": "2019-05-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Greenroom", "id": "1351-bonus", "slug": "hardcore-tabletop-the-greenroom", "date": "2019-05-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Against the Ropes", "id": "32979", "slug": "hardcore-tabletop-world-series-5", "date": "2019-05-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mind Games", "id": "32881", "slug": "hardcore-tabletop-world-series-4", "date": "2019-05-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Front Stabbing", "id": "32752", "slug": "hardcore-tabletop-world-series-3", "date": "2019-04-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deals and Doubles", "id": "32609", "slug": "hardcore-tabletop-world-series-2", "date": "2019-04-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Welcome to the Painstation", "id": "32485", "slug": "hardcore-tabletop-world-series-1", "date": "2019-04-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Alfredo\u2019s Life After the Big Win", "id": "1347-bonus", "slug": "hardcore-tabletop-alfredo-s-life-after-the-big-win", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hardcore Tabletop: World Series Official Trailer", "id": "1346-bonus", "slug": "hardcore-tabletop-hardcore-tabletop-world-series-official-trailer", "date": "2019-03-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Power of 7", "id": "28791", "slug": "hardcore-tabletop-season-1-monopoly-8", "date": "2018-10-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Luck's Pendulum", "id": "28728", "slug": "hardcore-tabletop-season-1-monopoly-luck-s-pendulum", "date": "2018-09-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Turn", "id": "28646", "slug": "hardcore-tabletop-season-1-monopoly-the-turn", "date": "2018-09-18", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Allies & Auctions", "id": "28557", "slug": "hardcore-tabletop-season-1-monopoly-episode-5", "date": "2018-09-11", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Player Killer", "id": "28459", "slug": "hardcore-tabletop-season-1-monopoly-the-player-killer", "date": "2018-09-04", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Roll with Caution", "id": "28399", "slug": "hardcore-tabletop-season-1-monopoly-roll-with-caution", "date": "2018-08-28", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Properties are Lava", "id": "28328", "slug": "hardcore-tabletop-2018-2", "date": "2018-08-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Box Rules & Bankrolls", "id": "28327", "slug": "hardcore-tabletop-2018-1", "date": "2018-08-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Hardcore Tabletop",
+    "slug": "hardcore-tabletop",
+    "summary": {
+        "count": 19,
+        "uploaded": 19,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Deadly Doubles",
+            "id": "33372",
+            "slug": "hardcore-tabletop-world-series-deadly-doubles",
+            "date": "2019-05-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Carboys for Life",
+            "id": "1353-bonus",
+            "slug": "hardcore-tabletop-carboys-for-life",
+            "date": "2019-05-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Crass Capitalism",
+            "id": "33077",
+            "slug": "hardcore-tabletop-world-series-6",
+            "date": "2019-05-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Greenroom",
+            "id": "1351-bonus",
+            "slug": "hardcore-tabletop-the-greenroom",
+            "date": "2019-05-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Against the Ropes",
+            "id": "32979",
+            "slug": "hardcore-tabletop-world-series-5",
+            "date": "2019-05-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mind Games",
+            "id": "32881",
+            "slug": "hardcore-tabletop-world-series-4",
+            "date": "2019-05-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Front Stabbing",
+            "id": "32752",
+            "slug": "hardcore-tabletop-world-series-3",
+            "date": "2019-04-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deals and Doubles",
+            "id": "32609",
+            "slug": "hardcore-tabletop-world-series-2",
+            "date": "2019-04-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Welcome to the Painstation",
+            "id": "32485",
+            "slug": "hardcore-tabletop-world-series-1",
+            "date": "2019-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Alfredo\u2019s Life After the Big Win",
+            "id": "1347-bonus",
+            "slug": "hardcore-tabletop-alfredo-s-life-after-the-big-win",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hardcore Tabletop: World Series Official Trailer",
+            "id": "1346-bonus",
+            "slug": "hardcore-tabletop-hardcore-tabletop-world-series-official-trailer",
+            "date": "2019-03-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Power of 7",
+            "id": "28791",
+            "slug": "hardcore-tabletop-season-1-monopoly-8",
+            "date": "2018-10-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Luck's Pendulum",
+            "id": "28728",
+            "slug": "hardcore-tabletop-season-1-monopoly-luck-s-pendulum",
+            "date": "2018-09-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Turn",
+            "id": "28646",
+            "slug": "hardcore-tabletop-season-1-monopoly-the-turn",
+            "date": "2018-09-18",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Allies & Auctions",
+            "id": "28557",
+            "slug": "hardcore-tabletop-season-1-monopoly-episode-5",
+            "date": "2018-09-11",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Player Killer",
+            "id": "28459",
+            "slug": "hardcore-tabletop-season-1-monopoly-the-player-killer",
+            "date": "2018-09-04",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Roll with Caution",
+            "id": "28399",
+            "slug": "hardcore-tabletop-season-1-monopoly-roll-with-caution",
+            "date": "2018-08-28",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Properties are Lava",
+            "id": "28328",
+            "slug": "hardcore-tabletop-2018-2",
+            "date": "2018-08-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Box Rules & Bankrolls",
+            "id": "28327",
+            "slug": "hardcore-tabletop-2018-1",
+            "date": "2018-08-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

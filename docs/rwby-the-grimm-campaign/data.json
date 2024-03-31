@@ -1,1 +1,253 @@
-{"show": "RWBY: The Grimm Campaign", "slug": "rwby-the-grimm-campaign", "summary": {"count": 24, "uploaded": 24, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "RWBY: The Grimm Campaign (RTX)", "id": "44562", "slug": "rwby-the-grimm-campaign-season-2-rtx", "date": "2021-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "When Life Gives You Lemons", "id": "43817", "slug": "rwby-the-grimm-campaign-season-2-14", "date": "2021-05-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pykes Tykes!", "id": "43730", "slug": "rwby-the-grimm-campaign-season-2-13", "date": "2021-05-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Airship Hijinks", "id": "43645", "slug": "rwby-the-grimm-campaign-season-2-12", "date": "2021-05-10", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hana't Today!", "id": "43548", "slug": "rwby-the-grimm-campaign-season-2-11", "date": "2021-05-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "In Search of Taupe", "id": "43463", "slug": "rwby-the-grimm-campaign-season-2-4-26", "date": "2021-04-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "One is the Funniest Number", "id": "43361", "slug": "rwby-the-grimm-campaign-season-2-9", "date": "2021-04-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Fast and the Furriest", "id": "43273", "slug": "rwby-the-grimm-campaign-season-2-8", "date": "2021-04-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Rebellious Reunion", "id": "43169", "slug": "rwby-the-grimm-campaign-season-2-7", "date": "2021-04-05", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "He's not Tacco, he's GiveO", "id": "43053", "slug": "rwby-the-grimm-campaign-season-2-6", "date": "2021-03-29", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Escape Tank-tics!", "id": "42924", "slug": "rwby-the-grimm-campaign-season-2-5", "date": "2021-03-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Evident Evidence", "id": "42825", "slug": "rwby-the-grimm-campaign-season-2-4", "date": "2021-03-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sewer Sanctuary!", "id": "42726", "slug": "rwby-the-grimm-campaign-season-2-3", "date": "2021-03-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Out of the Woods, Into the Fire!", "id": "42622", "slug": "rwby-the-grimm-campaign-season-2-2", "date": "2021-03-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Can You Hear Me Now?", "id": "42477", "slug": "rwby-the-grimm-campaign-season-2-10", "date": "2021-02-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Razing The Stakes", "id": "40595", "slug": "rwby-the-grimm-campaign-season-1-9", "date": "2020-10-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Secrets and Scrolls!", "id": "40523", "slug": "rwby-the-grimm-campaign-season-1-8", "date": "2020-10-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Heists and Holidays!", "id": "40443", "slug": "rwby-the-grimm-campaign-season-1-7", "date": "2020-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SHEATHE ME!", "id": "40331", "slug": "rwby-the-grimm-campaign-season-1-6", "date": "2020-09-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Rocky Start", "id": "40245", "slug": "rwby-the-grimm-campaign-season-1-5", "date": "2020-09-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Curious Cats & Friends", "id": "40145", "slug": "rwby-the-grimm-campaign-season-1-4", "date": "2020-09-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Where There's Smoke...", "id": "40032", "slug": "rwby-the-grimm-campaign-season-1-3", "date": "2020-08-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Action Time!", "id": "39931", "slug": "rwby-the-grimm-campaign-season-1-2", "date": "2020-08-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mission", "id": "39808", "slug": "rwby-the-grimm-campaign-season-1-1", "date": "2020-08-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RWBY: The Grimm Campaign",
+    "slug": "rwby-the-grimm-campaign",
+    "summary": {
+        "count": 24,
+        "uploaded": 24,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "RWBY: The Grimm Campaign (RTX)",
+            "id": "44562",
+            "slug": "rwby-the-grimm-campaign-season-2-rtx",
+            "date": "2021-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "When Life Gives You Lemons",
+            "id": "43817",
+            "slug": "rwby-the-grimm-campaign-season-2-14",
+            "date": "2021-05-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pykes Tykes!",
+            "id": "43730",
+            "slug": "rwby-the-grimm-campaign-season-2-13",
+            "date": "2021-05-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Airship Hijinks",
+            "id": "43645",
+            "slug": "rwby-the-grimm-campaign-season-2-12",
+            "date": "2021-05-10",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hana't Today!",
+            "id": "43548",
+            "slug": "rwby-the-grimm-campaign-season-2-11",
+            "date": "2021-05-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "In Search of Taupe",
+            "id": "43463",
+            "slug": "rwby-the-grimm-campaign-season-2-4-26",
+            "date": "2021-04-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "One is the Funniest Number",
+            "id": "43361",
+            "slug": "rwby-the-grimm-campaign-season-2-9",
+            "date": "2021-04-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Fast and the Furriest",
+            "id": "43273",
+            "slug": "rwby-the-grimm-campaign-season-2-8",
+            "date": "2021-04-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Rebellious Reunion",
+            "id": "43169",
+            "slug": "rwby-the-grimm-campaign-season-2-7",
+            "date": "2021-04-05",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "He's not Tacco, he's GiveO",
+            "id": "43053",
+            "slug": "rwby-the-grimm-campaign-season-2-6",
+            "date": "2021-03-29",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Escape Tank-tics!",
+            "id": "42924",
+            "slug": "rwby-the-grimm-campaign-season-2-5",
+            "date": "2021-03-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Evident Evidence",
+            "id": "42825",
+            "slug": "rwby-the-grimm-campaign-season-2-4",
+            "date": "2021-03-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sewer Sanctuary!",
+            "id": "42726",
+            "slug": "rwby-the-grimm-campaign-season-2-3",
+            "date": "2021-03-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Out of the Woods, Into the Fire!",
+            "id": "42622",
+            "slug": "rwby-the-grimm-campaign-season-2-2",
+            "date": "2021-03-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Can You Hear Me Now?",
+            "id": "42477",
+            "slug": "rwby-the-grimm-campaign-season-2-10",
+            "date": "2021-02-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Razing The Stakes",
+            "id": "40595",
+            "slug": "rwby-the-grimm-campaign-season-1-9",
+            "date": "2020-10-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Secrets and Scrolls!",
+            "id": "40523",
+            "slug": "rwby-the-grimm-campaign-season-1-8",
+            "date": "2020-10-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Heists and Holidays!",
+            "id": "40443",
+            "slug": "rwby-the-grimm-campaign-season-1-7",
+            "date": "2020-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SHEATHE ME!",
+            "id": "40331",
+            "slug": "rwby-the-grimm-campaign-season-1-6",
+            "date": "2020-09-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Rocky Start",
+            "id": "40245",
+            "slug": "rwby-the-grimm-campaign-season-1-5",
+            "date": "2020-09-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Curious Cats & Friends",
+            "id": "40145",
+            "slug": "rwby-the-grimm-campaign-season-1-4",
+            "date": "2020-09-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Where There's Smoke...",
+            "id": "40032",
+            "slug": "rwby-the-grimm-campaign-season-1-3",
+            "date": "2020-08-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Action Time!",
+            "id": "39931",
+            "slug": "rwby-the-grimm-campaign-season-1-2",
+            "date": "2020-08-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mission",
+            "id": "39808",
+            "slug": "rwby-the-grimm-campaign-season-1-1",
+            "date": "2020-08-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

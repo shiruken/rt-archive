@@ -1,1 +1,173 @@
-{"show": "Overwatch Songs", "slug": "overwatch-songs", "summary": {"count": 16, "uploaded": 16, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Overwatch 2 Rap - \"My Watch Ain't Over Yet\"", "id": "49508", "slug": "overwatch-songs-season-1-overwatch-2-rap-my-watch-ain-t-over-yet", "date": "2022-10-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "D.Va Rap Song - \"Play to Win\"", "id": "42813", "slug": "d-va-rap-song", "date": "2021-03-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ashe and McCree Rap - \"The Deadlocks\"", "id": "30170", "slug": "overwatch-songs-season-1-ashe-and-mccree-rap-the-deadlocks", "date": "2019-01-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "All Overwatch Hero Raps by JT Music", "id": "29817", "slug": "overwatch-songs-season-1-all-overwatch-hero-raps-by-jt-music", "date": "2018-12-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Overwatch Hero Rap #4 - \"Symbiotic\"", "id": "27435", "slug": "overwatch-songs-season-1-overwatch-hero-rap-4-symbiotic", "date": "2018-06-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hanzo vs Genji Rap Battle (Animated)", "id": "27284", "slug": "overwatch-songs-season-1-hanzo-vs-genji-rap-battle-animated", "date": "2018-04-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Overwatch Hero Rap #3 - \"One of a Kind\"", "id": "26143", "slug": "overwatch-songs-season-1-overwatch-hero-rap-3-one-of-a-kind", "date": "2018-03-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mei Song Parody - \"It's Gonna Be Mei\"", "id": "24316", "slug": "overwatch-songs-season-1-mei-song-parody-it-s-gonna-be-mei", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Widowmaker Song", "id": "24315", "slug": "overwatch-songs-season-1-widowmaker-song", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Junkrat and Roadhog Rap", "id": "24314", "slug": "overwatch-songs-season-1-the-junkrat-and-roadhog-rap", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Overwatch Christmas Song - \"All I Want For Christmas is Loot\"", "id": "24313", "slug": "overwatch-songs-season-1-overwatch-christmas-song-all-i-want-for-christmas-is-loot", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Soldier 76 vs Reaper Rap Battle", "id": "24312", "slug": "overwatch-songs-season-1-soldier-76-vs-reaper-rap-battle", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Bastion Song", "id": "24310", "slug": "overwatch-songs-season-1-the-bastion-song", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Overwatch Hero Rap #1 - \"A Hero Never Dies\"", "id": "24079", "slug": "overwatch-songs-season-1-overwatch-hero-rap-1-a-hero-never-dies", "date": "2018-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hanzo vs Genji Rap Battle", "id": "24078", "slug": "overwatch-songs-season-1-hanzo-vs-genji-rap-battle", "date": "2018-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Overwatch Hero Rap #2 - \"What a Hero's Made Of\"", "id": "24077", "slug": "overwatch-songs-season-1-overwatch-hero-rap-2-what-a-hero-s-made-of", "date": "2018-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Overwatch Songs",
+    "slug": "overwatch-songs",
+    "summary": {
+        "count": 16,
+        "uploaded": 16,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Overwatch 2 Rap - \"My Watch Ain't Over Yet\"",
+            "id": "49508",
+            "slug": "overwatch-songs-season-1-overwatch-2-rap-my-watch-ain-t-over-yet",
+            "date": "2022-10-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "D.Va Rap Song - \"Play to Win\"",
+            "id": "42813",
+            "slug": "d-va-rap-song",
+            "date": "2021-03-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ashe and McCree Rap - \"The Deadlocks\"",
+            "id": "30170",
+            "slug": "overwatch-songs-season-1-ashe-and-mccree-rap-the-deadlocks",
+            "date": "2019-01-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "All Overwatch Hero Raps by JT Music",
+            "id": "29817",
+            "slug": "overwatch-songs-season-1-all-overwatch-hero-raps-by-jt-music",
+            "date": "2018-12-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Overwatch Hero Rap #4 - \"Symbiotic\"",
+            "id": "27435",
+            "slug": "overwatch-songs-season-1-overwatch-hero-rap-4-symbiotic",
+            "date": "2018-06-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hanzo vs Genji Rap Battle (Animated)",
+            "id": "27284",
+            "slug": "overwatch-songs-season-1-hanzo-vs-genji-rap-battle-animated",
+            "date": "2018-04-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Overwatch Hero Rap #3 - \"One of a Kind\"",
+            "id": "26143",
+            "slug": "overwatch-songs-season-1-overwatch-hero-rap-3-one-of-a-kind",
+            "date": "2018-03-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mei Song Parody - \"It's Gonna Be Mei\"",
+            "id": "24316",
+            "slug": "overwatch-songs-season-1-mei-song-parody-it-s-gonna-be-mei",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Widowmaker Song",
+            "id": "24315",
+            "slug": "overwatch-songs-season-1-widowmaker-song",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Junkrat and Roadhog Rap",
+            "id": "24314",
+            "slug": "overwatch-songs-season-1-the-junkrat-and-roadhog-rap",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Overwatch Christmas Song - \"All I Want For Christmas is Loot\"",
+            "id": "24313",
+            "slug": "overwatch-songs-season-1-overwatch-christmas-song-all-i-want-for-christmas-is-loot",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Soldier 76 vs Reaper Rap Battle",
+            "id": "24312",
+            "slug": "overwatch-songs-season-1-soldier-76-vs-reaper-rap-battle",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Bastion Song",
+            "id": "24310",
+            "slug": "overwatch-songs-season-1-the-bastion-song",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Overwatch Hero Rap #1 - \"A Hero Never Dies\"",
+            "id": "24079",
+            "slug": "overwatch-songs-season-1-overwatch-hero-rap-1-a-hero-never-dies",
+            "date": "2018-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hanzo vs Genji Rap Battle",
+            "id": "24078",
+            "slug": "overwatch-songs-season-1-hanzo-vs-genji-rap-battle",
+            "date": "2018-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Overwatch Hero Rap #2 - \"What a Hero's Made Of\"",
+            "id": "24077",
+            "slug": "overwatch-songs-season-1-overwatch-hero-rap-2-what-a-hero-s-made-of",
+            "date": "2018-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

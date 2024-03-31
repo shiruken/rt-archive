@@ -1,1 +1,63 @@
-{"show": "Every Conjuring Cinematic Universe Movie Reviewed and Ranked", "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked", "summary": {"count": 5, "uploaded": 5, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Conjuring The Devil Made Me Do It", "id": "44286", "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-the-conjuring-the-devil-made-me-do-it", "date": "2021-06-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Annabelle Creation", "id": "40957", "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-annabelle-creation-every-conjuring-cinematic-universe-movie-reviewed-and-ranked", "date": "2020-10-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Conjuring 2", "id": "40956", "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-the-conjuring-2-every-conjuring-cinematic-universe-movie-reviewed-and-ranked", "date": "2020-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Annabelle", "id": "40552", "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-annabelle", "date": "2020-10-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Conjuring", "id": "40551", "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-the-conjuring", "date": "2020-10-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Conjuring Cinematic Universe Movie Reviewed and Ranked",
+    "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked",
+    "summary": {
+        "count": 5,
+        "uploaded": 5,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Conjuring The Devil Made Me Do It",
+            "id": "44286",
+            "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-the-conjuring-the-devil-made-me-do-it",
+            "date": "2021-06-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Annabelle Creation",
+            "id": "40957",
+            "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-annabelle-creation-every-conjuring-cinematic-universe-movie-reviewed-and-ranked",
+            "date": "2020-10-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Conjuring 2",
+            "id": "40956",
+            "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-the-conjuring-2-every-conjuring-cinematic-universe-movie-reviewed-and-ranked",
+            "date": "2020-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Annabelle",
+            "id": "40552",
+            "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-annabelle",
+            "date": "2020-10-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Conjuring",
+            "id": "40551",
+            "slug": "every-conjuring-cinematic-universe-movie-reviewed-and-ranked-every-conjuring-cinematic-universe-movie-reviewed-and-ranked-the-conjuring",
+            "date": "2020-10-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

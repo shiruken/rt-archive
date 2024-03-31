@@ -1,1 +1,73 @@
-{"show": "Red Web Animated", "slug": "red-web-animated", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "This Strange Survey is Asking for Your Dreams", "id": "48615", "slug": "red-web-animated-2022-6", "date": "2022-06-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Secret Fantasy Book That Leads to Real Life Treasure", "id": "48471", "slug": "red-web-animated-2022-5", "date": "2022-06-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Alien Encounters w/ Betty & Barney Hill", "id": "48300", "slug": "red-web-animated-2022-4", "date": "2022-06-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Reddit Uncovers Govt. Assassination on Lake City Quiet Pills Website", "id": "48240", "slug": "red-web-animated-2022-3", "date": "2022-05-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who is The Watcher?", "id": "48066", "slug": "red-web-animated-2022-2", "date": "2022-05-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mystery of The Mothman", "id": "47945", "slug": "red-web-animated-2022-1", "date": "2022-04-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Red Web Animated",
+    "slug": "red-web-animated",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "This Strange Survey is Asking for Your Dreams",
+            "id": "48615",
+            "slug": "red-web-animated-2022-6",
+            "date": "2022-06-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Secret Fantasy Book That Leads to Real Life Treasure",
+            "id": "48471",
+            "slug": "red-web-animated-2022-5",
+            "date": "2022-06-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Alien Encounters w/ Betty & Barney Hill",
+            "id": "48300",
+            "slug": "red-web-animated-2022-4",
+            "date": "2022-06-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Reddit Uncovers Govt. Assassination on Lake City Quiet Pills Website",
+            "id": "48240",
+            "slug": "red-web-animated-2022-3",
+            "date": "2022-05-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who is The Watcher?",
+            "id": "48066",
+            "slug": "red-web-animated-2022-2",
+            "date": "2022-05-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mystery of The Mothman",
+            "id": "47945",
+            "slug": "red-web-animated-2022-1",
+            "date": "2022-04-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

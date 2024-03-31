@@ -1,1 +1,233 @@
-{"show": "A Simple Walk", "slug": "a-simple-walk", "summary": {"count": 22, "uploaded": 22, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "A Simple Walk II: Finale Livestream", "id": "51831", "slug": "a-simple-walk-season-2-commentary-livestream", "date": "2023-10-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk - Our Last Day", "id": "51789", "slug": "a-simple-walk-season-2-a-simple-talk-our-last-day", "date": "2023-10-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk - Kerry Gets Caught", "id": "51788", "slug": "a-simple-walk-season-2-a-simple-talk-kerry-gets-caught", "date": "2023-10-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk II - The Lonely Mountain", "id": "51787", "slug": "a-simple-walk-season-2-finale", "date": "2023-10-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk - The Return of the Tent Talk", "id": "51739", "slug": "a-simple-walk-season-2-the-return-of-tent-talk", "date": "2023-10-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk - Dodging Cars and Cows", "id": "51738", "slug": "a-simple-walk-season-2-dodging-cars-and-cows", "date": "2023-10-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk II - 100 Miles in 3 Days (04)", "id": "51737", "slug": "a-simple-walk-season-2-100-miles-in-3-days", "date": "2023-10-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk - Tent Talk & Monkeys", "id": "51684", "slug": "a-simple-walk-season-2-podcast-tent-talk-and-monkeys", "date": "2023-10-05", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk II - We Are In Trouble (03)", "id": "51683", "slug": "a-simple-walk-season-2-we-are-in-trouble", "date": "2023-10-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk Podcast - Blissfully Ignorant Hobbits Getting Lost (103)", "id": "51638", "slug": "a-simple-walk-season-2-a-simple-talk-blissfully-ignorant-hobbits-getting-lost", "date": "2023-09-28", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk Podcast - Chris Messed Up (102)", "id": "51637", "slug": "a-simple-walk-season-2-a-simple-talk-chris-messed-up", "date": "2023-09-28", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk II - Barrel Riding & Lost in the Woods (02)", "id": "51636", "slug": "a-simple-walk-season-2-barrel-riding-and-lost-in-the-woods", "date": "2023-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Talk Podcast - We Missed Our Plane?! (101)", "id": "51597", "slug": "a-simple-walk-season-2-a-simple-talk-we-brought-explosives-on-a-plane", "date": "2023-09-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk II -  An Unexpected Prequel (01)", "id": "51595", "slug": "a-simple-walk-season-2-a-simple-walk-ii-an-unexpected-prequel", "date": "2023-09-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk II | Official Trailer", "id": "51525", "slug": "a-simple-walk-season-2-simple-walk-trailer", "date": "2023-09-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX 2013 Panel Highlights", "id": "25-bonus", "slug": "a-simple-walk-bonus-2", "date": "2013-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk Into Mordor Trailer", "id": "102-bonus", "slug": "a-simple-walk-bonus-1", "date": "2013-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ring is Found! - Episode 5", "id": "15960", "slug": "a-simple-walk-a-simple-walk-episode-05", "date": "2013-01-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mount Doom - Episode 4", "id": "15961", "slug": "a-simple-walk-a-simple-walk-episode-04", "date": "2012-12-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blisters & Balrogs! - Episode 3", "id": "15962", "slug": "a-simple-walk-a-simple-walk-episode-03", "date": "2012-12-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rivendell to Moria! - Episode 2", "id": "18131", "slug": "a-simple-walk-a-simple-walk-episode-02", "date": "2012-12-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Simple Walk Into Mordor - Episode 1", "id": "18139", "slug": "a-simple-walk-a-simple-walk-episode-01", "date": "2012-12-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "A Simple Walk",
+    "slug": "a-simple-walk",
+    "summary": {
+        "count": 22,
+        "uploaded": 22,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "A Simple Walk II: Finale Livestream",
+            "id": "51831",
+            "slug": "a-simple-walk-season-2-commentary-livestream",
+            "date": "2023-10-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk - Our Last Day",
+            "id": "51789",
+            "slug": "a-simple-walk-season-2-a-simple-talk-our-last-day",
+            "date": "2023-10-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk - Kerry Gets Caught",
+            "id": "51788",
+            "slug": "a-simple-walk-season-2-a-simple-talk-kerry-gets-caught",
+            "date": "2023-10-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk II - The Lonely Mountain",
+            "id": "51787",
+            "slug": "a-simple-walk-season-2-finale",
+            "date": "2023-10-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk - The Return of the Tent Talk",
+            "id": "51739",
+            "slug": "a-simple-walk-season-2-the-return-of-tent-talk",
+            "date": "2023-10-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk - Dodging Cars and Cows",
+            "id": "51738",
+            "slug": "a-simple-walk-season-2-dodging-cars-and-cows",
+            "date": "2023-10-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk II - 100 Miles in 3 Days (04)",
+            "id": "51737",
+            "slug": "a-simple-walk-season-2-100-miles-in-3-days",
+            "date": "2023-10-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk - Tent Talk & Monkeys",
+            "id": "51684",
+            "slug": "a-simple-walk-season-2-podcast-tent-talk-and-monkeys",
+            "date": "2023-10-05",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk II - We Are In Trouble (03)",
+            "id": "51683",
+            "slug": "a-simple-walk-season-2-we-are-in-trouble",
+            "date": "2023-10-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk Podcast - Blissfully Ignorant Hobbits Getting Lost (103)",
+            "id": "51638",
+            "slug": "a-simple-walk-season-2-a-simple-talk-blissfully-ignorant-hobbits-getting-lost",
+            "date": "2023-09-28",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk Podcast - Chris Messed Up (102)",
+            "id": "51637",
+            "slug": "a-simple-walk-season-2-a-simple-talk-chris-messed-up",
+            "date": "2023-09-28",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk II - Barrel Riding & Lost in the Woods (02)",
+            "id": "51636",
+            "slug": "a-simple-walk-season-2-barrel-riding-and-lost-in-the-woods",
+            "date": "2023-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Talk Podcast - We Missed Our Plane?! (101)",
+            "id": "51597",
+            "slug": "a-simple-walk-season-2-a-simple-talk-we-brought-explosives-on-a-plane",
+            "date": "2023-09-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk II -  An Unexpected Prequel (01)",
+            "id": "51595",
+            "slug": "a-simple-walk-season-2-a-simple-walk-ii-an-unexpected-prequel",
+            "date": "2023-09-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk II | Official Trailer",
+            "id": "51525",
+            "slug": "a-simple-walk-season-2-simple-walk-trailer",
+            "date": "2023-09-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX 2013 Panel Highlights",
+            "id": "25-bonus",
+            "slug": "a-simple-walk-bonus-2",
+            "date": "2013-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk Into Mordor Trailer",
+            "id": "102-bonus",
+            "slug": "a-simple-walk-bonus-1",
+            "date": "2013-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ring is Found! - Episode 5",
+            "id": "15960",
+            "slug": "a-simple-walk-a-simple-walk-episode-05",
+            "date": "2013-01-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mount Doom - Episode 4",
+            "id": "15961",
+            "slug": "a-simple-walk-a-simple-walk-episode-04",
+            "date": "2012-12-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blisters & Balrogs! - Episode 3",
+            "id": "15962",
+            "slug": "a-simple-walk-a-simple-walk-episode-03",
+            "date": "2012-12-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rivendell to Moria! - Episode 2",
+            "id": "18131",
+            "slug": "a-simple-walk-a-simple-walk-episode-02",
+            "date": "2012-12-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Simple Walk Into Mordor - Episode 1",
+            "id": "18139",
+            "slug": "a-simple-walk-a-simple-walk-episode-01",
+            "date": "2012-12-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

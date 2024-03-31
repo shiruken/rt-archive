@@ -1,1 +1,93 @@
-{"show": "In Review", "slug": "in-review", "summary": {"count": 8, "uploaded": 8, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Adam Gets Serious About DOOM Eternal - Review", "id": "37652", "slug": "in-review-2020-srsdoom", "date": "2020-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BEST ROCKSTAR GAME EVER? - In Review: Red Dead Redemption 2", "id": "29136", "slug": "in-review-2018-inrevreddead", "date": "2018-10-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A GREAT SWITCH SHOOTER? - Splatoon 2 In Review", "id": "7422", "slug": "in-review-2017-a-great-switch-f-p-s-splatoon-2-in-review", "date": "2017-07-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mirror's Edge Catalyst", "id": "7423", "slug": "in-review-2016-mirror-s-edge-catalyst-in-review", "date": "2016-06-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tom Clancy's The Division In Review", "id": "7425", "slug": "in-review-2015-tom-clancy-s-the-division-in-review", "date": "2016-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Battlefront In Review - The Know", "id": "7424", "slug": "in-review-2015-star-wars-battlefront-in-review-the-know", "date": "2015-12-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout 4 In Review - The Know", "id": "7426", "slug": "in-review-2015-fallout-4-in-review-the-know-2", "date": "2015-11-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo 5 In Review", "id": "7427", "slug": "in-review-2015-halo-5-in-review", "date": "2015-11-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "In Review",
+    "slug": "in-review",
+    "summary": {
+        "count": 8,
+        "uploaded": 8,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Adam Gets Serious About DOOM Eternal - Review",
+            "id": "37652",
+            "slug": "in-review-2020-srsdoom",
+            "date": "2020-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BEST ROCKSTAR GAME EVER? - In Review: Red Dead Redemption 2",
+            "id": "29136",
+            "slug": "in-review-2018-inrevreddead",
+            "date": "2018-10-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A GREAT SWITCH SHOOTER? - Splatoon 2 In Review",
+            "id": "7422",
+            "slug": "in-review-2017-a-great-switch-f-p-s-splatoon-2-in-review",
+            "date": "2017-07-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mirror's Edge Catalyst",
+            "id": "7423",
+            "slug": "in-review-2016-mirror-s-edge-catalyst-in-review",
+            "date": "2016-06-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tom Clancy's The Division In Review",
+            "id": "7425",
+            "slug": "in-review-2015-tom-clancy-s-the-division-in-review",
+            "date": "2016-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Battlefront In Review - The Know",
+            "id": "7424",
+            "slug": "in-review-2015-star-wars-battlefront-in-review-the-know",
+            "date": "2015-12-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout 4 In Review - The Know",
+            "id": "7426",
+            "slug": "in-review-2015-fallout-4-in-review-the-know-2",
+            "date": "2015-11-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo 5 In Review",
+            "id": "7427",
+            "slug": "in-review-2015-halo-5-in-review",
+            "date": "2015-11-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

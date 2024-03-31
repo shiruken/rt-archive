@@ -1,1 +1,103 @@
-{"show": "Ten Little Roosters", "slug": "ten-little-roosters", "summary": {"count": 9, "uploaded": 9, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Eleven Little Roosters Teaser Trailer", "id": "1356-bonus", "slug": "ten-little-roosters-season-1-the-eleven-little-roosters-teaser-trailer", "date": "2015-08-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Two & One - Episode 8", "id": "14763", "slug": "ten-little-roosters-season-1-episode-8", "date": "2014-12-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Three - Episode 7", "id": "14765", "slug": "ten-little-roosters-season-1-episode-7", "date": "2014-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Four - Episode 6", "id": "14766", "slug": "ten-little-roosters-season-1-episode-6", "date": "2014-12-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Five - Episode 5", "id": "14769", "slug": "ten-little-roosters-season-1-episode-5", "date": "2014-12-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Six - Episode 4", "id": "14767", "slug": "ten-little-roosters-season-1-episode-4", "date": "2014-11-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Seven - Episode 3", "id": "14770", "slug": "ten-little-roosters-season-1-episode-3", "date": "2014-11-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Eight - Episode 2", "id": "14771", "slug": "ten-little-roosters-season-1-episode-2", "date": "2014-11-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "And Then There Were Nine - Episode 1", "id": "14777", "slug": "ten-little-roosters-season-1-episode-1", "date": "2014-11-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Ten Little Roosters",
+    "slug": "ten-little-roosters",
+    "summary": {
+        "count": 9,
+        "uploaded": 9,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Eleven Little Roosters Teaser Trailer",
+            "id": "1356-bonus",
+            "slug": "ten-little-roosters-season-1-the-eleven-little-roosters-teaser-trailer",
+            "date": "2015-08-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Two & One - Episode 8",
+            "id": "14763",
+            "slug": "ten-little-roosters-season-1-episode-8",
+            "date": "2014-12-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Three - Episode 7",
+            "id": "14765",
+            "slug": "ten-little-roosters-season-1-episode-7",
+            "date": "2014-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Four - Episode 6",
+            "id": "14766",
+            "slug": "ten-little-roosters-season-1-episode-6",
+            "date": "2014-12-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Five - Episode 5",
+            "id": "14769",
+            "slug": "ten-little-roosters-season-1-episode-5",
+            "date": "2014-12-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Six - Episode 4",
+            "id": "14767",
+            "slug": "ten-little-roosters-season-1-episode-4",
+            "date": "2014-11-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Seven - Episode 3",
+            "id": "14770",
+            "slug": "ten-little-roosters-season-1-episode-3",
+            "date": "2014-11-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Eight - Episode 2",
+            "id": "14771",
+            "slug": "ten-little-roosters-season-1-episode-2",
+            "date": "2014-11-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "And Then There Were Nine - Episode 1",
+            "id": "14777",
+            "slug": "ten-little-roosters-season-1-episode-1",
+            "date": "2014-11-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

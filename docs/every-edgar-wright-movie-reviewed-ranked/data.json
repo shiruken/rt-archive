@@ -1,1 +1,73 @@
-{"show": "Every Edgar Wright Movie Reviewed & Ranked", "slug": "every-edgar-wright-movie-reviewed-ranked", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Last Night In Soho", "id": "45724", "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-last-night-in-soho", "date": "2021-10-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Baby Driver", "id": "42716", "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-baby-driver", "date": "2021-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The World's End", "id": "42715", "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-the-world-s-end", "date": "2021-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Scott Pilgrim vs. The World", "id": "42714", "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-scott-pilgrim-vs-the-world", "date": "2021-03-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hot Fuzz", "id": "42713", "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-hot-fuzz", "date": "2021-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shaun of the Dead", "id": "42712", "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-shaun-of-the-dead", "date": "2021-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Edgar Wright Movie Reviewed & Ranked",
+    "slug": "every-edgar-wright-movie-reviewed-ranked",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Last Night In Soho",
+            "id": "45724",
+            "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-last-night-in-soho",
+            "date": "2021-10-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Baby Driver",
+            "id": "42716",
+            "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-baby-driver",
+            "date": "2021-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The World's End",
+            "id": "42715",
+            "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-the-world-s-end",
+            "date": "2021-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Scott Pilgrim vs. The World",
+            "id": "42714",
+            "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-scott-pilgrim-vs-the-world",
+            "date": "2021-03-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hot Fuzz",
+            "id": "42713",
+            "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-hot-fuzz",
+            "date": "2021-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shaun of the Dead",
+            "id": "42712",
+            "slug": "every-edgar-wright-movie-reviewed-ranked-every-edgar-wright-movie-reviewed-ranked-shaun-of-the-dead",
+            "date": "2021-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

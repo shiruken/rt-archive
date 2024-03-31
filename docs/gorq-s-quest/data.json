@@ -1,1 +1,53 @@
-{"show": "GORQ's Quest", "slug": "gorq-s-quest", "summary": {"count": 4, "uploaded": 4, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Skyscraper-Sized Dads", "id": "29397", "slug": "gorq-s-quest-2018-skyscraper-sized-dads", "date": "2018-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Drunk Horse Racing", "id": "29385", "slug": "gorq-s-quest-2018-drunk-horse-racing", "date": "2018-11-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Glamorous Life of Gus's Bitmoji", "id": "29359", "slug": "gorq-s-quest-2018-the-glamorous-life-of-gus-s-bitmoji", "date": "2018-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Dark Side of Blaine", "id": "29344", "slug": "gorq-s-quest-2018-1", "date": "2018-11-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "GORQ's Quest",
+    "slug": "gorq-s-quest",
+    "summary": {
+        "count": 4,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Skyscraper-Sized Dads",
+            "id": "29397",
+            "slug": "gorq-s-quest-2018-skyscraper-sized-dads",
+            "date": "2018-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Drunk Horse Racing",
+            "id": "29385",
+            "slug": "gorq-s-quest-2018-drunk-horse-racing",
+            "date": "2018-11-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Glamorous Life of Gus's Bitmoji",
+            "id": "29359",
+            "slug": "gorq-s-quest-2018-the-glamorous-life-of-gus-s-bitmoji",
+            "date": "2018-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Dark Side of Blaine",
+            "id": "29344",
+            "slug": "gorq-s-quest-2018-1",
+            "date": "2018-11-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

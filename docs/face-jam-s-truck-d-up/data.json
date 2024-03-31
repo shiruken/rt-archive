@@ -1,1 +1,83 @@
-{"show": "Face Jam's Truck'd Up!", "slug": "face-jam-s-truck-d-up", "summary": {"count": 7, "uploaded": 7, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Who Has The Special Sauce", "id": "50030", "slug": "face-jam-s-truck-d-up-season-1-who-has-the-special-sauce", "date": "2022-12-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Spicy McNuggets Must Flow", "id": "49971", "slug": "face-jam-s-truck-d-up-season-1-episode-5-the-spice-must-flow", "date": "2022-12-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "An Absolute Fast Food DISASTER.", "id": "49921", "slug": "face-jam-s-truck-d-up-season-1-truck-d-up-an-absolute-fast-food-disaster", "date": "2022-12-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Orange Chicken Run", "id": "49877", "slug": "face-jam-s-truck-d-up-season-1-truck-d-up-episode-3", "date": "2022-12-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tears & Tots", "id": "49825", "slug": "face-jam-s-truck-d-up-season-1-tears-tots", "date": "2022-11-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pub Burgers & Sabotage", "id": "49784", "slug": "face-jam-s-truck-d-up-season-1-pub-burgers-sabotage", "date": "2022-11-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Face Jam\u2019s Truck\u2019d Up! | Official Trailer", "id": "1513-bonus", "slug": "face-jam-s-truck-d-up-face-jam-s-truck-d-up-official-trailer", "date": "2022-11-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Face Jam's Truck'd Up!",
+    "slug": "face-jam-s-truck-d-up",
+    "summary": {
+        "count": 7,
+        "uploaded": 7,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Who Has The Special Sauce",
+            "id": "50030",
+            "slug": "face-jam-s-truck-d-up-season-1-who-has-the-special-sauce",
+            "date": "2022-12-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Spicy McNuggets Must Flow",
+            "id": "49971",
+            "slug": "face-jam-s-truck-d-up-season-1-episode-5-the-spice-must-flow",
+            "date": "2022-12-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "An Absolute Fast Food DISASTER.",
+            "id": "49921",
+            "slug": "face-jam-s-truck-d-up-season-1-truck-d-up-an-absolute-fast-food-disaster",
+            "date": "2022-12-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Orange Chicken Run",
+            "id": "49877",
+            "slug": "face-jam-s-truck-d-up-season-1-truck-d-up-episode-3",
+            "date": "2022-12-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tears & Tots",
+            "id": "49825",
+            "slug": "face-jam-s-truck-d-up-season-1-tears-tots",
+            "date": "2022-11-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pub Burgers & Sabotage",
+            "id": "49784",
+            "slug": "face-jam-s-truck-d-up-season-1-pub-burgers-sabotage",
+            "date": "2022-11-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Face Jam\u2019s Truck\u2019d Up! | Official Trailer",
+            "id": "1513-bonus",
+            "slug": "face-jam-s-truck-d-up-face-jam-s-truck-d-up-official-trailer",
+            "date": "2022-11-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

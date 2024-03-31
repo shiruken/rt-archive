@@ -1,1 +1,173 @@
-{"show": "Five Nights at Freddy's Songs", "slug": "five-nights-at-freddy-s-songs", "summary": {"count": 16, "uploaded": 16, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "\"Five Long Nights\" Remastered - FNAF Rap", "id": "51706", "slug": "five-nights-at-freddy-s-songs-season-1-five-long-nights-remastered-fnaf-rap", "date": "2023-10-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "\"Lovely Things\" - FNAF Ruin Rap", "id": "51366", "slug": "five-nights-at-freddy-s-songs-season-1-lovely-things-fnaf-ruin-rap", "date": "2023-08-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "\"Back for Another Bite\"", "id": "51230", "slug": "five-nights-at-freddy-s-songs-season-1-back-for-another-bite", "date": "2023-07-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Join Us For A Bite (Remastered)", "id": "49321", "slug": "five-nights-at-freddy-s-songs-season-1-join-us-for-a-bite-remastered", "date": "2022-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FNAF Security Breach Rap - \"The Party Isn't Over\"", "id": "46619", "slug": "fnaf-security-breach-rap", "date": "2022-01-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FNAF 6 Song - \"Now Hiring at Freddy's\"", "id": "24341", "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-6-song-now-hiring-at-freddy-s", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Joy of Creation Song and FNAF Remix", "id": "24311", "slug": "five-nights-at-freddy-s-songs-season-1-the-joy-of-creation-song-and-fnaf-remix", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Merry FNAF Christmas Song", "id": "24309", "slug": "five-nights-at-freddy-s-songs-season-1-merry-fnaf-christmas-song", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FNAF Sister Location Rap - \"You Belong Here\"", "id": "24308", "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-sister-location-rap-you-belong-here", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FNAF Sister Location Song - \"Join Us For A Bite\"", "id": "24307", "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-sister-location-song-join-us-for-a-bite", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FNAF World Rap - \"Join the Party\"", "id": "24306", "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-world-rap-join-the-party", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's 4 Rap - \"We Don't Bite\"", "id": "24305", "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-4-rap-we-don-t-bite", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's 2 Rap - \"Five More Nights\"", "id": "24304", "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-2-rap-five-more-nights", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights At Freddy's Rap Battle (Security Guard vs Animatronics)", "id": "24302", "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-rap-battle-security-guard-vs-animatronics", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's 3 Rap - \"Another Five Nights\"", "id": "24301", "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-3-rap-another-five-nights", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's Rap - \"Five Long Nights\"", "id": "24300", "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-rap-five-long-nights", "date": "2018-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Five Nights at Freddy's Songs",
+    "slug": "five-nights-at-freddy-s-songs",
+    "summary": {
+        "count": 16,
+        "uploaded": 16,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "\"Five Long Nights\" Remastered - FNAF Rap",
+            "id": "51706",
+            "slug": "five-nights-at-freddy-s-songs-season-1-five-long-nights-remastered-fnaf-rap",
+            "date": "2023-10-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "\"Lovely Things\" - FNAF Ruin Rap",
+            "id": "51366",
+            "slug": "five-nights-at-freddy-s-songs-season-1-lovely-things-fnaf-ruin-rap",
+            "date": "2023-08-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "\"Back for Another Bite\"",
+            "id": "51230",
+            "slug": "five-nights-at-freddy-s-songs-season-1-back-for-another-bite",
+            "date": "2023-07-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Join Us For A Bite (Remastered)",
+            "id": "49321",
+            "slug": "five-nights-at-freddy-s-songs-season-1-join-us-for-a-bite-remastered",
+            "date": "2022-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FNAF Security Breach Rap - \"The Party Isn't Over\"",
+            "id": "46619",
+            "slug": "fnaf-security-breach-rap",
+            "date": "2022-01-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FNAF 6 Song - \"Now Hiring at Freddy's\"",
+            "id": "24341",
+            "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-6-song-now-hiring-at-freddy-s",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Joy of Creation Song and FNAF Remix",
+            "id": "24311",
+            "slug": "five-nights-at-freddy-s-songs-season-1-the-joy-of-creation-song-and-fnaf-remix",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Merry FNAF Christmas Song",
+            "id": "24309",
+            "slug": "five-nights-at-freddy-s-songs-season-1-merry-fnaf-christmas-song",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FNAF Sister Location Rap - \"You Belong Here\"",
+            "id": "24308",
+            "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-sister-location-rap-you-belong-here",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FNAF Sister Location Song - \"Join Us For A Bite\"",
+            "id": "24307",
+            "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-sister-location-song-join-us-for-a-bite",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FNAF World Rap - \"Join the Party\"",
+            "id": "24306",
+            "slug": "five-nights-at-freddy-s-songs-season-1-fnaf-world-rap-join-the-party",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's 4 Rap - \"We Don't Bite\"",
+            "id": "24305",
+            "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-4-rap-we-don-t-bite",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's 2 Rap - \"Five More Nights\"",
+            "id": "24304",
+            "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-2-rap-five-more-nights",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights At Freddy's Rap Battle (Security Guard vs Animatronics)",
+            "id": "24302",
+            "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-rap-battle-security-guard-vs-animatronics",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's 3 Rap - \"Another Five Nights\"",
+            "id": "24301",
+            "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-3-rap-another-five-nights",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's Rap - \"Five Long Nights\"",
+            "id": "24300",
+            "slug": "five-nights-at-freddy-s-songs-season-1-five-nights-at-freddy-s-rap-five-long-nights",
+            "date": "2018-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

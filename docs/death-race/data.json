@@ -1,1 +1,53 @@
-{"show": "Death Race", "slug": "death-race", "summary": {"count": 4, "uploaded": 4, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Sonic VS Mario VS Star Wars VS Initial D", "id": "39509", "slug": "death-race-2020-4", "date": "2020-07-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battle Cars! (Halo VS James Bond VS Knight Rider)", "id": "39397", "slug": "death-race-2020-3", "date": "2020-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Optimus Prime VS Thomas the Tank Engine?", "id": "39301", "slug": "death-race-2020-2", "date": "2020-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batmobile Battle!", "id": "39202", "slug": "death-race-2020-1", "date": "2020-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Death Race",
+    "slug": "death-race",
+    "summary": {
+        "count": 4,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Sonic VS Mario VS Star Wars VS Initial D",
+            "id": "39509",
+            "slug": "death-race-2020-4",
+            "date": "2020-07-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battle Cars! (Halo VS James Bond VS Knight Rider)",
+            "id": "39397",
+            "slug": "death-race-2020-3",
+            "date": "2020-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Optimus Prime VS Thomas the Tank Engine?",
+            "id": "39301",
+            "slug": "death-race-2020-2",
+            "date": "2020-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batmobile Battle!",
+            "id": "39202",
+            "slug": "death-race-2020-1",
+            "date": "2020-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

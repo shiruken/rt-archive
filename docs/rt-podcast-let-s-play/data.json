@@ -1,1 +1,113 @@
-{"show": "RT Podcast Let's Play", "slug": "rt-podcast-let-s-play", "summary": {"count": 10, "uploaded": 10, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "CoD WW2 Nazi Zombies", "id": "23886", "slug": "rt-podcast-let-s-play-2018-cod-ww2-nazi-zombies", "date": "2018-02-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Plum Squad is Rusty", "id": "1104", "slug": "rt-podcast-let-s-play-2017-plum-squad-is-rusty", "date": "2017-12-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Playerunknown's Battlegrounds Let's Play Family Rumble", "id": "1107", "slug": "rt-podcast-let-s-play-2017-playerunknown-s-battlegrounds-let-s-play-family-rumble", "date": "2017-08-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Playerunknown's Battlegrounds Take 2", "id": "1105", "slug": "rt-podcast-let-s-play-2017-playerunknown-s-battlegrounds-take-2", "date": "2017-07-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fortnite", "id": "1106", "slug": "rt-podcast-let-s-play-2017-fortnite", "date": "2017-07-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "PlayerUnknown's Battlegrounds", "id": "1109", "slug": "rt-podcast-let-s-play-2017-playerunknown-s-battlegrounds", "date": "2017-07-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Think of the Children", "id": "1110", "slug": "rt-podcast-let-s-play-2017-think-of-the-children", "date": "2017-05-27", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mario Kart 8 Deluxe", "id": "1111", "slug": "rt-podcast-let-s-play-2017-mario-kart-8", "date": "2017-05-06", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rainbow Six Siege", "id": "1112", "slug": "rt-podcast-let-s-play-2017-2", "date": "2017-04-29", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Use Your Words", "id": "1113", "slug": "rt-podcast-let-s-play-2017-use-your-words", "date": "2017-04-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RT Podcast Let's Play",
+    "slug": "rt-podcast-let-s-play",
+    "summary": {
+        "count": 10,
+        "uploaded": 10,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "CoD WW2 Nazi Zombies",
+            "id": "23886",
+            "slug": "rt-podcast-let-s-play-2018-cod-ww2-nazi-zombies",
+            "date": "2018-02-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Plum Squad is Rusty",
+            "id": "1104",
+            "slug": "rt-podcast-let-s-play-2017-plum-squad-is-rusty",
+            "date": "2017-12-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Playerunknown's Battlegrounds Let's Play Family Rumble",
+            "id": "1107",
+            "slug": "rt-podcast-let-s-play-2017-playerunknown-s-battlegrounds-let-s-play-family-rumble",
+            "date": "2017-08-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Playerunknown's Battlegrounds Take 2",
+            "id": "1105",
+            "slug": "rt-podcast-let-s-play-2017-playerunknown-s-battlegrounds-take-2",
+            "date": "2017-07-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fortnite",
+            "id": "1106",
+            "slug": "rt-podcast-let-s-play-2017-fortnite",
+            "date": "2017-07-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "PlayerUnknown's Battlegrounds",
+            "id": "1109",
+            "slug": "rt-podcast-let-s-play-2017-playerunknown-s-battlegrounds",
+            "date": "2017-07-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Think of the Children",
+            "id": "1110",
+            "slug": "rt-podcast-let-s-play-2017-think-of-the-children",
+            "date": "2017-05-27",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mario Kart 8 Deluxe",
+            "id": "1111",
+            "slug": "rt-podcast-let-s-play-2017-mario-kart-8",
+            "date": "2017-05-06",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rainbow Six Siege",
+            "id": "1112",
+            "slug": "rt-podcast-let-s-play-2017-2",
+            "date": "2017-04-29",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Use Your Words",
+            "id": "1113",
+            "slug": "rt-podcast-let-s-play-2017-use-your-words",
+            "date": "2017-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

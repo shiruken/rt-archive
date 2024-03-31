@@ -1,1 +1,83 @@
-{"show": "Every Christopher Nolan Movie Reviewed & Ranked", "slug": "every-christopher-nolan-movie-reviewed-ranked", "summary": {"count": 7, "uploaded": 7, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Tenet", "id": "41807", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-tenet", "date": "2020-12-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dunkirk", "id": "39835", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-dunkirk", "date": "2020-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Interstellar", "id": "39740", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-interstellar", "date": "2020-08-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Prestige", "id": "39609", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-the-prestige-every-christopher-nolan-movie-reviewed-and-ranked", "date": "2020-07-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Insomnia", "id": "39490", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-insomnia-every-christopher-nolan-movie-reviewed-and-ranked", "date": "2020-07-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Memento", "id": "39491", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-memento-every-christopher-nolan-movie-reviewed-and-ranked", "date": "2020-07-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Following", "id": "39489", "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-following", "date": "2020-07-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Christopher Nolan Movie Reviewed & Ranked",
+    "slug": "every-christopher-nolan-movie-reviewed-ranked",
+    "summary": {
+        "count": 7,
+        "uploaded": 7,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Tenet",
+            "id": "41807",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-tenet",
+            "date": "2020-12-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dunkirk",
+            "id": "39835",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-dunkirk",
+            "date": "2020-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Interstellar",
+            "id": "39740",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-interstellar",
+            "date": "2020-08-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Prestige",
+            "id": "39609",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-the-prestige-every-christopher-nolan-movie-reviewed-and-ranked",
+            "date": "2020-07-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Insomnia",
+            "id": "39490",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-insomnia-every-christopher-nolan-movie-reviewed-and-ranked",
+            "date": "2020-07-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Memento",
+            "id": "39491",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-memento-every-christopher-nolan-movie-reviewed-and-ranked",
+            "date": "2020-07-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Following",
+            "id": "39489",
+            "slug": "every-christopher-nolan-movie-reviewed-ranked-every-christopher-nolan-movie-reviewed-ranked-following",
+            "date": "2020-07-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

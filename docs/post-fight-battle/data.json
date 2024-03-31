@@ -1,1 +1,93 @@
-{"show": "Tuesday Night Game Fight: Post Fight Battle", "slug": "post-fight-battle", "summary": {"count": 8, "uploaded": 8, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "RTAnimation Destroys Self - Post Fight Battle #8", "id": "52", "slug": "tuesday-night-game-fight-1-8-post-84-thjk", "date": "2017-09-07", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cib and Lawrence Fight to the DOOM - Post Fight Battle #7", "id": "53", "slug": "tuesday-night-game-fight-1-7-post-384-hto", "date": "2017-08-31", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Overwatch What You're Doing! - Post Fight Battle #6", "id": "54", "slug": "tuesday-night-game-fight-1-6-post-kdygu5", "date": "2017-08-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cool Story Smash Bros - Post Fight Battle #5", "id": "55", "slug": "tuesday-night-game-fight-1-5-post-oeuyoijl", "date": "2017-08-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Every Man and Maggie For Themselves - Post Fight Battle #4", "id": "56", "slug": "tuesday-night-game-fight-1-4-post-g49ghu", "date": "2017-08-10", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Everyone Except Game Attack vs. Game Attack - Post Fight Battle #3", "id": "57", "slug": "tuesday-night-game-fight-1-3-post-g48gh", "date": "2017-08-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achieve Attack vs. Rooster Teeth - Post Fight Battle #2", "id": "58", "slug": "tuesday-night-game-fight-1-2-post-vh9hbr", "date": "2017-07-27", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Funhaus + SugarPine7 vs. Game Attack - Post Fight Battle #1", "id": "59", "slug": "tuesday-night-game-fight-1-1-post-show", "date": "2017-07-20", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Tuesday Night Game Fight: Post Fight Battle",
+    "slug": "post-fight-battle",
+    "summary": {
+        "count": 8,
+        "uploaded": 8,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "RTAnimation Destroys Self - Post Fight Battle #8",
+            "id": "52",
+            "slug": "tuesday-night-game-fight-1-8-post-84-thjk",
+            "date": "2017-09-07",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cib and Lawrence Fight to the DOOM - Post Fight Battle #7",
+            "id": "53",
+            "slug": "tuesday-night-game-fight-1-7-post-384-hto",
+            "date": "2017-08-31",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Overwatch What You're Doing! - Post Fight Battle #6",
+            "id": "54",
+            "slug": "tuesday-night-game-fight-1-6-post-kdygu5",
+            "date": "2017-08-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cool Story Smash Bros - Post Fight Battle #5",
+            "id": "55",
+            "slug": "tuesday-night-game-fight-1-5-post-oeuyoijl",
+            "date": "2017-08-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Every Man and Maggie For Themselves - Post Fight Battle #4",
+            "id": "56",
+            "slug": "tuesday-night-game-fight-1-4-post-g49ghu",
+            "date": "2017-08-10",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Everyone Except Game Attack vs. Game Attack - Post Fight Battle #3",
+            "id": "57",
+            "slug": "tuesday-night-game-fight-1-3-post-g48gh",
+            "date": "2017-08-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achieve Attack vs. Rooster Teeth - Post Fight Battle #2",
+            "id": "58",
+            "slug": "tuesday-night-game-fight-1-2-post-vh9hbr",
+            "date": "2017-07-27",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Funhaus + SugarPine7 vs. Game Attack - Post Fight Battle #1",
+            "id": "59",
+            "slug": "tuesday-night-game-fight-1-1-post-show",
+            "date": "2017-07-20",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

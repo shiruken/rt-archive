@@ -1,1 +1,123 @@
-{"show": "Enjoy the Show", "slug": "enjoy-the-show", "summary": {"count": 11, "uploaded": 11, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Why Do Video Game Movies Suck? - #7", "id": "1641", "slug": "enjoy-the-show-2017-7", "date": "2017-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "HORROR MOVIES - #6", "id": "1642", "slug": "enjoy-the-show-2017-6-ak7gh3", "date": "2017-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "KING OF THE MONSTERS? - #5", "id": "1643", "slug": "enjoy-the-show-2017-5-a7gh3i", "date": "2017-03-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "LOGAN: The Greatest Western Ever - #4", "id": "1644", "slug": "enjoy-the-show-2017-4-alf7g2l", "date": "2017-03-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "LEGION: X-Men Upgraded - #3", "id": "1645", "slug": "enjoy-the-show-2017-3-s76sbjy", "date": "2017-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SPLIT: Shyamalan's Second Coming - #2", "id": "1647", "slug": "enjoy-the-show-2017-2-b8a6ag", "date": "2017-03-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Oscars Opposition - #1", "id": "1646", "slug": "enjoy-the-show-2017-1", "date": "2017-02-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Gosling Gravitation - #.04", "id": "1387-bonus", "slug": "enjoy-the-show-2017-the-gosling-enjoy-the-show-04", "date": "2017-01-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Stranger Things Spectacle - #.03", "id": "1386-bonus", "slug": "enjoy-the-show-2017-the-stranger-things-spectacle-enjoy-the-show-03", "date": "2017-01-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The K-2SO Kink - #.02", "id": "1385-bonus", "slug": "enjoy-the-show-2017-02", "date": "2017-01-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Deadpool Defiance - #.01", "id": "1651", "slug": "enjoy-the-show-enjoy-the-show-enjoy-the-show-pilot-episode-1", "date": "2016-12-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Enjoy the Show",
+    "slug": "enjoy-the-show",
+    "summary": {
+        "count": 11,
+        "uploaded": 11,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Why Do Video Game Movies Suck? - #7",
+            "id": "1641",
+            "slug": "enjoy-the-show-2017-7",
+            "date": "2017-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "HORROR MOVIES - #6",
+            "id": "1642",
+            "slug": "enjoy-the-show-2017-6-ak7gh3",
+            "date": "2017-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "KING OF THE MONSTERS? - #5",
+            "id": "1643",
+            "slug": "enjoy-the-show-2017-5-a7gh3i",
+            "date": "2017-03-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "LOGAN: The Greatest Western Ever - #4",
+            "id": "1644",
+            "slug": "enjoy-the-show-2017-4-alf7g2l",
+            "date": "2017-03-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "LEGION: X-Men Upgraded - #3",
+            "id": "1645",
+            "slug": "enjoy-the-show-2017-3-s76sbjy",
+            "date": "2017-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SPLIT: Shyamalan's Second Coming - #2",
+            "id": "1647",
+            "slug": "enjoy-the-show-2017-2-b8a6ag",
+            "date": "2017-03-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Oscars Opposition - #1",
+            "id": "1646",
+            "slug": "enjoy-the-show-2017-1",
+            "date": "2017-02-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Gosling Gravitation - #.04",
+            "id": "1387-bonus",
+            "slug": "enjoy-the-show-2017-the-gosling-enjoy-the-show-04",
+            "date": "2017-01-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Stranger Things Spectacle - #.03",
+            "id": "1386-bonus",
+            "slug": "enjoy-the-show-2017-the-stranger-things-spectacle-enjoy-the-show-03",
+            "date": "2017-01-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The K-2SO Kink - #.02",
+            "id": "1385-bonus",
+            "slug": "enjoy-the-show-2017-02",
+            "date": "2017-01-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Deadpool Defiance - #.01",
+            "id": "1651",
+            "slug": "enjoy-the-show-enjoy-the-show-enjoy-the-show-pilot-episode-1",
+            "date": "2016-12-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,573 @@
-{"show": "Immersion", "slug": "immersion", "summary": {"count": 56, "uploaded": 56, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Fortnite in Real Life Featuring Achievement Hunter", "id": "20688", "slug": "immersion-season-5-fortnite-in-real-life-featuring-achievement-hunter", "date": "2017-08-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fortnite in Real Life", "id": "20689", "slug": "immersion-season-5-fortnight", "date": "2017-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes of Mass Effect Immersion", "id": "121-bonus", "slug": "immersion-bonus-3", "date": "2017-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mass Effect in Real Life", "id": "20690", "slug": "immersion-season-5-mass-effect-in-real-life", "date": "2017-04-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Last of Us in Real Life Featuring Funhaus", "id": "21562", "slug": "immersion-season-5-q983b92", "date": "2017-03-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Last of Us in Real Life", "id": "20691", "slug": "immersion-season-5-8-wvlh93f", "date": "2017-03-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "NBA Jam in Real Life - Featuring Geoff and Jack", "id": "20694", "slug": "immersion-season-4-nba-jam-in-real-life-featuring-geoff-and-jack", "date": "2016-12-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "NBA Jam in Real Life - Behind the Scenes", "id": "20693", "slug": "immersion-season-4-nba-jam-in-real-life-behind-the-scenes", "date": "2016-12-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "NBA Jam in Real Life", "id": "20695", "slug": "immersion-season-4-nba-jam-in-real-life", "date": "2016-12-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Surgeon Simulator in an Ambulance - Featuring Gavin and Michael", "id": "20697", "slug": "immersion-season-4-surgeon-simulator-in-an-ambulance-featuring-gavin-and-michael", "date": "2016-12-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Surgeon Simulator in Real Life - Behind the Scenes", "id": "20696", "slug": "immersion-season-4-surgeon-simulator-in-real-life-behind-the-scenes", "date": "2016-12-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Surgeon Simulator in Real Life", "id": "23389", "slug": "immersion-season-4-surgeon-simulator-in-real-life", "date": "2016-11-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destructibles in Real Life - Behind the Scenes", "id": "20699", "slug": "immersion-season-4-destructibles-in-real-life-behind-the-scenes", "date": "2016-11-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destructibles in Real Life - Featuring Adam and Jeremy", "id": "20698", "slug": "immersion-season-4-destructibles-in-real-life-featuring-adam-and-jeremy", "date": "2016-11-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destructibles in Real Life", "id": "22456", "slug": "immersion-season-4-destructibles-in-real-life", "date": "2016-11-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Resident Evil in Real Life - Behind the Scenes", "id": "21567", "slug": "immersion-season-4-resident-evil-in-real-life-behind-the-scenes", "date": "2016-11-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Resident Evil in Real Life - Featuring Lindsay and Mica", "id": "20700", "slug": "immersion-season-4-resident-evil-in-real-life-featuring-lindsay-and-mica", "date": "2016-11-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Resident Evil in Real Life", "id": "20702", "slug": "immersion-season-4-resident-evil-in-real-life", "date": "2016-11-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman in Real Life - Featuring Chris and Bruce", "id": "20703", "slug": "immersion-season-4-hitman-in-real-life-featuring-chris-and-bruce", "date": "2016-11-10", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman in Real Life - Behind the Scenes", "id": "20701", "slug": "immersion-season-4-hitman-in-real-life-behind-the-scenes", "date": "2016-11-10", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hitman in Real Life", "id": "20705", "slug": "immersion-season-4-hitman-in-real-life", "date": "2016-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Season 4 Trailer", "id": "123-bonus", "slug": "immersion-bonus-2", "date": "2016-11-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Warthog Flip - Behind The Scenes", "id": "20706", "slug": "immersion-season-4-the-warthog-flip-behind-the-scenes", "date": "2016-10-13", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Special - Warthog Flip in Real Life", "id": "20707", "slug": "immersion-season-4-special-warthog-flip-in-real-life", "date": "2016-10-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space Invaders In Real Life \u2013 Featuring Barbara and Lindsay", "id": "20708", "slug": "immersion-season-3-space-invaders-in-real-life-featuring-barbara-and-lindsay", "date": "2016-02-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space Invaders in Real Life - Behind the Scenes", "id": "20709", "slug": "immersion-season-3-space-invaders-in-real-life-behind-the-scenes", "date": "2016-02-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space Invaders in Real Life", "id": "20710", "slug": "immersion-season-3-space-invaders-in-real-life", "date": "2016-02-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Jetpacks in Real Life - Behind the Scenes", "id": "22459", "slug": "immersion-season-3-star-wars-jetpacks-in-real-life-behind-the-scenes", "date": "2016-01-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Jetpacks in Real Life", "id": "20712", "slug": "immersion-season-3-jetpack", "date": "2016-01-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Gear Solid in Real Life - Featuring Chris and Aaron", "id": "20713", "slug": "immersion-season-3-metal-gear-solid-in-real-life-2", "date": "2016-01-20", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Gear Solid in Real Life - Behind the Scenes", "id": "20714", "slug": "immersion-season-3-metal-gear-solid-in-real-life-behind-the-scenes", "date": "2016-01-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Gear Solid in Real Life - Extended Cut", "id": "20715", "slug": "immersion-season-3-metal-gear-solid-in-real-life-extended-cut", "date": "2016-01-13", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Gear Solid in Real Life", "id": "20716", "slug": "immersion-season-3-metal-gear-solid-in-real-life", "date": "2016-01-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Next Time on Immersion - Metal Gear Solid in Real Life", "id": "20717", "slug": "immersion-season-3-next-time-on-immersion", "date": "2016-01-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's In Real Life - Extended Cut", "id": "20718", "slug": "immersion-season-3-five-nights-at-freddy-s-in-real-life-extended-cut", "date": "2015-11-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's In Real Life - Behind the Scenes", "id": "20719", "slug": "immersion-season-3-five-nights-at-freddy-s-behind-the-scenes", "date": "2015-11-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's In Real Life - Featuring Barbara and Lindsay", "id": "20720", "slug": "immersion-season-3-five-nights-at-freddy-s-featuring-barbara-and-lindsay", "date": "2015-11-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Five Nights at Freddy's In Real Life", "id": "20721", "slug": "immersion-season-3-five-nights-at-freddy-s", "date": "2015-11-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout 4 In Real Life - Behind the Scenes", "id": "20723", "slug": "immersion-season-3-fallout-4-in-real-life-behind-the-scenes", "date": "2015-11-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout 4 In Real Life - The Finale", "id": "20724", "slug": "immersion-season-3-open-world-part-2", "date": "2015-11-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fallout 4 In Real Life", "id": "20725", "slug": "immersion-season-3-fallout", "date": "2015-11-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mario Kart", "id": "23393", "slug": "immersion-season-2-immersion-mario-kart", "date": "2014-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pacman", "id": "20727", "slug": "immersion-season-2-immersion-pacman", "date": "2014-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Split Screen - Behind the Scenes", "id": "22471", "slug": "immersion-season-2-immersion-split-screen-behind-the-scenes", "date": "2014-04-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Split Screen", "id": "20728", "slug": "immersion-season-2-immersion-split-screen", "date": "2014-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Simulation Racer", "id": "20729", "slug": "immersion-season-2-immersion-simulation-racer", "date": "2013-05-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Horde Mode", "id": "25312", "slug": "immersion-season-1-horde-mode", "date": "2011-06-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Video Game Foods : Director Commentary", "id": "122-bonus", "slug": "immersion-bonus-1", "date": "2011-04-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zombie Headshots", "id": "20732", "slug": "immersion-season-1-zombie-headshots", "date": "2011-01-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Video Game Foods", "id": "20733", "slug": "immersion-season-1-video-game-foods", "date": "2010-12-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Video Game Inventory Systems", "id": "20734", "slug": "immersion-season-1-video-game-inventory-systems", "date": "2010-12-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Side Scroller", "id": "20735", "slug": "immersion-season-1-side-scroller", "date": "2010-12-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fighting Girl Clothes", "id": "20736", "slug": "immersion-season-1-fighting-girl-clothes", "date": "2010-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Online Gaming Distractions", "id": "20737", "slug": "immersion-season-1-online-gaming-distractions", "date": "2010-12-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Video Game Car", "id": "20739", "slug": "immersion-season-1-the-video-game-car", "date": "2010-11-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pilot", "id": "20740", "slug": "immersion-season-1-pilot", "date": "2010-04-06", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Immersion",
+    "slug": "immersion",
+    "summary": {
+        "count": 56,
+        "uploaded": 56,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Fortnite in Real Life Featuring Achievement Hunter",
+            "id": "20688",
+            "slug": "immersion-season-5-fortnite-in-real-life-featuring-achievement-hunter",
+            "date": "2017-08-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fortnite in Real Life",
+            "id": "20689",
+            "slug": "immersion-season-5-fortnight",
+            "date": "2017-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes of Mass Effect Immersion",
+            "id": "121-bonus",
+            "slug": "immersion-bonus-3",
+            "date": "2017-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mass Effect in Real Life",
+            "id": "20690",
+            "slug": "immersion-season-5-mass-effect-in-real-life",
+            "date": "2017-04-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Last of Us in Real Life Featuring Funhaus",
+            "id": "21562",
+            "slug": "immersion-season-5-q983b92",
+            "date": "2017-03-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Last of Us in Real Life",
+            "id": "20691",
+            "slug": "immersion-season-5-8-wvlh93f",
+            "date": "2017-03-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "NBA Jam in Real Life - Featuring Geoff and Jack",
+            "id": "20694",
+            "slug": "immersion-season-4-nba-jam-in-real-life-featuring-geoff-and-jack",
+            "date": "2016-12-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "NBA Jam in Real Life - Behind the Scenes",
+            "id": "20693",
+            "slug": "immersion-season-4-nba-jam-in-real-life-behind-the-scenes",
+            "date": "2016-12-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "NBA Jam in Real Life",
+            "id": "20695",
+            "slug": "immersion-season-4-nba-jam-in-real-life",
+            "date": "2016-12-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Surgeon Simulator in an Ambulance - Featuring Gavin and Michael",
+            "id": "20697",
+            "slug": "immersion-season-4-surgeon-simulator-in-an-ambulance-featuring-gavin-and-michael",
+            "date": "2016-12-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Surgeon Simulator in Real Life - Behind the Scenes",
+            "id": "20696",
+            "slug": "immersion-season-4-surgeon-simulator-in-real-life-behind-the-scenes",
+            "date": "2016-12-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Surgeon Simulator in Real Life",
+            "id": "23389",
+            "slug": "immersion-season-4-surgeon-simulator-in-real-life",
+            "date": "2016-11-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destructibles in Real Life - Behind the Scenes",
+            "id": "20699",
+            "slug": "immersion-season-4-destructibles-in-real-life-behind-the-scenes",
+            "date": "2016-11-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destructibles in Real Life - Featuring Adam and Jeremy",
+            "id": "20698",
+            "slug": "immersion-season-4-destructibles-in-real-life-featuring-adam-and-jeremy",
+            "date": "2016-11-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destructibles in Real Life",
+            "id": "22456",
+            "slug": "immersion-season-4-destructibles-in-real-life",
+            "date": "2016-11-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Resident Evil in Real Life - Behind the Scenes",
+            "id": "21567",
+            "slug": "immersion-season-4-resident-evil-in-real-life-behind-the-scenes",
+            "date": "2016-11-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Resident Evil in Real Life - Featuring Lindsay and Mica",
+            "id": "20700",
+            "slug": "immersion-season-4-resident-evil-in-real-life-featuring-lindsay-and-mica",
+            "date": "2016-11-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Resident Evil in Real Life",
+            "id": "20702",
+            "slug": "immersion-season-4-resident-evil-in-real-life",
+            "date": "2016-11-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman in Real Life - Featuring Chris and Bruce",
+            "id": "20703",
+            "slug": "immersion-season-4-hitman-in-real-life-featuring-chris-and-bruce",
+            "date": "2016-11-10",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman in Real Life - Behind the Scenes",
+            "id": "20701",
+            "slug": "immersion-season-4-hitman-in-real-life-behind-the-scenes",
+            "date": "2016-11-10",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hitman in Real Life",
+            "id": "20705",
+            "slug": "immersion-season-4-hitman-in-real-life",
+            "date": "2016-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Season 4 Trailer",
+            "id": "123-bonus",
+            "slug": "immersion-bonus-2",
+            "date": "2016-11-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Warthog Flip - Behind The Scenes",
+            "id": "20706",
+            "slug": "immersion-season-4-the-warthog-flip-behind-the-scenes",
+            "date": "2016-10-13",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Special - Warthog Flip in Real Life",
+            "id": "20707",
+            "slug": "immersion-season-4-special-warthog-flip-in-real-life",
+            "date": "2016-10-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space Invaders In Real Life \u2013 Featuring Barbara and Lindsay",
+            "id": "20708",
+            "slug": "immersion-season-3-space-invaders-in-real-life-featuring-barbara-and-lindsay",
+            "date": "2016-02-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space Invaders in Real Life - Behind the Scenes",
+            "id": "20709",
+            "slug": "immersion-season-3-space-invaders-in-real-life-behind-the-scenes",
+            "date": "2016-02-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space Invaders in Real Life",
+            "id": "20710",
+            "slug": "immersion-season-3-space-invaders-in-real-life",
+            "date": "2016-02-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Jetpacks in Real Life - Behind the Scenes",
+            "id": "22459",
+            "slug": "immersion-season-3-star-wars-jetpacks-in-real-life-behind-the-scenes",
+            "date": "2016-01-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Jetpacks in Real Life",
+            "id": "20712",
+            "slug": "immersion-season-3-jetpack",
+            "date": "2016-01-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Gear Solid in Real Life - Featuring Chris and Aaron",
+            "id": "20713",
+            "slug": "immersion-season-3-metal-gear-solid-in-real-life-2",
+            "date": "2016-01-20",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Gear Solid in Real Life - Behind the Scenes",
+            "id": "20714",
+            "slug": "immersion-season-3-metal-gear-solid-in-real-life-behind-the-scenes",
+            "date": "2016-01-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Gear Solid in Real Life - Extended Cut",
+            "id": "20715",
+            "slug": "immersion-season-3-metal-gear-solid-in-real-life-extended-cut",
+            "date": "2016-01-13",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Gear Solid in Real Life",
+            "id": "20716",
+            "slug": "immersion-season-3-metal-gear-solid-in-real-life",
+            "date": "2016-01-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Next Time on Immersion - Metal Gear Solid in Real Life",
+            "id": "20717",
+            "slug": "immersion-season-3-next-time-on-immersion",
+            "date": "2016-01-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's In Real Life - Extended Cut",
+            "id": "20718",
+            "slug": "immersion-season-3-five-nights-at-freddy-s-in-real-life-extended-cut",
+            "date": "2015-11-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's In Real Life - Behind the Scenes",
+            "id": "20719",
+            "slug": "immersion-season-3-five-nights-at-freddy-s-behind-the-scenes",
+            "date": "2015-11-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's In Real Life - Featuring Barbara and Lindsay",
+            "id": "20720",
+            "slug": "immersion-season-3-five-nights-at-freddy-s-featuring-barbara-and-lindsay",
+            "date": "2015-11-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Five Nights at Freddy's In Real Life",
+            "id": "20721",
+            "slug": "immersion-season-3-five-nights-at-freddy-s",
+            "date": "2015-11-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout 4 In Real Life - Behind the Scenes",
+            "id": "20723",
+            "slug": "immersion-season-3-fallout-4-in-real-life-behind-the-scenes",
+            "date": "2015-11-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout 4 In Real Life - The Finale",
+            "id": "20724",
+            "slug": "immersion-season-3-open-world-part-2",
+            "date": "2015-11-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fallout 4 In Real Life",
+            "id": "20725",
+            "slug": "immersion-season-3-fallout",
+            "date": "2015-11-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mario Kart",
+            "id": "23393",
+            "slug": "immersion-season-2-immersion-mario-kart",
+            "date": "2014-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pacman",
+            "id": "20727",
+            "slug": "immersion-season-2-immersion-pacman",
+            "date": "2014-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Split Screen - Behind the Scenes",
+            "id": "22471",
+            "slug": "immersion-season-2-immersion-split-screen-behind-the-scenes",
+            "date": "2014-04-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Split Screen",
+            "id": "20728",
+            "slug": "immersion-season-2-immersion-split-screen",
+            "date": "2014-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Simulation Racer",
+            "id": "20729",
+            "slug": "immersion-season-2-immersion-simulation-racer",
+            "date": "2013-05-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Horde Mode",
+            "id": "25312",
+            "slug": "immersion-season-1-horde-mode",
+            "date": "2011-06-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Video Game Foods : Director Commentary",
+            "id": "122-bonus",
+            "slug": "immersion-bonus-1",
+            "date": "2011-04-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zombie Headshots",
+            "id": "20732",
+            "slug": "immersion-season-1-zombie-headshots",
+            "date": "2011-01-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Video Game Foods",
+            "id": "20733",
+            "slug": "immersion-season-1-video-game-foods",
+            "date": "2010-12-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Video Game Inventory Systems",
+            "id": "20734",
+            "slug": "immersion-season-1-video-game-inventory-systems",
+            "date": "2010-12-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Side Scroller",
+            "id": "20735",
+            "slug": "immersion-season-1-side-scroller",
+            "date": "2010-12-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fighting Girl Clothes",
+            "id": "20736",
+            "slug": "immersion-season-1-fighting-girl-clothes",
+            "date": "2010-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Online Gaming Distractions",
+            "id": "20737",
+            "slug": "immersion-season-1-online-gaming-distractions",
+            "date": "2010-12-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Video Game Car",
+            "id": "20739",
+            "slug": "immersion-season-1-the-video-game-car",
+            "date": "2010-11-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pilot",
+            "id": "20740",
+            "slug": "immersion-season-1-pilot",
+            "date": "2010-04-06",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

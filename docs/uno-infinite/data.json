@@ -1,1 +1,53 @@
-{"show": "UNO: Infinite", "slug": "uno-infinite", "summary": {"count": 4, "uploaded": 4, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Uno Infinite Full Stream Part 4 | It's Uno: Endgame", "id": "49331", "slug": "uno-infinite-season-1-uno-infinite-part-4", "date": "2022-09-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Uno Infinite Full Stream Part 3 | It's Day 2. Everything's Worse!", "id": "49330", "slug": "uno-infinite-season-1-uno-infinite-part-3", "date": "2022-09-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Uno Infinite Full Stream Part 2 | How High Can We Make the Uno Tower?", "id": "49329", "slug": "uno-infinite-season-1-uno-infinite-part-2", "date": "2022-09-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Uno Infinite Full Stream Part 1 | How Long Could One Hand of Uno Last?", "id": "49328", "slug": "uno-infinite-season-1-uno-infinite-part-1", "date": "2022-09-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "UNO: Infinite",
+    "slug": "uno-infinite",
+    "summary": {
+        "count": 4,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Uno Infinite Full Stream Part 4 | It's Uno: Endgame",
+            "id": "49331",
+            "slug": "uno-infinite-season-1-uno-infinite-part-4",
+            "date": "2022-09-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Uno Infinite Full Stream Part 3 | It's Day 2. Everything's Worse!",
+            "id": "49330",
+            "slug": "uno-infinite-season-1-uno-infinite-part-3",
+            "date": "2022-09-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Uno Infinite Full Stream Part 2 | How High Can We Make the Uno Tower?",
+            "id": "49329",
+            "slug": "uno-infinite-season-1-uno-infinite-part-2",
+            "date": "2022-09-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Uno Infinite Full Stream Part 1 | How Long Could One Hand of Uno Last?",
+            "id": "49328",
+            "slug": "uno-infinite-season-1-uno-infinite-part-1",
+            "date": "2022-09-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

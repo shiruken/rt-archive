@@ -1,1 +1,773 @@
-{"show": "Heroes & Halfwits", "slug": "heroes-halfwits", "summary": {"count": 76, "uploaded": 76, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Mechs Generation - Episode 10X: Dinosaurs With Guns: Part V", "id": "28171", "slug": "heroes-halfwits-2018-the-mechs-generation-episode-10x-dinosaurs-with-guns-part-v", "date": "2018-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation - Episode 10: Dinosaurs With Guns: Part IV", "id": "27990", "slug": "heroes-halfwits-2018-10", "date": "2018-07-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation - Episode 9: Dinosaurs With Guns: Part III", "id": "27752", "slug": "heroes-halfwits-2018-the-mechs-generation-episode-9-dinosaurs-with-guns-part-iii", "date": "2018-07-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation - Episode 8: Dinosaurs With Guns: Part II", "id": "27568", "slug": "heroes-halfwits-2018-the-mechs-generation-dinosaurs-with-guns-part-ii", "date": "2018-06-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation - Episode 7: Dinosaurs With Guns: Part I", "id": "27271", "slug": "heroes-halfwits-2018-the-mechs-generation-episode-7-dinosaurs-with-guns-part-i", "date": "2018-06-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation Episode 6 - Father and Errant Children: Part IV", "id": "27066", "slug": "heroes-halfwits-2018-the-mechs-generation-episode-6-father-and-errant-children-part-iv", "date": "2018-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation Episode 5 - Fathers and Errant Children: Part III", "id": "26910", "slug": "heroes-halfwits-2018-5", "date": "2018-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation Episode 4 - Fathers and Errant Children: Part II", "id": "26735", "slug": "heroes-halfwits-2018-4", "date": "2018-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation Episode 3 - Fathers and Errant Children: Part I", "id": "26536", "slug": "heroes-halfwits-2018-the-mechs-generation-episode-3-fathers-and-errant-children-part-i", "date": "2018-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation Episode 2 - \"The Year of the Dog: Part II\"", "id": "26346", "slug": "heroes-halfwits-2018-the-mechs-generation-episode-2-the-year-of-the-dog-part-ii", "date": "2018-04-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mechs Generation Episode 1 - \"The Year of the Dog\"", "id": "26066", "slug": "heroes-halfwits-2018-the-tomb-of-horrors-chapter-5-what-emerges-in-the-dark", "date": "2018-03-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 6: The Final Descent", "id": "2358", "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-6-df-6g5", "date": "2017-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 5: What Emerges in the Dark", "id": "2359", "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-5-d6fgh54", "date": "2017-11-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 4: Twisting In the Wind", "id": "2360", "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-4-er6gh5", "date": "2017-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors Chapter 3: A Tomb With A View", "id": "2361", "slug": "heroes-halfwits-season-2-the-tomb-of-horrors-chapter-3-a-tomb-with-a-view", "date": "2017-11-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 2: There Are Doors", "id": "2363", "slug": "heroes-halfwits-season-2-there-are-doors", "date": "2017-10-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 1: Old Dog, New Tricks", "id": "2362", "slug": "heroes-halfwits-season-2-loiukhh-kl-lk-kkkk", "date": "2017-10-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dream a Little Dream - #34", "id": "2364", "slug": "heroes-halfwits-season-2-dream-a-little-dream-2", "date": "2017-09-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#33 Post Show", "id": "89", "slug": "heroes-halfwits-season-2-33-post-show", "date": "2017-09-07", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Should Old Acquaintances Be Forgot - #33", "id": "2365", "slug": "heroes-halfwits-season-2-should-old-acquaintances-be-forgot-33", "date": "2017-09-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#32 - Post Show", "id": "90", "slug": "heroes-halfwits-season-2-32-post-show", "date": "2017-08-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Bor Ealis Shuffle - #32", "id": "2366", "slug": "heroes-halfwits-season-2-the-bor-ealis-shuffle-32", "date": "2017-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#31 Post Show", "id": "92", "slug": "heroes-halfwits-season-2-31-post-show", "date": "2017-08-10", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ribcage Rumble - #31", "id": "2367", "slug": "heroes-halfwits-season-2-episode", "date": "2017-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#30 Post Show", "id": "93", "slug": "heroes-halfwits-season-2-30-post-show-0835-hjg", "date": "2017-05-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "\"Stuck In the Ribcage With You\" - #30", "id": "2368", "slug": "heroes-halfwits-season-2-30-sf83jg", "date": "2017-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#29 Post Show", "id": "91", "slug": "heroes-halfwits-season-2-29-post-show-297-be7", "date": "2017-05-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mysterious Goings-On & How Art Can Save the Licentious - #29", "id": "2369", "slug": "heroes-halfwits-season-2-29-y9wn6f", "date": "2017-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#28 Post Show", "id": "95", "slug": "heroes-halfwits-season-2-28-post-show-92-i74h", "date": "2017-04-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Anamnesis Upheaval - #28", "id": "2370", "slug": "heroes-halfwits-season-2-28-385-nso", "date": "2017-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#27 Post Show", "id": "94", "slug": "heroes-halfwits-season-2-27-post-show-oo3h95", "date": "2017-04-05", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hex, Drugs, & Clocks That Toll - #27", "id": "2371", "slug": "heroes-halfwits-season-2-27-aif37h", "date": "2017-04-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#26 Post Show", "id": "96", "slug": "heroes-halfwits-season-2-26-post-show-k7agfh", "date": "2017-03-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Of Fear and Other Strange Drugs - #26", "id": "2372", "slug": "heroes-halfwits-season-2-26-ak7gh8", "date": "2017-03-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#25 Post Show", "id": "97", "slug": "heroes-halfwits-season-2-25-post-show-a8fbm4", "date": "2017-03-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blood and Darkness - #25", "id": "2374", "slug": "heroes-halfwits-season-2-25-082-gj6", "date": "2017-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#24 Post Show", "id": "98", "slug": "heroes-halfwits-season-2-24-post-show-nai7fgf", "date": "2017-02-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Green With Envy - #24", "id": "2373", "slug": "heroes-halfwits-season-2-24-abuavt", "date": "2017-02-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#23 Post Show", "id": "99", "slug": "heroes-halfwits-season-2-23-post-show-n8a6jk", "date": "2017-02-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pyromania - #23", "id": "2375", "slug": "heroes-halfwits-season-2-23-7-abj7a", "date": "2017-02-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#22 Post Show", "id": "100", "slug": "heroes-halfwits-season-2-22-post-show-8-a6bal", "date": "2017-01-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Revelations #22", "id": "2376", "slug": "heroes-halfwits-season-2", "date": "2017-01-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#21 Post Show", "id": "101", "slug": "heroes-halfwits-season-2-21-post-show-o97fnh", "date": "2017-01-11", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Search for the Spy Master - #21", "id": "2379", "slug": "heroes-halfwits-season-2-201", "date": "2017-01-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Christmas Horde Mode Special", "id": "102", "slug": "heroes-halfwits-season-1-horde-mode-heroes-and-halfwits-christmas-special", "date": "2016-12-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #20", "id": "103", "slug": "heroes-halfwits-season-1-post-show-20", "date": "2016-10-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 20", "id": "2378", "slug": "heroes-halfwits-season-1-episode-20", "date": "2016-10-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #19", "id": "104", "slug": "heroes-halfwits-season-1-post-show-19", "date": "2016-10-14", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 19", "id": "2377", "slug": "heroes-halfwits-season-1-episode-19", "date": "2016-10-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #18", "id": "105", "slug": "heroes-halfwits-season-1-post-show-18", "date": "2016-10-07", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 18", "id": "2380", "slug": "heroes-halfwits-season-1-episode-18", "date": "2016-10-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #17", "id": "106", "slug": "heroes-halfwits-season-1-post-show-17", "date": "2016-09-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 17", "id": "2381", "slug": "heroes-halfwits-season-1-episode-17", "date": "2016-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #16", "id": "107", "slug": "heroes-halfwits-season-1-post-show-16", "date": "2016-09-23", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 16", "id": "2382", "slug": "heroes-halfwits-season-1-episode-16", "date": "2016-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #15", "id": "108", "slug": "heroes-halfwits-season-1-post-show-15", "date": "2016-09-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 15", "id": "2383", "slug": "heroes-halfwits-season-1-episode-15", "date": "2016-09-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #14", "id": "109", "slug": "heroes-halfwits-season-1-post-show-14", "date": "2016-09-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 14", "id": "2384", "slug": "heroes-halfwits-season-1-episode-14", "date": "2016-09-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #13", "id": "110", "slug": "heroes-halfwits-season-1-post-show-13", "date": "2016-09-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 13", "id": "2385", "slug": "heroes-halfwits-season-1-episode-13", "date": "2016-09-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #12", "id": "111", "slug": "heroes-halfwits-season-1-post-show-12", "date": "2016-08-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 12", "id": "2386", "slug": "heroes-halfwits-season-1-episode-12", "date": "2016-08-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #11", "id": "112", "slug": "heroes-halfwits-season-1-post-show-11", "date": "2016-08-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 11", "id": "2388", "slug": "heroes-halfwits-season-1-episode-11", "date": "2016-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Post Show #10", "id": "113", "slug": "heroes-halfwits-season-1-post-show-10", "date": "2016-08-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Ten", "id": "2387", "slug": "heroes-halfwits-season-1-episode-ten", "date": "2016-08-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Nine", "id": "2389", "slug": "heroes-halfwits-season-1-episode-nine", "date": "2016-08-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Eight", "id": "2390", "slug": "heroes-halfwits-season-1-episode-eight", "date": "2016-07-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Seven", "id": "2391", "slug": "heroes-halfwits-season-1-episode-seven", "date": "2016-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Six", "id": "2392", "slug": "heroes-halfwits-season-1-episode-six", "date": "2016-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Five", "id": "2393", "slug": "heroes-halfwits-season-1-episode-five", "date": "2016-07-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Four", "id": "2394", "slug": "heroes-halfwits-season-1-episode-four", "date": "2016-06-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Three", "id": "2395", "slug": "heroes-halfwits-season-1-episode-three", "date": "2016-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode Two", "id": "2396", "slug": "heroes-halfwits-season-1-episode-two", "date": "2016-06-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode One", "id": "2397", "slug": "heroes-halfwits-season-1-episode-one", "date": "2016-06-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Heroes & Halfwits",
+    "slug": "heroes-halfwits",
+    "summary": {
+        "count": 76,
+        "uploaded": 76,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Mechs Generation - Episode 10X: Dinosaurs With Guns: Part V",
+            "id": "28171",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-episode-10x-dinosaurs-with-guns-part-v",
+            "date": "2018-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation - Episode 10: Dinosaurs With Guns: Part IV",
+            "id": "27990",
+            "slug": "heroes-halfwits-2018-10",
+            "date": "2018-07-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation - Episode 9: Dinosaurs With Guns: Part III",
+            "id": "27752",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-episode-9-dinosaurs-with-guns-part-iii",
+            "date": "2018-07-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation - Episode 8: Dinosaurs With Guns: Part II",
+            "id": "27568",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-dinosaurs-with-guns-part-ii",
+            "date": "2018-06-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation - Episode 7: Dinosaurs With Guns: Part I",
+            "id": "27271",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-episode-7-dinosaurs-with-guns-part-i",
+            "date": "2018-06-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation Episode 6 - Father and Errant Children: Part IV",
+            "id": "27066",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-episode-6-father-and-errant-children-part-iv",
+            "date": "2018-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation Episode 5 - Fathers and Errant Children: Part III",
+            "id": "26910",
+            "slug": "heroes-halfwits-2018-5",
+            "date": "2018-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation Episode 4 - Fathers and Errant Children: Part II",
+            "id": "26735",
+            "slug": "heroes-halfwits-2018-4",
+            "date": "2018-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation Episode 3 - Fathers and Errant Children: Part I",
+            "id": "26536",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-episode-3-fathers-and-errant-children-part-i",
+            "date": "2018-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation Episode 2 - \"The Year of the Dog: Part II\"",
+            "id": "26346",
+            "slug": "heroes-halfwits-2018-the-mechs-generation-episode-2-the-year-of-the-dog-part-ii",
+            "date": "2018-04-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mechs Generation Episode 1 - \"The Year of the Dog\"",
+            "id": "26066",
+            "slug": "heroes-halfwits-2018-the-tomb-of-horrors-chapter-5-what-emerges-in-the-dark",
+            "date": "2018-03-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 6: The Final Descent",
+            "id": "2358",
+            "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-6-df-6g5",
+            "date": "2017-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 5: What Emerges in the Dark",
+            "id": "2359",
+            "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-5-d6fgh54",
+            "date": "2017-11-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 4: Twisting In the Wind",
+            "id": "2360",
+            "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-4-er6gh5",
+            "date": "2017-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors Chapter 3: A Tomb With A View",
+            "id": "2361",
+            "slug": "heroes-halfwits-season-2-the-tomb-of-horrors-chapter-3-a-tomb-with-a-view",
+            "date": "2017-11-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 2: There Are Doors",
+            "id": "2363",
+            "slug": "heroes-halfwits-season-2-there-are-doors",
+            "date": "2017-10-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 1: Old Dog, New Tricks",
+            "id": "2362",
+            "slug": "heroes-halfwits-season-2-loiukhh-kl-lk-kkkk",
+            "date": "2017-10-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dream a Little Dream - #34",
+            "id": "2364",
+            "slug": "heroes-halfwits-season-2-dream-a-little-dream-2",
+            "date": "2017-09-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#33 Post Show",
+            "id": "89",
+            "slug": "heroes-halfwits-season-2-33-post-show",
+            "date": "2017-09-07",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Should Old Acquaintances Be Forgot - #33",
+            "id": "2365",
+            "slug": "heroes-halfwits-season-2-should-old-acquaintances-be-forgot-33",
+            "date": "2017-09-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#32 - Post Show",
+            "id": "90",
+            "slug": "heroes-halfwits-season-2-32-post-show",
+            "date": "2017-08-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Bor Ealis Shuffle - #32",
+            "id": "2366",
+            "slug": "heroes-halfwits-season-2-the-bor-ealis-shuffle-32",
+            "date": "2017-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#31 Post Show",
+            "id": "92",
+            "slug": "heroes-halfwits-season-2-31-post-show",
+            "date": "2017-08-10",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ribcage Rumble - #31",
+            "id": "2367",
+            "slug": "heroes-halfwits-season-2-episode",
+            "date": "2017-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#30 Post Show",
+            "id": "93",
+            "slug": "heroes-halfwits-season-2-30-post-show-0835-hjg",
+            "date": "2017-05-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "\"Stuck In the Ribcage With You\" - #30",
+            "id": "2368",
+            "slug": "heroes-halfwits-season-2-30-sf83jg",
+            "date": "2017-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#29 Post Show",
+            "id": "91",
+            "slug": "heroes-halfwits-season-2-29-post-show-297-be7",
+            "date": "2017-05-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mysterious Goings-On & How Art Can Save the Licentious - #29",
+            "id": "2369",
+            "slug": "heroes-halfwits-season-2-29-y9wn6f",
+            "date": "2017-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#28 Post Show",
+            "id": "95",
+            "slug": "heroes-halfwits-season-2-28-post-show-92-i74h",
+            "date": "2017-04-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Anamnesis Upheaval - #28",
+            "id": "2370",
+            "slug": "heroes-halfwits-season-2-28-385-nso",
+            "date": "2017-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#27 Post Show",
+            "id": "94",
+            "slug": "heroes-halfwits-season-2-27-post-show-oo3h95",
+            "date": "2017-04-05",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hex, Drugs, & Clocks That Toll - #27",
+            "id": "2371",
+            "slug": "heroes-halfwits-season-2-27-aif37h",
+            "date": "2017-04-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#26 Post Show",
+            "id": "96",
+            "slug": "heroes-halfwits-season-2-26-post-show-k7agfh",
+            "date": "2017-03-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Of Fear and Other Strange Drugs - #26",
+            "id": "2372",
+            "slug": "heroes-halfwits-season-2-26-ak7gh8",
+            "date": "2017-03-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#25 Post Show",
+            "id": "97",
+            "slug": "heroes-halfwits-season-2-25-post-show-a8fbm4",
+            "date": "2017-03-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blood and Darkness - #25",
+            "id": "2374",
+            "slug": "heroes-halfwits-season-2-25-082-gj6",
+            "date": "2017-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#24 Post Show",
+            "id": "98",
+            "slug": "heroes-halfwits-season-2-24-post-show-nai7fgf",
+            "date": "2017-02-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Green With Envy - #24",
+            "id": "2373",
+            "slug": "heroes-halfwits-season-2-24-abuavt",
+            "date": "2017-02-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#23 Post Show",
+            "id": "99",
+            "slug": "heroes-halfwits-season-2-23-post-show-n8a6jk",
+            "date": "2017-02-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pyromania - #23",
+            "id": "2375",
+            "slug": "heroes-halfwits-season-2-23-7-abj7a",
+            "date": "2017-02-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#22 Post Show",
+            "id": "100",
+            "slug": "heroes-halfwits-season-2-22-post-show-8-a6bal",
+            "date": "2017-01-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Revelations #22",
+            "id": "2376",
+            "slug": "heroes-halfwits-season-2",
+            "date": "2017-01-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#21 Post Show",
+            "id": "101",
+            "slug": "heroes-halfwits-season-2-21-post-show-o97fnh",
+            "date": "2017-01-11",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Search for the Spy Master - #21",
+            "id": "2379",
+            "slug": "heroes-halfwits-season-2-201",
+            "date": "2017-01-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Christmas Horde Mode Special",
+            "id": "102",
+            "slug": "heroes-halfwits-season-1-horde-mode-heroes-and-halfwits-christmas-special",
+            "date": "2016-12-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #20",
+            "id": "103",
+            "slug": "heroes-halfwits-season-1-post-show-20",
+            "date": "2016-10-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 20",
+            "id": "2378",
+            "slug": "heroes-halfwits-season-1-episode-20",
+            "date": "2016-10-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #19",
+            "id": "104",
+            "slug": "heroes-halfwits-season-1-post-show-19",
+            "date": "2016-10-14",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 19",
+            "id": "2377",
+            "slug": "heroes-halfwits-season-1-episode-19",
+            "date": "2016-10-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #18",
+            "id": "105",
+            "slug": "heroes-halfwits-season-1-post-show-18",
+            "date": "2016-10-07",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 18",
+            "id": "2380",
+            "slug": "heroes-halfwits-season-1-episode-18",
+            "date": "2016-10-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #17",
+            "id": "106",
+            "slug": "heroes-halfwits-season-1-post-show-17",
+            "date": "2016-09-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 17",
+            "id": "2381",
+            "slug": "heroes-halfwits-season-1-episode-17",
+            "date": "2016-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #16",
+            "id": "107",
+            "slug": "heroes-halfwits-season-1-post-show-16",
+            "date": "2016-09-23",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 16",
+            "id": "2382",
+            "slug": "heroes-halfwits-season-1-episode-16",
+            "date": "2016-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #15",
+            "id": "108",
+            "slug": "heroes-halfwits-season-1-post-show-15",
+            "date": "2016-09-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 15",
+            "id": "2383",
+            "slug": "heroes-halfwits-season-1-episode-15",
+            "date": "2016-09-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #14",
+            "id": "109",
+            "slug": "heroes-halfwits-season-1-post-show-14",
+            "date": "2016-09-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 14",
+            "id": "2384",
+            "slug": "heroes-halfwits-season-1-episode-14",
+            "date": "2016-09-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #13",
+            "id": "110",
+            "slug": "heroes-halfwits-season-1-post-show-13",
+            "date": "2016-09-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 13",
+            "id": "2385",
+            "slug": "heroes-halfwits-season-1-episode-13",
+            "date": "2016-09-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #12",
+            "id": "111",
+            "slug": "heroes-halfwits-season-1-post-show-12",
+            "date": "2016-08-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 12",
+            "id": "2386",
+            "slug": "heroes-halfwits-season-1-episode-12",
+            "date": "2016-08-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #11",
+            "id": "112",
+            "slug": "heroes-halfwits-season-1-post-show-11",
+            "date": "2016-08-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 11",
+            "id": "2388",
+            "slug": "heroes-halfwits-season-1-episode-11",
+            "date": "2016-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Post Show #10",
+            "id": "113",
+            "slug": "heroes-halfwits-season-1-post-show-10",
+            "date": "2016-08-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Ten",
+            "id": "2387",
+            "slug": "heroes-halfwits-season-1-episode-ten",
+            "date": "2016-08-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Nine",
+            "id": "2389",
+            "slug": "heroes-halfwits-season-1-episode-nine",
+            "date": "2016-08-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Eight",
+            "id": "2390",
+            "slug": "heroes-halfwits-season-1-episode-eight",
+            "date": "2016-07-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Seven",
+            "id": "2391",
+            "slug": "heroes-halfwits-season-1-episode-seven",
+            "date": "2016-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Six",
+            "id": "2392",
+            "slug": "heroes-halfwits-season-1-episode-six",
+            "date": "2016-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Five",
+            "id": "2393",
+            "slug": "heroes-halfwits-season-1-episode-five",
+            "date": "2016-07-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Four",
+            "id": "2394",
+            "slug": "heroes-halfwits-season-1-episode-four",
+            "date": "2016-06-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Three",
+            "id": "2395",
+            "slug": "heroes-halfwits-season-1-episode-three",
+            "date": "2016-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode Two",
+            "id": "2396",
+            "slug": "heroes-halfwits-season-1-episode-two",
+            "date": "2016-06-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode One",
+            "id": "2397",
+            "slug": "heroes-halfwits-season-1-episode-one",
+            "date": "2016-06-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

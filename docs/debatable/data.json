@@ -1,1 +1,143 @@
-{"show": "Debatable", "slug": "debatable", "summary": {"count": 13, "uploaded": 13, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Top 10 Celebrities", "id": "32524", "slug": "debatable-season-1-top-10-celebrities-debatable", "date": "2019-04-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 TGIF Shows", "id": "32429", "slug": "debatable-season-1-top-10-tgif-shows-debatable", "date": "2019-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Pop Punk Bands", "id": "32360", "slug": "debatable-season-1-top-10-pop-punk-bands-debatable", "date": "2019-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Kevin Smith Movie Moments", "id": "31894", "slug": "debatable-season-1-top-10-kevin-smith-movie-moments-debatable", "date": "2019-03-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Fast Food Restaurants", "id": "31778", "slug": "debatable-season-1-top-10-fast-food-restaurants-debatable", "date": "2019-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Popstars", "id": "31658", "slug": "debatable-season-1-top-10-popstars-debatable", "date": "2019-03-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 WWE Superstars", "id": "31557", "slug": "debatable-season-1-top-10-wwe-superstars-debatable-ep-7", "date": "2019-02-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 MCU Heroes", "id": "31140", "slug": "debatable-season-1-top-10-mcu-heroes-debatable-ep-2", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 PS4 Games", "id": "31109", "slug": "debatable-season-1-top-10-ps4-games-debatable-ep-3", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Disney Channel Original Movies", "id": "31097", "slug": "debatable-season-1-top-10-disney-channel-original-movies-debatable-ep-5", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 '90s Comedies", "id": "31093", "slug": "debatable-season-1-top-10-90s-comedies-debatable-ep-1", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nolan North vs. Troy Baker", "id": "31084", "slug": "debatable-season-1-nolan-north-vs-troy-baker-debatable-ep-6", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Top 10 Movie Monsters", "id": "31058", "slug": "debatable-season-1-top-10-movie-monsters-debatable-ep-4", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Debatable",
+    "slug": "debatable",
+    "summary": {
+        "count": 13,
+        "uploaded": 13,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Top 10 Celebrities",
+            "id": "32524",
+            "slug": "debatable-season-1-top-10-celebrities-debatable",
+            "date": "2019-04-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 TGIF Shows",
+            "id": "32429",
+            "slug": "debatable-season-1-top-10-tgif-shows-debatable",
+            "date": "2019-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Pop Punk Bands",
+            "id": "32360",
+            "slug": "debatable-season-1-top-10-pop-punk-bands-debatable",
+            "date": "2019-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Kevin Smith Movie Moments",
+            "id": "31894",
+            "slug": "debatable-season-1-top-10-kevin-smith-movie-moments-debatable",
+            "date": "2019-03-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Fast Food Restaurants",
+            "id": "31778",
+            "slug": "debatable-season-1-top-10-fast-food-restaurants-debatable",
+            "date": "2019-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Popstars",
+            "id": "31658",
+            "slug": "debatable-season-1-top-10-popstars-debatable",
+            "date": "2019-03-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 WWE Superstars",
+            "id": "31557",
+            "slug": "debatable-season-1-top-10-wwe-superstars-debatable-ep-7",
+            "date": "2019-02-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 MCU Heroes",
+            "id": "31140",
+            "slug": "debatable-season-1-top-10-mcu-heroes-debatable-ep-2",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 PS4 Games",
+            "id": "31109",
+            "slug": "debatable-season-1-top-10-ps4-games-debatable-ep-3",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Disney Channel Original Movies",
+            "id": "31097",
+            "slug": "debatable-season-1-top-10-disney-channel-original-movies-debatable-ep-5",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 '90s Comedies",
+            "id": "31093",
+            "slug": "debatable-season-1-top-10-90s-comedies-debatable-ep-1",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nolan North vs. Troy Baker",
+            "id": "31084",
+            "slug": "debatable-season-1-nolan-north-vs-troy-baker-debatable-ep-6",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Top 10 Movie Monsters",
+            "id": "31058",
+            "slug": "debatable-season-1-top-10-movie-monsters-debatable-ep-4",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

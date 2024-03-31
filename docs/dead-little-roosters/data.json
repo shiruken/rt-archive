@@ -1,1 +1,133 @@
-{"show": "Dead Little Roosters", "slug": "dead-little-roosters", "summary": {"count": 12, "uploaded": 12, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "***SPOILERS!*** Dead Little Bloopers", "id": "1453-bonus", "slug": "dead-little-roosters-bloopers", "date": "2021-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Truth & Consequence", "id": "42560", "slug": "dead-little-roosters-season-1-episode-8", "date": "2021-02-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Disillusion", "id": "42516", "slug": "dead-little-roosters-season-1-episode-7", "date": "2021-02-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "No Love Lost", "id": "42454", "slug": "dead-little-roosters-season-1-episode-6", "date": "2021-02-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dead Little Roosters Mid-Season Trailer", "id": "1449-bonus", "slug": "dead-little-roosters-mid-season-trailer", "date": "2021-02-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deceived", "id": "42356", "slug": "dead-little-roosters-season-1-episode-5", "date": "2021-02-05", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Amid a Murderer", "id": "42266", "slug": "dead-little-roosters-season-1-episode-4", "date": "2021-01-29", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ghosted", "id": "42176", "slug": "dead-little-roosters-season-1-episode-3", "date": "2021-01-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Suspicious Minds", "id": "42101", "slug": "dead-little-roosters-season-1-episode-2", "date": "2021-01-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dead Little Roosters Watch Party", "id": "1442-bonus", "slug": "rooster-teeth-streams-2021-watch-party-dead-little-roosters", "date": "2021-01-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Guest-Laid Plans", "id": "42018", "slug": "dead-little-roosters-season-1-episode-1", "date": "2021-01-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dead Little Roosters - Official Trailer", "id": "41648", "slug": "dead-little-roosters-season-1-trailer", "date": "2020-12-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Dead Little Roosters",
+    "slug": "dead-little-roosters",
+    "summary": {
+        "count": 12,
+        "uploaded": 12,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "***SPOILERS!*** Dead Little Bloopers",
+            "id": "1453-bonus",
+            "slug": "dead-little-roosters-bloopers",
+            "date": "2021-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Truth & Consequence",
+            "id": "42560",
+            "slug": "dead-little-roosters-season-1-episode-8",
+            "date": "2021-02-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Disillusion",
+            "id": "42516",
+            "slug": "dead-little-roosters-season-1-episode-7",
+            "date": "2021-02-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "No Love Lost",
+            "id": "42454",
+            "slug": "dead-little-roosters-season-1-episode-6",
+            "date": "2021-02-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dead Little Roosters Mid-Season Trailer",
+            "id": "1449-bonus",
+            "slug": "dead-little-roosters-mid-season-trailer",
+            "date": "2021-02-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deceived",
+            "id": "42356",
+            "slug": "dead-little-roosters-season-1-episode-5",
+            "date": "2021-02-05",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Amid a Murderer",
+            "id": "42266",
+            "slug": "dead-little-roosters-season-1-episode-4",
+            "date": "2021-01-29",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ghosted",
+            "id": "42176",
+            "slug": "dead-little-roosters-season-1-episode-3",
+            "date": "2021-01-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Suspicious Minds",
+            "id": "42101",
+            "slug": "dead-little-roosters-season-1-episode-2",
+            "date": "2021-01-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dead Little Roosters Watch Party",
+            "id": "1442-bonus",
+            "slug": "rooster-teeth-streams-2021-watch-party-dead-little-roosters",
+            "date": "2021-01-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Guest-Laid Plans",
+            "id": "42018",
+            "slug": "dead-little-roosters-season-1-episode-1",
+            "date": "2021-01-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dead Little Roosters - Official Trailer",
+            "id": "41648",
+            "slug": "dead-little-roosters-season-1-trailer",
+            "date": "2020-12-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

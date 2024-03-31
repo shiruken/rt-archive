@@ -1,1 +1,153 @@
-{"show": "Mysterious Monsters", "slug": "mysterious-monsters", "summary": {"count": 14, "uploaded": 14, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Fellowship of the Dog!", "id": "45353", "slug": "mysterious-monsters-season-2-the-fellowship-of-the-dog", "date": "2021-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bad Boy Monster Daddies! - Tyler Hutchison, Kyle Bosman, Bradley Ellis", "id": "40819", "slug": "mysterious-monsters-season-1-bad-boy-monster-daddies-tyler-hutchison-kyle-bosman-bradley-ellis-mysterious-monsters", "date": "2020-10-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Titans! - Lawrence Sonntag, Bruce Greene, Michael Damiani", "id": "40816", "slug": "mysterious-monsters-season-1-titans-lawrence-sonntag-bruce-greene-michael-damiani-mysterious-monsters", "date": "2020-06-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bright Beginnings! - Brandon, Jessica Lynn Verdi, Damiani", "id": "40827", "slug": "mysterious-monsters-season-1-bright-beginnings-brandon-jessica-lynn-verdi-damiani", "date": "2020-04-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Items Vs Pure Grit! - Kyle Bosman, Don Casanova, Noah Rayne", "id": "40826", "slug": "mysterious-monsters-season-1-items-vs-pure-grit-kyle-bosman-don-casanova-noah-rayne", "date": "2020-04-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bloody Battle! - Daniel Bloodworth vs Husband and Wife Chris Nguyen and Pamela Tsing!", "id": "40825", "slug": "mysterious-monsters-season-1-bloody-battle-daniel-bloodworth-vs-husband-and-wife-chris-nguyen-and-pamela-tsing", "date": "2020-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Total Chaos! - AJ LoCascio, Matthew Walden, Ben Moore", "id": "40824", "slug": "mysterious-monsters-season-1-total-chaos-aj-locascio-matthew-walden-ben-moore", "date": "2020-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Accidental Allies - Elyse Willems, Ashly Burch, Erica Lindbeck", "id": "40823", "slug": "mysterious-monsters-season-1-accidental-allies-elyse-willems-ashly-burch-erica-lindbeck", "date": "2020-04-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bitterest of Rivals! - Gabby Montoute, Uli Gurgel, Justin Yngelmo", "id": "40822", "slug": "mysterious-monsters-season-1-bitterest-of-rivals-gabby-montoute-uli-gurgel-justin-yngelmo", "date": "2020-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bonds! - Brandon Jones, Amanda Troop, Jessica Lynn Verdi", "id": "40821", "slug": "mysterious-monsters-season-1-bonds-brandon-jones-amanda-troop-jessica-lynn-verdi", "date": "2020-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Game Dev Showdown! - Asher Vollmer (Threes), Felix Park (Uncharted 4), Alex Belzer (God of War)", "id": "40820", "slug": "mysterious-monsters-season-1-game-dev-showdown-asher-vollmer-threes-felix-park-uncharted-4-alex-belzer-god-of-war", "date": "2020-04-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Easy Alliances! - Beth May, Ben Moore, Sean Clinton", "id": "40818", "slug": "mysterious-monsters-season-1-easy-alliances-beth-may-ben-moore-sean-clinton-mysterious-monsters", "date": "2020-04-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Band Together! - Freddie Wong, Tamara Bruketta, Josh Wolf", "id": "40817", "slug": "mysterious-monsters-season-1-band-together-freddie-wong-tamara-bruketta-josh-wolf-mysterious-monsters", "date": "2020-04-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battle of the Bots! - Alexa vs. Google vs. Siri - Bonus Episode", "id": "40815", "slug": "mysterious-monsters-season-1-battle-of-the-bots-alexa-vs-google-vs-siri-bonus-episode", "date": "2020-04-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Mysterious Monsters",
+    "slug": "mysterious-monsters",
+    "summary": {
+        "count": 14,
+        "uploaded": 14,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Fellowship of the Dog!",
+            "id": "45353",
+            "slug": "mysterious-monsters-season-2-the-fellowship-of-the-dog",
+            "date": "2021-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bad Boy Monster Daddies! - Tyler Hutchison, Kyle Bosman, Bradley Ellis",
+            "id": "40819",
+            "slug": "mysterious-monsters-season-1-bad-boy-monster-daddies-tyler-hutchison-kyle-bosman-bradley-ellis-mysterious-monsters",
+            "date": "2020-10-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Titans! - Lawrence Sonntag, Bruce Greene, Michael Damiani",
+            "id": "40816",
+            "slug": "mysterious-monsters-season-1-titans-lawrence-sonntag-bruce-greene-michael-damiani-mysterious-monsters",
+            "date": "2020-06-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bright Beginnings! - Brandon, Jessica Lynn Verdi, Damiani",
+            "id": "40827",
+            "slug": "mysterious-monsters-season-1-bright-beginnings-brandon-jessica-lynn-verdi-damiani",
+            "date": "2020-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Items Vs Pure Grit! - Kyle Bosman, Don Casanova, Noah Rayne",
+            "id": "40826",
+            "slug": "mysterious-monsters-season-1-items-vs-pure-grit-kyle-bosman-don-casanova-noah-rayne",
+            "date": "2020-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bloody Battle! - Daniel Bloodworth vs Husband and Wife Chris Nguyen and Pamela Tsing!",
+            "id": "40825",
+            "slug": "mysterious-monsters-season-1-bloody-battle-daniel-bloodworth-vs-husband-and-wife-chris-nguyen-and-pamela-tsing",
+            "date": "2020-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Total Chaos! - AJ LoCascio, Matthew Walden, Ben Moore",
+            "id": "40824",
+            "slug": "mysterious-monsters-season-1-total-chaos-aj-locascio-matthew-walden-ben-moore",
+            "date": "2020-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Accidental Allies - Elyse Willems, Ashly Burch, Erica Lindbeck",
+            "id": "40823",
+            "slug": "mysterious-monsters-season-1-accidental-allies-elyse-willems-ashly-burch-erica-lindbeck",
+            "date": "2020-04-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bitterest of Rivals! - Gabby Montoute, Uli Gurgel, Justin Yngelmo",
+            "id": "40822",
+            "slug": "mysterious-monsters-season-1-bitterest-of-rivals-gabby-montoute-uli-gurgel-justin-yngelmo",
+            "date": "2020-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bonds! - Brandon Jones, Amanda Troop, Jessica Lynn Verdi",
+            "id": "40821",
+            "slug": "mysterious-monsters-season-1-bonds-brandon-jones-amanda-troop-jessica-lynn-verdi",
+            "date": "2020-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Game Dev Showdown! - Asher Vollmer (Threes), Felix Park (Uncharted 4), Alex Belzer (God of War)",
+            "id": "40820",
+            "slug": "mysterious-monsters-season-1-game-dev-showdown-asher-vollmer-threes-felix-park-uncharted-4-alex-belzer-god-of-war",
+            "date": "2020-04-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Easy Alliances! - Beth May, Ben Moore, Sean Clinton",
+            "id": "40818",
+            "slug": "mysterious-monsters-season-1-easy-alliances-beth-may-ben-moore-sean-clinton-mysterious-monsters",
+            "date": "2020-04-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Band Together! - Freddie Wong, Tamara Bruketta, Josh Wolf",
+            "id": "40817",
+            "slug": "mysterious-monsters-season-1-band-together-freddie-wong-tamara-bruketta-josh-wolf-mysterious-monsters",
+            "date": "2020-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battle of the Bots! - Alexa vs. Google vs. Siri - Bonus Episode",
+            "id": "40815",
+            "slug": "mysterious-monsters-season-1-battle-of-the-bots-alexa-vs-google-vs-siri-bonus-episode",
+            "date": "2020-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

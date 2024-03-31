@@ -1,1 +1,113 @@
-{"show": "Please Be Nice To Me", "slug": "please-be-nice-to-me", "summary": {"count": 10, "uploaded": 10, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Dungeons and Daddies and Decency - Please Be Nice To Me", "id": "52211", "slug": "please-be-nice-to-me-2023-pbntm10", "date": "2023-12-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Releasing Tension with Mythical - Please Be Nice To Me", "id": "51948", "slug": "please-be-nice-to-me-2023-pbntmmyth", "date": "2023-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "NO Tricks ALL Treats - Please Be Nice To Me", "id": "51734", "slug": "please-be-nice-to-me-2023-pbntmspook", "date": "2023-10-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Insulting Our Worst Bosses (Nicely) - Please Be Nice To Me", "id": "51547", "slug": "please-be-nice-to-me-2023-pbntmcow", "date": "2023-09-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "We Make Everyone Cry - Please Be Nice to Me", "id": "51348", "slug": "please-be-nice-to-me-2023-pbntmmando", "date": "2023-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "How to Behave at The Office - Please Be Nice to Me", "id": "51215", "slug": "please-be-nice-to-me-2023-pbntm5", "date": "2023-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bro-ing Down with Smosh Gaming - Please Be Nice to Me", "id": "51026", "slug": "please-be-nice-to-me-2023-pbntm4", "date": "2023-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Do Not Watch If Australian - Please Be Nice to Me", "id": "50881", "slug": "please-be-nice-to-me-2023-pbntm3", "date": "2023-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "This Party Sucks - Please Be Nice to Me", "id": "50715", "slug": "please-be-nice-to-me-2023-pbntm2", "date": "2023-04-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lying and Cheating to Prove Who's Nicest - Please Be Nice to Me", "id": "50532", "slug": "please-be-nice-to-me-2023-pbntm1", "date": "2023-03-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Please Be Nice To Me",
+    "slug": "please-be-nice-to-me",
+    "summary": {
+        "count": 10,
+        "uploaded": 10,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Dungeons and Daddies and Decency - Please Be Nice To Me",
+            "id": "52211",
+            "slug": "please-be-nice-to-me-2023-pbntm10",
+            "date": "2023-12-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Releasing Tension with Mythical - Please Be Nice To Me",
+            "id": "51948",
+            "slug": "please-be-nice-to-me-2023-pbntmmyth",
+            "date": "2023-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "NO Tricks ALL Treats - Please Be Nice To Me",
+            "id": "51734",
+            "slug": "please-be-nice-to-me-2023-pbntmspook",
+            "date": "2023-10-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Insulting Our Worst Bosses (Nicely) - Please Be Nice To Me",
+            "id": "51547",
+            "slug": "please-be-nice-to-me-2023-pbntmcow",
+            "date": "2023-09-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "We Make Everyone Cry - Please Be Nice to Me",
+            "id": "51348",
+            "slug": "please-be-nice-to-me-2023-pbntmmando",
+            "date": "2023-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "How to Behave at The Office - Please Be Nice to Me",
+            "id": "51215",
+            "slug": "please-be-nice-to-me-2023-pbntm5",
+            "date": "2023-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bro-ing Down with Smosh Gaming - Please Be Nice to Me",
+            "id": "51026",
+            "slug": "please-be-nice-to-me-2023-pbntm4",
+            "date": "2023-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Do Not Watch If Australian - Please Be Nice to Me",
+            "id": "50881",
+            "slug": "please-be-nice-to-me-2023-pbntm3",
+            "date": "2023-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "This Party Sucks - Please Be Nice to Me",
+            "id": "50715",
+            "slug": "please-be-nice-to-me-2023-pbntm2",
+            "date": "2023-04-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lying and Cheating to Prove Who's Nicest - Please Be Nice to Me",
+            "id": "50532",
+            "slug": "please-be-nice-to-me-2023-pbntm1",
+            "date": "2023-03-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

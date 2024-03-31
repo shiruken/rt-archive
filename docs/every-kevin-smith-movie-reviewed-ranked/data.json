@@ -1,1 +1,83 @@
-{"show": "Every Kevin Smith Movie Reviewed & Ranked", "slug": "every-kevin-smith-movie-reviewed-ranked", "summary": {"count": 7, "uploaded": 7, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Clerks 3 In Review", "id": "49313", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-clerks-3-in-review", "date": "2022-09-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jay and Silent Bob Reboot", "id": "38969", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-jay-and-silent-bob-reboot-every-kevin-smith-view-askewniverse-movie-reviewed-ranked", "date": "2020-06-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Clerks II", "id": "38929", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-clerks-ii-every-kevin-smith-view-askewniverse-movie-reviewed-ranked", "date": "2020-06-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dogma", "id": "38928", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-dogma-every-kevin-smith-view-askewniverse-movie-reviewed-ranked", "date": "2020-06-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chasing Amy", "id": "38927", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-chasing-amy-every-kevin-smith-view-askewniverse-movie-reviewed-ranked", "date": "2020-06-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mallrats", "id": "38926", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-mallrats-every-kevin-smith-view-askewniverse-movie-reviewed-ranked", "date": "2020-06-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Clerks", "id": "38925", "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-clerks-every-kevin-smith-view-askewniverse-movie-reviewed-ranked", "date": "2020-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Kevin Smith Movie Reviewed & Ranked",
+    "slug": "every-kevin-smith-movie-reviewed-ranked",
+    "summary": {
+        "count": 7,
+        "uploaded": 7,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Clerks 3 In Review",
+            "id": "49313",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-clerks-3-in-review",
+            "date": "2022-09-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jay and Silent Bob Reboot",
+            "id": "38969",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-jay-and-silent-bob-reboot-every-kevin-smith-view-askewniverse-movie-reviewed-ranked",
+            "date": "2020-06-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Clerks II",
+            "id": "38929",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-clerks-ii-every-kevin-smith-view-askewniverse-movie-reviewed-ranked",
+            "date": "2020-06-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dogma",
+            "id": "38928",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-dogma-every-kevin-smith-view-askewniverse-movie-reviewed-ranked",
+            "date": "2020-06-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chasing Amy",
+            "id": "38927",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-chasing-amy-every-kevin-smith-view-askewniverse-movie-reviewed-ranked",
+            "date": "2020-06-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mallrats",
+            "id": "38926",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-mallrats-every-kevin-smith-view-askewniverse-movie-reviewed-ranked",
+            "date": "2020-06-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Clerks",
+            "id": "38925",
+            "slug": "every-kevin-smith-movie-reviewed-ranked-every-kevin-smith-movie-reviewed-ranked-clerks-every-kevin-smith-view-askewniverse-movie-reviewed-ranked",
+            "date": "2020-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

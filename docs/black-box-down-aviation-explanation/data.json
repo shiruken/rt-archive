@@ -1,1 +1,73 @@
-{"show": "Black Box Down Aviation Explanation", "slug": "black-box-down-aviation-explanation", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "How Does a Plane Fly Without a Roof?!", "id": "46369", "slug": "black-box-down-aviation-explanation-2021-6", "date": "2021-12-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What Causes the Rear Wing to Rip Off a Plane?", "id": "46311", "slug": "black-box-down-aviation-explanation-2021-5", "date": "2021-12-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Crazy Series of Errors Leads to Planes Colliding Midair", "id": "46218", "slug": "black-box-down-aviation-explanation-2021-4", "date": "2021-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What Happens When 2 Pilots Cancel Each Other Out?!", "id": "46217", "slug": "black-box-down-aviation-explanation-2021-3", "date": "2021-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What Happens When Pilots Can't See?", "id": "46155", "slug": "black-box-down-animated-2021-2", "date": "2021-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "How a Plane Crashed into a Seawall! | Aviation Explanation", "id": "46154", "slug": "black-box-down-animated-2021-1", "date": "2021-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Black Box Down Aviation Explanation",
+    "slug": "black-box-down-aviation-explanation",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "How Does a Plane Fly Without a Roof?!",
+            "id": "46369",
+            "slug": "black-box-down-aviation-explanation-2021-6",
+            "date": "2021-12-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What Causes the Rear Wing to Rip Off a Plane?",
+            "id": "46311",
+            "slug": "black-box-down-aviation-explanation-2021-5",
+            "date": "2021-12-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Crazy Series of Errors Leads to Planes Colliding Midair",
+            "id": "46218",
+            "slug": "black-box-down-aviation-explanation-2021-4",
+            "date": "2021-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What Happens When 2 Pilots Cancel Each Other Out?!",
+            "id": "46217",
+            "slug": "black-box-down-aviation-explanation-2021-3",
+            "date": "2021-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What Happens When Pilots Can't See?",
+            "id": "46155",
+            "slug": "black-box-down-animated-2021-2",
+            "date": "2021-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "How a Plane Crashed into a Seawall! | Aviation Explanation",
+            "id": "46154",
+            "slug": "black-box-down-animated-2021-1",
+            "date": "2021-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

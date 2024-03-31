@@ -1,1 +1,893 @@
-{"show": "RTX", "slug": "rtx", "summary": {"count": 88, "uploaded": 88, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Biggest News from RTX 2023", "id": "51357", "slug": "rtx-2023-8-10", "date": "2023-08-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Animation Festival Presents: RWBY", "id": "48684", "slug": "rtx-2022-rwby-panel", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter 2", "id": "48679", "slug": "rtx-2022-ah-panel-2", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter 1", "id": "48678", "slug": "rtx-2022-ah-panel-1", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Funhaus Panel", "id": "48604", "slug": "rtx-2022-funhaus-panel", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Werewolves", "id": "48603", "slug": "rtx-2022-werewolves", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "On The Spot", "id": "48602", "slug": "rtx-2022-on-the-spot", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Animation Festival: Red vs. Blue: Back to Base-ics", "id": "48677", "slug": "rtx-2022-rvb-panel", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning From Hell @ RT Hexpo Presents: The Future of Hell", "id": "44699", "slug": "rtx-2021-good-morning-from-hell", "date": "2021-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX at Home 2021 - Ten Days of Greatness", "id": "44580", "slug": "rtx-2021-wrap-up", "date": "2021-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Staying Zen", "id": "44567", "slug": "rtx-2021-staying-zen", "date": "2021-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Unruly Rollers", "id": "44576", "slug": "rtx-2021-unruly-rollers", "date": "2021-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Representation in Animation", "id": "44560", "slug": "rtx-2021-representation-in-animation", "date": "2021-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Face Jam - Snack Attack", "id": "44547", "slug": "rtx-2021-face-jam-snack-attack", "date": "2021-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AH Post Team", "id": "44543", "slug": "rtx-2021-ah-post-team-rtx", "date": "2021-07-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Women of Rooster Teeth", "id": "44544", "slug": "rtx-2021-women-of-rooster-teeth", "date": "2021-07-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Decade of Death Battle", "id": "44509", "slug": "rtx-2021-decade-of-death-battle", "date": "2021-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Better Together: Building A More Inclusive Rooster Teeth", "id": "44501", "slug": "rtx-2021-better-together-panel", "date": "2021-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cults, Crashes, and Conspiracies", "id": "44528", "slug": "rtx-2021-cults-crashes-and-conspiracies", "date": "2021-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Funhaus", "id": "44513", "slug": "rtx-2021-funhaus-panel", "date": "2021-07-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter Week 2", "id": "44527", "slug": "rtx-2021-achievement-hunter-2", "date": "2021-07-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red vs. Blue: ZERO: Wheels Up", "id": "44480", "slug": "rtx-2021-rvb-zero-wheels-up", "date": "2021-07-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Camp Betrayal", "id": "44500", "slug": "rtx-2021-camp-betrayal", "date": "2021-07-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes of Red Web", "id": "44520", "slug": "rtx-2021-red-web", "date": "2021-07-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "WEBTOON: Webcomic to Animation", "id": "44489", "slug": "rtx-2021-webtoon-panel", "date": "2021-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "OT3: Observers of Tales, Truths, and Trivia", "id": "44493", "slug": "ot3-podcast-2021-7-16", "date": "2021-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY Beyond", "id": "44434", "slug": "rtx-2021-rwby-beyond", "date": "2021-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "F**KFACE BREAKS SH*T AT RTX", "id": "44494", "slug": "f-kface-2021-7-14", "date": "2021-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Virtual Cosplay Contest", "id": "44461", "slug": "rtx-2021-virtual-cosplay-contest", "date": "2021-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Women in Animation: Storytelling", "id": "44472", "slug": "rtx-2021-women-in-animation", "date": "2021-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ultimate Anime Bracket w/ RDCWorld1", "id": "44484", "slug": "rtx-2021-ultimate-anime-bracket", "date": "2021-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Let's Play Among Us", "id": "44485", "slug": "rtx-2021-lets-play-among-us", "date": "2021-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Neon Konbini", "id": "44423", "slug": "rtx-2021-neon-konbini", "date": "2021-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "G FUEL Presents: The Feast and The Furious Overcooked Tournament", "id": "44469", "slug": "rtx-2021-gfuel", "date": "2021-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fun(haus) & Games", "id": "44462", "slug": "rtx-2021-funhaus-and-games", "date": "2021-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "From Art to Story: Story Artists in Animation", "id": "44422", "slug": "rtx-2021-story-artists-in-animation", "date": "2021-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Animated Adventures Panel of Adventure", "id": "44468", "slug": "rtx-2021-animated-adventures", "date": "2021-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Our Voice, Our Power: Women in Podcasting", "id": "44459", "slug": "rtx-2021-women-in-podcasting", "date": "2021-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter", "id": "44451", "slug": "rtx-2021-achievement-hunter", "date": "2021-07-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RT Rainbow Panel", "id": "44450", "slug": "rtx-2021-rainbow-panel", "date": "2021-07-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY", "id": "44421", "slug": "rtx-2021-rwby-panel", "date": "2021-07-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Annual Pass", "id": "44449", "slug": "annual-pass-2021-7-13", "date": "2021-07-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FIRST Night", "id": "44415", "slug": "rtx-2021-first-night", "date": "2021-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Model Employees RTX At Home Special! - Model Employees", "id": "40562", "slug": "rtx-2020-model-employees", "date": "2020-10-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Art 2 Art", "id": "40458", "slug": "rtx-2020-art-2-art-panel", "date": "2020-10-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Master and Apprentice presented by HBO Max\u2019s Raised by Wolves", "id": "40455", "slug": "rtx-2020-master-and-apprentice", "date": "2020-10-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Snack Attack 2: The Snackening", "id": "40457", "slug": "rtx-2020-face-jam-panel", "date": "2020-10-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TRANSFORMERS: WAR FOR CYBERTRON - The Making of SIEGE", "id": "40456", "slug": "rtx-2020-transformers-panel", "date": "2020-09-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Community & Coffee", "id": "40402", "slug": "rtx-2020-community-and-coffee-panel", "date": "2020-09-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recreyo Live", "id": "40401", "slug": "rtx-2020-recreyo-live", "date": "2020-09-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Superhero Smack Talk Panel!", "id": "40410", "slug": "rtx-2020-superhero-smack-talk-panel", "date": "2020-09-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RT Rainbow Panel", "id": "40409", "slug": "rtx-2020-rainbow-panel", "date": "2020-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "I Am Woman, Hear Me Perform", "id": "40415", "slug": "rtx-2020-hear-me-perform-panel", "date": "2020-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter (2nd Week)", "id": "40454", "slug": "rtx-2020-achievement-hunter-panel-2", "date": "2020-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ship-it Show LIVE! with Tara Strong & Greg Cipes", "id": "40389", "slug": "rtx-2020-the-ship-it-show-live", "date": "2020-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Inside Gaming", "id": "40406", "slug": "rtx-2020-inside-gaming", "date": "2020-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTAA", "id": "40413", "slug": "rtx-2020-rtaa-panel", "date": "2020-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rooster Teeth in your Living Room and Beyond", "id": "40388", "slug": "rtx-2020-rt-living-room", "date": "2020-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hard Mode: Guess Who", "id": "40448", "slug": "rtx-2020-hard-mode-panel", "date": "2020-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red vs. Blue: Zero to Sixty", "id": "40377", "slug": "rtx-2020-rvb-zero-to-sixty", "date": "2020-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thank you for 10 years of RTX!", "id": "40435", "slug": "rtx-2020-rtx-sizzle-recap", "date": "2020-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recorded by Arizal", "id": "40370", "slug": "rtx-2020-arizal-panel", "date": "2020-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Meet the Writers of gen:LOCK Season 2", "id": "40390", "slug": "rtx-2020-writers-of-genlock", "date": "2020-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Let's Roll Presents: Gettin' Dicey", "id": "40391", "slug": "rtx-2020-lets-roll-panel", "date": "2020-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "True Crime Podcast Panel", "id": "40380", "slug": "rtx-2020-true-crime", "date": "2020-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY & gen:LOCK x Scholastic: Meet the Authors", "id": "40381", "slug": "rtx-2020-scholastic-pnael", "date": "2020-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Funhaus Panel", "id": "40357", "slug": "rtx-2020-funhaus-panel", "date": "2020-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Wonderful World of Games Journalism", "id": "40359", "slug": "rtx-2020-world-of-games-journalism", "date": "2020-09-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY: The Grimm Campaign", "id": "40365", "slug": "rtx-2020-rwby-grimm-campaign", "date": "2020-09-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Weekend Recap", "id": "40356", "slug": "rtx-2020-rtx-weekend-recap", "date": "2020-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Achievement Hunter (1st Week)", "id": "40354", "slug": "rtx-2020-achievment-hunter-panel-1", "date": "2020-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Castle Super Beast", "id": "40358", "slug": "rtx-2020-castle-super-beast1", "date": "2020-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FIRST Night", "id": "40320", "slug": "rtx-2020-first-night", "date": "2020-09-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Women of RT", "id": "40342", "slug": "rtx-2020-women-of-rt", "date": "2020-09-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY", "id": "40301", "slug": "rtx-2020-rwby-panel", "date": "2020-09-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RT D&D", "id": "42017", "slug": "rtx-2020-dnd-panel", "date": "2020-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "10 Years of RTX", "id": "40188", "slug": "rtx-2020-best-of-rtx", "date": "2020-09-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX 2019 Camp Camp Panel Panel", "id": "34989", "slug": "rtx-2019-camp-camp-panel-panel", "date": "2019-09-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY Panel", "id": "34945", "slug": "rtx-2019-rwby-panel", "date": "2019-09-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX 2019 Recap Brought to you by Full Sail", "id": "34229", "slug": "rtx-2019-full-sail-rtx", "date": "2019-07-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Murder Room Panel", "id": "34176", "slug": "rtx-2019-murder-room-panel", "date": "2019-07-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rainbow Room Panel", "id": "34175", "slug": "rtx-2019-rainbow-room-panel", "date": "2019-07-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Austin 2018!", "id": "28138", "slug": "rtx-2018-rtx-austin-2018", "date": "2018-08-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Animation Fest at RTX: Camp Camp Theme | Rooster Teeth", "id": "27965", "slug": "rtx-2018-animation-fest-2018", "date": "2018-07-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Sneak Peek", "id": "27936", "slug": "rtx-2018-rtx-sneak-peek", "date": "2018-07-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Badges Available at Regular Rates", "id": "25926", "slug": "rtx-2018-rtx-badges-available-at-regular-rates", "date": "2018-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Austin 2018 Early Bird", "id": "24606", "slug": "rtx-2018", "date": "2018-03-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX 2013: Official Video Trailer", "id": "18037", "slug": "rtx-2013-rtx-2013-official-video-trailer", "date": "2012-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RTX",
+    "slug": "rtx",
+    "summary": {
+        "count": 88,
+        "uploaded": 88,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Biggest News from RTX 2023",
+            "id": "51357",
+            "slug": "rtx-2023-8-10",
+            "date": "2023-08-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Animation Festival Presents: RWBY",
+            "id": "48684",
+            "slug": "rtx-2022-rwby-panel",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter 2",
+            "id": "48679",
+            "slug": "rtx-2022-ah-panel-2",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter 1",
+            "id": "48678",
+            "slug": "rtx-2022-ah-panel-1",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Funhaus Panel",
+            "id": "48604",
+            "slug": "rtx-2022-funhaus-panel",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Werewolves",
+            "id": "48603",
+            "slug": "rtx-2022-werewolves",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "On The Spot",
+            "id": "48602",
+            "slug": "rtx-2022-on-the-spot",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Animation Festival: Red vs. Blue: Back to Base-ics",
+            "id": "48677",
+            "slug": "rtx-2022-rvb-panel",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning From Hell @ RT Hexpo Presents: The Future of Hell",
+            "id": "44699",
+            "slug": "rtx-2021-good-morning-from-hell",
+            "date": "2021-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX at Home 2021 - Ten Days of Greatness",
+            "id": "44580",
+            "slug": "rtx-2021-wrap-up",
+            "date": "2021-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Staying Zen",
+            "id": "44567",
+            "slug": "rtx-2021-staying-zen",
+            "date": "2021-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Unruly Rollers",
+            "id": "44576",
+            "slug": "rtx-2021-unruly-rollers",
+            "date": "2021-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Representation in Animation",
+            "id": "44560",
+            "slug": "rtx-2021-representation-in-animation",
+            "date": "2021-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Face Jam - Snack Attack",
+            "id": "44547",
+            "slug": "rtx-2021-face-jam-snack-attack",
+            "date": "2021-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AH Post Team",
+            "id": "44543",
+            "slug": "rtx-2021-ah-post-team-rtx",
+            "date": "2021-07-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Women of Rooster Teeth",
+            "id": "44544",
+            "slug": "rtx-2021-women-of-rooster-teeth",
+            "date": "2021-07-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Decade of Death Battle",
+            "id": "44509",
+            "slug": "rtx-2021-decade-of-death-battle",
+            "date": "2021-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Better Together: Building A More Inclusive Rooster Teeth",
+            "id": "44501",
+            "slug": "rtx-2021-better-together-panel",
+            "date": "2021-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cults, Crashes, and Conspiracies",
+            "id": "44528",
+            "slug": "rtx-2021-cults-crashes-and-conspiracies",
+            "date": "2021-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Funhaus",
+            "id": "44513",
+            "slug": "rtx-2021-funhaus-panel",
+            "date": "2021-07-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter Week 2",
+            "id": "44527",
+            "slug": "rtx-2021-achievement-hunter-2",
+            "date": "2021-07-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red vs. Blue: ZERO: Wheels Up",
+            "id": "44480",
+            "slug": "rtx-2021-rvb-zero-wheels-up",
+            "date": "2021-07-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Camp Betrayal",
+            "id": "44500",
+            "slug": "rtx-2021-camp-betrayal",
+            "date": "2021-07-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes of Red Web",
+            "id": "44520",
+            "slug": "rtx-2021-red-web",
+            "date": "2021-07-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "WEBTOON: Webcomic to Animation",
+            "id": "44489",
+            "slug": "rtx-2021-webtoon-panel",
+            "date": "2021-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "OT3: Observers of Tales, Truths, and Trivia",
+            "id": "44493",
+            "slug": "ot3-podcast-2021-7-16",
+            "date": "2021-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY Beyond",
+            "id": "44434",
+            "slug": "rtx-2021-rwby-beyond",
+            "date": "2021-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "F**KFACE BREAKS SH*T AT RTX",
+            "id": "44494",
+            "slug": "f-kface-2021-7-14",
+            "date": "2021-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Virtual Cosplay Contest",
+            "id": "44461",
+            "slug": "rtx-2021-virtual-cosplay-contest",
+            "date": "2021-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Women in Animation: Storytelling",
+            "id": "44472",
+            "slug": "rtx-2021-women-in-animation",
+            "date": "2021-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ultimate Anime Bracket w/ RDCWorld1",
+            "id": "44484",
+            "slug": "rtx-2021-ultimate-anime-bracket",
+            "date": "2021-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Let's Play Among Us",
+            "id": "44485",
+            "slug": "rtx-2021-lets-play-among-us",
+            "date": "2021-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Neon Konbini",
+            "id": "44423",
+            "slug": "rtx-2021-neon-konbini",
+            "date": "2021-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "G FUEL Presents: The Feast and The Furious Overcooked Tournament",
+            "id": "44469",
+            "slug": "rtx-2021-gfuel",
+            "date": "2021-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fun(haus) & Games",
+            "id": "44462",
+            "slug": "rtx-2021-funhaus-and-games",
+            "date": "2021-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "From Art to Story: Story Artists in Animation",
+            "id": "44422",
+            "slug": "rtx-2021-story-artists-in-animation",
+            "date": "2021-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Animated Adventures Panel of Adventure",
+            "id": "44468",
+            "slug": "rtx-2021-animated-adventures",
+            "date": "2021-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Our Voice, Our Power: Women in Podcasting",
+            "id": "44459",
+            "slug": "rtx-2021-women-in-podcasting",
+            "date": "2021-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter",
+            "id": "44451",
+            "slug": "rtx-2021-achievement-hunter",
+            "date": "2021-07-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RT Rainbow Panel",
+            "id": "44450",
+            "slug": "rtx-2021-rainbow-panel",
+            "date": "2021-07-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY",
+            "id": "44421",
+            "slug": "rtx-2021-rwby-panel",
+            "date": "2021-07-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Annual Pass",
+            "id": "44449",
+            "slug": "annual-pass-2021-7-13",
+            "date": "2021-07-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FIRST Night",
+            "id": "44415",
+            "slug": "rtx-2021-first-night",
+            "date": "2021-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Model Employees RTX At Home Special! - Model Employees",
+            "id": "40562",
+            "slug": "rtx-2020-model-employees",
+            "date": "2020-10-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Art 2 Art",
+            "id": "40458",
+            "slug": "rtx-2020-art-2-art-panel",
+            "date": "2020-10-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Master and Apprentice presented by HBO Max\u2019s Raised by Wolves",
+            "id": "40455",
+            "slug": "rtx-2020-master-and-apprentice",
+            "date": "2020-10-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Snack Attack 2: The Snackening",
+            "id": "40457",
+            "slug": "rtx-2020-face-jam-panel",
+            "date": "2020-10-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TRANSFORMERS: WAR FOR CYBERTRON - The Making of SIEGE",
+            "id": "40456",
+            "slug": "rtx-2020-transformers-panel",
+            "date": "2020-09-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Community & Coffee",
+            "id": "40402",
+            "slug": "rtx-2020-community-and-coffee-panel",
+            "date": "2020-09-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recreyo Live",
+            "id": "40401",
+            "slug": "rtx-2020-recreyo-live",
+            "date": "2020-09-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Superhero Smack Talk Panel!",
+            "id": "40410",
+            "slug": "rtx-2020-superhero-smack-talk-panel",
+            "date": "2020-09-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RT Rainbow Panel",
+            "id": "40409",
+            "slug": "rtx-2020-rainbow-panel",
+            "date": "2020-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "I Am Woman, Hear Me Perform",
+            "id": "40415",
+            "slug": "rtx-2020-hear-me-perform-panel",
+            "date": "2020-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter (2nd Week)",
+            "id": "40454",
+            "slug": "rtx-2020-achievement-hunter-panel-2",
+            "date": "2020-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ship-it Show LIVE! with Tara Strong & Greg Cipes",
+            "id": "40389",
+            "slug": "rtx-2020-the-ship-it-show-live",
+            "date": "2020-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Inside Gaming",
+            "id": "40406",
+            "slug": "rtx-2020-inside-gaming",
+            "date": "2020-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTAA",
+            "id": "40413",
+            "slug": "rtx-2020-rtaa-panel",
+            "date": "2020-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rooster Teeth in your Living Room and Beyond",
+            "id": "40388",
+            "slug": "rtx-2020-rt-living-room",
+            "date": "2020-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hard Mode: Guess Who",
+            "id": "40448",
+            "slug": "rtx-2020-hard-mode-panel",
+            "date": "2020-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red vs. Blue: Zero to Sixty",
+            "id": "40377",
+            "slug": "rtx-2020-rvb-zero-to-sixty",
+            "date": "2020-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thank you for 10 years of RTX!",
+            "id": "40435",
+            "slug": "rtx-2020-rtx-sizzle-recap",
+            "date": "2020-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recorded by Arizal",
+            "id": "40370",
+            "slug": "rtx-2020-arizal-panel",
+            "date": "2020-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Meet the Writers of gen:LOCK Season 2",
+            "id": "40390",
+            "slug": "rtx-2020-writers-of-genlock",
+            "date": "2020-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Let's Roll Presents: Gettin' Dicey",
+            "id": "40391",
+            "slug": "rtx-2020-lets-roll-panel",
+            "date": "2020-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "True Crime Podcast Panel",
+            "id": "40380",
+            "slug": "rtx-2020-true-crime",
+            "date": "2020-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY & gen:LOCK x Scholastic: Meet the Authors",
+            "id": "40381",
+            "slug": "rtx-2020-scholastic-pnael",
+            "date": "2020-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Funhaus Panel",
+            "id": "40357",
+            "slug": "rtx-2020-funhaus-panel",
+            "date": "2020-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Wonderful World of Games Journalism",
+            "id": "40359",
+            "slug": "rtx-2020-world-of-games-journalism",
+            "date": "2020-09-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY: The Grimm Campaign",
+            "id": "40365",
+            "slug": "rtx-2020-rwby-grimm-campaign",
+            "date": "2020-09-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Weekend Recap",
+            "id": "40356",
+            "slug": "rtx-2020-rtx-weekend-recap",
+            "date": "2020-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Achievement Hunter (1st Week)",
+            "id": "40354",
+            "slug": "rtx-2020-achievment-hunter-panel-1",
+            "date": "2020-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Castle Super Beast",
+            "id": "40358",
+            "slug": "rtx-2020-castle-super-beast1",
+            "date": "2020-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FIRST Night",
+            "id": "40320",
+            "slug": "rtx-2020-first-night",
+            "date": "2020-09-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Women of RT",
+            "id": "40342",
+            "slug": "rtx-2020-women-of-rt",
+            "date": "2020-09-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY",
+            "id": "40301",
+            "slug": "rtx-2020-rwby-panel",
+            "date": "2020-09-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RT D&D",
+            "id": "42017",
+            "slug": "rtx-2020-dnd-panel",
+            "date": "2020-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "10 Years of RTX",
+            "id": "40188",
+            "slug": "rtx-2020-best-of-rtx",
+            "date": "2020-09-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX 2019 Camp Camp Panel Panel",
+            "id": "34989",
+            "slug": "rtx-2019-camp-camp-panel-panel",
+            "date": "2019-09-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY Panel",
+            "id": "34945",
+            "slug": "rtx-2019-rwby-panel",
+            "date": "2019-09-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX 2019 Recap Brought to you by Full Sail",
+            "id": "34229",
+            "slug": "rtx-2019-full-sail-rtx",
+            "date": "2019-07-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Murder Room Panel",
+            "id": "34176",
+            "slug": "rtx-2019-murder-room-panel",
+            "date": "2019-07-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rainbow Room Panel",
+            "id": "34175",
+            "slug": "rtx-2019-rainbow-room-panel",
+            "date": "2019-07-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Austin 2018!",
+            "id": "28138",
+            "slug": "rtx-2018-rtx-austin-2018",
+            "date": "2018-08-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Animation Fest at RTX: Camp Camp Theme | Rooster Teeth",
+            "id": "27965",
+            "slug": "rtx-2018-animation-fest-2018",
+            "date": "2018-07-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Sneak Peek",
+            "id": "27936",
+            "slug": "rtx-2018-rtx-sneak-peek",
+            "date": "2018-07-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Badges Available at Regular Rates",
+            "id": "25926",
+            "slug": "rtx-2018-rtx-badges-available-at-regular-rates",
+            "date": "2018-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Austin 2018 Early Bird",
+            "id": "24606",
+            "slug": "rtx-2018",
+            "date": "2018-03-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX 2013: Official Video Trailer",
+            "id": "18037",
+            "slug": "rtx-2013-rtx-2013-official-video-trailer",
+            "date": "2012-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,113 @@
-{"show": "Get Fact", "slug": "get-fact", "summary": {"count": 10, "uploaded": 10, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Artificial Intelligence", "id": "34452", "slug": "get-fact-2019-artificial-intelligence", "date": "2019-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Perils of Prom", "id": "34242", "slug": "get-fact-2019-the-perils-of-prom", "date": "2019-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "STDs: What They're NOT Telling You", "id": "34154", "slug": "get-fact-2019-stds", "date": "2019-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Exposing the Dark Lord", "id": "34056", "slug": "get-fact-2019-exposing-the-dark-lord", "date": "2019-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Dangers of Space", "id": "33997", "slug": "get-fact-2019-the-dangers-of-space", "date": "2019-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Vaccines: Friend or Foe?", "id": "33900", "slug": "get-fact-2019-vaccines-friend-or-foe", "date": "2019-06-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Are Attractive People Better?", "id": "33795", "slug": "get-fact-2019-are-attractive-people-better", "date": "2019-06-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Are Kids Replacing Us?", "id": "33716", "slug": "get-fact-2019-1", "date": "2019-06-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Afraid of the Truth", "id": "1401-bonus", "slug": "get-fact-afraid-of-the-truth", "date": "2019-06-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Running from the Facts", "id": "1400-bonus", "slug": "get-fact-running-from-the-facts", "date": "2019-06-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Get Fact",
+    "slug": "get-fact",
+    "summary": {
+        "count": 10,
+        "uploaded": 10,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Artificial Intelligence",
+            "id": "34452",
+            "slug": "get-fact-2019-artificial-intelligence",
+            "date": "2019-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Perils of Prom",
+            "id": "34242",
+            "slug": "get-fact-2019-the-perils-of-prom",
+            "date": "2019-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "STDs: What They're NOT Telling You",
+            "id": "34154",
+            "slug": "get-fact-2019-stds",
+            "date": "2019-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Exposing the Dark Lord",
+            "id": "34056",
+            "slug": "get-fact-2019-exposing-the-dark-lord",
+            "date": "2019-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Dangers of Space",
+            "id": "33997",
+            "slug": "get-fact-2019-the-dangers-of-space",
+            "date": "2019-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Vaccines: Friend or Foe?",
+            "id": "33900",
+            "slug": "get-fact-2019-vaccines-friend-or-foe",
+            "date": "2019-06-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Are Attractive People Better?",
+            "id": "33795",
+            "slug": "get-fact-2019-are-attractive-people-better",
+            "date": "2019-06-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Are Kids Replacing Us?",
+            "id": "33716",
+            "slug": "get-fact-2019-1",
+            "date": "2019-06-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Afraid of the Truth",
+            "id": "1401-bonus",
+            "slug": "get-fact-afraid-of-the-truth",
+            "date": "2019-06-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Running from the Facts",
+            "id": "1400-bonus",
+            "slug": "get-fact-running-from-the-facts",
+            "date": "2019-06-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

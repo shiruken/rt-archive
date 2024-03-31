@@ -1,1 +1,43 @@
-{"show": "Every Monsterverse Movie Ranked & Reviewed", "slug": "every-monsterverse-movie-ranked-reviewed", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Godzilla Vs. Kong", "id": "43158", "slug": "every-monsterverse-movie-ranked-reviewed-every-monsterverse-movie-ranked-reviewed-godzilla-vs-kong", "date": "2021-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kong Skull Island", "id": "42855", "slug": "every-monsterverse-movie-ranked-reviewed-every-monsterverse-movie-ranked-reviewed-kong-skull-island", "date": "2021-03-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Godzilla 2014", "id": "42789", "slug": "every-monsterverse-movie-ranked-reviewed-every-monsterverse-movie-ranked-reviewed-godzilla-2014", "date": "2021-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Monsterverse Movie Ranked & Reviewed",
+    "slug": "every-monsterverse-movie-ranked-reviewed",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Godzilla Vs. Kong",
+            "id": "43158",
+            "slug": "every-monsterverse-movie-ranked-reviewed-every-monsterverse-movie-ranked-reviewed-godzilla-vs-kong",
+            "date": "2021-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kong Skull Island",
+            "id": "42855",
+            "slug": "every-monsterverse-movie-ranked-reviewed-every-monsterverse-movie-ranked-reviewed-kong-skull-island",
+            "date": "2021-03-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Godzilla 2014",
+            "id": "42789",
+            "slug": "every-monsterverse-movie-ranked-reviewed-every-monsterverse-movie-ranked-reviewed-godzilla-2014",
+            "date": "2021-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

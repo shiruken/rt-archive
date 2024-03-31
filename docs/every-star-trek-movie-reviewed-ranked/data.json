@@ -1,1 +1,43 @@
-{"show": "Every Star Trek Movie Reviewed & Ranked", "slug": "every-star-trek-movie-reviewed-ranked", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Star Trek Beyond", "id": "39178", "slug": "every-star-trek-movie-reviewed-ranked-every-star-trek-movie-reviewed-ranked-star-trek-beyond-every-star-trek-movie-reviewed-ranked", "date": "2020-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Trek Into Darkness", "id": "39177", "slug": "every-star-trek-movie-reviewed-ranked-every-star-trek-movie-reviewed-ranked-star-trek-into-darkness-every-star-trek-movie-reviewed-ranked", "date": "2020-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Trek", "id": "39025", "slug": "every-star-trek-movie-reviewed-ranked-every-star-trek-movie-reviewed-ranked-star-trek-every-star-trek-movie-reviewed-ranked", "date": "2020-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Star Trek Movie Reviewed & Ranked",
+    "slug": "every-star-trek-movie-reviewed-ranked",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Star Trek Beyond",
+            "id": "39178",
+            "slug": "every-star-trek-movie-reviewed-ranked-every-star-trek-movie-reviewed-ranked-star-trek-beyond-every-star-trek-movie-reviewed-ranked",
+            "date": "2020-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Trek Into Darkness",
+            "id": "39177",
+            "slug": "every-star-trek-movie-reviewed-ranked-every-star-trek-movie-reviewed-ranked-star-trek-into-darkness-every-star-trek-movie-reviewed-ranked",
+            "date": "2020-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Trek",
+            "id": "39025",
+            "slug": "every-star-trek-movie-reviewed-ranked-every-star-trek-movie-reviewed-ranked-star-trek-every-star-trek-movie-reviewed-ranked",
+            "date": "2020-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

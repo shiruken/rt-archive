@@ -1,1 +1,63 @@
-{"show": "Barbara Vlogs", "slug": "barbara-vlogs", "summary": {"count": 5, "uploaded": 5, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "A Cheeky Q&A!", "id": "1042", "slug": "barbara-vlogs-2017-a-cheeky-q-a", "date": "2017-08-28", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Anime Expo, Adam Kovic, and BOATS", "id": "1043", "slug": "barbara-vlogs-2017-anime-expo-adam-kovic-and-boats", "date": "2017-07-31", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hanging out in Sydney and New Zealand", "id": "1044", "slug": "barbara-vlogs-2017-hanging-out-in-sydney-and-new-zealand", "date": "2017-06-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Flicking The Bean & Getting HOT in Arizona!", "id": "1045", "slug": "barbara-vlogs-2017-flicking-the-bean-getting-hot-in-arizona", "date": "2017-05-29", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Barbara's first FIRST Vlog", "id": "1046", "slug": "barbara-vlogs-2017-1", "date": "2017-04-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Barbara Vlogs",
+    "slug": "barbara-vlogs",
+    "summary": {
+        "count": 5,
+        "uploaded": 5,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "A Cheeky Q&A!",
+            "id": "1042",
+            "slug": "barbara-vlogs-2017-a-cheeky-q-a",
+            "date": "2017-08-28",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Anime Expo, Adam Kovic, and BOATS",
+            "id": "1043",
+            "slug": "barbara-vlogs-2017-anime-expo-adam-kovic-and-boats",
+            "date": "2017-07-31",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hanging out in Sydney and New Zealand",
+            "id": "1044",
+            "slug": "barbara-vlogs-2017-hanging-out-in-sydney-and-new-zealand",
+            "date": "2017-06-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Flicking The Bean & Getting HOT in Arizona!",
+            "id": "1045",
+            "slug": "barbara-vlogs-2017-flicking-the-bean-getting-hot-in-arizona",
+            "date": "2017-05-29",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Barbara's first FIRST Vlog",
+            "id": "1046",
+            "slug": "barbara-vlogs-2017-1",
+            "date": "2017-04-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

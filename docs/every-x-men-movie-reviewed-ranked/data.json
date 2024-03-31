@@ -1,1 +1,143 @@
-{"show": "Every X-Men Movie Reviewed & Ranked", "slug": "every-x-men-movie-reviewed-ranked", "summary": {"count": 13, "uploaded": 13, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "X-Men: Dark Phoenix - Every X-Men Movie Reviewed & Ranked", "id": "34016", "slug": "x-men-dark-phoenix-every-x-men-movie-reviewed-ranked", "date": "2019-07-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-Men: Days Of Future Past", "id": "40581", "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-days-of-future-past-every-x-men-movie-reviewed-ranked", "date": "2019-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X2: X-Men United", "id": "40578", "slug": "every-x-men-movie-reviewed-ranked-season-1-x2-x-men-united-every-x-men-movie-reviewed-ranked", "date": "2019-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-Men: The Last Stand", "id": "40577", "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-the-last-stand-every-x-men-movie-reviewed-ranked", "date": "2019-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-Men Origins: Wolverine", "id": "40576", "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-origins-wolverine-every-x-men-movie-reviewed-ranked", "date": "2019-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-Men: First Class", "id": "40575", "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-first-class-every-x-men-movie-reviewed-ranked", "date": "2019-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-Men: Apocalypse", "id": "31408", "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-apocalypse-every-x-men-movie-reviewed-ranked", "date": "2019-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Definitive X-Men Cinematic Universe Ranking", "id": "31526", "slug": "every-x-men-movie-reviewed-ranked-season-1-definitive-x-men-cinematic-universe-ranking", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-Men", "id": "31415", "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-every-x-men-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Wolverine", "id": "31410", "slug": "every-x-men-movie-reviewed-ranked-season-1-the-wolverine-every-x-men-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Logan", "id": "31407", "slug": "every-x-men-movie-reviewed-ranked-season-1-logan-every-x-men-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deadpool", "id": "31406", "slug": "every-x-men-movie-reviewed-ranked-season-1-deadpool-every-x-men-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deadpool 2", "id": "31405", "slug": "every-x-men-movie-reviewed-ranked-season-1-deadpool-2-every-x-men-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every X-Men Movie Reviewed & Ranked",
+    "slug": "every-x-men-movie-reviewed-ranked",
+    "summary": {
+        "count": 13,
+        "uploaded": 13,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "X-Men: Dark Phoenix - Every X-Men Movie Reviewed & Ranked",
+            "id": "34016",
+            "slug": "x-men-dark-phoenix-every-x-men-movie-reviewed-ranked",
+            "date": "2019-07-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-Men: Days Of Future Past",
+            "id": "40581",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-days-of-future-past-every-x-men-movie-reviewed-ranked",
+            "date": "2019-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X2: X-Men United",
+            "id": "40578",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x2-x-men-united-every-x-men-movie-reviewed-ranked",
+            "date": "2019-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-Men: The Last Stand",
+            "id": "40577",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-the-last-stand-every-x-men-movie-reviewed-ranked",
+            "date": "2019-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-Men Origins: Wolverine",
+            "id": "40576",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-origins-wolverine-every-x-men-movie-reviewed-ranked",
+            "date": "2019-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-Men: First Class",
+            "id": "40575",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-first-class-every-x-men-movie-reviewed-ranked",
+            "date": "2019-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-Men: Apocalypse",
+            "id": "31408",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-apocalypse-every-x-men-movie-reviewed-ranked",
+            "date": "2019-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Definitive X-Men Cinematic Universe Ranking",
+            "id": "31526",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-definitive-x-men-cinematic-universe-ranking",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-Men",
+            "id": "31415",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-x-men-every-x-men-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Wolverine",
+            "id": "31410",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-the-wolverine-every-x-men-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Logan",
+            "id": "31407",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-logan-every-x-men-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deadpool",
+            "id": "31406",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-deadpool-every-x-men-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deadpool 2",
+            "id": "31405",
+            "slug": "every-x-men-movie-reviewed-ranked-season-1-deadpool-2-every-x-men-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

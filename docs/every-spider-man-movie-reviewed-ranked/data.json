@@ -1,1 +1,193 @@
-{"show": "Every Spider-Man Movie Reviewed & Ranked", "slug": "every-spider-man-movie-reviewed-ranked", "summary": {"count": 18, "uploaded": 18, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Morbius In Review", "id": "47790", "slug": "every-spider-man-movie-reviewed-ranked-season-1-morbius-in-review", "date": "2022-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man Far From Home Rewatch", "id": "46168", "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-far-from-home-rewatch", "date": "2021-12-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man Homecoming Rewatch", "id": "46151", "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-homecoming-rewatch", "date": "2021-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Amazing Spider-Man 2 Rewatch", "id": "46031", "slug": "every-spider-man-movie-reviewed-ranked-full-series-the-amazing-spider-man-2-rewatch", "date": "2021-11-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Amazing Spider-Man Rewatch", "id": "45933", "slug": "every-spider-man-movie-reviewed-ranked-full-series-the-amazing-spider-man-rewatch", "date": "2021-11-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man 3 Rewatch", "id": "45849", "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-3-rewatch", "date": "2021-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man 2 Rewatch", "id": "45698", "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-2-rewatch", "date": "2021-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man Rewatch", "id": "45654", "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-rewatch", "date": "2021-10-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Venom Let There Be Carnage", "id": "45437", "slug": "every-spider-man-movie-reviewed-ranked-full-series-venom-let-there-be-carnage", "date": "2021-10-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Venom Rewatch", "id": "45377", "slug": "every-spider-man-movie-reviewed-ranked-full-series-venom-rewatch", "date": "2021-09-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man: Into The Spider-Verse In Review", "id": "31659", "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-into-the-spider-verse-in-review", "date": "2019-03-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man", "id": "31404", "slug": "every-spider-man-movie-reviewed-ranked-season-1-spider-man-every-spider-man-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man 2", "id": "31403", "slug": "every-spider-man-movie-reviewed-ranked-season-1-spider-man-2-every-spider-man-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Amazing Spider Man 2", "id": "31402", "slug": "every-spider-man-movie-reviewed-ranked-season-1-the-amazing-spider-man-2-every-spider-man-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Amazing Spider Man", "id": "31401", "slug": "every-spider-man-movie-reviewed-ranked-season-1-the-amazing-spider-man-every-spider-man-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spider-Man 3", "id": "31400", "slug": "every-spider-man-movie-reviewed-ranked-season-1-spider-man-3-every-spider-man-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Definitive Spider-Man Movie Ranking", "id": "31399", "slug": "every-spider-man-movie-reviewed-ranked-season-1-definitive-spider-man-movie-ranking", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Venom", "id": "31398", "slug": "every-spider-man-movie-reviewed-ranked-season-1-venom-every-spider-man-movie-reviewed-ranked", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Spider-Man Movie Reviewed & Ranked",
+    "slug": "every-spider-man-movie-reviewed-ranked",
+    "summary": {
+        "count": 18,
+        "uploaded": 18,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Morbius In Review",
+            "id": "47790",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-morbius-in-review",
+            "date": "2022-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man Far From Home Rewatch",
+            "id": "46168",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-far-from-home-rewatch",
+            "date": "2021-12-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man Homecoming Rewatch",
+            "id": "46151",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-homecoming-rewatch",
+            "date": "2021-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Amazing Spider-Man 2 Rewatch",
+            "id": "46031",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-the-amazing-spider-man-2-rewatch",
+            "date": "2021-11-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Amazing Spider-Man Rewatch",
+            "id": "45933",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-the-amazing-spider-man-rewatch",
+            "date": "2021-11-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man 3 Rewatch",
+            "id": "45849",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-3-rewatch",
+            "date": "2021-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man 2 Rewatch",
+            "id": "45698",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-2-rewatch",
+            "date": "2021-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man Rewatch",
+            "id": "45654",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-rewatch",
+            "date": "2021-10-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Venom Let There Be Carnage",
+            "id": "45437",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-venom-let-there-be-carnage",
+            "date": "2021-10-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Venom Rewatch",
+            "id": "45377",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-venom-rewatch",
+            "date": "2021-09-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man: Into The Spider-Verse In Review",
+            "id": "31659",
+            "slug": "every-spider-man-movie-reviewed-ranked-full-series-spider-man-into-the-spider-verse-in-review",
+            "date": "2019-03-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man",
+            "id": "31404",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-spider-man-every-spider-man-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man 2",
+            "id": "31403",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-spider-man-2-every-spider-man-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Amazing Spider Man 2",
+            "id": "31402",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-the-amazing-spider-man-2-every-spider-man-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Amazing Spider Man",
+            "id": "31401",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-the-amazing-spider-man-every-spider-man-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spider-Man 3",
+            "id": "31400",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-spider-man-3-every-spider-man-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Definitive Spider-Man Movie Ranking",
+            "id": "31399",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-definitive-spider-man-movie-ranking",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Venom",
+            "id": "31398",
+            "slug": "every-spider-man-movie-reviewed-ranked-season-1-venom-every-spider-man-movie-reviewed-ranked",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

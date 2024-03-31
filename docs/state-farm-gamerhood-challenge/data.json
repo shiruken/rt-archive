@@ -1,1 +1,173 @@
-{"show": "State Farm Gamerhood Challenge", "slug": "state-farm-gamerhood-challenge", "summary": {"count": 16, "uploaded": 16, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "State Farm Gamerhood Challenge Season 2 Episode 5", "id": "51145", "slug": "state-farm-gamerhood-challenge-2023-episode-5", "date": "2023-06-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge Season 2 Episode 4", "id": "51117", "slug": "state-farm-gamerhood-challenge-2023-episode-4", "date": "2023-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge Season 2 Episode 3", "id": "51089", "slug": "state-farm-gamerhood-challenge-2023-episode-3", "date": "2023-06-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge Season 2 Episode 2", "id": "51054", "slug": "state-farm-gamerhood-challenge-2023-episode-2", "date": "2023-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge Season 2 Episode 1", "id": "51029", "slug": "state-farm-gamerhood-challenge-2023-episode-1", "date": "2023-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Barb and BK React to State Farm Gamerhood Challenge", "id": "51025", "slug": "state-farm-gamerhood-challenge-2023-6-6", "date": "2023-06-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge - Episode 5", "id": "48621", "slug": "state-farm-gamerhood-challenge-2022-livestream-06-29", "date": "2022-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes: Making the State Farm #Gamerhood Challenge", "id": "48617", "slug": "state-farm-gamerhood-challenge-2022-6-30", "date": "2022-06-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge - Episode 4", "id": "48563", "slug": "state-farm-gamerhood-challenge-2022-livestream-6-22", "date": "2022-06-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lava Chicken in the State Farm #Gamerhood! | Between the State Farm #Gamerhood", "id": "48541", "slug": "state-farm-gamerhood-challenge-2022-floor-is-lava-6-23", "date": "2022-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge - Episode 3", "id": "48477", "slug": "state-farm-gamerhood-challenge-2022-livestream-6-15", "date": "2022-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Paperboy Delivery Race! | Between the State Farm #Gamerhood", "id": "48458", "slug": "state-farm-gamerhood-challenge-2022-extra-extra-6-16", "date": "2022-06-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge - Episode 2", "id": "48388", "slug": "state-farm-gamerhood-challenge-2022-livestream-6-8", "date": "2022-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "State Farm Gamerhood Challenge- Episode 1", "id": "48327", "slug": "state-farm-gamerhood-challenge-2022-livestream-6-1", "date": "2022-06-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "T-Rex Destruction Scavenger Hunt | Between the State Farm #Gamerhood", "id": "48325", "slug": "state-farm-gamerhood-challenge-2022-t-wrecks-6-2", "date": "2022-06-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing the State Farm #Gamerhood Challenge (Official Trailer)", "id": "48278", "slug": "state-farm-gamerhood-challenge-2022-trailer", "date": "2022-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "State Farm Gamerhood Challenge",
+    "slug": "state-farm-gamerhood-challenge",
+    "summary": {
+        "count": 16,
+        "uploaded": 16,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "State Farm Gamerhood Challenge Season 2 Episode 5",
+            "id": "51145",
+            "slug": "state-farm-gamerhood-challenge-2023-episode-5",
+            "date": "2023-06-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge Season 2 Episode 4",
+            "id": "51117",
+            "slug": "state-farm-gamerhood-challenge-2023-episode-4",
+            "date": "2023-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge Season 2 Episode 3",
+            "id": "51089",
+            "slug": "state-farm-gamerhood-challenge-2023-episode-3",
+            "date": "2023-06-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge Season 2 Episode 2",
+            "id": "51054",
+            "slug": "state-farm-gamerhood-challenge-2023-episode-2",
+            "date": "2023-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge Season 2 Episode 1",
+            "id": "51029",
+            "slug": "state-farm-gamerhood-challenge-2023-episode-1",
+            "date": "2023-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Barb and BK React to State Farm Gamerhood Challenge",
+            "id": "51025",
+            "slug": "state-farm-gamerhood-challenge-2023-6-6",
+            "date": "2023-06-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge - Episode 5",
+            "id": "48621",
+            "slug": "state-farm-gamerhood-challenge-2022-livestream-06-29",
+            "date": "2022-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes: Making the State Farm #Gamerhood Challenge",
+            "id": "48617",
+            "slug": "state-farm-gamerhood-challenge-2022-6-30",
+            "date": "2022-06-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge - Episode 4",
+            "id": "48563",
+            "slug": "state-farm-gamerhood-challenge-2022-livestream-6-22",
+            "date": "2022-06-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lava Chicken in the State Farm #Gamerhood! | Between the State Farm #Gamerhood",
+            "id": "48541",
+            "slug": "state-farm-gamerhood-challenge-2022-floor-is-lava-6-23",
+            "date": "2022-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge - Episode 3",
+            "id": "48477",
+            "slug": "state-farm-gamerhood-challenge-2022-livestream-6-15",
+            "date": "2022-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Paperboy Delivery Race! | Between the State Farm #Gamerhood",
+            "id": "48458",
+            "slug": "state-farm-gamerhood-challenge-2022-extra-extra-6-16",
+            "date": "2022-06-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge - Episode 2",
+            "id": "48388",
+            "slug": "state-farm-gamerhood-challenge-2022-livestream-6-8",
+            "date": "2022-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "State Farm Gamerhood Challenge- Episode 1",
+            "id": "48327",
+            "slug": "state-farm-gamerhood-challenge-2022-livestream-6-1",
+            "date": "2022-06-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "T-Rex Destruction Scavenger Hunt | Between the State Farm #Gamerhood",
+            "id": "48325",
+            "slug": "state-farm-gamerhood-challenge-2022-t-wrecks-6-2",
+            "date": "2022-06-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing the State Farm #Gamerhood Challenge (Official Trailer)",
+            "id": "48278",
+            "slug": "state-farm-gamerhood-challenge-2022-trailer",
+            "date": "2022-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

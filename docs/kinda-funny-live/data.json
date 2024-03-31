@@ -1,1 +1,63 @@
-{"show": "Kinda Funny Live", "slug": "kinda-funny-live", "summary": {"count": 5, "uploaded": 5, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Spare Bedroom: The NEW Kinda Funny Studio \u2013 October 14th, 2022", "id": "49266", "slug": "kinda-funny-live-season-1-the-spare-bedroom-the-new-kinda-funny-studio-october-14th-2022", "date": "2022-09-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Our First Time Doing Stand-Up Comedy (w/Geoff Ramsey, Elyse and James Willems)", "id": "32302", "slug": "kinda-funny-live-full-live-shows-stand-up-comedy-for-the-first-time-w-geoff-ramsey-elyse-and-james-willems", "date": "2019-03-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinda Funny Live 2015 (FULL SHOW!)", "id": "31523", "slug": "kinda-funny-live-season-1-kinda-funny-live-2015-full-show", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinda Funny Live 2 2016 (FULL SHOW!)", "id": "31456", "slug": "kinda-funny-live-season-1-kinda-funny-live-2-2016-full-show", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinda Funny Live 3 2017 (FULL SHOW!)", "id": "31455", "slug": "kinda-funny-live-season-1-kinda-funny-live-3-2017-full-show", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Kinda Funny Live",
+    "slug": "kinda-funny-live",
+    "summary": {
+        "count": 5,
+        "uploaded": 5,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Spare Bedroom: The NEW Kinda Funny Studio \u2013 October 14th, 2022",
+            "id": "49266",
+            "slug": "kinda-funny-live-season-1-the-spare-bedroom-the-new-kinda-funny-studio-october-14th-2022",
+            "date": "2022-09-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Our First Time Doing Stand-Up Comedy (w/Geoff Ramsey, Elyse and James Willems)",
+            "id": "32302",
+            "slug": "kinda-funny-live-full-live-shows-stand-up-comedy-for-the-first-time-w-geoff-ramsey-elyse-and-james-willems",
+            "date": "2019-03-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinda Funny Live 2015 (FULL SHOW!)",
+            "id": "31523",
+            "slug": "kinda-funny-live-season-1-kinda-funny-live-2015-full-show",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinda Funny Live 2 2016 (FULL SHOW!)",
+            "id": "31456",
+            "slug": "kinda-funny-live-season-1-kinda-funny-live-2-2016-full-show",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinda Funny Live 3 2017 (FULL SHOW!)",
+            "id": "31455",
+            "slug": "kinda-funny-live-season-1-kinda-funny-live-3-2017-full-show",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"show": "Red vs. Blue: Restoration", "slug": "red-vs-blue-restoration", "summary": {"count": 2, "uploaded": 2, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "RvB Restoration (2024) Official Trailer", "id": "52772", "slug": "red-vs-blue-restoration-red-vs-blue-restoration-rvb-restoration-2024-official-trailer", "date": "2024-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red \u200bvs.\u200b Blue\u200b: Restoration\u200b - The Final Season", "id": "51199", "slug": "red-vs-blue-restoration-red-vs-blue-restoration-test", "date": "2023-07-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Red vs. Blue: Restoration",
+    "slug": "red-vs-blue-restoration",
+    "summary": {
+        "count": 2,
+        "uploaded": 2,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "RvB Restoration (2024) Official Trailer",
+            "id": "52772",
+            "slug": "red-vs-blue-restoration-red-vs-blue-restoration-rvb-restoration-2024-official-trailer",
+            "date": "2024-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red \u200bvs.\u200b Blue\u200b: Restoration\u200b - The Final Season",
+            "id": "51199",
+            "slug": "red-vs-blue-restoration-red-vs-blue-restoration-test",
+            "date": "2023-07-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

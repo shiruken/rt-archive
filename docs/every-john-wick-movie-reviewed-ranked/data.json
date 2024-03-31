@@ -1,1 +1,43 @@
-{"show": "Every John Wick Movie Reviewed & Ranked", "slug": "every-john-wick-movie-reviewed-ranked", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "John Wick 3 Parabellum", "id": "42718", "slug": "every-john-wick-movie-reviewed-ranked-every-john-wick-movie-reviewed-ranked-john-wick-3-parabellum", "date": "2021-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "John Wick 2", "id": "42717", "slug": "every-john-wick-movie-reviewed-ranked-every-john-wick-movie-reviewed-ranked-john-wick-2", "date": "2021-03-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "John Wick", "id": "42711", "slug": "every-john-wick-movie-reviewed-ranked-every-john-wick-movie-reviewed-ranked-john-wick", "date": "2021-03-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every John Wick Movie Reviewed & Ranked",
+    "slug": "every-john-wick-movie-reviewed-ranked",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "John Wick 3 Parabellum",
+            "id": "42718",
+            "slug": "every-john-wick-movie-reviewed-ranked-every-john-wick-movie-reviewed-ranked-john-wick-3-parabellum",
+            "date": "2021-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "John Wick 2",
+            "id": "42717",
+            "slug": "every-john-wick-movie-reviewed-ranked-every-john-wick-movie-reviewed-ranked-john-wick-2",
+            "date": "2021-03-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "John Wick",
+            "id": "42711",
+            "slug": "every-john-wick-movie-reviewed-ranked-every-john-wick-movie-reviewed-ranked-john-wick",
+            "date": "2021-03-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

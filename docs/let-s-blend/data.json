@@ -1,1 +1,73 @@
-{"show": "Let's Blend", "slug": "let-s-blend", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Makeup for Anime Lovers and Coming Out in Texas - Let's Blend w/ BK and RWBY's Lindsey Jones", "id": "51312", "slug": "let-s-blend-2023-lbbklinds", "date": "2023-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Doing Our Best Makeup and Jennifer Coolidge Impressions - Let's Blend with RIPMika & Elyse Willems", "id": "51165", "slug": "let-s-blend-2023-lb5", "date": "2023-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Can My Former Roommate Still Do My Makeup? - Let's Blend with Lindsey & Taydertot", "id": "50987", "slug": "let-s-blend-2023-lb4lindztay", "date": "2023-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blend Your Makeup or You'll Look Like a Damn Clown - Let's Blend with Charlotte & Ky", "id": "50827", "slug": "let-s-blend-2023-lb3", "date": "2023-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "No Powders for Oily Skin? - Let's Blend with Alanah Pearce & Riana", "id": "50672", "slug": "let-s-blend-2023-ep2", "date": "2023-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "We Look Alike and We're Doing Our Makeup Together - Let's Blend with Barbara Dunkelman & Elyse Willems", "id": "50483", "slug": "let-s-blend-2023-letsblend1", "date": "2023-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Let's Blend",
+    "slug": "let-s-blend",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Makeup for Anime Lovers and Coming Out in Texas - Let's Blend w/ BK and RWBY's Lindsey Jones",
+            "id": "51312",
+            "slug": "let-s-blend-2023-lbbklinds",
+            "date": "2023-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Doing Our Best Makeup and Jennifer Coolidge Impressions - Let's Blend with RIPMika & Elyse Willems",
+            "id": "51165",
+            "slug": "let-s-blend-2023-lb5",
+            "date": "2023-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Can My Former Roommate Still Do My Makeup? - Let's Blend with Lindsey & Taydertot",
+            "id": "50987",
+            "slug": "let-s-blend-2023-lb4lindztay",
+            "date": "2023-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blend Your Makeup or You'll Look Like a Damn Clown - Let's Blend with Charlotte & Ky",
+            "id": "50827",
+            "slug": "let-s-blend-2023-lb3",
+            "date": "2023-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "No Powders for Oily Skin? - Let's Blend with Alanah Pearce & Riana",
+            "id": "50672",
+            "slug": "let-s-blend-2023-ep2",
+            "date": "2023-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "We Look Alike and We're Doing Our Makeup Together - Let's Blend with Barbara Dunkelman & Elyse Willems",
+            "id": "50483",
+            "slug": "let-s-blend-2023-letsblend1",
+            "date": "2023-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

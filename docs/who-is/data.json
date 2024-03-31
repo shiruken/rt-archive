@@ -1,1 +1,163 @@
-{"show": "Who is", "slug": "who-is", "summary": {"count": 15, "uploaded": 15, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "World Breaker and Love Maker | Who Is The Hulk (Bruce Banner)", "id": "3854", "slug": "who-is-season-2-world-breaker-and-love-maker-who-is-the-hulk-bruce-banner", "date": "2016-09-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Mutant Who Became DEATH | Who Is Gambit", "id": "3855", "slug": "who-is-season-2-the-mutant-who-became-death-who-is-gambit", "date": "2016-08-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who Gets KICKED OUT Of Hell?!? | Who Is Harley Quinn", "id": "3856", "slug": "who-is-season-2-who-get-s-kicked-out-of-hell-who-is-harley-quinn", "date": "2016-08-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "AQUAMAN CONTROLS ZOMBIE SEA PEOPLE??", "id": "3857", "slug": "who-is-season-2-aquaman-controls-zombie-sea-p-e-o-p-l-e", "date": "2016-07-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ultron Will NEVER Die", "id": "3859", "slug": "who-is-season-2-ultron-will-never-die", "date": "2016-06-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Casey Jones was a Drunk??", "id": "3860", "slug": "who-is-season-2-casey-jones-was-a-drunk", "date": "2016-05-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Apocalypse Killed Dracula??", "id": "3861", "slug": "who-is-season-2-apocalypse-killed-dracula", "date": "2016-05-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Panther is no Pussy Cat...", "id": "3862", "slug": "who-is-season-2-black-panther-is-one-fly-motha", "date": "2016-05-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jon Snow is the Biggest Bastard on TV | \"Who Is\"", "id": "3863", "slug": "who-is-season-2-jon-snow-is-the-biggest-bastard-on-tv-who-is", "date": "2016-04-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Punisher Could Have Killed The Joker?? | \"Who is\"", "id": "3864", "slug": "who-is-season-2-the-punisher-could-have-killed-the-joker-who-is", "date": "2016-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Daredevil Loves Black Widow's Behind??? | \"Who Is\"", "id": "3869", "slug": "daredevil-loves-black-widows-behind-who-is", "date": "2015-04-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dr. Doom Gets Pooped On | \"Who Is\"", "id": "3868", "slug": "dr-doom-gets-pooped-on-who-is", "date": "2015-04-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Why Green Lantern is One Crazy Mofo | \"Who is...\"", "id": "3867", "slug": "why-green-lantern-is-one-crazy-mofo-who-is", "date": "2015-03-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "How Rocket Raccoon joined Guardians of the Galaxy", "id": "3866", "slug": "how-rocket-raccoon-joined-guardians-of-the-galaxy", "date": "2015-01-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who is Rocket Raccoon? SERIES PREMIERE!", "id": "3865", "slug": "who-is-rocket-raccoon-series-premiere", "date": "2015-01-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Who is",
+    "slug": "who-is",
+    "summary": {
+        "count": 15,
+        "uploaded": 15,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "World Breaker and Love Maker | Who Is The Hulk (Bruce Banner)",
+            "id": "3854",
+            "slug": "who-is-season-2-world-breaker-and-love-maker-who-is-the-hulk-bruce-banner",
+            "date": "2016-09-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Mutant Who Became DEATH | Who Is Gambit",
+            "id": "3855",
+            "slug": "who-is-season-2-the-mutant-who-became-death-who-is-gambit",
+            "date": "2016-08-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who Gets KICKED OUT Of Hell?!? | Who Is Harley Quinn",
+            "id": "3856",
+            "slug": "who-is-season-2-who-get-s-kicked-out-of-hell-who-is-harley-quinn",
+            "date": "2016-08-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "AQUAMAN CONTROLS ZOMBIE SEA PEOPLE??",
+            "id": "3857",
+            "slug": "who-is-season-2-aquaman-controls-zombie-sea-p-e-o-p-l-e",
+            "date": "2016-07-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ultron Will NEVER Die",
+            "id": "3859",
+            "slug": "who-is-season-2-ultron-will-never-die",
+            "date": "2016-06-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Casey Jones was a Drunk??",
+            "id": "3860",
+            "slug": "who-is-season-2-casey-jones-was-a-drunk",
+            "date": "2016-05-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Apocalypse Killed Dracula??",
+            "id": "3861",
+            "slug": "who-is-season-2-apocalypse-killed-dracula",
+            "date": "2016-05-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Panther is no Pussy Cat...",
+            "id": "3862",
+            "slug": "who-is-season-2-black-panther-is-one-fly-motha",
+            "date": "2016-05-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jon Snow is the Biggest Bastard on TV | \"Who Is\"",
+            "id": "3863",
+            "slug": "who-is-season-2-jon-snow-is-the-biggest-bastard-on-tv-who-is",
+            "date": "2016-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Punisher Could Have Killed The Joker?? | \"Who is\"",
+            "id": "3864",
+            "slug": "who-is-season-2-the-punisher-could-have-killed-the-joker-who-is",
+            "date": "2016-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Daredevil Loves Black Widow's Behind??? | \"Who Is\"",
+            "id": "3869",
+            "slug": "daredevil-loves-black-widows-behind-who-is",
+            "date": "2015-04-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dr. Doom Gets Pooped On | \"Who Is\"",
+            "id": "3868",
+            "slug": "dr-doom-gets-pooped-on-who-is",
+            "date": "2015-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Why Green Lantern is One Crazy Mofo | \"Who is...\"",
+            "id": "3867",
+            "slug": "why-green-lantern-is-one-crazy-mofo-who-is",
+            "date": "2015-03-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "How Rocket Raccoon joined Guardians of the Galaxy",
+            "id": "3866",
+            "slug": "how-rocket-raccoon-joined-guardians-of-the-galaxy",
+            "date": "2015-01-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who is Rocket Raccoon? SERIES PREMIERE!",
+            "id": "3865",
+            "slug": "who-is-rocket-raccoon-series-premiere",
+            "date": "2015-01-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

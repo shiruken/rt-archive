@@ -1,1 +1,883 @@
-{"show": "Red vs. Blue: The Recollection", "slug": "the-recollection", "summary": {"count": 87, "uploaded": 87, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "What I Did On My Summer Vacation", "id": "141-bonus", "slug": "red-vs-blue-bonus-55", "date": "2011-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "I am The Best", "id": "140-bonus", "slug": "red-vs-blue-bonus-60", "date": "2011-06-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Grifball Prop Animation", "id": "61-bonus", "slug": "red-vs-blue-bonus-59", "date": "2011-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinetic Entries Part Three", "id": "150-bonus", "slug": "red-vs-blue-bonus-46", "date": "2011-01-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinetic Entries Part Two", "id": "151-bonus", "slug": "red-vs-blue-bonus-47", "date": "2011-01-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinetic Entries Part One", "id": "160-bonus", "slug": "red-vs-blue-bonus-45", "date": "2011-01-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 20; The Finale", "id": "23090", "slug": "red-vs-blue-season-8-revelation-chapter-20-the-finale", "date": "2010-09-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red vs. Blue Reach Mini Series: Episode 3; Finale", "id": "144-bonus", "slug": "red-vs-blue-bonus-51", "date": "2010-09-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 19", "id": "23091", "slug": "red-vs-blue-season-8-revelation-chapter-19", "date": "2010-09-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 18", "id": "23092", "slug": "red-vs-blue-season-8-revelation-chapter-18", "date": "2010-08-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 17", "id": "23095", "slug": "red-vs-blue-season-8-revelation-chapter-17", "date": "2010-08-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red vs. Blue Reach Mini Series: Episode 2", "id": "146-bonus", "slug": "red-vs-blue-bonus-50", "date": "2010-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 16", "id": "23096", "slug": "red-vs-blue-season-8-revelation-chapter-16", "date": "2010-08-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red vs. Blue Reach Mini Series: Episode 1", "id": "147-bonus", "slug": "red-vs-blue-bonus-49", "date": "2010-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 15", "id": "23098", "slug": "red-vs-blue-season-8-revelation-chapter-15", "date": "2010-08-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 14", "id": "23099", "slug": "red-vs-blue-season-8-revelation-chapter-14", "date": "2010-07-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 13", "id": "23100", "slug": "red-vs-blue-season-8-revelation-chapter-13", "date": "2010-07-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 12", "id": "23555", "slug": "red-vs-blue-season-8-revelation-chapter-12", "date": "2010-07-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 11", "id": "23429", "slug": "red-vs-blue-season-8-revelation-chapter-11", "date": "2010-06-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 10", "id": "23103", "slug": "red-vs-blue-season-8-revelation-chapter-10", "date": "2010-06-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 9", "id": "23102", "slug": "red-vs-blue-season-8-revelation-chapter-9", "date": "2010-06-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 8", "id": "23104", "slug": "red-vs-blue-season-8-revelation-chapter-8", "date": "2010-06-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 7", "id": "23105", "slug": "red-vs-blue-season-8-revelation-chapter-7", "date": "2010-05-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 6", "id": "23107", "slug": "red-vs-blue-season-8-revelation-chapter-6", "date": "2010-05-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 5", "id": "23108", "slug": "red-vs-blue-season-8-revelation-chapter-5", "date": "2010-05-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 4", "id": "23109", "slug": "red-vs-blue-season-8-revelation-chapter-4", "date": "2010-04-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 3", "id": "23112", "slug": "red-vs-blue-season-8-revelation-chapter-3", "date": "2010-04-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 2", "id": "23110", "slug": "red-vs-blue-season-8-revelation-chapter-2", "date": "2010-04-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 1", "id": "23113", "slug": "red-vs-blue-season-8-revelation-chapter-1", "date": "2010-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Holiday Special 2009 Part Three", "id": "154-bonus", "slug": "red-vs-blue-bonus-40", "date": "2010-01-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RvB Holiday Special 2009 Part Two", "id": "153-bonus", "slug": "red-vs-blue-bonus-41", "date": "2010-01-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 19", "id": "23114", "slug": "red-vs-blue-season-7-recreation-chapter-19", "date": "2009-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 18", "id": "23115", "slug": "red-vs-blue-season-7-recreation-chapter-18", "date": "2009-10-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 17", "id": "23116", "slug": "red-vs-blue-season-7-recreation-chapter-17", "date": "2009-10-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 16", "id": "23117", "slug": "red-vs-blue-season-7-recreation-chapter-16", "date": "2009-10-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 15", "id": "23118", "slug": "red-vs-blue-season-7-recreation-chapter-15", "date": "2009-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 14", "id": "23556", "slug": "red-vs-blue-season-7-recreation-chapter-14", "date": "2009-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 13", "id": "23119", "slug": "red-vs-blue-season-7-recreation-chapter-13", "date": "2009-09-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "ODST Episode 3", "id": "164-bonus", "slug": "red-vs-blue-bonus-31", "date": "2009-09-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 12", "id": "23120", "slug": "red-vs-blue-season-7-recreation-chapter-12", "date": "2009-09-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "ODST Episode 2", "id": "165-bonus", "slug": "red-vs-blue-bonus-30", "date": "2009-09-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RT Member Video Submissions: Part 3 of 3", "id": "177-bonus", "slug": "red-vs-blue-bonus-38", "date": "2009-09-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RT Member Video Submissions: Part 2 of 3", "id": "158-bonus", "slug": "red-vs-blue-bonus-37", "date": "2009-09-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 11", "id": "23121", "slug": "red-vs-blue-season-7-recreation-chapter-11", "date": "2009-09-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RT Member Video Submissions: Part 1 of 3", "id": "157-bonus", "slug": "red-vs-blue-bonus-36", "date": "2009-08-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 10", "id": "23557", "slug": "red-vs-blue-season-7-recreation-chapter-10", "date": "2009-08-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 9", "id": "23123", "slug": "red-vs-blue-season-7-recreation-chapter-9", "date": "2009-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 8", "id": "23124", "slug": "red-vs-blue-season-7-recreation-chapter-8", "date": "2009-08-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 7", "id": "23125", "slug": "red-vs-blue-season-7-recreation-chapter-7", "date": "2009-08-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 6", "id": "23126", "slug": "red-vs-blue-season-7-recreation-chapter-6", "date": "2009-07-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 5", "id": "23127", "slug": "red-vs-blue-season-7-recreation-chapter-5", "date": "2009-07-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 4", "id": "23128", "slug": "red-vs-blue-season-7-recreation-chapter-4", "date": "2009-07-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 3", "id": "23558", "slug": "red-vs-blue-season-7-recreation-chapter-3", "date": "2009-06-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 2", "id": "23559", "slug": "red-vs-blue-season-7-recreation-chapter-2", "date": "2009-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 1", "id": "23129", "slug": "red-vs-blue-season-7-recreation-chapter-1", "date": "2009-06-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Trailer", "id": "152-bonus", "slug": "red-vs-blue-bonus-43", "date": "2009-06-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Relocated Part Four", "id": "163-bonus", "slug": "red-vs-blue-bonus-32", "date": "2009-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Relocated Part Three", "id": "161-bonus", "slug": "red-vs-blue-bonus-34", "date": "2009-03-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo Mythic Map Pack: Sandbox", "id": "166-bonus", "slug": "red-vs-blue-bonus-28", "date": "2009-02-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Halo Mythic Map Pack: Orbital", "id": "169-bonus", "slug": "red-vs-blue-bonus-26", "date": "2009-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Relocated Part Two", "id": "162-bonus", "slug": "red-vs-blue-bonus-35", "date": "2009-02-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Valentine's Day 2009", "id": "155-bonus", "slug": "red-vs-blue-bonus-44", "date": "2009-02-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Relocated Part One", "id": "159-bonus", "slug": "red-vs-blue-bonus-33", "date": "2009-02-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thanksgiving 2008", "id": "156-bonus", "slug": "red-vs-blue-bonus-42", "date": "2008-11-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 19", "id": "23130", "slug": "red-vs-blue-season-6-reconstruction-chapter-19", "date": "2008-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 18", "id": "23131", "slug": "red-vs-blue-season-6-reconstruction-chapter-18", "date": "2008-10-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 17", "id": "23133", "slug": "red-vs-blue-season-6-reconstruction-chapter-17", "date": "2008-10-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 16", "id": "23134", "slug": "red-vs-blue-season-6-reconstruction-chapter-16", "date": "2008-09-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 15", "id": "23136", "slug": "red-vs-blue-season-6-reconstruction-chapter-15", "date": "2008-09-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 14", "id": "23135", "slug": "red-vs-blue-season-6-reconstruction-chapter-14", "date": "2008-09-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 13", "id": "23137", "slug": "red-vs-blue-season-6-reconstruction-chapter-13", "date": "2008-09-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 12", "id": "23138", "slug": "red-vs-blue-season-6-reconstruction-chapter-12", "date": "2008-08-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 11", "id": "23139", "slug": "red-vs-blue-season-6-reconstruction-chapter-11", "date": "2008-08-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 10", "id": "23140", "slug": "red-vs-blue-season-6-reconstruction-chapter-10", "date": "2008-08-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 9", "id": "23141", "slug": "red-vs-blue-season-6-reconstruction-chapter-9", "date": "2008-08-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 8", "id": "23142", "slug": "red-vs-blue-season-6-reconstruction-chapter-8", "date": "2008-07-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 7", "id": "23143", "slug": "red-vs-blue-season-6-reconstruction-chapter-7", "date": "2008-07-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 6", "id": "23144", "slug": "red-vs-blue-season-6-reconstruction-chapter-6", "date": "2008-07-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 5", "id": "23145", "slug": "red-vs-blue-season-6-reconstruction-chapter-5", "date": "2008-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 4", "id": "23146", "slug": "red-vs-blue-season-6-reconstruction-chapter-4", "date": "2008-06-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 3", "id": "23147", "slug": "red-vs-blue-season-6-reconstruction-chapter-3", "date": "2008-06-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 2", "id": "23148", "slug": "red-vs-blue-season-6-reconstruction-chapter-2", "date": "2008-06-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 1", "id": "23245", "slug": "red-vs-blue-season-6-reconstruction-chapter-1", "date": "2008-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recovery One - Part IV", "id": "172-bonus", "slug": "red-vs-blue-bonus-22", "date": "2008-03-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recovery One - Part III", "id": "173-bonus", "slug": "red-vs-blue-bonus-21", "date": "2008-03-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recovery One - Part II", "id": "174-bonus", "slug": "red-vs-blue-bonus-20", "date": "2008-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Recovery One - Part I", "id": "175-bonus", "slug": "red-vs-blue-bonus-19", "date": "2008-03-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Red vs. Blue: The Recollection",
+    "slug": "the-recollection",
+    "summary": {
+        "count": 87,
+        "uploaded": 87,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "What I Did On My Summer Vacation",
+            "id": "141-bonus",
+            "slug": "red-vs-blue-bonus-55",
+            "date": "2011-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "I am The Best",
+            "id": "140-bonus",
+            "slug": "red-vs-blue-bonus-60",
+            "date": "2011-06-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Grifball Prop Animation",
+            "id": "61-bonus",
+            "slug": "red-vs-blue-bonus-59",
+            "date": "2011-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinetic Entries Part Three",
+            "id": "150-bonus",
+            "slug": "red-vs-blue-bonus-46",
+            "date": "2011-01-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinetic Entries Part Two",
+            "id": "151-bonus",
+            "slug": "red-vs-blue-bonus-47",
+            "date": "2011-01-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinetic Entries Part One",
+            "id": "160-bonus",
+            "slug": "red-vs-blue-bonus-45",
+            "date": "2011-01-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 20; The Finale",
+            "id": "23090",
+            "slug": "red-vs-blue-season-8-revelation-chapter-20-the-finale",
+            "date": "2010-09-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red vs. Blue Reach Mini Series: Episode 3; Finale",
+            "id": "144-bonus",
+            "slug": "red-vs-blue-bonus-51",
+            "date": "2010-09-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 19",
+            "id": "23091",
+            "slug": "red-vs-blue-season-8-revelation-chapter-19",
+            "date": "2010-09-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 18",
+            "id": "23092",
+            "slug": "red-vs-blue-season-8-revelation-chapter-18",
+            "date": "2010-08-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 17",
+            "id": "23095",
+            "slug": "red-vs-blue-season-8-revelation-chapter-17",
+            "date": "2010-08-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red vs. Blue Reach Mini Series: Episode 2",
+            "id": "146-bonus",
+            "slug": "red-vs-blue-bonus-50",
+            "date": "2010-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 16",
+            "id": "23096",
+            "slug": "red-vs-blue-season-8-revelation-chapter-16",
+            "date": "2010-08-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red vs. Blue Reach Mini Series: Episode 1",
+            "id": "147-bonus",
+            "slug": "red-vs-blue-bonus-49",
+            "date": "2010-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 15",
+            "id": "23098",
+            "slug": "red-vs-blue-season-8-revelation-chapter-15",
+            "date": "2010-08-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 14",
+            "id": "23099",
+            "slug": "red-vs-blue-season-8-revelation-chapter-14",
+            "date": "2010-07-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 13",
+            "id": "23100",
+            "slug": "red-vs-blue-season-8-revelation-chapter-13",
+            "date": "2010-07-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 12",
+            "id": "23555",
+            "slug": "red-vs-blue-season-8-revelation-chapter-12",
+            "date": "2010-07-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 11",
+            "id": "23429",
+            "slug": "red-vs-blue-season-8-revelation-chapter-11",
+            "date": "2010-06-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 10",
+            "id": "23103",
+            "slug": "red-vs-blue-season-8-revelation-chapter-10",
+            "date": "2010-06-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 9",
+            "id": "23102",
+            "slug": "red-vs-blue-season-8-revelation-chapter-9",
+            "date": "2010-06-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 8",
+            "id": "23104",
+            "slug": "red-vs-blue-season-8-revelation-chapter-8",
+            "date": "2010-06-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 7",
+            "id": "23105",
+            "slug": "red-vs-blue-season-8-revelation-chapter-7",
+            "date": "2010-05-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 6",
+            "id": "23107",
+            "slug": "red-vs-blue-season-8-revelation-chapter-6",
+            "date": "2010-05-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 5",
+            "id": "23108",
+            "slug": "red-vs-blue-season-8-revelation-chapter-5",
+            "date": "2010-05-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 4",
+            "id": "23109",
+            "slug": "red-vs-blue-season-8-revelation-chapter-4",
+            "date": "2010-04-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 3",
+            "id": "23112",
+            "slug": "red-vs-blue-season-8-revelation-chapter-3",
+            "date": "2010-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 2",
+            "id": "23110",
+            "slug": "red-vs-blue-season-8-revelation-chapter-2",
+            "date": "2010-04-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 1",
+            "id": "23113",
+            "slug": "red-vs-blue-season-8-revelation-chapter-1",
+            "date": "2010-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Holiday Special 2009 Part Three",
+            "id": "154-bonus",
+            "slug": "red-vs-blue-bonus-40",
+            "date": "2010-01-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RvB Holiday Special 2009 Part Two",
+            "id": "153-bonus",
+            "slug": "red-vs-blue-bonus-41",
+            "date": "2010-01-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 19",
+            "id": "23114",
+            "slug": "red-vs-blue-season-7-recreation-chapter-19",
+            "date": "2009-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 18",
+            "id": "23115",
+            "slug": "red-vs-blue-season-7-recreation-chapter-18",
+            "date": "2009-10-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 17",
+            "id": "23116",
+            "slug": "red-vs-blue-season-7-recreation-chapter-17",
+            "date": "2009-10-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 16",
+            "id": "23117",
+            "slug": "red-vs-blue-season-7-recreation-chapter-16",
+            "date": "2009-10-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 15",
+            "id": "23118",
+            "slug": "red-vs-blue-season-7-recreation-chapter-15",
+            "date": "2009-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 14",
+            "id": "23556",
+            "slug": "red-vs-blue-season-7-recreation-chapter-14",
+            "date": "2009-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 13",
+            "id": "23119",
+            "slug": "red-vs-blue-season-7-recreation-chapter-13",
+            "date": "2009-09-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "ODST Episode 3",
+            "id": "164-bonus",
+            "slug": "red-vs-blue-bonus-31",
+            "date": "2009-09-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 12",
+            "id": "23120",
+            "slug": "red-vs-blue-season-7-recreation-chapter-12",
+            "date": "2009-09-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "ODST Episode 2",
+            "id": "165-bonus",
+            "slug": "red-vs-blue-bonus-30",
+            "date": "2009-09-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RT Member Video Submissions: Part 3 of 3",
+            "id": "177-bonus",
+            "slug": "red-vs-blue-bonus-38",
+            "date": "2009-09-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RT Member Video Submissions: Part 2 of 3",
+            "id": "158-bonus",
+            "slug": "red-vs-blue-bonus-37",
+            "date": "2009-09-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 11",
+            "id": "23121",
+            "slug": "red-vs-blue-season-7-recreation-chapter-11",
+            "date": "2009-09-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RT Member Video Submissions: Part 1 of 3",
+            "id": "157-bonus",
+            "slug": "red-vs-blue-bonus-36",
+            "date": "2009-08-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 10",
+            "id": "23557",
+            "slug": "red-vs-blue-season-7-recreation-chapter-10",
+            "date": "2009-08-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 9",
+            "id": "23123",
+            "slug": "red-vs-blue-season-7-recreation-chapter-9",
+            "date": "2009-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 8",
+            "id": "23124",
+            "slug": "red-vs-blue-season-7-recreation-chapter-8",
+            "date": "2009-08-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 7",
+            "id": "23125",
+            "slug": "red-vs-blue-season-7-recreation-chapter-7",
+            "date": "2009-08-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 6",
+            "id": "23126",
+            "slug": "red-vs-blue-season-7-recreation-chapter-6",
+            "date": "2009-07-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 5",
+            "id": "23127",
+            "slug": "red-vs-blue-season-7-recreation-chapter-5",
+            "date": "2009-07-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 4",
+            "id": "23128",
+            "slug": "red-vs-blue-season-7-recreation-chapter-4",
+            "date": "2009-07-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 3",
+            "id": "23558",
+            "slug": "red-vs-blue-season-7-recreation-chapter-3",
+            "date": "2009-06-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 2",
+            "id": "23559",
+            "slug": "red-vs-blue-season-7-recreation-chapter-2",
+            "date": "2009-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 1",
+            "id": "23129",
+            "slug": "red-vs-blue-season-7-recreation-chapter-1",
+            "date": "2009-06-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Trailer",
+            "id": "152-bonus",
+            "slug": "red-vs-blue-bonus-43",
+            "date": "2009-06-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Relocated Part Four",
+            "id": "163-bonus",
+            "slug": "red-vs-blue-bonus-32",
+            "date": "2009-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Relocated Part Three",
+            "id": "161-bonus",
+            "slug": "red-vs-blue-bonus-34",
+            "date": "2009-03-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo Mythic Map Pack: Sandbox",
+            "id": "166-bonus",
+            "slug": "red-vs-blue-bonus-28",
+            "date": "2009-02-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Halo Mythic Map Pack: Orbital",
+            "id": "169-bonus",
+            "slug": "red-vs-blue-bonus-26",
+            "date": "2009-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Relocated Part Two",
+            "id": "162-bonus",
+            "slug": "red-vs-blue-bonus-35",
+            "date": "2009-02-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Valentine's Day 2009",
+            "id": "155-bonus",
+            "slug": "red-vs-blue-bonus-44",
+            "date": "2009-02-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Relocated Part One",
+            "id": "159-bonus",
+            "slug": "red-vs-blue-bonus-33",
+            "date": "2009-02-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thanksgiving 2008",
+            "id": "156-bonus",
+            "slug": "red-vs-blue-bonus-42",
+            "date": "2008-11-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 19",
+            "id": "23130",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-19",
+            "date": "2008-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 18",
+            "id": "23131",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-18",
+            "date": "2008-10-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 17",
+            "id": "23133",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-17",
+            "date": "2008-10-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 16",
+            "id": "23134",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-16",
+            "date": "2008-09-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 15",
+            "id": "23136",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-15",
+            "date": "2008-09-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 14",
+            "id": "23135",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-14",
+            "date": "2008-09-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 13",
+            "id": "23137",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-13",
+            "date": "2008-09-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 12",
+            "id": "23138",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-12",
+            "date": "2008-08-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 11",
+            "id": "23139",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-11",
+            "date": "2008-08-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 10",
+            "id": "23140",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-10",
+            "date": "2008-08-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 9",
+            "id": "23141",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-9",
+            "date": "2008-08-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 8",
+            "id": "23142",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-8",
+            "date": "2008-07-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 7",
+            "id": "23143",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-7",
+            "date": "2008-07-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 6",
+            "id": "23144",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-6",
+            "date": "2008-07-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 5",
+            "id": "23145",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-5",
+            "date": "2008-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 4",
+            "id": "23146",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-4",
+            "date": "2008-06-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 3",
+            "id": "23147",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-3",
+            "date": "2008-06-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 2",
+            "id": "23148",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-2",
+            "date": "2008-06-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 1",
+            "id": "23245",
+            "slug": "red-vs-blue-season-6-reconstruction-chapter-1",
+            "date": "2008-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recovery One - Part IV",
+            "id": "172-bonus",
+            "slug": "red-vs-blue-bonus-22",
+            "date": "2008-03-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recovery One - Part III",
+            "id": "173-bonus",
+            "slug": "red-vs-blue-bonus-21",
+            "date": "2008-03-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recovery One - Part II",
+            "id": "174-bonus",
+            "slug": "red-vs-blue-bonus-20",
+            "date": "2008-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Recovery One - Part I",
+            "id": "175-bonus",
+            "slug": "red-vs-blue-bonus-19",
+            "date": "2008-03-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

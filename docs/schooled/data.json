@@ -1,1 +1,123 @@
-{"show": "Schooled", "slug": "schooled", "summary": {"count": 11, "uploaded": 11, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Episode 10: Bonus Episode", "id": "1047", "slug": "schooled-season-2-episode-10", "date": "2017-05-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 9: Hot Pepper Challenge", "id": "1048", "slug": "schooled-season-2-episode-9-hot-pepper-challenge", "date": "2017-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 8: The Final Challenge", "id": "1049", "slug": "schooled-season-2-episode-8-the-final-challenge", "date": "2017-05-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 7: Wall of Punishment", "id": "1050", "slug": "schooled-season-2-episode-7-wall-of-punishment", "date": "2017-04-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 6: Winner, Winner, Chicken Dinner!", "id": "1051", "slug": "schooled-season-2-episode-6-winner-winner-chicken-dinner", "date": "2017-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 5: Shenanigans!", "id": "1052", "slug": "schooled-season-2-episode-5-shenanigans", "date": "2017-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 4: I Guess I'm Ready?", "id": "1053", "slug": "schooled-season-2-episode-4-i-guess-i-m-ready", "date": "2017-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 3: Know Thy Enemy", "id": "1054", "slug": "schooled-season-2-episode-3-know-thy-enemy", "date": "2017-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 2: Swiss Forking Cheese!", "id": "1055", "slug": "schooled-season-2-episode-2-swiss-forking-cheese", "date": "2017-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 1: We Punish Defeat", "id": "1056", "slug": "schooled-season-2-episode-1-we-punish-defeat", "date": "2017-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Schooled", "id": "1065", "slug": "schooled-season-1", "date": "2016-07-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Schooled",
+    "slug": "schooled",
+    "summary": {
+        "count": 11,
+        "uploaded": 11,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Episode 10: Bonus Episode",
+            "id": "1047",
+            "slug": "schooled-season-2-episode-10",
+            "date": "2017-05-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 9: Hot Pepper Challenge",
+            "id": "1048",
+            "slug": "schooled-season-2-episode-9-hot-pepper-challenge",
+            "date": "2017-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 8: The Final Challenge",
+            "id": "1049",
+            "slug": "schooled-season-2-episode-8-the-final-challenge",
+            "date": "2017-05-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 7: Wall of Punishment",
+            "id": "1050",
+            "slug": "schooled-season-2-episode-7-wall-of-punishment",
+            "date": "2017-04-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 6: Winner, Winner, Chicken Dinner!",
+            "id": "1051",
+            "slug": "schooled-season-2-episode-6-winner-winner-chicken-dinner",
+            "date": "2017-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 5: Shenanigans!",
+            "id": "1052",
+            "slug": "schooled-season-2-episode-5-shenanigans",
+            "date": "2017-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 4: I Guess I'm Ready?",
+            "id": "1053",
+            "slug": "schooled-season-2-episode-4-i-guess-i-m-ready",
+            "date": "2017-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 3: Know Thy Enemy",
+            "id": "1054",
+            "slug": "schooled-season-2-episode-3-know-thy-enemy",
+            "date": "2017-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 2: Swiss Forking Cheese!",
+            "id": "1055",
+            "slug": "schooled-season-2-episode-2-swiss-forking-cheese",
+            "date": "2017-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 1: We Punish Defeat",
+            "id": "1056",
+            "slug": "schooled-season-2-episode-1-we-punish-defeat",
+            "date": "2017-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Schooled",
+            "id": "1065",
+            "slug": "schooled-season-1",
+            "date": "2016-07-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,83 @@
-{"show": "RWBY: Fairy Tales", "slug": "rwby-fairy-tales", "summary": {"count": 7, "uploaded": 7, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Warrior In The Woods", "id": "46133", "slug": "rwby-fairy-tales-season-1-6", "date": "2021-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Girl In The Tower", "id": "46036", "slug": "rwby-fairy-tales-season-1-5", "date": "2021-11-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Indecisive King", "id": "45980", "slug": "rwby-fairy-tales-season-1-4", "date": "2021-11-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Shallow Sea", "id": "45900", "slug": "rwby-fairy-tales-season-1-3", "date": "2021-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Hunter's Children", "id": "45824", "slug": "rwby-fairy-tales-season-1-2", "date": "2021-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Grimm Child", "id": "45728", "slug": "rwby-fairy-tales-season-1-1", "date": "2021-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY: Fairy Tales | Official Trailer", "id": "45686", "slug": "rwby-rwby-fairy-tales-trailer", "date": "2021-10-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RWBY: Fairy Tales",
+    "slug": "rwby-fairy-tales",
+    "summary": {
+        "count": 7,
+        "uploaded": 7,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Warrior In The Woods",
+            "id": "46133",
+            "slug": "rwby-fairy-tales-season-1-6",
+            "date": "2021-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Girl In The Tower",
+            "id": "46036",
+            "slug": "rwby-fairy-tales-season-1-5",
+            "date": "2021-11-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Indecisive King",
+            "id": "45980",
+            "slug": "rwby-fairy-tales-season-1-4",
+            "date": "2021-11-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Shallow Sea",
+            "id": "45900",
+            "slug": "rwby-fairy-tales-season-1-3",
+            "date": "2021-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Hunter's Children",
+            "id": "45824",
+            "slug": "rwby-fairy-tales-season-1-2",
+            "date": "2021-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Grimm Child",
+            "id": "45728",
+            "slug": "rwby-fairy-tales-season-1-1",
+            "date": "2021-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY: Fairy Tales | Official Trailer",
+            "id": "45686",
+            "slug": "rwby-rwby-fairy-tales-trailer",
+            "date": "2021-10-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

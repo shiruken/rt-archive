@@ -1,1 +1,153 @@
-{"show": "RTES", "slug": "rtes", "summary": {"count": 14, "uploaded": 14, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Naomi Kyle Raids Lara Croft's Tomb - Episode 6", "id": "7570", "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-6", "date": "2015-11-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Snacks", "id": "7559", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-snacks", "date": "2015-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Stormtrooper Dick - Episode 5", "id": "7571", "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-5", "date": "2015-10-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Race Wars", "id": "7560", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-troopin", "date": "2015-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Greg Miller \"The Gauntlet had been a rough time for me\"", "id": "7561", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-greg-miller-the-gauntlet-had-been-a-rough-time-for-me", "date": "2015-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Everything Is Pokemon", "id": "7564", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-everything-is-pokemon", "date": "2015-10-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DLC Fuckfest - Episode 4", "id": "7572", "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-4", "date": "2015-10-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Destiny Support Group", "id": "7563", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-destiny-support-group", "date": "2015-10-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rev. Fred Phelps Gone Too Soon - Episode 3", "id": "7573", "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-2", "date": "2015-10-11", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Video Game that Kills You Forever and other News", "id": "7565", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-5", "date": "2015-10-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Featuring Geoff Ramsey - Episode 2", "id": "7575", "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-featuring-geoff-ramsey-episode-2", "date": "2015-10-04", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#RTES Episode 2 LIVE This Sunday!", "id": "7566", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-4", "date": "2015-10-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Featuring Matt Hullum and Burnie Burns - Episode 1", "id": "7574", "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-r-t-e-s-01-2", "date": "2015-10-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rooster Teeth Entertainment System (RT-ES) - Official Trailer", "id": "7569", "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips", "date": "2015-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RTES",
+    "slug": "rtes",
+    "summary": {
+        "count": 14,
+        "uploaded": 14,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Naomi Kyle Raids Lara Croft's Tomb - Episode 6",
+            "id": "7570",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-6",
+            "date": "2015-11-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Snacks",
+            "id": "7559",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-snacks",
+            "date": "2015-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Stormtrooper Dick - Episode 5",
+            "id": "7571",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-5",
+            "date": "2015-10-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Race Wars",
+            "id": "7560",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-troopin",
+            "date": "2015-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Greg Miller \"The Gauntlet had been a rough time for me\"",
+            "id": "7561",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-greg-miller-the-gauntlet-had-been-a-rough-time-for-me",
+            "date": "2015-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Everything Is Pokemon",
+            "id": "7564",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-everything-is-pokemon",
+            "date": "2015-10-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DLC Fuckfest - Episode 4",
+            "id": "7572",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-4",
+            "date": "2015-10-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Destiny Support Group",
+            "id": "7563",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-destiny-support-group",
+            "date": "2015-10-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rev. Fred Phelps Gone Too Soon - Episode 3",
+            "id": "7573",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-episode-2",
+            "date": "2015-10-11",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Video Game that Kills You Forever and other News",
+            "id": "7565",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-5",
+            "date": "2015-10-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Featuring Geoff Ramsey - Episode 2",
+            "id": "7575",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-featuring-geoff-ramsey-episode-2",
+            "date": "2015-10-04",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#RTES Episode 2 LIVE This Sunday!",
+            "id": "7566",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips-4",
+            "date": "2015-10-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Featuring Matt Hullum and Burnie Burns - Episode 1",
+            "id": "7574",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-season-1-r-t-e-s-01-2",
+            "date": "2015-10-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rooster Teeth Entertainment System (RT-ES) - Official Trailer",
+            "id": "7569",
+            "slug": "rooster-teeth-entertainment-system-r-t-e-s-clips",
+            "date": "2015-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

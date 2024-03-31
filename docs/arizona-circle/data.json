@@ -1,1 +1,133 @@
-{"show": "Arizona Circle", "slug": "arizona-circle", "summary": {"count": 12, "uploaded": 12, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The One Where Everyone Dies - Episode 7", "id": "35972", "slug": "arizona-circle-2019-7", "date": "2019-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blooper Reel! Arizona Circle Outtakes", "id": "1413-bonus", "slug": "arizona-circle-bloopers", "date": "2019-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Two Girls, One Forest - Episode 6", "id": "35859", "slug": "arizona-circle-2019-6", "date": "2019-11-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Inequitable Misgivings of Edward Crumpacker: Turn Off the Dark - Episode 5", "id": "35800", "slug": "arizona-circle-2019-5", "date": "2019-11-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Chriscible - Episode 4", "id": "35636", "slug": "arizona-circle-2019-4", "date": "2019-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "127 Minutes - Episode 3", "id": "35620", "slug": "arizona-circle-2019-3", "date": "2019-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Stupid Punts - Episode 2", "id": "35517", "slug": "arizona-circle-2019-2", "date": "2019-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Last Laugh - Episode 1", "id": "35448", "slug": "arizona-circle-2019-1", "date": "2019-10-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Arizona Circle Season 1 - Official Trailer", "id": "1410-bonus", "slug": "arizona-circle-azctrailer", "date": "2019-10-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shredder - Arizona Circle Bonus Sketch", "id": "28755", "slug": "arizona-circle-2018-shredder", "date": "2018-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "ARIZONA CIRCLE PILOT", "id": "28620", "slug": "arizona-circle-2018-arizona-circle-pilot", "date": "2018-09-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Arizona Circle Trailer", "id": "28418", "slug": "arizona-circle-2018-trailer", "date": "2018-08-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Arizona Circle",
+    "slug": "arizona-circle",
+    "summary": {
+        "count": 12,
+        "uploaded": 12,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The One Where Everyone Dies - Episode 7",
+            "id": "35972",
+            "slug": "arizona-circle-2019-7",
+            "date": "2019-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blooper Reel! Arizona Circle Outtakes",
+            "id": "1413-bonus",
+            "slug": "arizona-circle-bloopers",
+            "date": "2019-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Two Girls, One Forest - Episode 6",
+            "id": "35859",
+            "slug": "arizona-circle-2019-6",
+            "date": "2019-11-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Inequitable Misgivings of Edward Crumpacker: Turn Off the Dark - Episode 5",
+            "id": "35800",
+            "slug": "arizona-circle-2019-5",
+            "date": "2019-11-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Chriscible - Episode 4",
+            "id": "35636",
+            "slug": "arizona-circle-2019-4",
+            "date": "2019-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "127 Minutes - Episode 3",
+            "id": "35620",
+            "slug": "arizona-circle-2019-3",
+            "date": "2019-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Stupid Punts - Episode 2",
+            "id": "35517",
+            "slug": "arizona-circle-2019-2",
+            "date": "2019-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Last Laugh - Episode 1",
+            "id": "35448",
+            "slug": "arizona-circle-2019-1",
+            "date": "2019-10-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Arizona Circle Season 1 - Official Trailer",
+            "id": "1410-bonus",
+            "slug": "arizona-circle-azctrailer",
+            "date": "2019-10-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shredder - Arizona Circle Bonus Sketch",
+            "id": "28755",
+            "slug": "arizona-circle-2018-shredder",
+            "date": "2018-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "ARIZONA CIRCLE PILOT",
+            "id": "28620",
+            "slug": "arizona-circle-2018-arizona-circle-pilot",
+            "date": "2018-09-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Arizona Circle Trailer",
+            "id": "28418",
+            "slug": "arizona-circle-2018-trailer",
+            "date": "2018-08-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

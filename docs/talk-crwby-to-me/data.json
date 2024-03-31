@@ -1,1 +1,103 @@
-{"show": "Talk CRWBY to Me", "slug": "talk-crwby-to-me", "summary": {"count": 9, "uploaded": 9, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Ice Queendom Special", "id": "48566", "slug": "talk-crwby-to-me-season-2-ice-queendom-special", "date": "2022-06-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Always Take Notes / The Rock Would Be Great On Me", "id": "39291", "slug": "talk-crwby-to-me-season-1-8", "date": "2020-07-11", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "PRO Producers on RWBY!", "id": "39204", "slug": "talk-crwby-to-me-1-7", "date": "2020-07-04", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RWBY Gets Edited", "id": "39086", "slug": "talk-crwby-to-me-1-6", "date": "2020-06-27", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Animating RWBY", "id": "38967", "slug": "talk-crwby-to-me-1-5", "date": "2020-06-20", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "It All Starts with Boards", "id": "38858", "slug": "talk-crwby-to-me-1-4", "date": "2020-06-13", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "50 shades of RWBY", "id": "38742", "slug": "talk-crwby-to-me-1-3", "date": "2020-06-06", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bringing Remnant to Life", "id": "38649", "slug": "talk-crwby-to-me-1-2", "date": "2020-05-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Direction of RWBY", "id": "38546", "slug": "talk-crwby-to-me-1-1", "date": "2020-05-23", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Talk CRWBY to Me",
+    "slug": "talk-crwby-to-me",
+    "summary": {
+        "count": 9,
+        "uploaded": 9,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Ice Queendom Special",
+            "id": "48566",
+            "slug": "talk-crwby-to-me-season-2-ice-queendom-special",
+            "date": "2022-06-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Always Take Notes / The Rock Would Be Great On Me",
+            "id": "39291",
+            "slug": "talk-crwby-to-me-season-1-8",
+            "date": "2020-07-11",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "PRO Producers on RWBY!",
+            "id": "39204",
+            "slug": "talk-crwby-to-me-1-7",
+            "date": "2020-07-04",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY Gets Edited",
+            "id": "39086",
+            "slug": "talk-crwby-to-me-1-6",
+            "date": "2020-06-27",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Animating RWBY",
+            "id": "38967",
+            "slug": "talk-crwby-to-me-1-5",
+            "date": "2020-06-20",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "It All Starts with Boards",
+            "id": "38858",
+            "slug": "talk-crwby-to-me-1-4",
+            "date": "2020-06-13",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "50 shades of RWBY",
+            "id": "38742",
+            "slug": "talk-crwby-to-me-1-3",
+            "date": "2020-06-06",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bringing Remnant to Life",
+            "id": "38649",
+            "slug": "talk-crwby-to-me-1-2",
+            "date": "2020-05-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Direction of RWBY",
+            "id": "38546",
+            "slug": "talk-crwby-to-me-1-1",
+            "date": "2020-05-23",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

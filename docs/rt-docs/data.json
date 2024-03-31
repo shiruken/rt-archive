@@ -1,1 +1,413 @@
-{"show": "RT Docs", "slug": "rt-docs", "summary": {"count": 40, "uploaded": 40, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Waiting for the Punchline", "id": "31852", "slug": "rt-docs-waiting-for-the-punchline", "date": "2019-03-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Waiting for the Punchline Trailer", "id": "1338-bonus", "slug": "rt-docs-waiting-for-the-punchline-trailer", "date": "2019-01-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Common Ground", "id": "29210", "slug": "rt-docs-rt-docs-common-ground", "date": "2018-11-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Why We\u2019re Here: 15 Years of Rooster Teeth", "id": "27842", "slug": "rt-docs-why-we-re-here-15-years-of-rooster-teeth-why-we-re-here-15-years-of-rooster-teeth", "date": "2018-04-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Why We're Here: 15 Years of Rooster Teeth - Trailer", "id": "199-bonus", "slug": "rt-docs-rt15-trailer", "date": "2018-04-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Burnie and Matt Crash the House Where Rooster Teeth Started", "id": "198-bonus", "slug": "rt-docs-rt15", "date": "2018-04-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Becoming Jessica Nigri", "id": "27782", "slug": "rt-docs-becoming-jessica-nigri-8jgohb3s", "date": "2018-01-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Becoming Jessica Nigri - Trailer", "id": "1281-bonus", "slug": "rt-docs-becoming-jessica-nigri-trailer", "date": "2018-01-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Becoming Jessica Nigri Promo", "id": "1301-bonus", "slug": "rt-docs-becoming-jessica-nigri-becoming-jessica-nigri", "date": "2017-12-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Unconventional", "id": "27843", "slug": "rt-docs-unconventional-unconventional", "date": "2017-06-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Unconventional Trailer - Premieres June 30", "id": "1300-bonus", "slug": "rt-docs-unconventional-unconventional-trailer", "date": "2017-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Haus of Pain", "id": "27836", "slug": "rt-docs-haus-of-pain-haus-of-pain", "date": "2017-04-28", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Haus Of Pain - Trailer", "id": "1278-bonus", "slug": "rt-docs-haus-of-pain-haus-of-pain-trailer", "date": "2017-04-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tattooist", "id": "27841", "slug": "rt-docs-the-tattooist-the-tattooist-ja73h6", "date": "2017-03-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tattooist - Trailer", "id": "1280-bonus", "slug": "rt-docs-bonus-1", "date": "2017-03-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Meme Machine: What Happens When the Internet Chooses You", "id": "27840", "slug": "rt-docs-the-meme-machine-the-meme-machine-what-happens-when-the-internet-chooses-you", "date": "2016-12-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gus Talks Memes - Deleted Scenes", "id": "1299-bonus", "slug": "rt-docs-the-meme-machine-gus-talks-memes-deleted-scenes", "date": "2016-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What is the Meaning of Chocolate Rain? - Deleted Scenes", "id": "1298-bonus", "slug": "rt-docs-the-meme-machine-what-is-the-meaning-of-chocolate-rain-deleted-scenes", "date": "2016-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Do Memes Need Managers? - Deleted Scenes", "id": "1297-bonus", "slug": "rt-docs-the-meme-machine-do-memes-need-managers-deleted-scenes", "date": "2016-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Selfish Gene - Deleted Scenes", "id": "1296-bonus", "slug": "rt-docs-the-meme-machine-the-selfish-gene-deleted-scenes", "date": "2016-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Meme Machine - Trailer", "id": "1295-bonus", "slug": "rt-docs-the-meme-machine-the-meme-machine-trailer", "date": "2016-11-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Slow Mo ASMR - Deleted Scene", "id": "1294-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-slow-mo-asmr-deleted-scene", "date": "2016-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Saurabh's Stetson - Deleted Scene", "id": "1293-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-saurabh-s-stetson-deleted-scene", "date": "2016-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Baba Sen - Extended Interview", "id": "1292-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-baba-sen-extended-interview", "date": "2016-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Rickshaw Ride - Extended Scene", "id": "1291-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-the-rickshaw-ride-extended-scene", "date": "2016-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "It's Not Sexual - Deleted Scene", "id": "1290-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-it-s-not-sexual-deleted-scene", "date": "2016-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "World's Greatest Head Massage 26 - Baba the Cosmic Barber", "id": "1289-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-bhm", "date": "2016-07-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The World's Greatest Head Massage: An ASMR Journey (Part Two)", "id": "27834", "slug": "rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-part-two", "date": "2016-07-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The World's Greatest Head Massage: An ASMR Journey (Part One)", "id": "27832", "slug": "rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-part-one", "date": "2016-07-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "\"The World's Greatest Head Massage: An ASMR Journey\" Trailer (2016) HD", "id": "1288-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-trailer-2016-hd", "date": "2016-06-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Greetings From India", "id": "1287-bonus", "slug": "rt-docs-the-world-s-greatest-head-massage-greetings-from-india", "date": "2016-05-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Two Guys On Your Head Interview", "id": "1286-bonus", "slug": "rt-docs-connected-two-guys-on-your-head-interview", "date": "2016-05-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "80085", "id": "1285-bonus", "slug": "rt-docs-connected-80085", "date": "2016-05-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Barbara's Boredom", "id": "1284-bonus", "slug": "rt-docs-connected-barbaras-boredom", "date": "2016-05-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blaine Calls 4-1-1", "id": "1283-bonus", "slug": "rt-docs-connected-blaine-calls-411", "date": "2016-05-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Connected \u2013 RT Docs Fan Q&A", "id": "1282-bonus", "slug": "rt-docs-connected-connected-rt-docs-fan-q-a", "date": "2016-04-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Connected", "id": "27783", "slug": "rt-docs-connected-connected", "date": "2016-04-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Connected \u2013 Documentary Trailer (2016)", "id": "237-bonus", "slug": "rt-docs-connected-connected-official-trailer", "date": "2016-03-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Let's Play Live: The Documentary", "id": "7605", "slug": "r-t-docs-let-s-play-live-let-s-play-live-the-documentary", "date": "2015-09-14", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Let's Play Live: The Documentary - Official Trailer", "id": "1279-bonus", "slug": "rt-docs-lets-play-live-lets-play-live-the-documentary-official-trailer", "date": "2015-09-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RT Docs",
+    "slug": "rt-docs",
+    "summary": {
+        "count": 40,
+        "uploaded": 40,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Waiting for the Punchline",
+            "id": "31852",
+            "slug": "rt-docs-waiting-for-the-punchline",
+            "date": "2019-03-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Waiting for the Punchline Trailer",
+            "id": "1338-bonus",
+            "slug": "rt-docs-waiting-for-the-punchline-trailer",
+            "date": "2019-01-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Common Ground",
+            "id": "29210",
+            "slug": "rt-docs-rt-docs-common-ground",
+            "date": "2018-11-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Why We\u2019re Here: 15 Years of Rooster Teeth",
+            "id": "27842",
+            "slug": "rt-docs-why-we-re-here-15-years-of-rooster-teeth-why-we-re-here-15-years-of-rooster-teeth",
+            "date": "2018-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Why We're Here: 15 Years of Rooster Teeth - Trailer",
+            "id": "199-bonus",
+            "slug": "rt-docs-rt15-trailer",
+            "date": "2018-04-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Burnie and Matt Crash the House Where Rooster Teeth Started",
+            "id": "198-bonus",
+            "slug": "rt-docs-rt15",
+            "date": "2018-04-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Becoming Jessica Nigri",
+            "id": "27782",
+            "slug": "rt-docs-becoming-jessica-nigri-8jgohb3s",
+            "date": "2018-01-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Becoming Jessica Nigri - Trailer",
+            "id": "1281-bonus",
+            "slug": "rt-docs-becoming-jessica-nigri-trailer",
+            "date": "2018-01-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Becoming Jessica Nigri Promo",
+            "id": "1301-bonus",
+            "slug": "rt-docs-becoming-jessica-nigri-becoming-jessica-nigri",
+            "date": "2017-12-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Unconventional",
+            "id": "27843",
+            "slug": "rt-docs-unconventional-unconventional",
+            "date": "2017-06-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Unconventional Trailer - Premieres June 30",
+            "id": "1300-bonus",
+            "slug": "rt-docs-unconventional-unconventional-trailer",
+            "date": "2017-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Haus of Pain",
+            "id": "27836",
+            "slug": "rt-docs-haus-of-pain-haus-of-pain",
+            "date": "2017-04-28",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Haus Of Pain - Trailer",
+            "id": "1278-bonus",
+            "slug": "rt-docs-haus-of-pain-haus-of-pain-trailer",
+            "date": "2017-04-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tattooist",
+            "id": "27841",
+            "slug": "rt-docs-the-tattooist-the-tattooist-ja73h6",
+            "date": "2017-03-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tattooist - Trailer",
+            "id": "1280-bonus",
+            "slug": "rt-docs-bonus-1",
+            "date": "2017-03-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Meme Machine: What Happens When the Internet Chooses You",
+            "id": "27840",
+            "slug": "rt-docs-the-meme-machine-the-meme-machine-what-happens-when-the-internet-chooses-you",
+            "date": "2016-12-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gus Talks Memes - Deleted Scenes",
+            "id": "1299-bonus",
+            "slug": "rt-docs-the-meme-machine-gus-talks-memes-deleted-scenes",
+            "date": "2016-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What is the Meaning of Chocolate Rain? - Deleted Scenes",
+            "id": "1298-bonus",
+            "slug": "rt-docs-the-meme-machine-what-is-the-meaning-of-chocolate-rain-deleted-scenes",
+            "date": "2016-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Do Memes Need Managers? - Deleted Scenes",
+            "id": "1297-bonus",
+            "slug": "rt-docs-the-meme-machine-do-memes-need-managers-deleted-scenes",
+            "date": "2016-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Selfish Gene - Deleted Scenes",
+            "id": "1296-bonus",
+            "slug": "rt-docs-the-meme-machine-the-selfish-gene-deleted-scenes",
+            "date": "2016-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Meme Machine - Trailer",
+            "id": "1295-bonus",
+            "slug": "rt-docs-the-meme-machine-the-meme-machine-trailer",
+            "date": "2016-11-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Slow Mo ASMR - Deleted Scene",
+            "id": "1294-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-slow-mo-asmr-deleted-scene",
+            "date": "2016-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Saurabh's Stetson - Deleted Scene",
+            "id": "1293-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-saurabh-s-stetson-deleted-scene",
+            "date": "2016-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Baba Sen - Extended Interview",
+            "id": "1292-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-baba-sen-extended-interview",
+            "date": "2016-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Rickshaw Ride - Extended Scene",
+            "id": "1291-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-the-rickshaw-ride-extended-scene",
+            "date": "2016-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "It's Not Sexual - Deleted Scene",
+            "id": "1290-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-it-s-not-sexual-deleted-scene",
+            "date": "2016-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "World's Greatest Head Massage 26 - Baba the Cosmic Barber",
+            "id": "1289-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-bhm",
+            "date": "2016-07-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The World's Greatest Head Massage: An ASMR Journey (Part Two)",
+            "id": "27834",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-part-two",
+            "date": "2016-07-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The World's Greatest Head Massage: An ASMR Journey (Part One)",
+            "id": "27832",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-part-one",
+            "date": "2016-07-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "\"The World's Greatest Head Massage: An ASMR Journey\" Trailer (2016) HD",
+            "id": "1288-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-the-world-s-greatest-head-massage-an-asmr-journey-trailer-2016-hd",
+            "date": "2016-06-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Greetings From India",
+            "id": "1287-bonus",
+            "slug": "rt-docs-the-world-s-greatest-head-massage-greetings-from-india",
+            "date": "2016-05-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Two Guys On Your Head Interview",
+            "id": "1286-bonus",
+            "slug": "rt-docs-connected-two-guys-on-your-head-interview",
+            "date": "2016-05-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "80085",
+            "id": "1285-bonus",
+            "slug": "rt-docs-connected-80085",
+            "date": "2016-05-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Barbara's Boredom",
+            "id": "1284-bonus",
+            "slug": "rt-docs-connected-barbaras-boredom",
+            "date": "2016-05-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blaine Calls 4-1-1",
+            "id": "1283-bonus",
+            "slug": "rt-docs-connected-blaine-calls-411",
+            "date": "2016-05-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Connected \u2013 RT Docs Fan Q&A",
+            "id": "1282-bonus",
+            "slug": "rt-docs-connected-connected-rt-docs-fan-q-a",
+            "date": "2016-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Connected",
+            "id": "27783",
+            "slug": "rt-docs-connected-connected",
+            "date": "2016-04-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Connected \u2013 Documentary Trailer (2016)",
+            "id": "237-bonus",
+            "slug": "rt-docs-connected-connected-official-trailer",
+            "date": "2016-03-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Let's Play Live: The Documentary",
+            "id": "7605",
+            "slug": "r-t-docs-let-s-play-live-let-s-play-live-the-documentary",
+            "date": "2015-09-14",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Let's Play Live: The Documentary - Official Trailer",
+            "id": "1279-bonus",
+            "slug": "rt-docs-lets-play-live-lets-play-live-the-documentary-official-trailer",
+            "date": "2015-09-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

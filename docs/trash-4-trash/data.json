@@ -1,1 +1,133 @@
-{"show": "Trash for Trash", "slug": "trash-4-trash", "summary": {"count": 12, "uploaded": 12, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "TURBULENCE 3 Has Us Screaming for the Nearest Exit - Trash for Trash", "id": "52712", "slug": "trash-4-trash-2024-trash12", "date": "2024-03-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jacked to the Future: NEMESIS 2: NEBULA - Trash For Trash", "id": "52653", "slug": "trash-4-trash-2024-trash11", "date": "2024-03-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FUTURE ZONE is the Genisys of Judgment Day's Salvation", "id": "52549", "slug": "trash-4-trash-2024-trash10", "date": "2024-02-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "We Get Mauled By ROAR - Trash For Trash", "id": "52460", "slug": "trash-4-trash-2024-t4t9", "date": "2024-02-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dragonball: The Magic Begins Bears a Passing Resemblance to Dragonball - Trash for Trash", "id": "52407", "slug": "trash-4-trash-2023-t4t8", "date": "2024-01-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Highway to Hell is Neither Fast Nor Furious - Trash for Trash", "id": "52309", "slug": "trash-4-trash-2023-trash7", "date": "2024-01-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Whatcha Gonna Do When Santa w/ Muscles Comes Down on You? - Trash for Trash", "id": "52215", "slug": "trash-4-trash-2023-trash6", "date": "2023-12-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Two Heroes, Four Glistening Pecs, Zero Body Hair: The Barbarians - Trash for Trash", "id": "52194", "slug": "trash-4-trash-2023-barb", "date": "2023-12-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sci-Fighter is The Matrix Costumed by Party City - Trash for Trash", "id": "52104", "slug": "trash-4-trash-2023-t4tscifighter", "date": "2023-11-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dad Bod Terminator: Abraxas, Guardian of the Universe - Trash for Trash", "id": "51982", "slug": "trash-4-trash-2023-trash3abraxis", "date": "2023-11-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Munchie is Here to Eat Your Soul - Trash for Trash", "id": "51877", "slug": "trash-4-trash-2023-t4t2", "date": "2023-10-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gymkata Does Not Stick the Landing - Trash for Trash", "id": "51720", "slug": "trash-4-trash-2023-t4t01gymkata", "date": "2023-10-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Trash for Trash",
+    "slug": "trash-4-trash",
+    "summary": {
+        "count": 12,
+        "uploaded": 12,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "TURBULENCE 3 Has Us Screaming for the Nearest Exit - Trash for Trash",
+            "id": "52712",
+            "slug": "trash-4-trash-2024-trash12",
+            "date": "2024-03-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jacked to the Future: NEMESIS 2: NEBULA - Trash For Trash",
+            "id": "52653",
+            "slug": "trash-4-trash-2024-trash11",
+            "date": "2024-03-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FUTURE ZONE is the Genisys of Judgment Day's Salvation",
+            "id": "52549",
+            "slug": "trash-4-trash-2024-trash10",
+            "date": "2024-02-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "We Get Mauled By ROAR - Trash For Trash",
+            "id": "52460",
+            "slug": "trash-4-trash-2024-t4t9",
+            "date": "2024-02-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dragonball: The Magic Begins Bears a Passing Resemblance to Dragonball - Trash for Trash",
+            "id": "52407",
+            "slug": "trash-4-trash-2023-t4t8",
+            "date": "2024-01-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Highway to Hell is Neither Fast Nor Furious - Trash for Trash",
+            "id": "52309",
+            "slug": "trash-4-trash-2023-trash7",
+            "date": "2024-01-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Whatcha Gonna Do When Santa w/ Muscles Comes Down on You? - Trash for Trash",
+            "id": "52215",
+            "slug": "trash-4-trash-2023-trash6",
+            "date": "2023-12-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Two Heroes, Four Glistening Pecs, Zero Body Hair: The Barbarians - Trash for Trash",
+            "id": "52194",
+            "slug": "trash-4-trash-2023-barb",
+            "date": "2023-12-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sci-Fighter is The Matrix Costumed by Party City - Trash for Trash",
+            "id": "52104",
+            "slug": "trash-4-trash-2023-t4tscifighter",
+            "date": "2023-11-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dad Bod Terminator: Abraxas, Guardian of the Universe - Trash for Trash",
+            "id": "51982",
+            "slug": "trash-4-trash-2023-trash3abraxis",
+            "date": "2023-11-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Munchie is Here to Eat Your Soul - Trash for Trash",
+            "id": "51877",
+            "slug": "trash-4-trash-2023-t4t2",
+            "date": "2023-10-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gymkata Does Not Stick the Landing - Trash for Trash",
+            "id": "51720",
+            "slug": "trash-4-trash-2023-t4t01gymkata",
+            "date": "2023-10-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

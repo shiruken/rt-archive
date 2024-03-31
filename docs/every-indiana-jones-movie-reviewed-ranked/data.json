@@ -1,1 +1,53 @@
-{"show": "Every Indiana Jones Movie Reviewed & Ranked", "slug": "every-indiana-jones-movie-reviewed-ranked", "summary": {"count": 4, "uploaded": 4, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Indiana Jones and the Kingdom of the Crystal Skull", "id": "42605", "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-indiana-jones-and-the-kingdom-of-the-crystal-skull", "date": "2021-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Indiana Jones and the Last Crusade", "id": "42536", "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-indiana-jones-and-the-last-crusade", "date": "2021-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Indiana Jones and the Temple of Doom", "id": "42457", "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-indiana-jones-and-the-temple-of-doom", "date": "2021-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Raiders of the Lost Ark", "id": "42353", "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-raiders-of-the-lost-ark", "date": "2021-02-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Indiana Jones Movie Reviewed & Ranked",
+    "slug": "every-indiana-jones-movie-reviewed-ranked",
+    "summary": {
+        "count": 4,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+            "id": "42605",
+            "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-indiana-jones-and-the-kingdom-of-the-crystal-skull",
+            "date": "2021-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Indiana Jones and the Last Crusade",
+            "id": "42536",
+            "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-indiana-jones-and-the-last-crusade",
+            "date": "2021-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Indiana Jones and the Temple of Doom",
+            "id": "42457",
+            "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-indiana-jones-and-the-temple-of-doom",
+            "date": "2021-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Raiders of the Lost Ark",
+            "id": "42353",
+            "slug": "every-indiana-jones-movie-reviewed-ranked-every-indiana-jones-movie-reviewed-ranked-raiders-of-the-lost-ark",
+            "date": "2021-02-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

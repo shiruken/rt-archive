@@ -1,1 +1,183 @@
-{"show": "Heroes & Halfwits Post Show", "slug": "heroes-halfwits-post-show", "summary": {"count": 17, "uploaded": 17, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Gus has a new toy", "id": "27993", "slug": "heroes-halfwits-post-show-2018-gus-has-a-new-toy", "date": "2018-07-26", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Are we Heroes?", "id": "27759", "slug": "heroes-halfwits-post-show-2018-are-we-heroes", "date": "2018-07-12", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Clean Up Crew", "id": "27585", "slug": "heroes-halfwits-post-show-2018-the-clean-up-crew", "date": "2018-06-28", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good and Plenty", "id": "27273", "slug": "heroes-halfwits-post-show-2018-good-and-plenty", "date": "2018-06-14", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "It Always Snows in Buffalo", "id": "27064", "slug": "heroes-halfwits-post-show-2018-post-show-6", "date": "2018-05-31", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Journey of Self Discovery", "id": "26919", "slug": "heroes-halfwits-post-show-2018-a-journey-of-self-discovery", "date": "2018-05-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Martian Connection", "id": "26748", "slug": "heroes-halfwits-post-show-2018-episode-4", "date": "2018-05-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Am I Evil?", "id": "26546", "slug": "heroes-halfwits-post-show-2018-am-i-evil", "date": "2018-04-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Frank Explains", "id": "26352", "slug": "heroes-halfwits-post-show-2018-frank-explains", "date": "2018-04-05", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Future is a Little Different", "id": "26075", "slug": "heroes-halfwits-post-show-2018-the-future-is-a-little-different", "date": "2018-03-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 6 Post Show", "id": "82", "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-6-post-show-e5r44t", "date": "2017-12-14", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 5 Post Show", "id": "83", "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-5-post-show-d5f4gh", "date": "2017-11-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 4 Post Show", "id": "84", "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-4-post-show-e45yfgh", "date": "2017-11-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors Chapter 3 - Post Show", "id": "85", "slug": "heroes-halfwits-season-2-the-tomb-of-horrors-chapter-3-post-show", "date": "2017-11-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 2: Post Show", "id": "86", "slug": "heroes-halfwits-season-2-36-post-show", "date": "2017-10-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tomb of Horrors - Chapter 1: Post Show", "id": "87", "slug": "heroes-halfwits-season-2-35-post-show", "date": "2017-10-05", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "#34 - Post Show", "id": "88", "slug": "heroes-halfwits-season-2-34-post-show", "date": "2017-09-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Heroes & Halfwits Post Show",
+    "slug": "heroes-halfwits-post-show",
+    "summary": {
+        "count": 17,
+        "uploaded": 17,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Gus has a new toy",
+            "id": "27993",
+            "slug": "heroes-halfwits-post-show-2018-gus-has-a-new-toy",
+            "date": "2018-07-26",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Are we Heroes?",
+            "id": "27759",
+            "slug": "heroes-halfwits-post-show-2018-are-we-heroes",
+            "date": "2018-07-12",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Clean Up Crew",
+            "id": "27585",
+            "slug": "heroes-halfwits-post-show-2018-the-clean-up-crew",
+            "date": "2018-06-28",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good and Plenty",
+            "id": "27273",
+            "slug": "heroes-halfwits-post-show-2018-good-and-plenty",
+            "date": "2018-06-14",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "It Always Snows in Buffalo",
+            "id": "27064",
+            "slug": "heroes-halfwits-post-show-2018-post-show-6",
+            "date": "2018-05-31",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Journey of Self Discovery",
+            "id": "26919",
+            "slug": "heroes-halfwits-post-show-2018-a-journey-of-self-discovery",
+            "date": "2018-05-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Martian Connection",
+            "id": "26748",
+            "slug": "heroes-halfwits-post-show-2018-episode-4",
+            "date": "2018-05-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Am I Evil?",
+            "id": "26546",
+            "slug": "heroes-halfwits-post-show-2018-am-i-evil",
+            "date": "2018-04-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Frank Explains",
+            "id": "26352",
+            "slug": "heroes-halfwits-post-show-2018-frank-explains",
+            "date": "2018-04-05",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Future is a Little Different",
+            "id": "26075",
+            "slug": "heroes-halfwits-post-show-2018-the-future-is-a-little-different",
+            "date": "2018-03-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 6 Post Show",
+            "id": "82",
+            "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-6-post-show-e5r44t",
+            "date": "2017-12-14",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 5 Post Show",
+            "id": "83",
+            "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-5-post-show-d5f4gh",
+            "date": "2017-11-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 4 Post Show",
+            "id": "84",
+            "slug": "heroes-halfwits-2017-the-tomb-of-horrors-chapter-4-post-show-e45yfgh",
+            "date": "2017-11-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors Chapter 3 - Post Show",
+            "id": "85",
+            "slug": "heroes-halfwits-season-2-the-tomb-of-horrors-chapter-3-post-show",
+            "date": "2017-11-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 2: Post Show",
+            "id": "86",
+            "slug": "heroes-halfwits-season-2-36-post-show",
+            "date": "2017-10-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tomb of Horrors - Chapter 1: Post Show",
+            "id": "87",
+            "slug": "heroes-halfwits-season-2-35-post-show",
+            "date": "2017-10-05",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "#34 - Post Show",
+            "id": "88",
+            "slug": "heroes-halfwits-season-2-34-post-show",
+            "date": "2017-09-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

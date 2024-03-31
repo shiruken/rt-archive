@@ -1,1 +1,63 @@
-{"show": "Past Cast", "slug": "past-cast", "summary": {"count": 5, "uploaded": 3, "missing": 2, "incomplete": 0, "removed": 0}, "data": [{"title": "Past Cast Bloopers Part 2", "id": "1370-bonus", "slug": "past-cast-season-1-past-cast-bloopers-part-2", "date": "2012-01-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Past Cast: History Blogs of YesterYear", "id": "18875", "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-guevara", "date": "2012-01-07", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Past Cast Bloopers", "id": "1369-bonus", "slug": "past-cast-season-1-past-cast-bloopers", "date": "2011-12-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Past Cast: History Blogs of YesterYear", "id": "18877", "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-cesar", "date": "2011-12-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Past Cast: History Blogs of YesterYear", "id": "23330", "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-john", "date": "2011-11-22", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}]}
+{
+    "show": "Past Cast",
+    "slug": "past-cast",
+    "summary": {
+        "count": 5,
+        "uploaded": 3,
+        "missing": 2,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Past Cast Bloopers Part 2",
+            "id": "1370-bonus",
+            "slug": "past-cast-season-1-past-cast-bloopers-part-2",
+            "date": "2012-01-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Past Cast: History Blogs of YesterYear",
+            "id": "18875",
+            "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-guevara",
+            "date": "2012-01-07",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Past Cast Bloopers",
+            "id": "1369-bonus",
+            "slug": "past-cast-season-1-past-cast-bloopers",
+            "date": "2011-12-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Past Cast: History Blogs of YesterYear",
+            "id": "18877",
+            "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-cesar",
+            "date": "2011-12-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Past Cast: History Blogs of YesterYear",
+            "id": "23330",
+            "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-john",
+            "date": "2011-11-22",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        }
+    ]
+}

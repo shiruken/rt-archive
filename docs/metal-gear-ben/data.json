@@ -1,1 +1,33 @@
-{"show": "Metal Gear Ben", "slug": "metal-gear-ben", "summary": {"count": 2, "uploaded": 2, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Metal Gear Ben: Origins 2", "id": "4125", "slug": "metal-gear-ben-origins-2", "date": "2011-08-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Gear Ben: Origins", "id": "4124", "slug": "metal-gear-ben-origins", "date": "2011-08-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Metal Gear Ben",
+    "slug": "metal-gear-ben",
+    "summary": {
+        "count": 2,
+        "uploaded": 2,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Metal Gear Ben: Origins 2",
+            "id": "4125",
+            "slug": "metal-gear-ben-origins-2",
+            "date": "2011-08-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Gear Ben: Origins",
+            "id": "4124",
+            "slug": "metal-gear-ben-origins",
+            "date": "2011-08-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

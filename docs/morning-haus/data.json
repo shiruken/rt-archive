@@ -1,1 +1,203 @@
-{"show": "Morning Haus", "slug": "morning-haus", "summary": {"count": 19, "uploaded": 19, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Good Morning, Ladies", "id": "39277", "slug": "morning-haus-2020-good-morning-ladies", "date": "2020-07-11", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Relaxation", "id": "39078", "slug": "morning-haus-2020-good-morning-relaxation", "date": "2020-06-27", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Winners", "id": "38854", "slug": "morning-haus-2020-good-morning-winners", "date": "2020-06-13", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Colonel", "id": "38647", "slug": "morning-haus-2020-morning529", "date": "2020-05-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Birthday Boy", "id": "37866", "slug": "morning-haus-2020-morning51", "date": "2020-05-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Darkness", "id": "37627", "slug": "morning-haus-2020-morning416", "date": "2020-04-18", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Hantverkare", "id": "37409", "slug": "morning-haus-2020-morning42", "date": "2020-04-04", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Puddin'", "id": "37248", "slug": "morning-haus-2020-good-morning-puddin", "date": "2020-03-21", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Ms. Hunter", "id": "37091", "slug": "morning-haus-2020-good-morning-ms-hunter", "date": "2020-03-07", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Fusion", "id": "36868", "slug": "morning-haus-2020-morning10", "date": "2020-02-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Heartache", "id": "36729", "slug": "morning-haus-2020-good-morning-heartache", "date": "2020-02-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Mr. Henson", "id": "36533", "slug": "morning-haus-2020-good-morning-nightmares", "date": "2020-01-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning Empathy", "id": "36100", "slug": "morning-haus-2019-good-morning-empathy", "date": "2019-12-14", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Mate", "id": "35771", "slug": "morning-haus-2019-good-morning-mate", "date": "2019-11-16", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Deliciousness", "id": "35599", "slug": "morning-haus-2019-morning5", "date": "2019-11-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning, Eh!", "id": "35424", "slug": "morning-haus-2019-morning4", "date": "2019-10-19", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning Bright Eyes", "id": "35281", "slug": "morning-haus-2019-morning3", "date": "2019-10-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning Inevitability", "id": "35280", "slug": "morning-haus-2019-morning2", "date": "2019-10-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Morning Bravery", "id": "35279", "slug": "morning-haus-2019-morning1", "date": "2019-10-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Morning Haus",
+    "slug": "morning-haus",
+    "summary": {
+        "count": 19,
+        "uploaded": 19,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Good Morning, Ladies",
+            "id": "39277",
+            "slug": "morning-haus-2020-good-morning-ladies",
+            "date": "2020-07-11",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Relaxation",
+            "id": "39078",
+            "slug": "morning-haus-2020-good-morning-relaxation",
+            "date": "2020-06-27",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Winners",
+            "id": "38854",
+            "slug": "morning-haus-2020-good-morning-winners",
+            "date": "2020-06-13",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Colonel",
+            "id": "38647",
+            "slug": "morning-haus-2020-morning529",
+            "date": "2020-05-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Birthday Boy",
+            "id": "37866",
+            "slug": "morning-haus-2020-morning51",
+            "date": "2020-05-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Darkness",
+            "id": "37627",
+            "slug": "morning-haus-2020-morning416",
+            "date": "2020-04-18",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Hantverkare",
+            "id": "37409",
+            "slug": "morning-haus-2020-morning42",
+            "date": "2020-04-04",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Puddin'",
+            "id": "37248",
+            "slug": "morning-haus-2020-good-morning-puddin",
+            "date": "2020-03-21",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Ms. Hunter",
+            "id": "37091",
+            "slug": "morning-haus-2020-good-morning-ms-hunter",
+            "date": "2020-03-07",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Fusion",
+            "id": "36868",
+            "slug": "morning-haus-2020-morning10",
+            "date": "2020-02-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Heartache",
+            "id": "36729",
+            "slug": "morning-haus-2020-good-morning-heartache",
+            "date": "2020-02-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Mr. Henson",
+            "id": "36533",
+            "slug": "morning-haus-2020-good-morning-nightmares",
+            "date": "2020-01-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning Empathy",
+            "id": "36100",
+            "slug": "morning-haus-2019-good-morning-empathy",
+            "date": "2019-12-14",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Mate",
+            "id": "35771",
+            "slug": "morning-haus-2019-good-morning-mate",
+            "date": "2019-11-16",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Deliciousness",
+            "id": "35599",
+            "slug": "morning-haus-2019-morning5",
+            "date": "2019-11-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning, Eh!",
+            "id": "35424",
+            "slug": "morning-haus-2019-morning4",
+            "date": "2019-10-19",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning Bright Eyes",
+            "id": "35281",
+            "slug": "morning-haus-2019-morning3",
+            "date": "2019-10-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning Inevitability",
+            "id": "35280",
+            "slug": "morning-haus-2019-morning2",
+            "date": "2019-10-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Morning Bravery",
+            "id": "35279",
+            "slug": "morning-haus-2019-morning1",
+            "date": "2019-10-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

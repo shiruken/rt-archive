@@ -1,1 +1,163 @@
-{"show": "Does it Do?", "slug": "does-it-do", "summary": {"count": 15, "uploaded": 15, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Does It Do? Auto Hammer", "id": "52732", "slug": "does-it-do-2023-does-it-do-hammer", "date": "2024-03-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Piggy Pop", "id": "52701", "slug": "does-it-do-2023-does-it-do-piggy-pop", "date": "2024-03-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Magic Ear", "id": "52638", "slug": "does-it-do-2023-magic-ear", "date": "2024-03-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Boom Tunes", "id": "52586", "slug": "does-it-do-2023-boom-tunes", "date": "2024-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Egg Sitter", "id": "52538", "slug": "does-it-do-2023-does-it-do-egg", "date": "2024-02-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Sock Slider", "id": "52512", "slug": "does-it-do-2023-does-it-do-sock", "date": "2024-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Toppik", "id": "52472", "slug": "does-it-do-2023-toppik", "date": "2024-02-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Voltrx", "id": "52427", "slug": "does-it-do-2023-volt-does-it-do", "date": "2024-01-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does it Do? Garlic Master", "id": "50717", "slug": "does-it-do-2022-4-13", "date": "2023-04-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? CrunchCup!", "id": "50676", "slug": "does-it-do-2022-4-6", "date": "2023-04-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does it Do? Funslides", "id": "50616", "slug": "does-it-do-2022-3-30", "date": "2023-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Ice Pops", "id": "50575", "slug": "does-it-do-2022-episode-4", "date": "2023-03-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? SpinChill ChillBit!", "id": "49293", "slug": "does-it-do-2022-3", "date": "2023-03-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? Easy Feet", "id": "49240", "slug": "does-it-do-2022-2", "date": "2022-09-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Does It Do? No Stitch!", "id": "49183", "slug": "does-it-do-2022-1", "date": "2022-09-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Does it Do?",
+    "slug": "does-it-do",
+    "summary": {
+        "count": 15,
+        "uploaded": 15,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Does It Do? Auto Hammer",
+            "id": "52732",
+            "slug": "does-it-do-2023-does-it-do-hammer",
+            "date": "2024-03-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Piggy Pop",
+            "id": "52701",
+            "slug": "does-it-do-2023-does-it-do-piggy-pop",
+            "date": "2024-03-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Magic Ear",
+            "id": "52638",
+            "slug": "does-it-do-2023-magic-ear",
+            "date": "2024-03-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Boom Tunes",
+            "id": "52586",
+            "slug": "does-it-do-2023-boom-tunes",
+            "date": "2024-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Egg Sitter",
+            "id": "52538",
+            "slug": "does-it-do-2023-does-it-do-egg",
+            "date": "2024-02-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Sock Slider",
+            "id": "52512",
+            "slug": "does-it-do-2023-does-it-do-sock",
+            "date": "2024-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Toppik",
+            "id": "52472",
+            "slug": "does-it-do-2023-toppik",
+            "date": "2024-02-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Voltrx",
+            "id": "52427",
+            "slug": "does-it-do-2023-volt-does-it-do",
+            "date": "2024-01-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does it Do? Garlic Master",
+            "id": "50717",
+            "slug": "does-it-do-2022-4-13",
+            "date": "2023-04-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? CrunchCup!",
+            "id": "50676",
+            "slug": "does-it-do-2022-4-6",
+            "date": "2023-04-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does it Do? Funslides",
+            "id": "50616",
+            "slug": "does-it-do-2022-3-30",
+            "date": "2023-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Ice Pops",
+            "id": "50575",
+            "slug": "does-it-do-2022-episode-4",
+            "date": "2023-03-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? SpinChill ChillBit!",
+            "id": "49293",
+            "slug": "does-it-do-2022-3",
+            "date": "2023-03-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? Easy Feet",
+            "id": "49240",
+            "slug": "does-it-do-2022-2",
+            "date": "2022-09-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Does It Do? No Stitch!",
+            "id": "49183",
+            "slug": "does-it-do-2022-1",
+            "date": "2022-09-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

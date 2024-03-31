@@ -1,1 +1,93 @@
-{"show": "The PlayStation VR Show", "slug": "the-playstation-vr-show", "summary": {"count": 8, "uploaded": 8, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Nick Scarpino Is James Bond (Kinda)", "id": "31453", "slug": "the-playstation-vr-show-season-1-nick-scarpino-is-james-bond-kinda-the-playstation-vr-show-ep-8", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dr. Scarpino Murders a Man", "id": "31285", "slug": "the-playstation-vr-show-season-1-dr-scarpino-murders-a-man-the-playstation-vr-show-ep-3", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Accounting Plus Breaks Kevin", "id": "31278", "slug": "the-playstation-vr-show-season-1-accounting-plus-breaks-kevin-the-playstation-vr-show-ep-5", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Let's Be Superman in Megaton Rainfall", "id": "31277", "slug": "the-playstation-vr-show-season-1-let-s-be-superman-in-megaton-rainfall-the-playstation-vr-show-ep-7", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Greg Gets in a Drunkn Bar Fight", "id": "31274", "slug": "the-playstation-vr-show-season-1-greg-gets-in-a-drunkn-bar-fight-the-playstation-vr-show-ep-4", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sprint Vector Makes Us Wet", "id": "31273", "slug": "the-playstation-vr-show-season-1-sprint-vector-makes-us-wet-the-playstation-vr-show-ep-2", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Superhot Might Be the Coolest VR Game Ever", "id": "31271", "slug": "the-playstation-vr-show-season-1-superhot-might-be-the-coolest-vr-game-ever-the-playstation-vr-show-ep-1", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nick and Greg Can't Run a Diner", "id": "31269", "slug": "the-playstation-vr-show-season-1-nick-and-greg-can-t-run-a-diner-the-playstation-vr-show-ep-6", "date": "2019-01-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "The PlayStation VR Show",
+    "slug": "the-playstation-vr-show",
+    "summary": {
+        "count": 8,
+        "uploaded": 8,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Nick Scarpino Is James Bond (Kinda)",
+            "id": "31453",
+            "slug": "the-playstation-vr-show-season-1-nick-scarpino-is-james-bond-kinda-the-playstation-vr-show-ep-8",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dr. Scarpino Murders a Man",
+            "id": "31285",
+            "slug": "the-playstation-vr-show-season-1-dr-scarpino-murders-a-man-the-playstation-vr-show-ep-3",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Accounting Plus Breaks Kevin",
+            "id": "31278",
+            "slug": "the-playstation-vr-show-season-1-accounting-plus-breaks-kevin-the-playstation-vr-show-ep-5",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Let's Be Superman in Megaton Rainfall",
+            "id": "31277",
+            "slug": "the-playstation-vr-show-season-1-let-s-be-superman-in-megaton-rainfall-the-playstation-vr-show-ep-7",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Greg Gets in a Drunkn Bar Fight",
+            "id": "31274",
+            "slug": "the-playstation-vr-show-season-1-greg-gets-in-a-drunkn-bar-fight-the-playstation-vr-show-ep-4",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sprint Vector Makes Us Wet",
+            "id": "31273",
+            "slug": "the-playstation-vr-show-season-1-sprint-vector-makes-us-wet-the-playstation-vr-show-ep-2",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Superhot Might Be the Coolest VR Game Ever",
+            "id": "31271",
+            "slug": "the-playstation-vr-show-season-1-superhot-might-be-the-coolest-vr-game-ever-the-playstation-vr-show-ep-1",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nick and Greg Can't Run a Diner",
+            "id": "31269",
+            "slug": "the-playstation-vr-show-season-1-nick-and-greg-can-t-run-a-diner-the-playstation-vr-show-ep-6",
+            "date": "2019-01-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

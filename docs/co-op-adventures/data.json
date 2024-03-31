@@ -1,1 +1,143 @@
-{"show": "Co-op Adventures!", "slug": "co-op-adventures", "summary": {"count": 13, "uploaded": 13, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Beyond Redemption - CS:Go Mod Co-Op Adventures w/ Spoole & Andy Cortez", "id": "39825", "slug": "co-op-adventures-season-1-coopwest", "date": "2020-08-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Death of the Wild - Left 4 Dead Zelda Mod Co-Op Adventures w/ Arin Hanson", "id": "39709", "slug": "co-op-adventures-season-1-coopzelda", "date": "2020-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hopelessly LOST in Garry's Mod - Co-Op Adventures w/ Kahlief Adams", "id": "39623", "slug": "co-op-adventures-season-1-cooplost", "date": "2020-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Despite All Their Rage - CS:Go Mod Co-Op Adventures w/ Travel Danielle", "id": "39531", "slug": "co-op-adventures-season-1-cooprage", "date": "2020-07-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Go Helm's Deep: Left 4 Dead 2 LOTR Mod w/ Mike Huber - Co-op Adventures", "id": "39393", "slug": "co-op-adventures-season-1-cooplotr", "date": "2020-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fortnite Escape Room and Stunt Races w/ Alfredo Diaz - Co-Op Adventures", "id": "39306", "slug": "co-op-adventures-season-1-coopfort", "date": "2020-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Good Riddance Splash Mountain: Co-Op Adventures Left 4 Dead Disneyland Mod w/ Steve & Larson", "id": "39201", "slug": "co-op-adventures-season-1-coopdisney", "date": "2020-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "CS:Going Crazy - Co-Op Adventures Mod Gameplay w/ iamBrandon", "id": "39105", "slug": "co-op-adventures-season-1-coopbrandon", "date": "2020-06-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "CS:GO Heist Co-Op Adventures Mod w/ Chilled Chaos!", "id": "38990", "slug": "co-op-adventures-season-1-coopchilledcoop", "date": "2020-06-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Escape Room Hackers - GMOD Co-Op Adventures w/ Freddie Wong", "id": "38861", "slug": "co-op-adventures-season-1-coopescape", "date": "2020-06-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fatal Extraction - CSGO Co-op Adventures Mod w/ CrankGamePlays", "id": "38741", "slug": "gameplay-2020-coop3", "date": "2020-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ghosts of Funhaus Past - CSGO Co-Op Adventure Mod w/ Spoole", "id": "38665", "slug": "gameplay-2020-coopspoole", "date": "2020-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "CS:GO Haunted Mod Adventures w/ Kinda Funny's Andy Cortez", "id": "38559", "slug": "gameplay-2020-csgohaunted", "date": "2020-05-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Co-op Adventures!",
+    "slug": "co-op-adventures",
+    "summary": {
+        "count": 13,
+        "uploaded": 13,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Beyond Redemption - CS:Go Mod Co-Op Adventures w/ Spoole & Andy Cortez",
+            "id": "39825",
+            "slug": "co-op-adventures-season-1-coopwest",
+            "date": "2020-08-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Death of the Wild - Left 4 Dead Zelda Mod Co-Op Adventures w/ Arin Hanson",
+            "id": "39709",
+            "slug": "co-op-adventures-season-1-coopzelda",
+            "date": "2020-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hopelessly LOST in Garry's Mod - Co-Op Adventures w/ Kahlief Adams",
+            "id": "39623",
+            "slug": "co-op-adventures-season-1-cooplost",
+            "date": "2020-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Despite All Their Rage - CS:Go Mod Co-Op Adventures w/ Travel Danielle",
+            "id": "39531",
+            "slug": "co-op-adventures-season-1-cooprage",
+            "date": "2020-07-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Go Helm's Deep: Left 4 Dead 2 LOTR Mod w/ Mike Huber - Co-op Adventures",
+            "id": "39393",
+            "slug": "co-op-adventures-season-1-cooplotr",
+            "date": "2020-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fortnite Escape Room and Stunt Races w/ Alfredo Diaz - Co-Op Adventures",
+            "id": "39306",
+            "slug": "co-op-adventures-season-1-coopfort",
+            "date": "2020-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Good Riddance Splash Mountain: Co-Op Adventures Left 4 Dead Disneyland Mod w/ Steve & Larson",
+            "id": "39201",
+            "slug": "co-op-adventures-season-1-coopdisney",
+            "date": "2020-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "CS:Going Crazy - Co-Op Adventures Mod Gameplay w/ iamBrandon",
+            "id": "39105",
+            "slug": "co-op-adventures-season-1-coopbrandon",
+            "date": "2020-06-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "CS:GO Heist Co-Op Adventures Mod w/ Chilled Chaos!",
+            "id": "38990",
+            "slug": "co-op-adventures-season-1-coopchilledcoop",
+            "date": "2020-06-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Escape Room Hackers - GMOD Co-Op Adventures w/ Freddie Wong",
+            "id": "38861",
+            "slug": "co-op-adventures-season-1-coopescape",
+            "date": "2020-06-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fatal Extraction - CSGO Co-op Adventures Mod w/ CrankGamePlays",
+            "id": "38741",
+            "slug": "gameplay-2020-coop3",
+            "date": "2020-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ghosts of Funhaus Past - CSGO Co-Op Adventure Mod w/ Spoole",
+            "id": "38665",
+            "slug": "gameplay-2020-coopspoole",
+            "date": "2020-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "CS:GO Haunted Mod Adventures w/ Kinda Funny's Andy Cortez",
+            "id": "38559",
+            "slug": "gameplay-2020-csgohaunted",
+            "date": "2020-05-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

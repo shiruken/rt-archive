@@ -1,1 +1,303 @@
-{"show": "RTTV Specials", "slug": "rttv-specials", "summary": {"count": 29, "uploaded": 29, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Not Our Goodbye Stream!", "id": "52668", "slug": "rttv-specials-2024-special-rooster-teeth-livestream", "date": "2024-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Rooster Teeth Annual Telethon for Good", "id": "52527", "slug": "rttv-specials-2024-0209-shopping-stream", "date": "2024-02-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gallos Unidos Presents: Veintitres - A Hispanic Heritage Month Livestream Celebraci\u00f3n", "id": "51622", "slug": "rttv-specials-2023-gallos-unidos-stream", "date": "2023-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Dysfunction Conjunction Live Stream: A Surreal Rhapsody", "id": "49795", "slug": "rttv-specials-2022-disability-brg-stream", "date": "2023-07-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kindling Connection: Presented by the ART and Disabilities BRGs", "id": "50958", "slug": "rttv-specials-2023-kindling-connection-livestream-052423", "date": "2023-07-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Sleepover - Ultimate Werewolf and Say Anything", "id": "51039", "slug": "rttv-specials-2023-rtx-sleepover-3", "date": "2023-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RTX Sleepover 2", "id": "51038", "slug": "rttv-specials-2023-rtx-sleepover-2", "date": "2023-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "All Good No Worries and Funhaus", "id": "51037", "slug": "rttv-specials-2023-rtx-sleepover-1", "date": "2023-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rooster Teeth Pride Stream 2023", "id": "51011", "slug": "rttv-specials-2023-pride-stream", "date": "2023-06-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Moving Out!", "id": "50809", "slug": "rttv-specials-2023-moving-out", "date": "2023-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gallos Unidos Presents: Veintidos - A Hispanic Heritage Month Livestream Celebraci\u00f3n", "id": "49342", "slug": "rttv-specials-2022-gallos-unidos-2022", "date": "2022-09-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Matrix Watch Party", "id": "46365", "slug": "rttv-specials-2021-the-matrix-watch-party", "date": "2021-12-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gourd to Death: The Conjuring Watch Party", "id": "45758", "slug": "rttv-specials-2021-the-conjuring-watch-party", "date": "2021-11-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gallos Unidos Livestream: Hispanic Heritage Month Celebracion!", "id": "45613", "slug": "rttv-specials-2021-gallos-unidos", "date": "2021-10-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Suicide Squad Party Live!", "id": "45044", "slug": "rttv-specials-2021-suicide-squad-watch-party", "date": "2021-08-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Space Jam: A New Legacy Watch Along", "id": "44581", "slug": "rttv-specials-2021-space-jam-watch-party", "date": "2021-07-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pride 2021 Among Us", "id": "44326", "slug": "rttv-specials-2021-pride-stream-pt-2", "date": "2021-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Always Open PRIDE 2021", "id": "44325", "slug": "rttv-specials-2021-pride-stream-pt-1", "date": "2021-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Celebrate Pride with HBO Max and Rooster Teeth!", "id": "44220", "slug": "rttv-specials-2021-pride-live-stream", "date": "2021-06-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "GTA V Stunts in Space - 18th Anniversary Stream", "id": "43225", "slug": "rttv-specials-2021-gta-v-space-anniversary-stream", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Great Shuttle Race - 18th Anniversary Stream", "id": "43223", "slug": "rttv-specials-2021-shuttle-race-anniversary-stream", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Welcome to Mission Control - 18th Anniversary Stream", "id": "43220", "slug": "rttv-specials-2021-mission-control-anniversary-stream", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Look into the Future - 18th Anniversary Stream", "id": "43219", "slug": "rttv-specials-2021-look-to-the-future-anniversary-stream", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Prop Secret Space Mission -18th Anniversary Stream", "id": "43218", "slug": "rttv-specials-2021-prop-secret-mission-anniversary-stream", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rooster Teeth and Beyond - 18th Anniversary Stream", "id": "43217", "slug": "rttv-specials-2021-fireside-chat", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Astronaut Training - 18th Anniversary Stream", "id": "43205", "slug": "rttv-specials-2021-training-space-quiz-anniversary-stream", "date": "2021-04-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rooster Teeth Holiday Fireplace", "id": "41875", "slug": "rttv-specials-2020-fireplace", "date": "2020-12-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rainbow Pride Stream", "id": "39127", "slug": "rttv-specials-2020-rainbow-pride-stream", "date": "2020-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Loud and Proud Stream", "id": "39123", "slug": "rttv-specials-2020-loud-and-proud", "date": "2020-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "RTTV Specials",
+    "slug": "rttv-specials",
+    "summary": {
+        "count": 29,
+        "uploaded": 29,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Not Our Goodbye Stream!",
+            "id": "52668",
+            "slug": "rttv-specials-2024-special-rooster-teeth-livestream",
+            "date": "2024-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Rooster Teeth Annual Telethon for Good",
+            "id": "52527",
+            "slug": "rttv-specials-2024-0209-shopping-stream",
+            "date": "2024-02-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gallos Unidos Presents: Veintitres - A Hispanic Heritage Month Livestream Celebraci\u00f3n",
+            "id": "51622",
+            "slug": "rttv-specials-2023-gallos-unidos-stream",
+            "date": "2023-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Dysfunction Conjunction Live Stream: A Surreal Rhapsody",
+            "id": "49795",
+            "slug": "rttv-specials-2022-disability-brg-stream",
+            "date": "2023-07-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kindling Connection: Presented by the ART and Disabilities BRGs",
+            "id": "50958",
+            "slug": "rttv-specials-2023-kindling-connection-livestream-052423",
+            "date": "2023-07-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Sleepover - Ultimate Werewolf and Say Anything",
+            "id": "51039",
+            "slug": "rttv-specials-2023-rtx-sleepover-3",
+            "date": "2023-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RTX Sleepover 2",
+            "id": "51038",
+            "slug": "rttv-specials-2023-rtx-sleepover-2",
+            "date": "2023-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "All Good No Worries and Funhaus",
+            "id": "51037",
+            "slug": "rttv-specials-2023-rtx-sleepover-1",
+            "date": "2023-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rooster Teeth Pride Stream 2023",
+            "id": "51011",
+            "slug": "rttv-specials-2023-pride-stream",
+            "date": "2023-06-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Moving Out!",
+            "id": "50809",
+            "slug": "rttv-specials-2023-moving-out",
+            "date": "2023-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gallos Unidos Presents: Veintidos - A Hispanic Heritage Month Livestream Celebraci\u00f3n",
+            "id": "49342",
+            "slug": "rttv-specials-2022-gallos-unidos-2022",
+            "date": "2022-09-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Matrix Watch Party",
+            "id": "46365",
+            "slug": "rttv-specials-2021-the-matrix-watch-party",
+            "date": "2021-12-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gourd to Death: The Conjuring Watch Party",
+            "id": "45758",
+            "slug": "rttv-specials-2021-the-conjuring-watch-party",
+            "date": "2021-11-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gallos Unidos Livestream: Hispanic Heritage Month Celebracion!",
+            "id": "45613",
+            "slug": "rttv-specials-2021-gallos-unidos",
+            "date": "2021-10-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Suicide Squad Party Live!",
+            "id": "45044",
+            "slug": "rttv-specials-2021-suicide-squad-watch-party",
+            "date": "2021-08-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Space Jam: A New Legacy Watch Along",
+            "id": "44581",
+            "slug": "rttv-specials-2021-space-jam-watch-party",
+            "date": "2021-07-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pride 2021 Among Us",
+            "id": "44326",
+            "slug": "rttv-specials-2021-pride-stream-pt-2",
+            "date": "2021-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Always Open PRIDE 2021",
+            "id": "44325",
+            "slug": "rttv-specials-2021-pride-stream-pt-1",
+            "date": "2021-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Celebrate Pride with HBO Max and Rooster Teeth!",
+            "id": "44220",
+            "slug": "rttv-specials-2021-pride-live-stream",
+            "date": "2021-06-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "GTA V Stunts in Space - 18th Anniversary Stream",
+            "id": "43225",
+            "slug": "rttv-specials-2021-gta-v-space-anniversary-stream",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Great Shuttle Race - 18th Anniversary Stream",
+            "id": "43223",
+            "slug": "rttv-specials-2021-shuttle-race-anniversary-stream",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Welcome to Mission Control - 18th Anniversary Stream",
+            "id": "43220",
+            "slug": "rttv-specials-2021-mission-control-anniversary-stream",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Look into the Future - 18th Anniversary Stream",
+            "id": "43219",
+            "slug": "rttv-specials-2021-look-to-the-future-anniversary-stream",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Prop Secret Space Mission -18th Anniversary Stream",
+            "id": "43218",
+            "slug": "rttv-specials-2021-prop-secret-mission-anniversary-stream",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rooster Teeth and Beyond - 18th Anniversary Stream",
+            "id": "43217",
+            "slug": "rttv-specials-2021-fireside-chat",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Astronaut Training - 18th Anniversary Stream",
+            "id": "43205",
+            "slug": "rttv-specials-2021-training-space-quiz-anniversary-stream",
+            "date": "2021-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rooster Teeth Holiday Fireplace",
+            "id": "41875",
+            "slug": "rttv-specials-2020-fireplace",
+            "date": "2020-12-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rainbow Pride Stream",
+            "id": "39127",
+            "slug": "rttv-specials-2020-rainbow-pride-stream",
+            "date": "2020-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Loud and Proud Stream",
+            "id": "39123",
+            "slug": "rttv-specials-2020-loud-and-proud",
+            "date": "2020-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

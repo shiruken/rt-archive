@@ -1,1 +1,643 @@
-{"show": "Ship Hits the Fan Podcast", "slug": "ship-hits-the-fan-podcast", "summary": {"count": 63, "uploaded": 63, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "It Has Been a Privilege: The Titanic Part 2 - Ship Hits the Fan Podcast", "id": "51013", "slug": "ship-hits-the-fan-podcast-season-5-titanic2", "date": "2023-06-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Iceberg, Right Ahead: The Titanic Part 1 - Ship Hits the Fan Podcast", "id": "50973", "slug": "ship-hits-the-fan-podcast-season-5-titanic1", "date": "2023-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Unlikely Rescue of the SS Mirlo - Ship Hits the Fan Podcast", "id": "50942", "slug": "ship-hits-the-fan-podcast-season-5-shtf50", "date": "2023-05-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Final Disaster of the MS Estonia - Ship Hits the Fan Podcast", "id": "50907", "slug": "ship-hits-the-fan-podcast-season-5-shtf49", "date": "2023-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cannibalism and Survival on The Mignonette - Ship Hits the Fan Podcast", "id": "50867", "slug": "ship-hits-the-fan-podcast-season-5-shtf48", "date": "2023-05-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who Really Owns the Black Swan Treasure? - Ship Hits the Fan Podcast", "id": "50829", "slug": "ship-hits-the-fan-podcast-season-5-shtf47", "date": "2023-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Andrea Doria and The Stockholm Collide - Ship Hits the Fan Podcast", "id": "50784", "slug": "ship-hits-the-fan-podcast-season-5-shtf46", "date": "2023-04-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Germany Sinks the RMS Lusitania - Ship Hits the Fan Podcast", "id": "50743", "slug": "ship-hits-the-fan-podcast-season-5-shtf501", "date": "2023-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What Sunk the Floating Crypto Bro Utopia? - Ship Hits the Fan Podcast", "id": "50662", "slug": "ship-hits-the-fan-podcast-season-4-shtfs4b", "date": "2023-04-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Great Lakes Were No Match for The Big Blow - Ship Hits the Fan Podcast", "id": "50558", "slug": "ship-hits-the-fan-podcast-season-4-shtf44", "date": "2023-03-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Aotaka and the SS Kiangya Explosion - Ship Hits the Fan Podcast", "id": "50516", "slug": "ship-hits-the-fan-podcast-season-4-shtf43", "date": "2023-03-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Forgotten Cargo Ship Destroys Half of Beirut - Ship Hits the Fan Podcast", "id": "50481", "slug": "ship-hits-the-fan-podcast-season-4-shtf42", "date": "2023-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Digging Up the Lost Treasures of the Arabia - Ship Hits the Fan Podcast", "id": "50440", "slug": "ship-hits-the-fan-podcast-season-4-shtf41", "date": "2023-02-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The USS Greeneville Impresses Some VIPs, Sinks the Ehime Maru - Ship Hits the Fan Podcast", "id": "50380", "slug": "ship-hits-the-fan-podcast-season-4-shtf40", "date": "2023-02-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kamikaze Pilots Sink the Bismarck Sea - Ship Hits the Fan Podcast", "id": "50343", "slug": "ship-hits-the-fan-podcast-season-4-shtf39", "date": "2023-02-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Negligence and Fraud Sink the Sewol Ferry - Ship Hits the Fan Podcast", "id": "50295", "slug": "ship-hits-the-fan-podcast-season-4-shtf46", "date": "2023-02-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Enslaved People Seize Their Ship and Their Freedom - Ship Hits the Fan Podcast", "id": "50237", "slug": "ship-hits-the-fan-podcast-season-4-shtf405", "date": "2023-01-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tragedy of the Taiping Refugee Steamer - Ship Hits the Fan Podcast", "id": "50194", "slug": "ship-hits-the-fan-podcast-season-4-taiping", "date": "2023-01-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The SS Ohio Endures Hell Saving the Island of Malta - Ship Hits the Fan Podcast", "id": "50142", "slug": "ship-hits-the-fan-podcast-season-4-shtf35", "date": "2023-01-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Caligula's Party Barges - Ship Hits the Fan Podcast", "id": "50102", "slug": "ship-hits-the-fan-podcast-season-4-shtf0402", "date": "2023-01-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blackbeard Steals, Exploits, and Sinks the Queen Anne - Ship Hits the Fan Podcast", "id": "50054", "slug": "ship-hits-the-fan-podcast-season-4-shtf401", "date": "2023-01-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A History of Cats at Sea - Ship Hits the Fan Podcast", "id": "50053", "slug": "ship-hits-the-fan-podcast-season-3-shtf3b03", "date": "2022-12-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Apocryphal Maritime Weapons of the Ancient World - Ship Hits the Fan Podcast", "id": "50005", "slug": "ship-hits-the-fan-podcast-season-3-shtf3b02", "date": "2022-12-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Philadelphia Experiment w/ Elyse Willems - Ship Hits the Fan Podcast", "id": "49951", "slug": "ship-hits-the-fan-podcast-season-3-shtf3b1", "date": "2022-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Real Story of the USS Indianapolis Part 2 - Ship Hits the Fan Podcast", "id": "49906", "slug": "ship-hits-the-fan-podcast-season-3-shtf312", "date": "2022-12-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Real Story of the USS Indianapolis Part 1 - Ship Hits the Fan Podcast", "id": "49852", "slug": "ship-hits-the-fan-podcast-season-3-shtf311", "date": "2022-11-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The SS Yongala Is Lost for Forty-Seven Years - Ship Hits the Fan Podcast", "id": "49824", "slug": "ship-hits-the-fan-podcast-season-3-shtf310", "date": "2022-11-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Battle of May, Kublai Khan's Blunder, and Ships Hiding Beneath Ground Zero - Ship Hits the Fan Podcast", "id": "49771", "slug": "ship-hits-the-fan-podcast-season-3-shtf309", "date": "2022-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The H\u014dk\u016ble\u02bba Fails to Shred the Gnar - Ship Hits the Fan Podcast", "id": "49724", "slug": "ship-hits-the-fan-podcast-season-3-shtf308", "date": "2022-11-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Too Many Christmas Trees Sink The Rouse Simmons - Ship Hits the Fan Podcast", "id": "49532", "slug": "ship-hits-the-fan-podcast-season-3-shtf307", "date": "2022-10-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The SS Central America Sinks Itself and the U.S. Economy - Ship Hits the Fan Podcast", "id": "49466", "slug": "ship-hits-the-fan-podcast-season-3-shtf306", "date": "2022-10-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "An Unsinkable Russian Nuclear Sub Sinks Itself - Ship Hits the Fan Podcast", "id": "49419", "slug": "ship-hits-the-fan-podcast-season-3-shtf304-906ae768-0114-4913-ad6a-96154702d2b6", "date": "2022-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Even Fertilizer Explosions Are Bigger in Texas - Ship Hits the Fan Podcast", "id": "49343", "slug": "ship-hits-the-fan-podcast-season-3-shtf304", "date": "2022-09-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Pride of the Swedish Empire Sinks Immediately - Ship Hits the Fan Podcast", "id": "49269", "slug": "ship-hits-the-fan-podcast-season-3-shtf23", "date": "2022-09-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A 17th Century Shipwreck Turns Men into Monsters - Ship Hits the Fan Podcast", "id": "49198", "slug": "ship-hits-the-fan-podcast-season-3-shtf302", "date": "2022-09-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Tragic True Story That Inspired Moby Dick - Ship Hits the Fan Podcast", "id": "49158", "slug": "ship-hits-the-fan-podcast-season-3-shtf301", "date": "2022-08-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spooky Abandoned Vessels and Ghost Ships - Ship Hits the Fan Podcast", "id": "49091", "slug": "ship-hits-the-fan-podcast-season-2-shtf2bonus3", "date": "2022-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sin City of the Gulf Claims the SS Selma - Ship Hits the Fan Podcast", "id": "49037", "slug": "ship-hits-the-fan-podcast-season-2-ship2bonus2", "date": "2022-08-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Japanese Fishermen Catch an Alien or Maybe Some Russian Lady - Ship Hits the Fan Podcast", "id": "48988", "slug": "ship-hits-the-fan-podcast-season-2-ship2bonus1", "date": "2022-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Soviets Drive Fleeing Nazis Into and Under the Sea - Ship Hits the Fan Podcast", "id": "48924", "slug": "ship-hits-the-fan-podcast-season-2-shtf20", "date": "2022-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "An Impromptu Boat Race Leads to Decades of War - Ship Hits the Fan Podcast", "id": "48867", "slug": "ship-hits-the-fan-podcast-season-2-shtfwhiteship", "date": "2022-07-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ingenuity of Narco Subs - Ship Hits the Fan Podcast", "id": "48796", "slug": "ship-hits-the-fan-podcast-season-2-shtf210", "date": "2022-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Sinking of the Mary Rose Breaks Henry VIII's Heart - Ship Hits the Fan Podcast", "id": "48731", "slug": "ship-hits-the-fan-podcast-season-2-shtf17", "date": "2022-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Real Story Behind Captain Phillips and the Maersk Alabama - Ship Hits the Fan Podcast", "id": "48650", "slug": "ship-hits-the-fan-podcast-season-2-ship16", "date": "2022-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The SS Atlantic Finds Canada's Waters Less Than Polite - Ship Hits the Fan Podcast", "id": "48598", "slug": "ship-hits-the-fan-podcast-season-2-ship15", "date": "2022-06-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Final Voyage of the World's Unluckiest Steamboat  - Ship Hits the Fan Podcast", "id": "48505", "slug": "ship-hits-the-fan-podcast-season-2-ship14", "date": "2022-06-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The RMS Empress of Ireland VS the SS Storstad - Ship Hits the Fan Podcast", "id": "48449", "slug": "ship-hits-the-fan-podcast-season-2-ship205", "date": "2022-06-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Ingenuity and Stupidity of the HL Hunley - Ship Hits the Fan Podcast", "id": "48376", "slug": "ship-hits-the-fan-podcast-season-2-the-ingenuity-and-stupidity-of-the-hl-hunley-ship-hits-the-fan-podcast", "date": "2022-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Lioness of Brittany Stains the Seas Red - Ship Hits the Fan Podcast", "id": "48310", "slug": "ship-hits-the-fan-podcast-season-2-ship203", "date": "2022-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Magicians and Cover Bands Save the MTS Oceanos - Ship Hits the Fan Podcast", "id": "48246", "slug": "ship-hits-the-fan-podcast-season-2-ship202", "date": "2022-05-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Game of Maritime Chicken Blows the Hell Out of Halifax - Ship Hits the Fan Podcast", "id": "48178", "slug": "ship-hits-the-fan-podcast-season-2-ship201", "date": "2022-05-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Legend of the Flying Canoe - Ship Hits the Fan Podcast", "id": "48112", "slug": "ship-hits-the-fan-podcast-season-1-shtfcanoe", "date": "2022-05-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Did Sea Monsters Really Sink a German U-Boat? - Ship Hits the Fan Podcast", "id": "48046", "slug": "ship-hits-the-fan-podcast-season-1-uboat", "date": "2022-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mummies VS Billionaires: Titanic Conspiracy Theories - Ship Hits the Fan Podcast", "id": "47982", "slug": "ship-hits-the-fan-podcast-season-1-ships1special", "date": "2022-04-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Shipwreck Graveyard Claims the Edmund Fitzgerald - Ship Hits the Fan Podcast", "id": "47924", "slug": "ship-hits-the-fan-podcast-season-1-ship9", "date": "2022-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shifting Into Reverse Sinks the SS Norge - Ship Hits the Fan Podcast", "id": "47864", "slug": "ship-hits-the-fan-podcast-season-1-shtf7", "date": "2022-04-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Greasing Geese on the SS Jeannette - Ship Hits the Fan Episode 6", "id": "47799", "slug": "ship-hits-the-fan-podcast-season-1-the-uss-jeanette", "date": "2022-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Marital Infidelity Sinks the Costa Concordia - Ship Hits the Fan Episode 5", "id": "47735", "slug": "ship-hits-the-fan-podcast-season-1-ship5", "date": "2022-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Graveyard of the Pacific Sinks the Peter Iredale - Ship Hits the Fan Episode 4", "id": "47618", "slug": "ship-hits-the-fan-podcast-season-1-ship4", "date": "2022-03-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "A Hard Partying Crew Sinks the Do\u00f1a Paz - Ship Hits the Fan Episode 3", "id": "47542", "slug": "ship-hits-the-fan-podcast-season-1-ship3", "date": "2022-03-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Endurance Has Been Found - Ship Hits the Fan Mini Episode", "id": "47499", "slug": "ship-hits-the-fan-podcast-season-1-ship20220310mini", "date": "2022-03-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Greed and Graft Sink the Sultana - Ship Hits the Fan Episode 2", "id": "47469", "slug": "ship-hits-the-fan-podcast-season-1-ship20220309", "date": "2022-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Life Rafts Sink the SS Eastland - Ship Hits the Fan Episode 1", "id": "47364", "slug": "ship-hits-the-fan-podcast-season-1-ship20220302", "date": "2022-03-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Ship Hits the Fan Podcast",
+    "slug": "ship-hits-the-fan-podcast",
+    "summary": {
+        "count": 63,
+        "uploaded": 63,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "It Has Been a Privilege: The Titanic Part 2 - Ship Hits the Fan Podcast",
+            "id": "51013",
+            "slug": "ship-hits-the-fan-podcast-season-5-titanic2",
+            "date": "2023-06-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Iceberg, Right Ahead: The Titanic Part 1 - Ship Hits the Fan Podcast",
+            "id": "50973",
+            "slug": "ship-hits-the-fan-podcast-season-5-titanic1",
+            "date": "2023-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Unlikely Rescue of the SS Mirlo - Ship Hits the Fan Podcast",
+            "id": "50942",
+            "slug": "ship-hits-the-fan-podcast-season-5-shtf50",
+            "date": "2023-05-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Final Disaster of the MS Estonia - Ship Hits the Fan Podcast",
+            "id": "50907",
+            "slug": "ship-hits-the-fan-podcast-season-5-shtf49",
+            "date": "2023-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cannibalism and Survival on The Mignonette - Ship Hits the Fan Podcast",
+            "id": "50867",
+            "slug": "ship-hits-the-fan-podcast-season-5-shtf48",
+            "date": "2023-05-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who Really Owns the Black Swan Treasure? - Ship Hits the Fan Podcast",
+            "id": "50829",
+            "slug": "ship-hits-the-fan-podcast-season-5-shtf47",
+            "date": "2023-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Andrea Doria and The Stockholm Collide - Ship Hits the Fan Podcast",
+            "id": "50784",
+            "slug": "ship-hits-the-fan-podcast-season-5-shtf46",
+            "date": "2023-04-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Germany Sinks the RMS Lusitania - Ship Hits the Fan Podcast",
+            "id": "50743",
+            "slug": "ship-hits-the-fan-podcast-season-5-shtf501",
+            "date": "2023-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What Sunk the Floating Crypto Bro Utopia? - Ship Hits the Fan Podcast",
+            "id": "50662",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtfs4b",
+            "date": "2023-04-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Great Lakes Were No Match for The Big Blow - Ship Hits the Fan Podcast",
+            "id": "50558",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf44",
+            "date": "2023-03-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Aotaka and the SS Kiangya Explosion - Ship Hits the Fan Podcast",
+            "id": "50516",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf43",
+            "date": "2023-03-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Forgotten Cargo Ship Destroys Half of Beirut - Ship Hits the Fan Podcast",
+            "id": "50481",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf42",
+            "date": "2023-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Digging Up the Lost Treasures of the Arabia - Ship Hits the Fan Podcast",
+            "id": "50440",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf41",
+            "date": "2023-02-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The USS Greeneville Impresses Some VIPs, Sinks the Ehime Maru - Ship Hits the Fan Podcast",
+            "id": "50380",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf40",
+            "date": "2023-02-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kamikaze Pilots Sink the Bismarck Sea - Ship Hits the Fan Podcast",
+            "id": "50343",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf39",
+            "date": "2023-02-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Negligence and Fraud Sink the Sewol Ferry - Ship Hits the Fan Podcast",
+            "id": "50295",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf46",
+            "date": "2023-02-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Enslaved People Seize Their Ship and Their Freedom - Ship Hits the Fan Podcast",
+            "id": "50237",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf405",
+            "date": "2023-01-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tragedy of the Taiping Refugee Steamer - Ship Hits the Fan Podcast",
+            "id": "50194",
+            "slug": "ship-hits-the-fan-podcast-season-4-taiping",
+            "date": "2023-01-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The SS Ohio Endures Hell Saving the Island of Malta - Ship Hits the Fan Podcast",
+            "id": "50142",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf35",
+            "date": "2023-01-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Caligula's Party Barges - Ship Hits the Fan Podcast",
+            "id": "50102",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf0402",
+            "date": "2023-01-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blackbeard Steals, Exploits, and Sinks the Queen Anne - Ship Hits the Fan Podcast",
+            "id": "50054",
+            "slug": "ship-hits-the-fan-podcast-season-4-shtf401",
+            "date": "2023-01-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A History of Cats at Sea - Ship Hits the Fan Podcast",
+            "id": "50053",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf3b03",
+            "date": "2022-12-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Apocryphal Maritime Weapons of the Ancient World - Ship Hits the Fan Podcast",
+            "id": "50005",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf3b02",
+            "date": "2022-12-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Philadelphia Experiment w/ Elyse Willems - Ship Hits the Fan Podcast",
+            "id": "49951",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf3b1",
+            "date": "2022-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Real Story of the USS Indianapolis Part 2 - Ship Hits the Fan Podcast",
+            "id": "49906",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf312",
+            "date": "2022-12-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Real Story of the USS Indianapolis Part 1 - Ship Hits the Fan Podcast",
+            "id": "49852",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf311",
+            "date": "2022-11-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The SS Yongala Is Lost for Forty-Seven Years - Ship Hits the Fan Podcast",
+            "id": "49824",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf310",
+            "date": "2022-11-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Battle of May, Kublai Khan's Blunder, and Ships Hiding Beneath Ground Zero - Ship Hits the Fan Podcast",
+            "id": "49771",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf309",
+            "date": "2022-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The H\u014dk\u016ble\u02bba Fails to Shred the Gnar - Ship Hits the Fan Podcast",
+            "id": "49724",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf308",
+            "date": "2022-11-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Too Many Christmas Trees Sink The Rouse Simmons - Ship Hits the Fan Podcast",
+            "id": "49532",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf307",
+            "date": "2022-10-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The SS Central America Sinks Itself and the U.S. Economy - Ship Hits the Fan Podcast",
+            "id": "49466",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf306",
+            "date": "2022-10-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "An Unsinkable Russian Nuclear Sub Sinks Itself - Ship Hits the Fan Podcast",
+            "id": "49419",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf304-906ae768-0114-4913-ad6a-96154702d2b6",
+            "date": "2022-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Even Fertilizer Explosions Are Bigger in Texas - Ship Hits the Fan Podcast",
+            "id": "49343",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf304",
+            "date": "2022-09-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Pride of the Swedish Empire Sinks Immediately - Ship Hits the Fan Podcast",
+            "id": "49269",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf23",
+            "date": "2022-09-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A 17th Century Shipwreck Turns Men into Monsters - Ship Hits the Fan Podcast",
+            "id": "49198",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf302",
+            "date": "2022-09-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Tragic True Story That Inspired Moby Dick - Ship Hits the Fan Podcast",
+            "id": "49158",
+            "slug": "ship-hits-the-fan-podcast-season-3-shtf301",
+            "date": "2022-08-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spooky Abandoned Vessels and Ghost Ships - Ship Hits the Fan Podcast",
+            "id": "49091",
+            "slug": "ship-hits-the-fan-podcast-season-2-shtf2bonus3",
+            "date": "2022-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sin City of the Gulf Claims the SS Selma - Ship Hits the Fan Podcast",
+            "id": "49037",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship2bonus2",
+            "date": "2022-08-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Japanese Fishermen Catch an Alien or Maybe Some Russian Lady - Ship Hits the Fan Podcast",
+            "id": "48988",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship2bonus1",
+            "date": "2022-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Soviets Drive Fleeing Nazis Into and Under the Sea - Ship Hits the Fan Podcast",
+            "id": "48924",
+            "slug": "ship-hits-the-fan-podcast-season-2-shtf20",
+            "date": "2022-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "An Impromptu Boat Race Leads to Decades of War - Ship Hits the Fan Podcast",
+            "id": "48867",
+            "slug": "ship-hits-the-fan-podcast-season-2-shtfwhiteship",
+            "date": "2022-07-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ingenuity of Narco Subs - Ship Hits the Fan Podcast",
+            "id": "48796",
+            "slug": "ship-hits-the-fan-podcast-season-2-shtf210",
+            "date": "2022-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Sinking of the Mary Rose Breaks Henry VIII's Heart - Ship Hits the Fan Podcast",
+            "id": "48731",
+            "slug": "ship-hits-the-fan-podcast-season-2-shtf17",
+            "date": "2022-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Real Story Behind Captain Phillips and the Maersk Alabama - Ship Hits the Fan Podcast",
+            "id": "48650",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship16",
+            "date": "2022-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The SS Atlantic Finds Canada's Waters Less Than Polite - Ship Hits the Fan Podcast",
+            "id": "48598",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship15",
+            "date": "2022-06-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Final Voyage of the World's Unluckiest Steamboat  - Ship Hits the Fan Podcast",
+            "id": "48505",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship14",
+            "date": "2022-06-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The RMS Empress of Ireland VS the SS Storstad - Ship Hits the Fan Podcast",
+            "id": "48449",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship205",
+            "date": "2022-06-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Ingenuity and Stupidity of the HL Hunley - Ship Hits the Fan Podcast",
+            "id": "48376",
+            "slug": "ship-hits-the-fan-podcast-season-2-the-ingenuity-and-stupidity-of-the-hl-hunley-ship-hits-the-fan-podcast",
+            "date": "2022-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Lioness of Brittany Stains the Seas Red - Ship Hits the Fan Podcast",
+            "id": "48310",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship203",
+            "date": "2022-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Magicians and Cover Bands Save the MTS Oceanos - Ship Hits the Fan Podcast",
+            "id": "48246",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship202",
+            "date": "2022-05-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Game of Maritime Chicken Blows the Hell Out of Halifax - Ship Hits the Fan Podcast",
+            "id": "48178",
+            "slug": "ship-hits-the-fan-podcast-season-2-ship201",
+            "date": "2022-05-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Legend of the Flying Canoe - Ship Hits the Fan Podcast",
+            "id": "48112",
+            "slug": "ship-hits-the-fan-podcast-season-1-shtfcanoe",
+            "date": "2022-05-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Did Sea Monsters Really Sink a German U-Boat? - Ship Hits the Fan Podcast",
+            "id": "48046",
+            "slug": "ship-hits-the-fan-podcast-season-1-uboat",
+            "date": "2022-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mummies VS Billionaires: Titanic Conspiracy Theories - Ship Hits the Fan Podcast",
+            "id": "47982",
+            "slug": "ship-hits-the-fan-podcast-season-1-ships1special",
+            "date": "2022-04-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Shipwreck Graveyard Claims the Edmund Fitzgerald - Ship Hits the Fan Podcast",
+            "id": "47924",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship9",
+            "date": "2022-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shifting Into Reverse Sinks the SS Norge - Ship Hits the Fan Podcast",
+            "id": "47864",
+            "slug": "ship-hits-the-fan-podcast-season-1-shtf7",
+            "date": "2022-04-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Greasing Geese on the SS Jeannette - Ship Hits the Fan Episode 6",
+            "id": "47799",
+            "slug": "ship-hits-the-fan-podcast-season-1-the-uss-jeanette",
+            "date": "2022-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Marital Infidelity Sinks the Costa Concordia - Ship Hits the Fan Episode 5",
+            "id": "47735",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship5",
+            "date": "2022-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Graveyard of the Pacific Sinks the Peter Iredale - Ship Hits the Fan Episode 4",
+            "id": "47618",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship4",
+            "date": "2022-03-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "A Hard Partying Crew Sinks the Do\u00f1a Paz - Ship Hits the Fan Episode 3",
+            "id": "47542",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship3",
+            "date": "2022-03-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Endurance Has Been Found - Ship Hits the Fan Mini Episode",
+            "id": "47499",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship20220310mini",
+            "date": "2022-03-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Greed and Graft Sink the Sultana - Ship Hits the Fan Episode 2",
+            "id": "47469",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship20220309",
+            "date": "2022-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Life Rafts Sink the SS Eastland - Ship Hits the Fan Episode 1",
+            "id": "47364",
+            "slug": "ship-hits-the-fan-podcast-season-1-ship20220302",
+            "date": "2022-03-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

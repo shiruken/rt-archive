@@ -1,1 +1,133 @@
-{"show": "Black Heritage Month", "slug": "black-heritage-month", "summary": {"count": 12, "uploaded": 12, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Same Brain #2 | The Family Reunion", "id": "50690", "slug": "black-heritage-month-2023-same-brain-episode-2", "date": "2023-04-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Same Brain | Can You Think in Sync?", "id": "50415", "slug": "black-heritage-month-2022-same-brain", "date": "2023-02-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Always Open: BE", "id": "47395", "slug": "black-heritage-month-2022-always-open-be", "date": "2022-03-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jackbox", "id": "47394", "slug": "black-heritage-month-2022-jackbox", "date": "2022-03-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Heritage Month Jeopardy", "id": "47393", "slug": "black-heritage-month-2022-black-heritage-month-jeopardy", "date": "2022-03-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kinda Funny's Super Mario Takeover - Block Party 2021", "id": "42770", "slug": "black-heritage-month-2021-block-party-kinda-funny", "date": "2021-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ultimate Chicken Horse - Block Party 2021", "id": "42769", "slug": "black-heritage-month-2021-block-party-chicken-horse", "date": "2021-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Quiplash - Block Party 2021", "id": "42768", "slug": "black-heritage-month-2021-block-party-jackbox", "date": "2021-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Among Us - Block Party 2021", "id": "42767", "slug": "black-heritage-month-2021-block-party-among-us", "date": "2021-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Next Black Superhero - Black Heritage Month", "id": "42649", "slug": "rttv-specials-2021-bhm-3-2", "date": "2021-03-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gaming in Color - Black Heritage Month", "id": "42517", "slug": "rttv-specials-2021-bhm-2-12", "date": "2021-02-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Our First and Last Episode - Black Heritage Month", "id": "42397", "slug": "rttv-specials-2021-bhm-2-5", "date": "2021-02-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Black Heritage Month",
+    "slug": "black-heritage-month",
+    "summary": {
+        "count": 12,
+        "uploaded": 12,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Same Brain #2 | The Family Reunion",
+            "id": "50690",
+            "slug": "black-heritage-month-2023-same-brain-episode-2",
+            "date": "2023-04-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Same Brain | Can You Think in Sync?",
+            "id": "50415",
+            "slug": "black-heritage-month-2022-same-brain",
+            "date": "2023-02-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Always Open: BE",
+            "id": "47395",
+            "slug": "black-heritage-month-2022-always-open-be",
+            "date": "2022-03-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jackbox",
+            "id": "47394",
+            "slug": "black-heritage-month-2022-jackbox",
+            "date": "2022-03-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Heritage Month Jeopardy",
+            "id": "47393",
+            "slug": "black-heritage-month-2022-black-heritage-month-jeopardy",
+            "date": "2022-03-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kinda Funny's Super Mario Takeover - Block Party 2021",
+            "id": "42770",
+            "slug": "black-heritage-month-2021-block-party-kinda-funny",
+            "date": "2021-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ultimate Chicken Horse - Block Party 2021",
+            "id": "42769",
+            "slug": "black-heritage-month-2021-block-party-chicken-horse",
+            "date": "2021-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Quiplash - Block Party 2021",
+            "id": "42768",
+            "slug": "black-heritage-month-2021-block-party-jackbox",
+            "date": "2021-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Among Us - Block Party 2021",
+            "id": "42767",
+            "slug": "black-heritage-month-2021-block-party-among-us",
+            "date": "2021-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Next Black Superhero - Black Heritage Month",
+            "id": "42649",
+            "slug": "rttv-specials-2021-bhm-3-2",
+            "date": "2021-03-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gaming in Color - Black Heritage Month",
+            "id": "42517",
+            "slug": "rttv-specials-2021-bhm-2-12",
+            "date": "2021-02-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Our First and Last Episode - Black Heritage Month",
+            "id": "42397",
+            "slug": "rttv-specials-2021-bhm-2-5",
+            "date": "2021-02-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

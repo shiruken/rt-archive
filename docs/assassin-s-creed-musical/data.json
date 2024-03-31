@@ -1,1 +1,43 @@
-{"show": "Assassin's Creed Musical", "slug": "assassin-s-creed-musical", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "A Leap of Faith Song", "id": "32555", "slug": "assassin-s-creed-musical-season-1-a-leap-of-faith-song", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "I'm Just a Man (With A Blade)", "id": "32554", "slug": "assassin-s-creed-musical-season-1-i-m-just-a-man-with-a-blade", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Assassin's Creed: The Musical!", "id": "32553", "slug": "assassin-s-creed-musical-season-1-the-assassin-s-creed-the-musical", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Assassin's Creed Musical",
+    "slug": "assassin-s-creed-musical",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "A Leap of Faith Song",
+            "id": "32555",
+            "slug": "assassin-s-creed-musical-season-1-a-leap-of-faith-song",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "I'm Just a Man (With A Blade)",
+            "id": "32554",
+            "slug": "assassin-s-creed-musical-season-1-i-m-just-a-man-with-a-blade",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Assassin's Creed: The Musical!",
+            "id": "32553",
+            "slug": "assassin-s-creed-musical-season-1-the-assassin-s-creed-the-musical",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,43 @@
-{"show": "GUINNESS WORLD RECORDS", "slug": "guinness-world-records", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "FOOT JELLY SHOTS", "id": "28109", "slug": "guinness-world-records-2018-foot-jelly-shots", "date": "2018-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TRAMPOLINE & PIZZA SLAP", "id": "27916", "slug": "guinness-world-records-2018-trampoline-pizza-slap", "date": "2018-07-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BUSTING NUTS \u2022 GUINNESS WORLD RECORDS", "id": "24346", "slug": "guinness-world-records-2018-busting-nuts-guinness-world-records", "date": "2018-02-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "GUINNESS WORLD RECORDS",
+    "slug": "guinness-world-records",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "FOOT JELLY SHOTS",
+            "id": "28109",
+            "slug": "guinness-world-records-2018-foot-jelly-shots",
+            "date": "2018-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TRAMPOLINE & PIZZA SLAP",
+            "id": "27916",
+            "slug": "guinness-world-records-2018-trampoline-pizza-slap",
+            "date": "2018-07-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BUSTING NUTS \u2022 GUINNESS WORLD RECORDS",
+            "id": "24346",
+            "slug": "guinness-world-records-2018-busting-nuts-guinness-world-records",
+            "date": "2018-02-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

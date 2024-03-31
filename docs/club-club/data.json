@@ -1,1 +1,133 @@
-{"show": "Club Club", "slug": "club-club", "summary": {"count": 12, "uploaded": 12, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Mechs vs Minions - Tabletop Club #3", "id": "29657", "slug": "club-club-season-1-mechs-vs-minions-tabletop-club-3", "date": "2018-12-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Name of the Wind - Book Club #3", "id": "29523", "slug": "club-club-season-1-the-name-of-the-wind-book-club-3", "date": "2018-11-24", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Edge of Tomorrow / Live. Die. Repeat. - Movie Club #3", "id": "29447", "slug": "club-club-season-1-edge-of-tomorrow-live-die-repeat-movie-club-3", "date": "2018-11-17", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SUPERHOT - Game Club #3", "id": "29318", "slug": "club-club-season-1-superhot-game-club-3", "date": "2018-11-10", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Codenames - Tabletop Club #2", "id": "29159", "slug": "club-club-season-1-codenames-tabletop-club-2", "date": "2018-10-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Neverwhere - Book Club #2", "id": "29057", "slug": "club-club-season-1-neverwhere-book-club-2", "date": "2018-10-20", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Spirited Away - Movie Club #2", "id": "28956", "slug": "club-club-season-1-spirited-away-movie-club-2", "date": "2018-10-13", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Little Nightmares - Game Club #2", "id": "28881", "slug": "club-club-season-1-little-nightmares-game-club-2", "date": "2018-10-06", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mansions of Madness - Tabletop Club #1", "id": "28803", "slug": "club-club-season-1-mansions-of-madness-tabletop-club-1", "date": "2018-09-29", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Lies of Locke Lamora - Book Club #1", "id": "28725", "slug": "club-club-season-1-the-lies-of-locke-lamora-book-club-1", "date": "2018-09-23", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Stardust - Movie Club #1", "id": "28638", "slug": "club-club-season-1-stardust-movie-club-1", "date": "2018-09-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Doki Doki Literature Club - GAME CLUB #1", "id": "28555", "slug": "club-club-season-1-doki-doki-literature-club-game-club-1", "date": "2018-09-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Club Club",
+    "slug": "club-club",
+    "summary": {
+        "count": 12,
+        "uploaded": 12,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Mechs vs Minions - Tabletop Club #3",
+            "id": "29657",
+            "slug": "club-club-season-1-mechs-vs-minions-tabletop-club-3",
+            "date": "2018-12-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Name of the Wind - Book Club #3",
+            "id": "29523",
+            "slug": "club-club-season-1-the-name-of-the-wind-book-club-3",
+            "date": "2018-11-24",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Edge of Tomorrow / Live. Die. Repeat. - Movie Club #3",
+            "id": "29447",
+            "slug": "club-club-season-1-edge-of-tomorrow-live-die-repeat-movie-club-3",
+            "date": "2018-11-17",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SUPERHOT - Game Club #3",
+            "id": "29318",
+            "slug": "club-club-season-1-superhot-game-club-3",
+            "date": "2018-11-10",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Codenames - Tabletop Club #2",
+            "id": "29159",
+            "slug": "club-club-season-1-codenames-tabletop-club-2",
+            "date": "2018-10-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Neverwhere - Book Club #2",
+            "id": "29057",
+            "slug": "club-club-season-1-neverwhere-book-club-2",
+            "date": "2018-10-20",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Spirited Away - Movie Club #2",
+            "id": "28956",
+            "slug": "club-club-season-1-spirited-away-movie-club-2",
+            "date": "2018-10-13",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Little Nightmares - Game Club #2",
+            "id": "28881",
+            "slug": "club-club-season-1-little-nightmares-game-club-2",
+            "date": "2018-10-06",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mansions of Madness - Tabletop Club #1",
+            "id": "28803",
+            "slug": "club-club-season-1-mansions-of-madness-tabletop-club-1",
+            "date": "2018-09-29",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Lies of Locke Lamora - Book Club #1",
+            "id": "28725",
+            "slug": "club-club-season-1-the-lies-of-locke-lamora-book-club-1",
+            "date": "2018-09-23",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Stardust - Movie Club #1",
+            "id": "28638",
+            "slug": "club-club-season-1-stardust-movie-club-1",
+            "date": "2018-09-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Doki Doki Literature Club - GAME CLUB #1",
+            "id": "28555",
+            "slug": "club-club-season-1-doki-doki-literature-club-game-club-1",
+            "date": "2018-09-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

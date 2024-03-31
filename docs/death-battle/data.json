@@ -1,1 +1,2303 @@
-{"show": "DEATH BATTLE!", "slug": "death-battle", "summary": {"count": 229, "uploaded": 229, "missing": 0, "incomplete": 1, "removed": 0}, "data": [{"title": "Galactus VS Unicron (Transformers VS Marvel Comics)", "id": "52227", "slug": "death-battle-season-10-galactus-vs-unicron", "date": "2023-12-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Goku VS Superman (Dragon Ball VS DC Comics)", "id": "52139", "slug": "death-battle-season-10-goku-vs-superman-dragon-ball-vs-dc-comics", "date": "2023-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rick Sanchez VS The Doctor (Rick and Morty VS Doctor Who)", "id": "52055", "slug": "death-battle-season-10-rick-sanchez-vs-the-doctor-rick-and-morty-vs-doctor-who", "date": "2023-11-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Scooby-Doo VS Courage the Cowardly Dog", "id": "51913", "slug": "death-battle-season-10-scooby-doo-vs-courage-the-cowardly-dog-death-battle", "date": "2023-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gojo VS Makima (Jujutsu Kaisen VS Chainsaw Man)", "id": "51824", "slug": "death-battle-season-10-gojo-vs-makima-jujutsu-kaisen-vs-chainsaw-man", "date": "2023-10-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Frieza VS Megatron (Dragon Ball VS Transformers)", "id": "51713", "slug": "death-battle-season-10-frieza-vs-megatron-dragon-ball-vs-transformers", "date": "2023-10-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cole MacGrath vs Alex Mercer (Infamous VS Prototype)", "id": "51620", "slug": "death-battle-season-10-cole-macgrath-vs-alex-mercer-infamous-vs-prototype", "date": "2023-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bill Cipher VS Discord (Gravity Falls VS My Little Pony)", "id": "51533", "slug": "death-battle-season-10-bill-cipher-vs-discord-gravity-falls-vs-my-little-pony", "date": "2023-09-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Martian Manhunter VS Silver Surfer (DC VS Marvel)", "id": "51446", "slug": "death-battle-season-10-martian-manhunter-vs-silver-surfer-dc-vs-marvel", "date": "2023-08-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Guts VS Dimitri (Berserk VS Fire Emblem)", "id": "51371", "slug": "death-battle-season-10-guts-vs-dimitri-berserk-vs-fire-emblem", "date": "2023-08-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Phoenix VS Raven (Marvel VS DC)", "id": "51305", "slug": "death-battle-season-10-phoenix-vs-raven-marvel-vs-dc", "date": "2023-07-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Darth Vader VS Obito Uchiha (Star Wars VS Naruto)", "id": "51239", "slug": "death-battle-season-10-darth-vader-vs-obito-uchiha-star-wars-vs-naruto", "date": "2023-07-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Stitch VS Rocket Raccoon (Disney VS Marvel)", "id": "51183", "slug": "death-battle-season-10-stitch-vs-rocket-raccoon-disney-vs-marvel-death-battle", "date": "2023-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Killua VS Misaka (Hunter x Hunter VS A Certain Magical Index)", "id": "51097", "slug": "death-battle-season-10-killua-vs-misaka", "date": "2023-06-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Skyrim VS Dark Souls (Dragonborn VS Chosen Undead)", "id": "51009", "slug": "death-battle-season-10-skyrim-vs-dark-souls-dragonborn-vs-chosen-undead", "date": "2023-06-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ant-Man VS Atom (Marvel VS DC)", "id": "50934", "slug": "death-battle-season-10-antman", "date": "2023-05-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gogeta VS Vegito (Dragon Ball)", "id": "50011", "slug": "death-battle-season-9-gogeta-vs-vegito-dragon-ball", "date": "2022-12-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deku VS Asta (My Hero Academia VS Black Clover)", "id": "49838", "slug": "death-battle-season-9-deku-vs-asta-my-hero-academia-vs-black-clover", "date": "2022-11-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sauron VS Lich King (Lord of the Rings VS World of Warcraft)", "id": "49765", "slug": "death-battle-season-9-11-13", "date": "2022-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jason Voorhees VS Michael Myers (Friday the 13th VS Halloween)", "id": "49650", "slug": "death-battle-season-9-14", "date": "2022-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SpongeBob VS Aquaman (Nickelodeon VS Super Friends)", "id": "49563", "slug": "death-battle-season-9-13", "date": "2022-10-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Trunks VS Silver (Dragon Ball Heroes VS Archie Sonic)", "id": "49458", "slug": "death-battle-season-9-12", "date": "2022-10-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Adam VS Apocalypse (DC VS Marvel)", "id": "49327", "slug": "death-battle-season-9-11-9916e65e-ea25-43fd-a1bf-5e64bd9e3071", "date": "2022-09-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "James Bond VS John Wick", "id": "49199", "slug": "death-battle-season-9-11", "date": "2022-09-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Excalibur VS Raiden (Warframe VS Metal Gear)", "id": "48718", "slug": "death-battle-season-9-9", "date": "2022-07-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Boba Fett VS Predator (Star Wars VS Predator)", "id": "48632", "slug": "death-battle-season-9-8", "date": "2022-07-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hercules VS Sun Wukong", "id": "48497", "slug": "death-battle-season-9-7", "date": "2022-06-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Magneto VS Tetsuo (Marvel VS Akira)", "id": "48301", "slug": "death-battle-season-9-6", "date": "2022-06-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Omni-Man VS Homelander (Invincible VS The Boys)", "id": "48213", "slug": "death-battle-season-9-5", "date": "2022-05-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thor VS Vegeta (Marvel VS Dragon Ball)", "id": "48069", "slug": "death-battle-season-9-4", "date": "2022-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tanjiro VS Jonathan Joestar (Demon Slayer VS JoJo's Bizarre Adventure)", "id": "47969", "slug": "death-battle-season-9-3", "date": "2022-04-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Scarlet Witch VS Zatanna (Marvel VS DC)", "id": "47849", "slug": "death-battle-season-9-2", "date": "2022-04-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Harley Quinn VS Jinx (DC VS League of Legends)", "id": "47726", "slug": "death-battle-season-9-1", "date": "2022-03-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Saitama VS Popeye (One-Punch Man VS Thimble Theatre)", "id": "46314", "slug": "death-battle-season-8-16", "date": "2021-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Madara vs Aizen (Naruto vs Bleach)", "id": "46137", "slug": "death-battle-season-8-15", "date": "2021-12-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Korra VS Storm (Avatar VS Marvel)", "id": "45981", "slug": "death-battle-season-8-14", "date": "2021-11-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Akuma VS Shao Kahn (Street Fighter VS Mortal Kombat)", "id": "45822", "slug": "death-battle-season-8-13", "date": "2021-11-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DIO VS Alucard (JoJo's Bizarre Adventure VS Hellsing)", "id": "45642", "slug": "death-battle-season-8-12", "date": "2021-10-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Macho Man vs Kool-Aid Man", "id": "45464", "slug": "death-battle-season-8-11", "date": "2021-10-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Goku Black VS Reverse-Flash (Dragon Ball VS DC)", "id": "45335", "slug": "death-battle-season-8-10", "date": "2021-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman vs Iron Man (DC vs Marvel)", "id": "45150", "slug": "death-battle-season-8-9", "date": "2021-09-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Link VS Cloud (Legend of Zelda VS Final Fantasy VII)", "id": "44098", "slug": "death-battle-season-8-8", "date": "2021-06-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Steven Universe VS Star Butterfly", "id": "43915", "slug": "death-battle-season-8-7", "date": "2021-05-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Iron Fist VS Po (Marvel VS Kung Fu Panda)", "id": "43734", "slug": "death-battle-season-8-6", "date": "2021-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Blake VS Mikasa (RWBY VS Attack on Titan)", "id": "43549", "slug": "death-battle-season-8-5", "date": "2021-05-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Heihachi Mishima VS Geese Howard (Tekken VS King of Fighters)", "id": "43356", "slug": "death-battle-season-8-4", "date": "2021-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lex Luthor VS Doctor Doom (DC vs Marvel)", "id": "43175", "slug": "death-battle-season-8-3", "date": "2021-04-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shadow VS Ry\u016bko Matoi (Sonic the Hedgehog VS Kill la Kill) | DEATH BATTLE!", "id": "42910", "slug": "death-battle-season-8-2", "date": "2021-03-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Yoda VS King Mickey (Star Wars VS Kingdom Hearts)", "id": "42737", "slug": "death-battle-season-8-1", "date": "2021-03-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hulk VS Broly (Marvel VS Dragon Ball)", "id": "41942", "slug": "death-battle-season-7-12-27", "date": "2020-12-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sanji VS Rock Lee (One Piece VS Naruto)", "id": "41714", "slug": "death-battle-season-7-12-13", "date": "2020-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batgirl VS Spider-Gwen (DC VS Marvel)", "id": "41374", "slug": "death-battle-season-7-11-29", "date": "2020-11-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Red VS Blue", "id": "41192", "slug": "death-battle-season-7-11-15", "date": "2020-11-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sabrewulf VS Jon Talbain (Killer Instinct VS Darkstalkers)", "id": "41021", "slug": "death-battle-season-7-10-31", "date": "2020-10-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Venom VS Crona (Marvel VS Soul Eater)", "id": "40527", "slug": "death-battle-season-7-10-4", "date": "2020-10-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Winter Soldier VS Red Hood (Marvel VS DC)", "id": "40339", "slug": "death-battle-season-7-9-20", "date": "2020-09-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BREAKDOWN: The Seven Battle Royale (The Boys)", "id": "40293", "slug": "death-battle-season-7-9-17-the-boys-breakdown", "date": "2020-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Seven Battle Royale (The Boys)", "id": "40292", "slug": "death-battle-season-7-9-17-the-boys", "date": "2020-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Flash VS Sonic (Wally West VS Archie Sonic)", "id": "40155", "slug": "death-battle-season-7-9-6", "date": "2020-09-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zuko VS Shoto Todoroki (Avatar VS My Hero Academia)", "id": "39925", "slug": "death-battle-season-7-8-23", "date": "2020-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Beerus VS Sailor Galaxia (Dragon Ball VS Sailor Moon)", "id": "39706", "slug": "death-battle-season-7-8-9", "date": "2020-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DEATH BATTLE 2020", "id": "1429-bonus", "slug": "death-battle-2020-trailer", "date": "2020-08-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DRACONIC ROBOTICS Music Video", "id": "1423-bonus", "slug": "death-battle-music-video-3", "date": "2020-06-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Infection Perfection Music Video", "id": "1422-bonus", "slug": "death-battle-death-battle-music-video-2", "date": "2020-06-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wings of Iron Music Video", "id": "1421-bonus", "slug": "death-battle-music-video", "date": "2020-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "She-Ra VS Wonder Woman (He-Man VS DC)", "id": "38656", "slug": "death-battle-season-7-5-31", "date": "2020-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Danny Phantom VS American Dragon Jake Long (Nickelodeon VS Disney)", "id": "38413", "slug": "death-battle-season-7-5-17", "date": "2020-05-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Obi-Wan Kenobi VS Kakashi (Star Wars VS Naruto)", "id": "37874", "slug": "death-battle-season-7-5-3", "date": "2020-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cable VS Booster Gold (Marvel VS DC Comics)", "id": "37655", "slug": "death-battle-season-7-4-19", "date": "2020-04-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Goro VS Machamp (Mortal Kombat VS Pok\u00e9mon)", "id": "37427", "slug": "death-battle-season-7-goro-vs-machamp-mortal-kombat-vs-pokemon", "date": "2020-04-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gray VS Esdeath (Fairy Tail VS Akame ga Kill!)", "id": "37265", "slug": "death-battle-season-7-gray-vs-esdeath", "date": "2020-03-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Genos VS War Machine (One Punch Man VS Marvel's Iron Man)", "id": "37088", "slug": "death-battle-season-7-genos-vs-war-machine-one-punch-man-vs-marvels-iron-man", "date": "2020-03-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Leonardo VS Red Ranger Jason (Ninja Turtles VS Power Rangers) | DEATH BATTLE!", "id": "36876", "slug": "death-battle-season-7-leonardo-vs-red-ranger-jason-ninja-turtles-vs-power-rangers", "date": "2020-02-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Canary VS Sindel (DC Comics VS Mortal Kombat)", "id": "36742", "slug": "death-battle-season-7-black-canary-vs-sindel-dc-comics-vs-mortal-kombat", "date": "2020-02-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Miles Morales VS Static (Marvel's Spider-Man VS DC's Static Shock)", "id": "36543", "slug": "death-battle-season-7-miles-morales-vs-static-marvel-s-spider-man-vs-dc-s-static-shock", "date": "2020-01-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "All Might vs Might Guy (My Hero Academia VS Naruto)", "id": "36130", "slug": "death-battle-season-6-all-might-vs-might-guy-my-hero-academia-vs-naruto", "date": "2019-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deadpool VS Mask (Marvel VS Dark Horse)", "id": "35858", "slug": "death-battle-season-6-deadpool-vs-mask", "date": "2019-11-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mob VS Tatsumaki (Mob Psycho 100 VS One Punch Man)", "id": "35612", "slug": "death-battle-season-6-mob-vs-tatsumaki-mob-psycho-100-vs-one-punch-man", "date": "2019-11-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ganondorf VS Dracula (Zelda VS Castlevania)", "id": "35322", "slug": "death-battle-season-6-10-14", "date": "2019-10-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sasuke VS Hiei (Naruto VS Yu Yu Hakusho)", "id": "35075", "slug": "death-battle-season-6-9-23", "date": "2019-09-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dragonzord VS Mechagodzilla (Power Rangers VS Godzilla)", "id": "34753", "slug": "death-battle-season-6-dragonzord-vs-mechagodzilla-power-rangers-vs-godzilla", "date": "2019-09-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ghost Rider VS Lobo (Marvel VS DC)", "id": "34478", "slug": "death-battle-season-6-ghost-rider-vs-lobo-marvel-vs-dc", "date": "2019-08-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Aang VS Edward Elric (Avatar VS Fullmetal Alchemist)", "id": "34163", "slug": "death-battle-season-6-7-22", "date": "2019-07-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Johnny Cage VS Captain Falcon (Mortal Kombat VS F-Zero)", "id": "33912", "slug": "death-battle-season-6-johnny-cage-vs-captain-falcon-mortal-kombat-vs-f-zero", "date": "2019-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Weiss VS Mitsuru (RWBY VS Persona)", "id": "33577", "slug": "death-battle-season-6-weiss-vs-mitsuru-rwby-vs-persona", "date": "2019-06-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ben 10 vs Green Lantern (Cartoon Network VS DC Comics)", "id": "33353", "slug": "death-battle-season-6-ben-10-vs-green-lantern", "date": "2019-05-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wario VS King Dedede (Mario VS Kirby)", "id": "32864", "slug": "death-battle-season-6-5", "date": "2019-04-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Captain Marvel VS Shazam (Marvel VS DC Comics)", "id": "32440", "slug": "death-battle-season-6-captain-marvel-vs-shazam-marvel-vs-dc-comics", "date": "2019-04-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Widow VS Widowmaker (Marvel VS Overwatch)", "id": "31904", "slug": "death-battle-season-6-black-widow-vs-widowmaker-marvel-vs-overwatch", "date": "2019-03-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mega Man Battle Royale", "id": "31569", "slug": "death-battle-season-6-mega-man-battle-royale-death-battle", "date": "2019-02-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Aquaman VS Namor (Marvel VS DC Comics)", "id": "30377", "slug": "death-battle-season-6-aquaman-vs-namor-marvel-vs-dc-death-battle", "date": "2019-02-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thanos VS Darkseid (Marvel VS DC)", "id": "29882", "slug": "death-battle-season-5-thanos-vs-darkseid-marvel-vs-dc", "date": "2018-12-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Roshi VS Jiraiya (Dragon Ball VS Naruto)", "id": "29517", "slug": "death-battle-season-5-roshi-vs-jiraiya-dragon-ball-vs-naruto", "date": "2018-11-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ultron VS Sigma (Marvel VS Capcom)", "id": "29270", "slug": "death-battle-season-5-ultron-vs-sigma-marvel-vs-capcom", "date": "2018-11-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mario VS Sonic (Nintendo VS Sega)", "id": "28977", "slug": "death-battle-season-5-mario-vs-sonic-nintendo-vs-sega", "date": "2018-10-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nightwing VS Daredevil Bloopers!", "id": "1302-bonus", "slug": "death-battle-nightwing-vs-daredevil-bloopers", "date": "2018-09-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Nightwing VS Daredevil (DC Comics VS Marvel)", "id": "28721", "slug": "death-battle-season-5-nightwing-vs-daredevil", "date": "2018-09-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Optimus VS Gundam Bloopers!", "id": "1273-bonus", "slug": "death-battle-optimus-vs-gundam-bloopers", "date": "2018-09-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Optimus Prime VS Gundam (Transformers VS Gundam)", "id": "28467", "slug": "death-battle-season-5-optimus-prime-vs-gundam", "date": "2018-09-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Carnage vs Lucy BLOOPERS", "id": "1267-bonus", "slug": "death-battle-carnage-vs-lucy-bloopers", "date": "2018-08-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Carnage VS Lucy (Marvel VS Elfen Lied)", "id": "28223", "slug": "death-battle-season-5-10", "date": "2018-08-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Wiz & Boomstick... finally!", "id": "1265-bonus", "slug": "death-battle-introducing-wiz-boomstick-finally", "date": "2018-08-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Samurai Jack Vs Afro Samurai", "id": "27947", "slug": "death-battle-season-5-samurai-jack-vs-afro-samurai", "date": "2018-07-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ryu VS Jin (Street Fighter VS Tekken)", "id": "27652", "slug": "death-battle-season-5-ryu-vs-jin", "date": "2018-07-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Doctor Strange VS Doctor Fate (Marvel VS DC)", "id": "27250", "slug": "death-battle-season-5-doctor-strange-vs-doctor-fate-marvel-vs-dc", "date": "2018-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Leon Kennedy VS Frank West (Resident Evil VS Dead Rising)", "id": "26964", "slug": "death-battle-season-5-leon-kennedy-vs-frank-west-resident-evil-vs-dead-rising", "date": "2018-05-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sora VS Pit (Kingdom Hearts VS Kid Icarus)", "id": "26698", "slug": "death-battle-season-5-sora-vs-pit-kingdom-hearts-vs-kid-icarus", "date": "2018-04-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Crash VS Spyro", "id": "26392", "slug": "death-battle-season-5-crash-vs-spyro", "date": "2018-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Jotaro VS Kenshiro (JoJo's Bizarre Adventure VS Fist of the North Star) | DEATH BATTLE!", "id": "26035", "slug": "death-battle-season-5-jotaro-vs-kenshiro-jojo-s-bizarre-adventure-vs-fist-of-the-north-star-death-battle", "date": "2018-03-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Raven VS Twilight Sparkle (DC VS My Little Pony)", "id": "24511", "slug": "death-battle-season-5-raven-vs-twilight-sparkle", "date": "2018-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Black Panther VS Batman (Marvel VS DC)", "id": "23979", "slug": "death-battle-season-5-black-panther-vs-batman-marvel-vs-dc", "date": "2018-02-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sephiroth VS Vergil w/ Commentary", "id": "7066", "slug": "death-battle-extras-sephiroth-vs-vergil-w-commentary", "date": "2017-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sephiroth VS Vergil (Final Fantasy VS Devil May Cry)", "id": "7050", "slug": "death-battle-season-4-sephiroth-vs-vergil-final-fantasy-vs-devil-may-cry", "date": "2017-12-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman Beyond vs Spider-Man 2099 w/ Commentary", "id": "7067", "slug": "death-battle-extras-batman-beyond-vs-spider-man-2099-w-commentary", "date": "2017-11-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman Beyond VS Spider-Man 2099 (DC VS Marvel)", "id": "7051", "slug": "death-battle-season-4-batman-beyond-vs-spider-man-2099-dc-vs-marvel", "date": "2017-11-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Naruto VS Ichigo w/ Commentary", "id": "7068", "slug": "death-battle-extras-naruto-vs-ichigo-w-commentary", "date": "2017-11-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Naruto VS Ichigo", "id": "7052", "slug": "death-battle-season-4-naruto-vs-ichigo-naruto-vs-bleach", "date": "2017-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thor VS Wonder Woman w/Commentary", "id": "7069", "slug": "death-battle-extras-thor-vs-wonder-woman-w-commentary", "date": "2017-10-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thor VS Wonder Woman (Marvel VS DC Comics)", "id": "7053", "slug": "death-battle-season-4-thor-vs-wonder-woman-marvel-vs-dc-comics", "date": "2017-10-18", "is_first": false, "is_uploaded": true, "is_complete_upload": false, "is_removed": false}, {"title": "Smokey Bear VS McGruff the Crime Dog w/ Commentary", "id": "7071", "slug": "death-battle-extras-smokey-bear-vs-mcgruff-the-crime-dog-w-commentary", "date": "2017-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Smokey Bear VS McGruff the Crime Dog", "id": "7054", "slug": "death-battle-season-4-smokey-bear-vs-mc-gruff-the-crime-dog", "date": "2017-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shredder VS Silver Samurai w/ Commentary", "id": "7070", "slug": "death-battle-extras-the-shredder-vs-the-silver-samurai-w-commentary", "date": "2017-09-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shredder VS Silver Samurai (TMNT VS Marvel)", "id": "7056", "slug": "death-battle-season-4-the-shredder-vs-silver-samurai", "date": "2017-09-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Balrog VS TJ Combo w/ Commentary", "id": "7073", "slug": "death-battle-extras-16", "date": "2017-08-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Balrog vs TJ Combo (Street Fighter vs Killer Instinct)", "id": "7055", "slug": "death-battle-season-4-balrog-vs-tj-combo-street-fighter-vs-killer-instinct", "date": "2017-08-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lucario VS Renamon w/Commentary", "id": "7072", "slug": "death-battle-extras-lucario-vs-renamon-w-commentary", "date": "2017-07-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lucario VS Renamon (Pok\u00e9mon VS Digimon)", "id": "7057", "slug": "death-battle-season-4-lucario-vs-renamon", "date": "2017-07-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Sonic VS Zero W/ Commentary", "id": "7075", "slug": "death-battle-extras-metal-sonic-vs-zero-w-commentary", "date": "2017-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Metal Sonic VS Zero", "id": "7058", "slug": "death-battle-season-4-metal-sonic-vs-zero", "date": "2017-07-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Android 18 VS Captain Marvel w/ Commentary", "id": "7074", "slug": "death-battle-extras-android-18-vs-captain-marvel-w-commentary", "date": "2017-06-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Android 18 VS Captain Marvel (Dragon Ball VS Marvel Comics)", "id": "7059", "slug": "death-battle-season-4-android-18-vs-captain-marvel", "date": "2017-06-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sub-Zero VS Glacius W/ Commentary", "id": "7076", "slug": "death-battle-extras-sub-zero-vs-glacius-w-commentary", "date": "2017-05-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Sub-Zero VS Glacius", "id": "7060", "slug": "death-battle-season-4-sub-zero-vs-glacius", "date": "2017-05-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Natsu VS Ace w/ Commentary", "id": "7077", "slug": "death-battle-extras-natsu-vs-ace-w-commentary", "date": "2017-05-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Natsu VS Ace (Fairy Tail VS One Piece)", "id": "7061", "slug": "death-battle-season-4-natsu-vs-ace-fairy-tale-vs-one-piece", "date": "2017-05-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Power Rangers VS Voltron W/ Commentary", "id": "7078", "slug": "death-battle-extras-power-rangers-vs-voltron-w-commentary", "date": "2017-04-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Power Rangers VS Voltron", "id": "7062", "slug": "death-battle-season-4-megazord-vs-voltron-power-rangers-vs-voltron-force", "date": "2017-04-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Venom VS Bane w/ Commentary", "id": "7079", "slug": "death-battle-extras-15", "date": "2017-03-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Venom VS Bane (Marvel VS DC Comics)", "id": "7063", "slug": "death-battle-season-4-venom-vs-bane", "date": "2017-03-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Scrooge McDuck vs Shovel Knight", "id": "7064", "slug": "death-battle-season-4-scrooge-mc-duck-vs-shovel-knight-2", "date": "2017-02-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bloopers - Ken VS Terry & Hulk VS Doomsday", "id": "7080", "slug": "death-battle-extras-14", "date": "2017-02-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lara Croft VS Nathan Drake", "id": "7065", "slug": "death-battle-season-4-lara-croft-vs-nathan-drake", "date": "2017-01-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deadpool VS Pinkie Pie (Marvel VS My Little Pony)", "id": "7098", "slug": "death-battle-season-3-deadpool-vs-pinkie-pie-marvel-vs-my-little-pony", "date": "2016-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zoro VS Erza (One Piece VS Fairy Tail)", "id": "7099", "slug": "death-battle-season-3-zoro-vs-erza-once-piece-vs-fairy-tail", "date": "2016-11-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hulk VS Doomsday (Marvel VS DC)", "id": "7100", "slug": "death-battle-season-3-hulk-vs-doomsday-marvel-vs-dc-comics", "date": "2016-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Amy Rose VS Ramona Flowers (Sonic the Hedgehog VS Scott Pilgrim)", "id": "7103", "slug": "death-battle-season-3-amy-rose-vs-ramona-flowers-sonic-the-hedgehog-vs-scott-pilgrim", "date": "2016-10-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ken VS Terry (Street Fighter VS King of Fighters)", "id": "7102", "slug": "death-battle-season-3-ken-vs-terry-street-fighter-vs-king-of-fighters", "date": "2016-09-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tracer VS Scout (Overwatch VS Team Fortress 2)", "id": "7104", "slug": "death-battle-season-3-tracer-vs-scout-overwatch-vs-team-fortress-2", "date": "2016-09-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Cammy VS Sonya (Street Fighter VS Mortal Kombat)", "id": "7105", "slug": "death-battle-season-3-cammy-vs-sonya", "date": "2016-08-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "10 DEATH BATTLE Facts You Probably Don't Know!", "id": "7081", "slug": "death-battle-extras-13", "date": "2016-07-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mewtwo VS Shadow (Pok\u00e9mon VS Sonic the Hedgehog)", "id": "7106", "slug": "death-battle-season-3-mewtwo-vs-shadow", "date": "2016-06-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Joker VS Sweet Tooth (DC VS Twisted Metal)", "id": "7107", "slug": "death-battle-season-3-joker-vs-sweet-tooth", "date": "2016-06-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Flash VS Quicksilver (DC VS Marvel)", "id": "7108", "slug": "death-battle-season-3-flash-vs-quicksilver-death-b-a-t-t-l-e", "date": "2016-05-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "How Fast is Goku? (Behind the Scenes)", "id": "7082", "slug": "death-battle-extras-how-fast-is-goku-behind-the-scenes", "date": "2016-05-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ratchet & Clank VS Jak & Daxter", "id": "7110", "slug": "death-battle-season-3-ratchet-clank-vs-jak-daxter", "date": "2016-04-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bowser VS Ganon (Mario VS Zelda)", "id": "7109", "slug": "death-battle-season-3-bowser-vs-ganon-death-b-a-t-t-l-e", "date": "2016-04-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Animating Dante VS Bayonetta (Behind the Scenes)", "id": "7085", "slug": "death-battle-extras-12", "date": "2016-04-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dante VS Bayonetta", "id": "7111", "slug": "death-battle-season-3-dante-vs-bayonetta-death-b-a-t-t-l-e", "date": "2016-03-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SECRET ENDING to Shao Kahn VS M. Bison", "id": "7086", "slug": "death-battle-extras-secret-alt-ending-of-shao-kahn-vs-m-bison", "date": "2016-01-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pokemon VS Digimon", "id": "7142", "slug": "death-battle-season-2-32", "date": "2015-12-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Green Arrow VS Hawkeye (DC VS Marvel)", "id": "7141", "slug": "death-battle-season-2-31", "date": "2015-12-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mega Man VS Astro Boy", "id": "7140", "slug": "death-battle-season-2-30", "date": "2015-11-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Yang VS Tifa (RWBY VS Final Fantasy)", "id": "7139", "slug": "death-battle-season-2-29", "date": "2015-10-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hercule Satan VS Dan Hibiki (Dragon Ball VS Street Fighter)", "id": "7138", "slug": "death-battle-season-2-28", "date": "2015-09-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Wolverine VS Raiden (Marvel VS Metal Gear)", "id": "7137", "slug": "death-battle-season-2-27", "date": "2015-09-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Donkey Kong VS Knuckles (Nintendo VS Sega)", "id": "7136", "slug": "death-battle-season-2-26", "date": "2015-08-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Goku VS Superman 2", "id": "7135", "slug": "death-battle-season-2-25", "date": "2015-07-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Darth Vader VS Doctor Doom (Star Wars VS Marvel)", "id": "7134", "slug": "death-battle-season-2-24", "date": "2015-07-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Solid Snake VS Sam Fisher (Metal Gear Solid VS Splinter Cell)", "id": "7133", "slug": "death-battle-season-2-23", "date": "2015-06-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Beast VS Goliath (Marvel VS Gargoyles)", "id": "7132", "slug": "death-battle-season-2-22", "date": "2015-05-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Iron Man VS Lex Luthor (Marvel VS DC)", "id": "7131", "slug": "death-battle-season-2-21", "date": "2015-04-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Guts VS Nightmare (Berserk VS SoulCalibur)", "id": "7130", "slug": "death-battle-season-2-20", "date": "2015-04-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chuck Norris VS Segata Sanshiro", "id": "7129", "slug": "death-battle-season-2-19", "date": "2015-03-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Boba Fett VS Samus Aran REMASTERED", "id": "7127", "slug": "death-battle-season-2-18", "date": "2015-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ragna VS Sol Badguy (BlazBlue VS Guilty Gear)", "id": "7143", "slug": "death-battle-season-2-17", "date": "2015-02-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gaara VS Toph (Naruto VS Avatar)", "id": "7126", "slug": "death-battle-season-2-16", "date": "2015-02-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kirby VS Majin Buu (Nintendo VS Dragon Ball Z)", "id": "7125", "slug": "death-battle-season-2-15", "date": "2014-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Deadpool VS Deathstroke (Marvel VS DC)", "id": "7124", "slug": "death-battle-season-2-14", "date": "2014-12-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ryu vs Scorpion (Street Fighter VS Mortal Kombat)", "id": "7123", "slug": "death-battle-season-2-13", "date": "2014-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Tigerzord VS Gundam Epyon (Power Rangers VS Gundam Wing)", "id": "7128", "slug": "death-battle-season-2-12", "date": "2014-10-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman VS Captain America (DC VS Marvel)", "id": "7122", "slug": "death-battle-season-2-11", "date": "2014-09-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Godzilla VS Gamera", "id": "7120", "slug": "death-battle-season-2-10", "date": "2014-08-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fulgore VS Sektor (Killer Instinct VS Mortal Kombat)", "id": "7121", "slug": "death-battle-season-2-9", "date": "2014-05-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #11: Seventh Layer of Hell", "id": "7097", "slug": "death-battle-extras-11", "date": "2014-04-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pok\u00e9mon Battle Royale", "id": "7118", "slug": "death-battle-season-2-8", "date": "2014-04-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Luigi VS Tails (Nintendo VS Sega)", "id": "7119", "slug": "death-battle-season-2-7", "date": "2014-03-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Terminator VS RoboCop", "id": "7116", "slug": "death-battle-season-2-6", "date": "2014-03-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Fox VS Bucky (Star Fox VS Bucky O'Hare)", "id": "7117", "slug": "death-battle-season-2-5", "date": "2013-11-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ivy VS Orchid (SoulCalibur VS Killer Instinct)", "id": "7115", "slug": "death-battle-season-2-4", "date": "2013-09-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ryu Hayabusa VS Strider Hiryu (Ninja Gaiden VS Capcom)", "id": "7114", "slug": "death-battle-season-2-3", "date": "2013-08-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Shao Kahn VS M. Bison (Mortal Kombat VS Street Fighter)", "id": "7113", "slug": "death-battle-season-2-2", "date": "2013-06-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "He-Man VS Lion-O", "id": "7112", "slug": "death-battle-season-2", "date": "2013-05-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Goku VS Superman", "id": "7168", "slug": "goku-vs-superman-death-battle", "date": "2013-01-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pikachu VS Blanka (Pok\u00e9mon VS Street Fighter)", "id": "7167", "slug": "pikachu-vs-blanka-death-battle", "date": "2012-09-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Batman VS Spider-Man (DC VS Marvel)", "id": "7166", "slug": "batman-vs-spider-man-death-battle", "date": "2012-08-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Link VS Cloud (Legend of Zelda VS Final Fantasy)", "id": "7165", "slug": "link-vs-cloud-death-battle", "date": "2012-07-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Thor VS Raiden (Marvel VS Mortal Kombat)", "id": "7164", "slug": "thor-vs-raiden-death-battle", "date": "2012-05-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #10: Link is a Fairy", "id": "7096", "slug": "death-battle-extras-10", "date": "2012-03-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #9: Superman's Bunny Slippers", "id": "7095", "slug": "death-battle-extras-9", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #8: The Boom-Tiger", "id": "7094", "slug": "death-battle-extras-8", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #7: Attack of the Killer Throat", "id": "7092", "slug": "death-battle-extras-7", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #6: Wiz's Worst Nightmare", "id": "7093", "slug": "death-battle-extras-6", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #5: What's a Womp Rat?", "id": "7091", "slug": "death-battle-extras-5", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #4: Double Ds", "id": "7089", "slug": "death-battle-extras-4", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #3: OMG It's a Giant Pterodactyl!", "id": "7090", "slug": "death-battle-extras-3", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #2: The Life of Boomstick", "id": "7088", "slug": "death-battle-extras-2", "date": "2012-03-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Gag Reel #1: Flowers Make You Fat", "id": "7087", "slug": "death-battle-extras", "date": "2012-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zelda VS Peach", "id": "7163", "slug": "zelda-vs-peach-death-battle", "date": "2012-03-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DEATH BATTLE Q&A #2", "id": "7083", "slug": "death-battle-extras-death-battle-q-a-2", "date": "2012-01-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DEATH BATTLE Q&A #1", "id": "7084", "slug": "death-battle-extras-death-battle-q-a-1", "date": "2012-01-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Dr. Eggman VS Dr. Wily (Sonic the Hedgehog VS Mega Man)", "id": "7162", "slug": "eggman-vs-wily-death-battle", "date": "2011-12-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Master Chief VS Doomguy (Halo VS Doom)", "id": "7161", "slug": "master-chief-vs-doomguy-death-battle", "date": "2011-10-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Starscream VS Rainbow Dash (Transformers VS My Little Pony)", "id": "7160", "slug": "starscream-vs-rainbow-dash-death-battle", "date": "2011-09-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chun-Li VS Mai Shiranui (Street Fighter VS King of Fighters)", "id": "7159", "slug": "chun-li-vs-mai-shiranui-death-battle", "date": "2011-08-29", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Luke Skywalker VS Harry Potter", "id": "7158", "slug": "luke-skywalker-vs-harry-potter-death-battle", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Justin Bieber VS Rebecca Black", "id": "7157", "slug": "death-battle-season-1", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Mario VS Sonic (2011)", "id": "7156", "slug": "death-battle-season-1-2", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Vegeta VS Shadow (Dragon Ball Z VS Sonic the Hedgehog)", "id": "7155", "slug": "death-battle-season-1-3", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bomberman VS Dig Dug", "id": "7154", "slug": "death-battle-season-1-4", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Kratos VS Spawn (God of War VS Image Comics)", "id": "7153", "slug": "death-battle-season-1-5", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Felicia VS Taokaka (Darkstalkers VS BlazBlue)", "id": "7152", "slug": "death-battle-season-1-6", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Yoshi VS Riptor (Nintendo VS Killer Instinct)", "id": "7151", "slug": "death-battle-season-1-7", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Zitz VS Leonardo (Battletoads VS Ninja Turtles)", "id": "7150", "slug": "death-battle-season-1-8", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Ninja Turtles Battle Royale", "id": "7149", "slug": "death-battle-season-1-9", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Haggar VS Zangief (Final Fight VS Street Fighter)", "id": "7148", "slug": "death-battle-season-1-10", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Goomba VS Koopa", "id": "7147", "slug": "death-battle-season-1-11", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rogue VS Wonder Woman (Marvel VS DC)", "id": "7146", "slug": "death-battle-season-1-12", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Akuma VS Shang Tsung (Street Fighter VS Mortal Kombat)", "id": "7145", "slug": "death-battle-season-1-13", "date": "2011-08-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Boba Fett VS Samus Aran (Star Wars VS Metroid)", "id": "7144", "slug": "death-battle-season-1-14", "date": "2011-08-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "DEATH BATTLE!",
+    "slug": "death-battle",
+    "summary": {
+        "count": 229,
+        "uploaded": 229,
+        "missing": 0,
+        "incomplete": 1,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Galactus VS Unicron (Transformers VS Marvel Comics)",
+            "id": "52227",
+            "slug": "death-battle-season-10-galactus-vs-unicron",
+            "date": "2023-12-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Goku VS Superman (Dragon Ball VS DC Comics)",
+            "id": "52139",
+            "slug": "death-battle-season-10-goku-vs-superman-dragon-ball-vs-dc-comics",
+            "date": "2023-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rick Sanchez VS The Doctor (Rick and Morty VS Doctor Who)",
+            "id": "52055",
+            "slug": "death-battle-season-10-rick-sanchez-vs-the-doctor-rick-and-morty-vs-doctor-who",
+            "date": "2023-11-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Scooby-Doo VS Courage the Cowardly Dog",
+            "id": "51913",
+            "slug": "death-battle-season-10-scooby-doo-vs-courage-the-cowardly-dog-death-battle",
+            "date": "2023-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gojo VS Makima (Jujutsu Kaisen VS Chainsaw Man)",
+            "id": "51824",
+            "slug": "death-battle-season-10-gojo-vs-makima-jujutsu-kaisen-vs-chainsaw-man",
+            "date": "2023-10-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Frieza VS Megatron (Dragon Ball VS Transformers)",
+            "id": "51713",
+            "slug": "death-battle-season-10-frieza-vs-megatron-dragon-ball-vs-transformers",
+            "date": "2023-10-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cole MacGrath vs Alex Mercer (Infamous VS Prototype)",
+            "id": "51620",
+            "slug": "death-battle-season-10-cole-macgrath-vs-alex-mercer-infamous-vs-prototype",
+            "date": "2023-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bill Cipher VS Discord (Gravity Falls VS My Little Pony)",
+            "id": "51533",
+            "slug": "death-battle-season-10-bill-cipher-vs-discord-gravity-falls-vs-my-little-pony",
+            "date": "2023-09-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Martian Manhunter VS Silver Surfer (DC VS Marvel)",
+            "id": "51446",
+            "slug": "death-battle-season-10-martian-manhunter-vs-silver-surfer-dc-vs-marvel",
+            "date": "2023-08-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Guts VS Dimitri (Berserk VS Fire Emblem)",
+            "id": "51371",
+            "slug": "death-battle-season-10-guts-vs-dimitri-berserk-vs-fire-emblem",
+            "date": "2023-08-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Phoenix VS Raven (Marvel VS DC)",
+            "id": "51305",
+            "slug": "death-battle-season-10-phoenix-vs-raven-marvel-vs-dc",
+            "date": "2023-07-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Darth Vader VS Obito Uchiha (Star Wars VS Naruto)",
+            "id": "51239",
+            "slug": "death-battle-season-10-darth-vader-vs-obito-uchiha-star-wars-vs-naruto",
+            "date": "2023-07-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Stitch VS Rocket Raccoon (Disney VS Marvel)",
+            "id": "51183",
+            "slug": "death-battle-season-10-stitch-vs-rocket-raccoon-disney-vs-marvel-death-battle",
+            "date": "2023-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Killua VS Misaka (Hunter x Hunter VS A Certain Magical Index)",
+            "id": "51097",
+            "slug": "death-battle-season-10-killua-vs-misaka",
+            "date": "2023-06-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Skyrim VS Dark Souls (Dragonborn VS Chosen Undead)",
+            "id": "51009",
+            "slug": "death-battle-season-10-skyrim-vs-dark-souls-dragonborn-vs-chosen-undead",
+            "date": "2023-06-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ant-Man VS Atom (Marvel VS DC)",
+            "id": "50934",
+            "slug": "death-battle-season-10-antman",
+            "date": "2023-05-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gogeta VS Vegito (Dragon Ball)",
+            "id": "50011",
+            "slug": "death-battle-season-9-gogeta-vs-vegito-dragon-ball",
+            "date": "2022-12-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deku VS Asta (My Hero Academia VS Black Clover)",
+            "id": "49838",
+            "slug": "death-battle-season-9-deku-vs-asta-my-hero-academia-vs-black-clover",
+            "date": "2022-11-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sauron VS Lich King (Lord of the Rings VS World of Warcraft)",
+            "id": "49765",
+            "slug": "death-battle-season-9-11-13",
+            "date": "2022-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jason Voorhees VS Michael Myers (Friday the 13th VS Halloween)",
+            "id": "49650",
+            "slug": "death-battle-season-9-14",
+            "date": "2022-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SpongeBob VS Aquaman (Nickelodeon VS Super Friends)",
+            "id": "49563",
+            "slug": "death-battle-season-9-13",
+            "date": "2022-10-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Trunks VS Silver (Dragon Ball Heroes VS Archie Sonic)",
+            "id": "49458",
+            "slug": "death-battle-season-9-12",
+            "date": "2022-10-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Adam VS Apocalypse (DC VS Marvel)",
+            "id": "49327",
+            "slug": "death-battle-season-9-11-9916e65e-ea25-43fd-a1bf-5e64bd9e3071",
+            "date": "2022-09-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "James Bond VS John Wick",
+            "id": "49199",
+            "slug": "death-battle-season-9-11",
+            "date": "2022-09-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Excalibur VS Raiden (Warframe VS Metal Gear)",
+            "id": "48718",
+            "slug": "death-battle-season-9-9",
+            "date": "2022-07-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Boba Fett VS Predator (Star Wars VS Predator)",
+            "id": "48632",
+            "slug": "death-battle-season-9-8",
+            "date": "2022-07-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hercules VS Sun Wukong",
+            "id": "48497",
+            "slug": "death-battle-season-9-7",
+            "date": "2022-06-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Magneto VS Tetsuo (Marvel VS Akira)",
+            "id": "48301",
+            "slug": "death-battle-season-9-6",
+            "date": "2022-06-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Omni-Man VS Homelander (Invincible VS The Boys)",
+            "id": "48213",
+            "slug": "death-battle-season-9-5",
+            "date": "2022-05-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thor VS Vegeta (Marvel VS Dragon Ball)",
+            "id": "48069",
+            "slug": "death-battle-season-9-4",
+            "date": "2022-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tanjiro VS Jonathan Joestar (Demon Slayer VS JoJo's Bizarre Adventure)",
+            "id": "47969",
+            "slug": "death-battle-season-9-3",
+            "date": "2022-04-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Scarlet Witch VS Zatanna (Marvel VS DC)",
+            "id": "47849",
+            "slug": "death-battle-season-9-2",
+            "date": "2022-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Harley Quinn VS Jinx (DC VS League of Legends)",
+            "id": "47726",
+            "slug": "death-battle-season-9-1",
+            "date": "2022-03-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Saitama VS Popeye (One-Punch Man VS Thimble Theatre)",
+            "id": "46314",
+            "slug": "death-battle-season-8-16",
+            "date": "2021-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Madara vs Aizen (Naruto vs Bleach)",
+            "id": "46137",
+            "slug": "death-battle-season-8-15",
+            "date": "2021-12-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Korra VS Storm (Avatar VS Marvel)",
+            "id": "45981",
+            "slug": "death-battle-season-8-14",
+            "date": "2021-11-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Akuma VS Shao Kahn (Street Fighter VS Mortal Kombat)",
+            "id": "45822",
+            "slug": "death-battle-season-8-13",
+            "date": "2021-11-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DIO VS Alucard (JoJo's Bizarre Adventure VS Hellsing)",
+            "id": "45642",
+            "slug": "death-battle-season-8-12",
+            "date": "2021-10-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Macho Man vs Kool-Aid Man",
+            "id": "45464",
+            "slug": "death-battle-season-8-11",
+            "date": "2021-10-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Goku Black VS Reverse-Flash (Dragon Ball VS DC)",
+            "id": "45335",
+            "slug": "death-battle-season-8-10",
+            "date": "2021-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman vs Iron Man (DC vs Marvel)",
+            "id": "45150",
+            "slug": "death-battle-season-8-9",
+            "date": "2021-09-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Link VS Cloud (Legend of Zelda VS Final Fantasy VII)",
+            "id": "44098",
+            "slug": "death-battle-season-8-8",
+            "date": "2021-06-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Steven Universe VS Star Butterfly",
+            "id": "43915",
+            "slug": "death-battle-season-8-7",
+            "date": "2021-05-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Iron Fist VS Po (Marvel VS Kung Fu Panda)",
+            "id": "43734",
+            "slug": "death-battle-season-8-6",
+            "date": "2021-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Blake VS Mikasa (RWBY VS Attack on Titan)",
+            "id": "43549",
+            "slug": "death-battle-season-8-5",
+            "date": "2021-05-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Heihachi Mishima VS Geese Howard (Tekken VS King of Fighters)",
+            "id": "43356",
+            "slug": "death-battle-season-8-4",
+            "date": "2021-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lex Luthor VS Doctor Doom (DC vs Marvel)",
+            "id": "43175",
+            "slug": "death-battle-season-8-3",
+            "date": "2021-04-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shadow VS Ry\u016bko Matoi (Sonic the Hedgehog VS Kill la Kill) | DEATH BATTLE!",
+            "id": "42910",
+            "slug": "death-battle-season-8-2",
+            "date": "2021-03-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Yoda VS King Mickey (Star Wars VS Kingdom Hearts)",
+            "id": "42737",
+            "slug": "death-battle-season-8-1",
+            "date": "2021-03-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hulk VS Broly (Marvel VS Dragon Ball)",
+            "id": "41942",
+            "slug": "death-battle-season-7-12-27",
+            "date": "2020-12-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sanji VS Rock Lee (One Piece VS Naruto)",
+            "id": "41714",
+            "slug": "death-battle-season-7-12-13",
+            "date": "2020-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batgirl VS Spider-Gwen (DC VS Marvel)",
+            "id": "41374",
+            "slug": "death-battle-season-7-11-29",
+            "date": "2020-11-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Red VS Blue",
+            "id": "41192",
+            "slug": "death-battle-season-7-11-15",
+            "date": "2020-11-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sabrewulf VS Jon Talbain (Killer Instinct VS Darkstalkers)",
+            "id": "41021",
+            "slug": "death-battle-season-7-10-31",
+            "date": "2020-10-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Venom VS Crona (Marvel VS Soul Eater)",
+            "id": "40527",
+            "slug": "death-battle-season-7-10-4",
+            "date": "2020-10-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Winter Soldier VS Red Hood (Marvel VS DC)",
+            "id": "40339",
+            "slug": "death-battle-season-7-9-20",
+            "date": "2020-09-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BREAKDOWN: The Seven Battle Royale (The Boys)",
+            "id": "40293",
+            "slug": "death-battle-season-7-9-17-the-boys-breakdown",
+            "date": "2020-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Seven Battle Royale (The Boys)",
+            "id": "40292",
+            "slug": "death-battle-season-7-9-17-the-boys",
+            "date": "2020-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Flash VS Sonic (Wally West VS Archie Sonic)",
+            "id": "40155",
+            "slug": "death-battle-season-7-9-6",
+            "date": "2020-09-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zuko VS Shoto Todoroki (Avatar VS My Hero Academia)",
+            "id": "39925",
+            "slug": "death-battle-season-7-8-23",
+            "date": "2020-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Beerus VS Sailor Galaxia (Dragon Ball VS Sailor Moon)",
+            "id": "39706",
+            "slug": "death-battle-season-7-8-9",
+            "date": "2020-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DEATH BATTLE 2020",
+            "id": "1429-bonus",
+            "slug": "death-battle-2020-trailer",
+            "date": "2020-08-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DRACONIC ROBOTICS Music Video",
+            "id": "1423-bonus",
+            "slug": "death-battle-music-video-3",
+            "date": "2020-06-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Infection Perfection Music Video",
+            "id": "1422-bonus",
+            "slug": "death-battle-death-battle-music-video-2",
+            "date": "2020-06-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wings of Iron Music Video",
+            "id": "1421-bonus",
+            "slug": "death-battle-music-video",
+            "date": "2020-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "She-Ra VS Wonder Woman (He-Man VS DC)",
+            "id": "38656",
+            "slug": "death-battle-season-7-5-31",
+            "date": "2020-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Danny Phantom VS American Dragon Jake Long (Nickelodeon VS Disney)",
+            "id": "38413",
+            "slug": "death-battle-season-7-5-17",
+            "date": "2020-05-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Obi-Wan Kenobi VS Kakashi (Star Wars VS Naruto)",
+            "id": "37874",
+            "slug": "death-battle-season-7-5-3",
+            "date": "2020-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cable VS Booster Gold (Marvel VS DC Comics)",
+            "id": "37655",
+            "slug": "death-battle-season-7-4-19",
+            "date": "2020-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Goro VS Machamp (Mortal Kombat VS Pok\u00e9mon)",
+            "id": "37427",
+            "slug": "death-battle-season-7-goro-vs-machamp-mortal-kombat-vs-pokemon",
+            "date": "2020-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gray VS Esdeath (Fairy Tail VS Akame ga Kill!)",
+            "id": "37265",
+            "slug": "death-battle-season-7-gray-vs-esdeath",
+            "date": "2020-03-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Genos VS War Machine (One Punch Man VS Marvel's Iron Man)",
+            "id": "37088",
+            "slug": "death-battle-season-7-genos-vs-war-machine-one-punch-man-vs-marvels-iron-man",
+            "date": "2020-03-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Leonardo VS Red Ranger Jason (Ninja Turtles VS Power Rangers) | DEATH BATTLE!",
+            "id": "36876",
+            "slug": "death-battle-season-7-leonardo-vs-red-ranger-jason-ninja-turtles-vs-power-rangers",
+            "date": "2020-02-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Canary VS Sindel (DC Comics VS Mortal Kombat)",
+            "id": "36742",
+            "slug": "death-battle-season-7-black-canary-vs-sindel-dc-comics-vs-mortal-kombat",
+            "date": "2020-02-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Miles Morales VS Static (Marvel's Spider-Man VS DC's Static Shock)",
+            "id": "36543",
+            "slug": "death-battle-season-7-miles-morales-vs-static-marvel-s-spider-man-vs-dc-s-static-shock",
+            "date": "2020-01-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "All Might vs Might Guy (My Hero Academia VS Naruto)",
+            "id": "36130",
+            "slug": "death-battle-season-6-all-might-vs-might-guy-my-hero-academia-vs-naruto",
+            "date": "2019-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deadpool VS Mask (Marvel VS Dark Horse)",
+            "id": "35858",
+            "slug": "death-battle-season-6-deadpool-vs-mask",
+            "date": "2019-11-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mob VS Tatsumaki (Mob Psycho 100 VS One Punch Man)",
+            "id": "35612",
+            "slug": "death-battle-season-6-mob-vs-tatsumaki-mob-psycho-100-vs-one-punch-man",
+            "date": "2019-11-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ganondorf VS Dracula (Zelda VS Castlevania)",
+            "id": "35322",
+            "slug": "death-battle-season-6-10-14",
+            "date": "2019-10-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sasuke VS Hiei (Naruto VS Yu Yu Hakusho)",
+            "id": "35075",
+            "slug": "death-battle-season-6-9-23",
+            "date": "2019-09-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dragonzord VS Mechagodzilla (Power Rangers VS Godzilla)",
+            "id": "34753",
+            "slug": "death-battle-season-6-dragonzord-vs-mechagodzilla-power-rangers-vs-godzilla",
+            "date": "2019-09-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ghost Rider VS Lobo (Marvel VS DC)",
+            "id": "34478",
+            "slug": "death-battle-season-6-ghost-rider-vs-lobo-marvel-vs-dc",
+            "date": "2019-08-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Aang VS Edward Elric (Avatar VS Fullmetal Alchemist)",
+            "id": "34163",
+            "slug": "death-battle-season-6-7-22",
+            "date": "2019-07-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Johnny Cage VS Captain Falcon (Mortal Kombat VS F-Zero)",
+            "id": "33912",
+            "slug": "death-battle-season-6-johnny-cage-vs-captain-falcon-mortal-kombat-vs-f-zero",
+            "date": "2019-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Weiss VS Mitsuru (RWBY VS Persona)",
+            "id": "33577",
+            "slug": "death-battle-season-6-weiss-vs-mitsuru-rwby-vs-persona",
+            "date": "2019-06-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ben 10 vs Green Lantern (Cartoon Network VS DC Comics)",
+            "id": "33353",
+            "slug": "death-battle-season-6-ben-10-vs-green-lantern",
+            "date": "2019-05-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wario VS King Dedede (Mario VS Kirby)",
+            "id": "32864",
+            "slug": "death-battle-season-6-5",
+            "date": "2019-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Captain Marvel VS Shazam (Marvel VS DC Comics)",
+            "id": "32440",
+            "slug": "death-battle-season-6-captain-marvel-vs-shazam-marvel-vs-dc-comics",
+            "date": "2019-04-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Widow VS Widowmaker (Marvel VS Overwatch)",
+            "id": "31904",
+            "slug": "death-battle-season-6-black-widow-vs-widowmaker-marvel-vs-overwatch",
+            "date": "2019-03-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mega Man Battle Royale",
+            "id": "31569",
+            "slug": "death-battle-season-6-mega-man-battle-royale-death-battle",
+            "date": "2019-02-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Aquaman VS Namor (Marvel VS DC Comics)",
+            "id": "30377",
+            "slug": "death-battle-season-6-aquaman-vs-namor-marvel-vs-dc-death-battle",
+            "date": "2019-02-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thanos VS Darkseid (Marvel VS DC)",
+            "id": "29882",
+            "slug": "death-battle-season-5-thanos-vs-darkseid-marvel-vs-dc",
+            "date": "2018-12-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Roshi VS Jiraiya (Dragon Ball VS Naruto)",
+            "id": "29517",
+            "slug": "death-battle-season-5-roshi-vs-jiraiya-dragon-ball-vs-naruto",
+            "date": "2018-11-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ultron VS Sigma (Marvel VS Capcom)",
+            "id": "29270",
+            "slug": "death-battle-season-5-ultron-vs-sigma-marvel-vs-capcom",
+            "date": "2018-11-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mario VS Sonic (Nintendo VS Sega)",
+            "id": "28977",
+            "slug": "death-battle-season-5-mario-vs-sonic-nintendo-vs-sega",
+            "date": "2018-10-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nightwing VS Daredevil Bloopers!",
+            "id": "1302-bonus",
+            "slug": "death-battle-nightwing-vs-daredevil-bloopers",
+            "date": "2018-09-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Nightwing VS Daredevil (DC Comics VS Marvel)",
+            "id": "28721",
+            "slug": "death-battle-season-5-nightwing-vs-daredevil",
+            "date": "2018-09-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Optimus VS Gundam Bloopers!",
+            "id": "1273-bonus",
+            "slug": "death-battle-optimus-vs-gundam-bloopers",
+            "date": "2018-09-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Optimus Prime VS Gundam (Transformers VS Gundam)",
+            "id": "28467",
+            "slug": "death-battle-season-5-optimus-prime-vs-gundam",
+            "date": "2018-09-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Carnage vs Lucy BLOOPERS",
+            "id": "1267-bonus",
+            "slug": "death-battle-carnage-vs-lucy-bloopers",
+            "date": "2018-08-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Carnage VS Lucy (Marvel VS Elfen Lied)",
+            "id": "28223",
+            "slug": "death-battle-season-5-10",
+            "date": "2018-08-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Wiz & Boomstick... finally!",
+            "id": "1265-bonus",
+            "slug": "death-battle-introducing-wiz-boomstick-finally",
+            "date": "2018-08-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Samurai Jack Vs Afro Samurai",
+            "id": "27947",
+            "slug": "death-battle-season-5-samurai-jack-vs-afro-samurai",
+            "date": "2018-07-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ryu VS Jin (Street Fighter VS Tekken)",
+            "id": "27652",
+            "slug": "death-battle-season-5-ryu-vs-jin",
+            "date": "2018-07-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Doctor Strange VS Doctor Fate (Marvel VS DC)",
+            "id": "27250",
+            "slug": "death-battle-season-5-doctor-strange-vs-doctor-fate-marvel-vs-dc",
+            "date": "2018-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Leon Kennedy VS Frank West (Resident Evil VS Dead Rising)",
+            "id": "26964",
+            "slug": "death-battle-season-5-leon-kennedy-vs-frank-west-resident-evil-vs-dead-rising",
+            "date": "2018-05-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sora VS Pit (Kingdom Hearts VS Kid Icarus)",
+            "id": "26698",
+            "slug": "death-battle-season-5-sora-vs-pit-kingdom-hearts-vs-kid-icarus",
+            "date": "2018-04-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Crash VS Spyro",
+            "id": "26392",
+            "slug": "death-battle-season-5-crash-vs-spyro",
+            "date": "2018-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Jotaro VS Kenshiro (JoJo's Bizarre Adventure VS Fist of the North Star) | DEATH BATTLE!",
+            "id": "26035",
+            "slug": "death-battle-season-5-jotaro-vs-kenshiro-jojo-s-bizarre-adventure-vs-fist-of-the-north-star-death-battle",
+            "date": "2018-03-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Raven VS Twilight Sparkle (DC VS My Little Pony)",
+            "id": "24511",
+            "slug": "death-battle-season-5-raven-vs-twilight-sparkle",
+            "date": "2018-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Black Panther VS Batman (Marvel VS DC)",
+            "id": "23979",
+            "slug": "death-battle-season-5-black-panther-vs-batman-marvel-vs-dc",
+            "date": "2018-02-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sephiroth VS Vergil w/ Commentary",
+            "id": "7066",
+            "slug": "death-battle-extras-sephiroth-vs-vergil-w-commentary",
+            "date": "2017-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sephiroth VS Vergil (Final Fantasy VS Devil May Cry)",
+            "id": "7050",
+            "slug": "death-battle-season-4-sephiroth-vs-vergil-final-fantasy-vs-devil-may-cry",
+            "date": "2017-12-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman Beyond vs Spider-Man 2099 w/ Commentary",
+            "id": "7067",
+            "slug": "death-battle-extras-batman-beyond-vs-spider-man-2099-w-commentary",
+            "date": "2017-11-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman Beyond VS Spider-Man 2099 (DC VS Marvel)",
+            "id": "7051",
+            "slug": "death-battle-season-4-batman-beyond-vs-spider-man-2099-dc-vs-marvel",
+            "date": "2017-11-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Naruto VS Ichigo w/ Commentary",
+            "id": "7068",
+            "slug": "death-battle-extras-naruto-vs-ichigo-w-commentary",
+            "date": "2017-11-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Naruto VS Ichigo",
+            "id": "7052",
+            "slug": "death-battle-season-4-naruto-vs-ichigo-naruto-vs-bleach",
+            "date": "2017-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thor VS Wonder Woman w/Commentary",
+            "id": "7069",
+            "slug": "death-battle-extras-thor-vs-wonder-woman-w-commentary",
+            "date": "2017-10-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thor VS Wonder Woman (Marvel VS DC Comics)",
+            "id": "7053",
+            "slug": "death-battle-season-4-thor-vs-wonder-woman-marvel-vs-dc-comics",
+            "date": "2017-10-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Smokey Bear VS McGruff the Crime Dog w/ Commentary",
+            "id": "7071",
+            "slug": "death-battle-extras-smokey-bear-vs-mcgruff-the-crime-dog-w-commentary",
+            "date": "2017-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Smokey Bear VS McGruff the Crime Dog",
+            "id": "7054",
+            "slug": "death-battle-season-4-smokey-bear-vs-mc-gruff-the-crime-dog",
+            "date": "2017-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shredder VS Silver Samurai w/ Commentary",
+            "id": "7070",
+            "slug": "death-battle-extras-the-shredder-vs-the-silver-samurai-w-commentary",
+            "date": "2017-09-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shredder VS Silver Samurai (TMNT VS Marvel)",
+            "id": "7056",
+            "slug": "death-battle-season-4-the-shredder-vs-silver-samurai",
+            "date": "2017-09-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Balrog VS TJ Combo w/ Commentary",
+            "id": "7073",
+            "slug": "death-battle-extras-16",
+            "date": "2017-08-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Balrog vs TJ Combo (Street Fighter vs Killer Instinct)",
+            "id": "7055",
+            "slug": "death-battle-season-4-balrog-vs-tj-combo-street-fighter-vs-killer-instinct",
+            "date": "2017-08-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lucario VS Renamon w/Commentary",
+            "id": "7072",
+            "slug": "death-battle-extras-lucario-vs-renamon-w-commentary",
+            "date": "2017-07-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lucario VS Renamon (Pok\u00e9mon VS Digimon)",
+            "id": "7057",
+            "slug": "death-battle-season-4-lucario-vs-renamon",
+            "date": "2017-07-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Sonic VS Zero W/ Commentary",
+            "id": "7075",
+            "slug": "death-battle-extras-metal-sonic-vs-zero-w-commentary",
+            "date": "2017-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Metal Sonic VS Zero",
+            "id": "7058",
+            "slug": "death-battle-season-4-metal-sonic-vs-zero",
+            "date": "2017-07-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Android 18 VS Captain Marvel w/ Commentary",
+            "id": "7074",
+            "slug": "death-battle-extras-android-18-vs-captain-marvel-w-commentary",
+            "date": "2017-06-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Android 18 VS Captain Marvel (Dragon Ball VS Marvel Comics)",
+            "id": "7059",
+            "slug": "death-battle-season-4-android-18-vs-captain-marvel",
+            "date": "2017-06-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sub-Zero VS Glacius W/ Commentary",
+            "id": "7076",
+            "slug": "death-battle-extras-sub-zero-vs-glacius-w-commentary",
+            "date": "2017-05-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Sub-Zero VS Glacius",
+            "id": "7060",
+            "slug": "death-battle-season-4-sub-zero-vs-glacius",
+            "date": "2017-05-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Natsu VS Ace w/ Commentary",
+            "id": "7077",
+            "slug": "death-battle-extras-natsu-vs-ace-w-commentary",
+            "date": "2017-05-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Natsu VS Ace (Fairy Tail VS One Piece)",
+            "id": "7061",
+            "slug": "death-battle-season-4-natsu-vs-ace-fairy-tale-vs-one-piece",
+            "date": "2017-05-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Power Rangers VS Voltron W/ Commentary",
+            "id": "7078",
+            "slug": "death-battle-extras-power-rangers-vs-voltron-w-commentary",
+            "date": "2017-04-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Power Rangers VS Voltron",
+            "id": "7062",
+            "slug": "death-battle-season-4-megazord-vs-voltron-power-rangers-vs-voltron-force",
+            "date": "2017-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Venom VS Bane w/ Commentary",
+            "id": "7079",
+            "slug": "death-battle-extras-15",
+            "date": "2017-03-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Venom VS Bane (Marvel VS DC Comics)",
+            "id": "7063",
+            "slug": "death-battle-season-4-venom-vs-bane",
+            "date": "2017-03-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Scrooge McDuck vs Shovel Knight",
+            "id": "7064",
+            "slug": "death-battle-season-4-scrooge-mc-duck-vs-shovel-knight-2",
+            "date": "2017-02-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bloopers - Ken VS Terry & Hulk VS Doomsday",
+            "id": "7080",
+            "slug": "death-battle-extras-14",
+            "date": "2017-02-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lara Croft VS Nathan Drake",
+            "id": "7065",
+            "slug": "death-battle-season-4-lara-croft-vs-nathan-drake",
+            "date": "2017-01-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deadpool VS Pinkie Pie (Marvel VS My Little Pony)",
+            "id": "7098",
+            "slug": "death-battle-season-3-deadpool-vs-pinkie-pie-marvel-vs-my-little-pony",
+            "date": "2016-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zoro VS Erza (One Piece VS Fairy Tail)",
+            "id": "7099",
+            "slug": "death-battle-season-3-zoro-vs-erza-once-piece-vs-fairy-tail",
+            "date": "2016-11-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hulk VS Doomsday (Marvel VS DC)",
+            "id": "7100",
+            "slug": "death-battle-season-3-hulk-vs-doomsday-marvel-vs-dc-comics",
+            "date": "2016-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Amy Rose VS Ramona Flowers (Sonic the Hedgehog VS Scott Pilgrim)",
+            "id": "7103",
+            "slug": "death-battle-season-3-amy-rose-vs-ramona-flowers-sonic-the-hedgehog-vs-scott-pilgrim",
+            "date": "2016-10-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ken VS Terry (Street Fighter VS King of Fighters)",
+            "id": "7102",
+            "slug": "death-battle-season-3-ken-vs-terry-street-fighter-vs-king-of-fighters",
+            "date": "2016-09-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tracer VS Scout (Overwatch VS Team Fortress 2)",
+            "id": "7104",
+            "slug": "death-battle-season-3-tracer-vs-scout-overwatch-vs-team-fortress-2",
+            "date": "2016-09-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Cammy VS Sonya (Street Fighter VS Mortal Kombat)",
+            "id": "7105",
+            "slug": "death-battle-season-3-cammy-vs-sonya",
+            "date": "2016-08-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "10 DEATH BATTLE Facts You Probably Don't Know!",
+            "id": "7081",
+            "slug": "death-battle-extras-13",
+            "date": "2016-07-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mewtwo VS Shadow (Pok\u00e9mon VS Sonic the Hedgehog)",
+            "id": "7106",
+            "slug": "death-battle-season-3-mewtwo-vs-shadow",
+            "date": "2016-06-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Joker VS Sweet Tooth (DC VS Twisted Metal)",
+            "id": "7107",
+            "slug": "death-battle-season-3-joker-vs-sweet-tooth",
+            "date": "2016-06-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Flash VS Quicksilver (DC VS Marvel)",
+            "id": "7108",
+            "slug": "death-battle-season-3-flash-vs-quicksilver-death-b-a-t-t-l-e",
+            "date": "2016-05-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "How Fast is Goku? (Behind the Scenes)",
+            "id": "7082",
+            "slug": "death-battle-extras-how-fast-is-goku-behind-the-scenes",
+            "date": "2016-05-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ratchet & Clank VS Jak & Daxter",
+            "id": "7110",
+            "slug": "death-battle-season-3-ratchet-clank-vs-jak-daxter",
+            "date": "2016-04-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bowser VS Ganon (Mario VS Zelda)",
+            "id": "7109",
+            "slug": "death-battle-season-3-bowser-vs-ganon-death-b-a-t-t-l-e",
+            "date": "2016-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Animating Dante VS Bayonetta (Behind the Scenes)",
+            "id": "7085",
+            "slug": "death-battle-extras-12",
+            "date": "2016-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dante VS Bayonetta",
+            "id": "7111",
+            "slug": "death-battle-season-3-dante-vs-bayonetta-death-b-a-t-t-l-e",
+            "date": "2016-03-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SECRET ENDING to Shao Kahn VS M. Bison",
+            "id": "7086",
+            "slug": "death-battle-extras-secret-alt-ending-of-shao-kahn-vs-m-bison",
+            "date": "2016-01-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pokemon VS Digimon",
+            "id": "7142",
+            "slug": "death-battle-season-2-32",
+            "date": "2015-12-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Green Arrow VS Hawkeye (DC VS Marvel)",
+            "id": "7141",
+            "slug": "death-battle-season-2-31",
+            "date": "2015-12-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mega Man VS Astro Boy",
+            "id": "7140",
+            "slug": "death-battle-season-2-30",
+            "date": "2015-11-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Yang VS Tifa (RWBY VS Final Fantasy)",
+            "id": "7139",
+            "slug": "death-battle-season-2-29",
+            "date": "2015-10-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hercule Satan VS Dan Hibiki (Dragon Ball VS Street Fighter)",
+            "id": "7138",
+            "slug": "death-battle-season-2-28",
+            "date": "2015-09-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Wolverine VS Raiden (Marvel VS Metal Gear)",
+            "id": "7137",
+            "slug": "death-battle-season-2-27",
+            "date": "2015-09-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Donkey Kong VS Knuckles (Nintendo VS Sega)",
+            "id": "7136",
+            "slug": "death-battle-season-2-26",
+            "date": "2015-08-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Goku VS Superman 2",
+            "id": "7135",
+            "slug": "death-battle-season-2-25",
+            "date": "2015-07-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Darth Vader VS Doctor Doom (Star Wars VS Marvel)",
+            "id": "7134",
+            "slug": "death-battle-season-2-24",
+            "date": "2015-07-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Solid Snake VS Sam Fisher (Metal Gear Solid VS Splinter Cell)",
+            "id": "7133",
+            "slug": "death-battle-season-2-23",
+            "date": "2015-06-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Beast VS Goliath (Marvel VS Gargoyles)",
+            "id": "7132",
+            "slug": "death-battle-season-2-22",
+            "date": "2015-05-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Iron Man VS Lex Luthor (Marvel VS DC)",
+            "id": "7131",
+            "slug": "death-battle-season-2-21",
+            "date": "2015-04-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Guts VS Nightmare (Berserk VS SoulCalibur)",
+            "id": "7130",
+            "slug": "death-battle-season-2-20",
+            "date": "2015-04-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chuck Norris VS Segata Sanshiro",
+            "id": "7129",
+            "slug": "death-battle-season-2-19",
+            "date": "2015-03-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Boba Fett VS Samus Aran REMASTERED",
+            "id": "7127",
+            "slug": "death-battle-season-2-18",
+            "date": "2015-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ragna VS Sol Badguy (BlazBlue VS Guilty Gear)",
+            "id": "7143",
+            "slug": "death-battle-season-2-17",
+            "date": "2015-02-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gaara VS Toph (Naruto VS Avatar)",
+            "id": "7126",
+            "slug": "death-battle-season-2-16",
+            "date": "2015-02-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kirby VS Majin Buu (Nintendo VS Dragon Ball Z)",
+            "id": "7125",
+            "slug": "death-battle-season-2-15",
+            "date": "2014-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Deadpool VS Deathstroke (Marvel VS DC)",
+            "id": "7124",
+            "slug": "death-battle-season-2-14",
+            "date": "2014-12-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ryu vs Scorpion (Street Fighter VS Mortal Kombat)",
+            "id": "7123",
+            "slug": "death-battle-season-2-13",
+            "date": "2014-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Tigerzord VS Gundam Epyon (Power Rangers VS Gundam Wing)",
+            "id": "7128",
+            "slug": "death-battle-season-2-12",
+            "date": "2014-10-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman VS Captain America (DC VS Marvel)",
+            "id": "7122",
+            "slug": "death-battle-season-2-11",
+            "date": "2014-09-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Godzilla VS Gamera",
+            "id": "7120",
+            "slug": "death-battle-season-2-10",
+            "date": "2014-08-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fulgore VS Sektor (Killer Instinct VS Mortal Kombat)",
+            "id": "7121",
+            "slug": "death-battle-season-2-9",
+            "date": "2014-05-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #11: Seventh Layer of Hell",
+            "id": "7097",
+            "slug": "death-battle-extras-11",
+            "date": "2014-04-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pok\u00e9mon Battle Royale",
+            "id": "7118",
+            "slug": "death-battle-season-2-8",
+            "date": "2014-04-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Luigi VS Tails (Nintendo VS Sega)",
+            "id": "7119",
+            "slug": "death-battle-season-2-7",
+            "date": "2014-03-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Terminator VS RoboCop",
+            "id": "7116",
+            "slug": "death-battle-season-2-6",
+            "date": "2014-03-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Fox VS Bucky (Star Fox VS Bucky O'Hare)",
+            "id": "7117",
+            "slug": "death-battle-season-2-5",
+            "date": "2013-11-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ivy VS Orchid (SoulCalibur VS Killer Instinct)",
+            "id": "7115",
+            "slug": "death-battle-season-2-4",
+            "date": "2013-09-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ryu Hayabusa VS Strider Hiryu (Ninja Gaiden VS Capcom)",
+            "id": "7114",
+            "slug": "death-battle-season-2-3",
+            "date": "2013-08-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Shao Kahn VS M. Bison (Mortal Kombat VS Street Fighter)",
+            "id": "7113",
+            "slug": "death-battle-season-2-2",
+            "date": "2013-06-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "He-Man VS Lion-O",
+            "id": "7112",
+            "slug": "death-battle-season-2",
+            "date": "2013-05-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Goku VS Superman",
+            "id": "7168",
+            "slug": "goku-vs-superman-death-battle",
+            "date": "2013-01-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pikachu VS Blanka (Pok\u00e9mon VS Street Fighter)",
+            "id": "7167",
+            "slug": "pikachu-vs-blanka-death-battle",
+            "date": "2012-09-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Batman VS Spider-Man (DC VS Marvel)",
+            "id": "7166",
+            "slug": "batman-vs-spider-man-death-battle",
+            "date": "2012-08-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Link VS Cloud (Legend of Zelda VS Final Fantasy)",
+            "id": "7165",
+            "slug": "link-vs-cloud-death-battle",
+            "date": "2012-07-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Thor VS Raiden (Marvel VS Mortal Kombat)",
+            "id": "7164",
+            "slug": "thor-vs-raiden-death-battle",
+            "date": "2012-05-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #10: Link is a Fairy",
+            "id": "7096",
+            "slug": "death-battle-extras-10",
+            "date": "2012-03-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #9: Superman's Bunny Slippers",
+            "id": "7095",
+            "slug": "death-battle-extras-9",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #8: The Boom-Tiger",
+            "id": "7094",
+            "slug": "death-battle-extras-8",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #7: Attack of the Killer Throat",
+            "id": "7092",
+            "slug": "death-battle-extras-7",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #6: Wiz's Worst Nightmare",
+            "id": "7093",
+            "slug": "death-battle-extras-6",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #5: What's a Womp Rat?",
+            "id": "7091",
+            "slug": "death-battle-extras-5",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #4: Double Ds",
+            "id": "7089",
+            "slug": "death-battle-extras-4",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #3: OMG It's a Giant Pterodactyl!",
+            "id": "7090",
+            "slug": "death-battle-extras-3",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #2: The Life of Boomstick",
+            "id": "7088",
+            "slug": "death-battle-extras-2",
+            "date": "2012-03-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Gag Reel #1: Flowers Make You Fat",
+            "id": "7087",
+            "slug": "death-battle-extras",
+            "date": "2012-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zelda VS Peach",
+            "id": "7163",
+            "slug": "zelda-vs-peach-death-battle",
+            "date": "2012-03-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DEATH BATTLE Q&A #2",
+            "id": "7083",
+            "slug": "death-battle-extras-death-battle-q-a-2",
+            "date": "2012-01-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DEATH BATTLE Q&A #1",
+            "id": "7084",
+            "slug": "death-battle-extras-death-battle-q-a-1",
+            "date": "2012-01-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Dr. Eggman VS Dr. Wily (Sonic the Hedgehog VS Mega Man)",
+            "id": "7162",
+            "slug": "eggman-vs-wily-death-battle",
+            "date": "2011-12-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Master Chief VS Doomguy (Halo VS Doom)",
+            "id": "7161",
+            "slug": "master-chief-vs-doomguy-death-battle",
+            "date": "2011-10-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Starscream VS Rainbow Dash (Transformers VS My Little Pony)",
+            "id": "7160",
+            "slug": "starscream-vs-rainbow-dash-death-battle",
+            "date": "2011-09-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chun-Li VS Mai Shiranui (Street Fighter VS King of Fighters)",
+            "id": "7159",
+            "slug": "chun-li-vs-mai-shiranui-death-battle",
+            "date": "2011-08-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Luke Skywalker VS Harry Potter",
+            "id": "7158",
+            "slug": "luke-skywalker-vs-harry-potter-death-battle",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Justin Bieber VS Rebecca Black",
+            "id": "7157",
+            "slug": "death-battle-season-1",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Mario VS Sonic (2011)",
+            "id": "7156",
+            "slug": "death-battle-season-1-2",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Vegeta VS Shadow (Dragon Ball Z VS Sonic the Hedgehog)",
+            "id": "7155",
+            "slug": "death-battle-season-1-3",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bomberman VS Dig Dug",
+            "id": "7154",
+            "slug": "death-battle-season-1-4",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Kratos VS Spawn (God of War VS Image Comics)",
+            "id": "7153",
+            "slug": "death-battle-season-1-5",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Felicia VS Taokaka (Darkstalkers VS BlazBlue)",
+            "id": "7152",
+            "slug": "death-battle-season-1-6",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Yoshi VS Riptor (Nintendo VS Killer Instinct)",
+            "id": "7151",
+            "slug": "death-battle-season-1-7",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Zitz VS Leonardo (Battletoads VS Ninja Turtles)",
+            "id": "7150",
+            "slug": "death-battle-season-1-8",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Ninja Turtles Battle Royale",
+            "id": "7149",
+            "slug": "death-battle-season-1-9",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Haggar VS Zangief (Final Fight VS Street Fighter)",
+            "id": "7148",
+            "slug": "death-battle-season-1-10",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Goomba VS Koopa",
+            "id": "7147",
+            "slug": "death-battle-season-1-11",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rogue VS Wonder Woman (Marvel VS DC)",
+            "id": "7146",
+            "slug": "death-battle-season-1-12",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Akuma VS Shang Tsung (Street Fighter VS Mortal Kombat)",
+            "id": "7145",
+            "slug": "death-battle-season-1-13",
+            "date": "2011-08-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Boba Fett VS Samus Aran (Star Wars VS Metroid)",
+            "id": "7144",
+            "slug": "death-battle-season-1-14",
+            "date": "2011-08-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

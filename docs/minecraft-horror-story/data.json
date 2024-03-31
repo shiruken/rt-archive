@@ -1,1 +1,73 @@
-{"show": "Minecraft Horror Story", "slug": "minecraft-horror-story", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Pigman Murders - Part 1", "id": "32589", "slug": "minecraft-horror-story-season-1-the-pigman-murders-part-1", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Finale", "id": "32587", "slug": "minecraft-horror-story-season-1-the-finale", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Hindmost Hills", "id": "32582", "slug": "minecraft-horror-story-season-1-hindmost-hills", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Paranormal", "id": "32579", "slug": "minecraft-horror-story-season-1-paranormal", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Pigman Murders - Part 2", "id": "32578", "slug": "minecraft-horror-story-season-1-the-pigman-murders-part-2", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Pet Cemetery", "id": "32556", "slug": "minecraft-horror-story-season-1-pet-cemetery", "date": "2019-04-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Minecraft Horror Story",
+    "slug": "minecraft-horror-story",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Pigman Murders - Part 1",
+            "id": "32589",
+            "slug": "minecraft-horror-story-season-1-the-pigman-murders-part-1",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Finale",
+            "id": "32587",
+            "slug": "minecraft-horror-story-season-1-the-finale",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Hindmost Hills",
+            "id": "32582",
+            "slug": "minecraft-horror-story-season-1-hindmost-hills",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Paranormal",
+            "id": "32579",
+            "slug": "minecraft-horror-story-season-1-paranormal",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Pigman Murders - Part 2",
+            "id": "32578",
+            "slug": "minecraft-horror-story-season-1-the-pigman-murders-part-2",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Pet Cemetery",
+            "id": "32556",
+            "slug": "minecraft-horror-story-season-1-pet-cemetery",
+            "date": "2019-04-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,203 @@
-{"show": "Star Wars In Review", "slug": "star-wars-in-review", "summary": {"count": 19, "uploaded": 19, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Rogue One", "id": "49461", "slug": "star-wars-in-review-full-series-rogue-one", "date": "2022-10-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 9: The Rise of Skywalker", "id": "36312", "slug": "star-wars-in-review-full-series-star-wars-episode-9-the-rise-of-skywalker-every-star-wars-movie-reviewed-ranked", "date": "2020-01-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 7 Review", "id": "36185", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-7-review", "date": "2019-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 6 Review(Ad-Free)", "id": "36118", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-6-review-ad-free", "date": "2019-12-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Solo: A Star Wars Story", "id": "36104", "slug": "star-wars-in-review-full-series-solo-a-star-wars-story-every-star-wars-movie-reviewed-ranked", "date": "2019-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 5 Review", "id": "36039", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-5-review", "date": "2019-12-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 8: The Last Jedi", "id": "35984", "slug": "star-wars-in-review-full-series-star-wars-episode-8-the-last-jedi-every-star-wars-movie-reviewed-ranked", "date": "2019-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 4 Review", "id": "35958", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-4-review", "date": "2019-12-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 3 Review", "id": "35864", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-3-review", "date": "2019-11-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rogue One: A Star Wars Story", "id": "35824", "slug": "star-wars-in-review-full-series-rogue-one-a-star-wars-story-every-star-wars-movie-reviewed-ranked", "date": "2019-11-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 2 Review", "id": "35786", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-2-review", "date": "2019-11-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars The Mandalorian Episode 1 Review", "id": "35723", "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-1-review", "date": "2019-11-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 7: The Force Awakens", "id": "35700", "slug": "star-wars-in-review-full-series-star-wars-episode-7-the-force-awakens-every-star-wars-movie-reviewed-ranked", "date": "2019-11-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 3: Revenge of the Sith", "id": "35648", "slug": "star-wars-in-review-full-series-star-wars-episode-3-revenge-of-the-sith-every-star-wars-movie-reviewed-ranked", "date": "2019-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 2: Attack of the Clones", "id": "35631", "slug": "star-wars-in-review-full-series-star-wars-episode-2-attack-of-the-clones-every-star-wars-movie-reviewed-ranked", "date": "2019-10-30", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 1: The Phantom Menace", "id": "35630", "slug": "star-wars-in-review-full-series-star-wars-episode-1-the-phantom-menace-every-star-wars-movie-reviewed-ranked", "date": "2019-10-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 6: Return of the Jedi", "id": "35629", "slug": "we-review-and-rank-star-wars-episode-vi", "date": "2019-10-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 5: The Empire Strikes Back", "id": "35628", "slug": "we-review-and-rank-star-wars-episode-v", "date": "2019-10-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Star Wars Episode 4: A New Hope", "id": "35627", "slug": "we-review-and-rank-star-wars-episode-iv", "date": "2019-10-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Star Wars In Review",
+    "slug": "star-wars-in-review",
+    "summary": {
+        "count": 19,
+        "uploaded": 19,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Rogue One",
+            "id": "49461",
+            "slug": "star-wars-in-review-full-series-rogue-one",
+            "date": "2022-10-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 9: The Rise of Skywalker",
+            "id": "36312",
+            "slug": "star-wars-in-review-full-series-star-wars-episode-9-the-rise-of-skywalker-every-star-wars-movie-reviewed-ranked",
+            "date": "2020-01-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 7 Review",
+            "id": "36185",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-7-review",
+            "date": "2019-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 6 Review(Ad-Free)",
+            "id": "36118",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-6-review-ad-free",
+            "date": "2019-12-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Solo: A Star Wars Story",
+            "id": "36104",
+            "slug": "star-wars-in-review-full-series-solo-a-star-wars-story-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 5 Review",
+            "id": "36039",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-5-review",
+            "date": "2019-12-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 8: The Last Jedi",
+            "id": "35984",
+            "slug": "star-wars-in-review-full-series-star-wars-episode-8-the-last-jedi-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 4 Review",
+            "id": "35958",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-4-review",
+            "date": "2019-12-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 3 Review",
+            "id": "35864",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-3-review",
+            "date": "2019-11-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rogue One: A Star Wars Story",
+            "id": "35824",
+            "slug": "star-wars-in-review-full-series-rogue-one-a-star-wars-story-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-11-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 2 Review",
+            "id": "35786",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-2-review",
+            "date": "2019-11-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars The Mandalorian Episode 1 Review",
+            "id": "35723",
+            "slug": "star-wars-in-review-full-series-star-wars-the-mandalorian-episode-1-review",
+            "date": "2019-11-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 7: The Force Awakens",
+            "id": "35700",
+            "slug": "star-wars-in-review-full-series-star-wars-episode-7-the-force-awakens-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-11-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 3: Revenge of the Sith",
+            "id": "35648",
+            "slug": "star-wars-in-review-full-series-star-wars-episode-3-revenge-of-the-sith-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 2: Attack of the Clones",
+            "id": "35631",
+            "slug": "star-wars-in-review-full-series-star-wars-episode-2-attack-of-the-clones-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-10-30",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 1: The Phantom Menace",
+            "id": "35630",
+            "slug": "star-wars-in-review-full-series-star-wars-episode-1-the-phantom-menace-every-star-wars-movie-reviewed-ranked",
+            "date": "2019-10-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 6: Return of the Jedi",
+            "id": "35629",
+            "slug": "we-review-and-rank-star-wars-episode-vi",
+            "date": "2019-10-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 5: The Empire Strikes Back",
+            "id": "35628",
+            "slug": "we-review-and-rank-star-wars-episode-v",
+            "date": "2019-10-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Star Wars Episode 4: A New Hope",
+            "id": "35627",
+            "slug": "we-review-and-rank-star-wars-episode-iv",
+            "date": "2019-10-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

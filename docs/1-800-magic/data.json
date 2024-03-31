@@ -1,1 +1,53 @@
-{"show": "1-800-Magic", "slug": "1-800-magic", "summary": {"count": 4, "uploaded": 4, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Episode 4", "id": "22907", "slug": "1-800-magic-season-1-episode-4", "date": "2007-07-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 3", "id": "22908", "slug": "1-800-magic-season-1-episode-3", "date": "2007-06-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 2", "id": "22909", "slug": "1-800-magic-season-1-episode-2", "date": "2007-06-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 1", "id": "22910", "slug": "1-800-magic-season-1-episode-1", "date": "2007-06-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "1-800-Magic",
+    "slug": "1-800-magic",
+    "summary": {
+        "count": 4,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Episode 4",
+            "id": "22907",
+            "slug": "1-800-magic-season-1-episode-4",
+            "date": "2007-07-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 3",
+            "id": "22908",
+            "slug": "1-800-magic-season-1-episode-3",
+            "date": "2007-06-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 2",
+            "id": "22909",
+            "slug": "1-800-magic-season-1-episode-2",
+            "date": "2007-06-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 1",
+            "id": "22910",
+            "slug": "1-800-magic-season-1-episode-1",
+            "date": "2007-06-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

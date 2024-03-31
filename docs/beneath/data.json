@@ -1,1 +1,103 @@
-{"show": "BENEATH", "slug": "beneath", "summary": {"count": 9, "uploaded": 9, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "The Second Sinking", "id": "50026", "slug": "beneath-1-the-second-sinking", "date": "2022-12-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "First Note of a Requiem", "id": "50025", "slug": "beneath-1-first-note-of-a-requiem", "date": "2022-12-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Why Are You Weeping", "id": "50024", "slug": "beneath-1-why-are-you-weeping", "date": "2022-12-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The History Behind the History", "id": "50023", "slug": "beneath-1-the-history-behind-the-history", "date": "2022-12-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The Deepest Kind of Sleep", "id": "50019", "slug": "beneath-1-the-deepest-kind-of-sleep", "date": "2022-12-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Some Kind of Dead Zone", "id": "50020", "slug": "beneath-1-some-kind-of-dead-zone", "date": "2022-12-21", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "They Don't Know They're Dead", "id": "50006", "slug": "beneath-1-they-don-t-know-they-re-dead", "date": "2022-12-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "There's Someone Here", "id": "49992", "slug": "beneath-1-episode-1-there-s-someone-there", "date": "2022-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Beneath", "id": "49959", "slug": "beneath-1-introducing-beneath", "date": "2022-12-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "BENEATH",
+    "slug": "beneath",
+    "summary": {
+        "count": 9,
+        "uploaded": 9,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "The Second Sinking",
+            "id": "50026",
+            "slug": "beneath-1-the-second-sinking",
+            "date": "2022-12-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "First Note of a Requiem",
+            "id": "50025",
+            "slug": "beneath-1-first-note-of-a-requiem",
+            "date": "2022-12-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Why Are You Weeping",
+            "id": "50024",
+            "slug": "beneath-1-why-are-you-weeping",
+            "date": "2022-12-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The History Behind the History",
+            "id": "50023",
+            "slug": "beneath-1-the-history-behind-the-history",
+            "date": "2022-12-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The Deepest Kind of Sleep",
+            "id": "50019",
+            "slug": "beneath-1-the-deepest-kind-of-sleep",
+            "date": "2022-12-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Some Kind of Dead Zone",
+            "id": "50020",
+            "slug": "beneath-1-some-kind-of-dead-zone",
+            "date": "2022-12-21",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "They Don't Know They're Dead",
+            "id": "50006",
+            "slug": "beneath-1-they-don-t-know-they-re-dead",
+            "date": "2022-12-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "There's Someone Here",
+            "id": "49992",
+            "slug": "beneath-1-episode-1-there-s-someone-there",
+            "date": "2022-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Beneath",
+            "id": "49959",
+            "slug": "beneath-1-introducing-beneath",
+            "date": "2022-12-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

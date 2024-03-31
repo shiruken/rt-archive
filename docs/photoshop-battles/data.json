@@ -1,1 +1,203 @@
-{"show": "Photoshop Battles", "slug": "photoshop-battles", "summary": {"count": 19, "uploaded": 19, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "PHOTOSHOP BATTLES FINALE", "id": "29970", "slug": "photoshop-battles-2018-photoshop-battles-finale", "date": "2018-12-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "PROVOKING A DYING AUDIENCE", "id": "29707", "slug": "photoshop-battles-2018-provoking-a-dying-audience", "date": "2018-12-04", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BIDDING ON CHILDREN", "id": "29280", "slug": "photoshop-battles-2018-art-gets-political", "date": "2018-11-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "MASCOT NAUGHTY BITS", "id": "29088", "slug": "photoshop-battles-2018-mascot-naughty-bits", "date": "2018-10-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Childhood Ruined By Photoshop", "id": "28732", "slug": "photoshop-battles-2018-thomas-the-train-is-racist", "date": "2018-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "INVOCATION OF OUR DEMON BROTHER", "id": "28565", "slug": "photoshop-battles-2018-invocation-of-our-demon-brother", "date": "2018-09-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "LET'S CALL THE WHOLE THING OFF", "id": "28394", "slug": "photoshop-battles-2018-let-s-call-the-whole-thing-off", "date": "2018-08-28", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "CONFUSIONS OF GRANDEUR", "id": "28239", "slug": "photoshop-battles-2018-confusions-of-grandeur", "date": "2018-08-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "DEEPFAKE IT TILL YOU MAKE IT", "id": "28061", "slug": "photoshop-battles-2018-deepfake-it-till-you-make-it", "date": "2018-07-31", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "WHAM! BAM! THANK YOU FAM!", "id": "27891", "slug": "photoshop-battles-2018-wham-bam-thank-you-fam", "date": "2018-07-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SCRAPPILY EVER AFTER\u2022 Photoshop Battles", "id": "27659", "slug": "photoshop-battles-2018-scrappily-ever-after-photoshop-battles", "date": "2018-07-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "OH! COWCUTTA! \u2022 Photoshop Battles", "id": "27486", "slug": "photoshop-battles-2018-oh-cowcutta-photoshop-battles", "date": "2018-06-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "YEEZY BREEZY BEAUTIFUL \u2022 Photoshop Battles", "id": "27181", "slug": "photoshop-battles-2018-yeezy-breezy-beautiful-photoshop-battles", "date": "2018-06-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "ROCK OUT WITH YOUR COOKOUT \u2022 Photoshop Battles", "id": "26976", "slug": "photoshop-battles-2018-rock-out-with-your-cookout-photoshop-battles", "date": "2018-05-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "HERO WORSHIP \u2022 Photoshop Battles", "id": "26804", "slug": "photoshop-battles-2018-hero-worship-photoshop-battles", "date": "2018-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "CIRQUE DU SOLAME \u2022 Photoshop Battles", "id": "26617", "slug": "photoshop-battles-2018-cirque-du-solame-photoshop-battles", "date": "2018-04-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "FEARLESS FANDOM \u2022 Photoshop Battles", "id": "26434", "slug": "photoshop-battles-2018-fearless-fandom-photoshop-battles", "date": "2018-04-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "ALL THE PRESIDENTS MEME \u2022 Photoshop Battles", "id": "26201", "slug": "photoshop-battles-2018-all-the-presidents-meme-photoshop-battles", "date": "2018-03-27", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "WW2 VETERAN STICK \u2022 Photoshop Battles", "id": "37238", "slug": "photoshop-battles-2018-ww2-veteran-stick-photoshop-battles", "date": "2018-03-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Photoshop Battles",
+    "slug": "photoshop-battles",
+    "summary": {
+        "count": 19,
+        "uploaded": 19,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "PHOTOSHOP BATTLES FINALE",
+            "id": "29970",
+            "slug": "photoshop-battles-2018-photoshop-battles-finale",
+            "date": "2018-12-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "PROVOKING A DYING AUDIENCE",
+            "id": "29707",
+            "slug": "photoshop-battles-2018-provoking-a-dying-audience",
+            "date": "2018-12-04",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BIDDING ON CHILDREN",
+            "id": "29280",
+            "slug": "photoshop-battles-2018-art-gets-political",
+            "date": "2018-11-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "MASCOT NAUGHTY BITS",
+            "id": "29088",
+            "slug": "photoshop-battles-2018-mascot-naughty-bits",
+            "date": "2018-10-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Childhood Ruined By Photoshop",
+            "id": "28732",
+            "slug": "photoshop-battles-2018-thomas-the-train-is-racist",
+            "date": "2018-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "INVOCATION OF OUR DEMON BROTHER",
+            "id": "28565",
+            "slug": "photoshop-battles-2018-invocation-of-our-demon-brother",
+            "date": "2018-09-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "LET'S CALL THE WHOLE THING OFF",
+            "id": "28394",
+            "slug": "photoshop-battles-2018-let-s-call-the-whole-thing-off",
+            "date": "2018-08-28",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "CONFUSIONS OF GRANDEUR",
+            "id": "28239",
+            "slug": "photoshop-battles-2018-confusions-of-grandeur",
+            "date": "2018-08-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "DEEPFAKE IT TILL YOU MAKE IT",
+            "id": "28061",
+            "slug": "photoshop-battles-2018-deepfake-it-till-you-make-it",
+            "date": "2018-07-31",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "WHAM! BAM! THANK YOU FAM!",
+            "id": "27891",
+            "slug": "photoshop-battles-2018-wham-bam-thank-you-fam",
+            "date": "2018-07-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SCRAPPILY EVER AFTER\u2022 Photoshop Battles",
+            "id": "27659",
+            "slug": "photoshop-battles-2018-scrappily-ever-after-photoshop-battles",
+            "date": "2018-07-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "OH! COWCUTTA! \u2022 Photoshop Battles",
+            "id": "27486",
+            "slug": "photoshop-battles-2018-oh-cowcutta-photoshop-battles",
+            "date": "2018-06-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "YEEZY BREEZY BEAUTIFUL \u2022 Photoshop Battles",
+            "id": "27181",
+            "slug": "photoshop-battles-2018-yeezy-breezy-beautiful-photoshop-battles",
+            "date": "2018-06-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "ROCK OUT WITH YOUR COOKOUT \u2022 Photoshop Battles",
+            "id": "26976",
+            "slug": "photoshop-battles-2018-rock-out-with-your-cookout-photoshop-battles",
+            "date": "2018-05-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "HERO WORSHIP \u2022 Photoshop Battles",
+            "id": "26804",
+            "slug": "photoshop-battles-2018-hero-worship-photoshop-battles",
+            "date": "2018-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "CIRQUE DU SOLAME \u2022 Photoshop Battles",
+            "id": "26617",
+            "slug": "photoshop-battles-2018-cirque-du-solame-photoshop-battles",
+            "date": "2018-04-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "FEARLESS FANDOM \u2022 Photoshop Battles",
+            "id": "26434",
+            "slug": "photoshop-battles-2018-fearless-fandom-photoshop-battles",
+            "date": "2018-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "ALL THE PRESIDENTS MEME \u2022 Photoshop Battles",
+            "id": "26201",
+            "slug": "photoshop-battles-2018-all-the-presidents-meme-photoshop-battles",
+            "date": "2018-03-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "WW2 VETERAN STICK \u2022 Photoshop Battles",
+            "id": "37238",
+            "slug": "photoshop-battles-2018-ww2-veteran-stick-photoshop-battles",
+            "date": "2018-03-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,123 @@
-{"show": "The #1 Show", "slug": "the-1-show", "summary": {"count": 11, "uploaded": 11, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "What's The #1 Video Game Ever? | The #1 Show", "id": "3058", "slug": "the-1-show-season-what-s-the-1-video-game-ever-the-1-show", "date": "2016-04-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What's the #1 Movie Ever? | The #1 Show", "id": "3059", "slug": "the-1-show-season-what-s-the-1-movie-ever-the-1-show", "date": "2016-03-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What's the #1 Nickelodeon Show Ever? | The #1 Show", "id": "3060", "slug": "the-1-show-season-what-s-the-1-nickelodeon-show-ever-the-1-show", "date": "2016-03-19", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What's The #1 Fruity Candy? | The #1 Show", "id": "3061", "slug": "the-1-show-season-what-s-the-1-fruity-candy-movie-the-1-show", "date": "2016-03-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What's The #1 Rocky Movie? | The #1 Show", "id": "3062", "slug": "the-1-show-season-what-s-the-1-rocky-movie-the-1-show", "date": "2016-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who's the #1 TV Villain? | The #1 Show", "id": "3063", "slug": "the-1-show-season-who-s-the-1-tv-villain-the-1-show", "date": "2016-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Who's the #1 Wrestler? | The #1 Show", "id": "3064", "slug": "the-1-show-season-who-s-the-1-wrestler-the-1-show", "date": "2016-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What's the #1 Cereal? | The #1 Show", "id": "3065", "slug": "the-1-show-season-what-s-the-1-cereal-the-1-show", "date": "2016-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "What's the #1 Kids Movie? | The #1 Show", "id": "3066", "slug": "the-1-show-season-what-s-the-1-kids-movie-the-1-show", "date": "2016-03-10", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "WHAT'S THE BEST 90'S ACTION FILM? | THE #1 SHOW", "id": "3067", "slug": "the-1-show-season-w-h-a-t-s-the-best-90-s-action-f-i-l-m-the-1-show", "date": "2016-03-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "WHAT'S THE BEST PIZZA? | THE #1 SHOW", "id": "3068", "slug": "the-1-show-season-w-h-a-t-s-the-best-p-i-z-z-a-the-1-show", "date": "2016-03-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "The #1 Show",
+    "slug": "the-1-show",
+    "summary": {
+        "count": 11,
+        "uploaded": 11,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "What's The #1 Video Game Ever? | The #1 Show",
+            "id": "3058",
+            "slug": "the-1-show-season-what-s-the-1-video-game-ever-the-1-show",
+            "date": "2016-04-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What's the #1 Movie Ever? | The #1 Show",
+            "id": "3059",
+            "slug": "the-1-show-season-what-s-the-1-movie-ever-the-1-show",
+            "date": "2016-03-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What's the #1 Nickelodeon Show Ever? | The #1 Show",
+            "id": "3060",
+            "slug": "the-1-show-season-what-s-the-1-nickelodeon-show-ever-the-1-show",
+            "date": "2016-03-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What's The #1 Fruity Candy? | The #1 Show",
+            "id": "3061",
+            "slug": "the-1-show-season-what-s-the-1-fruity-candy-movie-the-1-show",
+            "date": "2016-03-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What's The #1 Rocky Movie? | The #1 Show",
+            "id": "3062",
+            "slug": "the-1-show-season-what-s-the-1-rocky-movie-the-1-show",
+            "date": "2016-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who's the #1 TV Villain? | The #1 Show",
+            "id": "3063",
+            "slug": "the-1-show-season-who-s-the-1-tv-villain-the-1-show",
+            "date": "2016-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Who's the #1 Wrestler? | The #1 Show",
+            "id": "3064",
+            "slug": "the-1-show-season-who-s-the-1-wrestler-the-1-show",
+            "date": "2016-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What's the #1 Cereal? | The #1 Show",
+            "id": "3065",
+            "slug": "the-1-show-season-what-s-the-1-cereal-the-1-show",
+            "date": "2016-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "What's the #1 Kids Movie? | The #1 Show",
+            "id": "3066",
+            "slug": "the-1-show-season-what-s-the-1-kids-movie-the-1-show",
+            "date": "2016-03-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "WHAT'S THE BEST 90'S ACTION FILM? | THE #1 SHOW",
+            "id": "3067",
+            "slug": "the-1-show-season-w-h-a-t-s-the-best-90-s-action-f-i-l-m-the-1-show",
+            "date": "2016-03-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "WHAT'S THE BEST PIZZA? | THE #1 SHOW",
+            "id": "3068",
+            "slug": "the-1-show-season-w-h-a-t-s-the-best-p-i-z-z-a-the-1-show",
+            "date": "2016-03-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

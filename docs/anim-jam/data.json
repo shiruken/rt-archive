@@ -1,1 +1,73 @@
-{"show": "Anim Jam", "slug": "anim-jam", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Action Bots", "id": "42042", "slug": "anim-jam-2021-6", "date": "2021-01-09", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Rabbitloaf & Friend", "id": "37337", "slug": "anim-jam-2020-4-3", "date": "2020-04-03", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Lunar Farms", "id": "37336", "slug": "anim-jam-2020-4-2", "date": "2020-04-02", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Scale", "id": "37338", "slug": "anim-jam-2020-4-1", "date": "2020-04-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Postal Apocalypse", "id": "37335", "slug": "anim-jam-2020-3-31", "date": "2020-03-31", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Human Beans", "id": "37318", "slug": "anim-jam-2020-3-30", "date": "2020-03-30", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Anim Jam",
+    "slug": "anim-jam",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Action Bots",
+            "id": "42042",
+            "slug": "anim-jam-2021-6",
+            "date": "2021-01-09",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Rabbitloaf & Friend",
+            "id": "37337",
+            "slug": "anim-jam-2020-4-3",
+            "date": "2020-04-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Lunar Farms",
+            "id": "37336",
+            "slug": "anim-jam-2020-4-2",
+            "date": "2020-04-02",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Scale",
+            "id": "37338",
+            "slug": "anim-jam-2020-4-1",
+            "date": "2020-04-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Postal Apocalypse",
+            "id": "37335",
+            "slug": "anim-jam-2020-3-31",
+            "date": "2020-03-31",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Human Beans",
+            "id": "37318",
+            "slug": "anim-jam-2020-3-30",
+            "date": "2020-03-30",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

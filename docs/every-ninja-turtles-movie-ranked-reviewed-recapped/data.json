@@ -1,1 +1,73 @@
-{"show": "Every Ninja Turtles Movie Ranked, Reviewed, & Recapped", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped", "summary": {"count": 6, "uploaded": 6, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "TMNT Mutant Mayhem In Review", "id": "51342", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-tmnt-mutant-mayhem-in-review", "date": "2023-08-07", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Teenage Mutant Ninja Turtles Out of the Shadows", "id": "44376", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-out-of-the-shadows", "date": "2021-07-06", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TMNT (2007)", "id": "44126", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-tmnt-2007", "date": "2021-06-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Teenage Mutant Ninja Turtles 3", "id": "44079", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-3", "date": "2021-06-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Teenage Mutant Ninja Turtles 2 Secret of the Ooze", "id": "43824", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-2-secret-of-the-ooze", "date": "2021-05-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Teenage Mutant Ninja Turtles (1990)", "id": "43714", "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-1990", "date": "2021-05-14", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Every Ninja Turtles Movie Ranked, Reviewed, & Recapped",
+    "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped",
+    "summary": {
+        "count": 6,
+        "uploaded": 6,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "TMNT Mutant Mayhem In Review",
+            "id": "51342",
+            "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-tmnt-mutant-mayhem-in-review",
+            "date": "2023-08-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Out of the Shadows",
+            "id": "44376",
+            "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-out-of-the-shadows",
+            "date": "2021-07-06",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TMNT (2007)",
+            "id": "44126",
+            "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-tmnt-2007",
+            "date": "2021-06-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles 3",
+            "id": "44079",
+            "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-3",
+            "date": "2021-06-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles 2 Secret of the Ooze",
+            "id": "43824",
+            "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-2-secret-of-the-ooze",
+            "date": "2021-05-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles (1990)",
+            "id": "43714",
+            "slug": "every-ninja-turtles-movie-ranked-reviewed-recapped-every-ninja-turtles-movie-ranked-reviewed-recapped-teenage-mutant-ninja-turtles-1990",
+            "date": "2021-05-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

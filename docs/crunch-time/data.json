@@ -1,1 +1,183 @@
-{"show": "Crunch Time", "slug": "crunch-time", "summary": {"count": 17, "uploaded": 17, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "Crunch Time Season 2 Table Read - Episode 1", "id": "38436", "slug": "crunch-time-season-2-1", "date": "2020-05-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 6 - The Moruga", "id": "34489", "slug": "crunch-time-season-1-chapter-6-the-morgua", "date": "2019-08-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 5 - The Party of the Century", "id": "34488", "slug": "crunch-time-season-1-chapter-5-the-party-of-the-century", "date": "2019-08-15", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 4 - The Big Sleep", "id": "34399", "slug": "crunch-time-season-1-chapter-4-the-big-sleep", "date": "2019-08-08", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 3 - The Business", "id": "34292", "slug": "crunch-time-season-1-chapter-3-the-business", "date": "2019-08-01", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 2 - The Brain Frame", "id": "34214", "slug": "crunch-time-season-1-chapter-2-the-brain-frame", "date": "2019-07-25", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Chapter 1 - The Beginning", "id": "34132", "slug": "crunch-time-season-1-chapter-1-the-beginning", "date": "2019-07-18", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes Part 2", "id": "68-bonus", "slug": "crunch-time-bonus-2", "date": "2016-10-16", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Bloopers & Outtakes", "id": "69-bonus", "slug": "crunch-time-bonus-3", "date": "2016-10-09", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Behind the Scenes Part 1", "id": "70-bonus", "slug": "crunch-time-bonus-1", "date": "2016-09-25", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Crunch Time Trailer #2", "id": "5-bonus", "slug": "crunch-time-bonus-5", "date": "2016-09-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Hannah", "id": "67-bonus", "slug": "crunch-time-bonus-8", "date": "2016-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Berkman", "id": "8-bonus", "slug": "crunch-time-bonus-6", "date": "2016-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Sam", "id": "7-bonus", "slug": "crunch-time-bonus-10", "date": "2016-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Connor", "id": "6-bonus", "slug": "crunch-time-bonus-7", "date": "2016-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Introducing Larry", "id": "4-bonus", "slug": "crunch-time-bonus-9", "date": "2016-08-23", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Story Featurette", "id": "66-bonus", "slug": "crunch-time-bonus-11", "date": "2016-08-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Crunch Time",
+    "slug": "crunch-time",
+    "summary": {
+        "count": 17,
+        "uploaded": 17,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Crunch Time Season 2 Table Read - Episode 1",
+            "id": "38436",
+            "slug": "crunch-time-season-2-1",
+            "date": "2020-05-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 6 - The Moruga",
+            "id": "34489",
+            "slug": "crunch-time-season-1-chapter-6-the-morgua",
+            "date": "2019-08-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 5 - The Party of the Century",
+            "id": "34488",
+            "slug": "crunch-time-season-1-chapter-5-the-party-of-the-century",
+            "date": "2019-08-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 4 - The Big Sleep",
+            "id": "34399",
+            "slug": "crunch-time-season-1-chapter-4-the-big-sleep",
+            "date": "2019-08-08",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 3 - The Business",
+            "id": "34292",
+            "slug": "crunch-time-season-1-chapter-3-the-business",
+            "date": "2019-08-01",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 2 - The Brain Frame",
+            "id": "34214",
+            "slug": "crunch-time-season-1-chapter-2-the-brain-frame",
+            "date": "2019-07-25",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Chapter 1 - The Beginning",
+            "id": "34132",
+            "slug": "crunch-time-season-1-chapter-1-the-beginning",
+            "date": "2019-07-18",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes Part 2",
+            "id": "68-bonus",
+            "slug": "crunch-time-bonus-2",
+            "date": "2016-10-16",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Bloopers & Outtakes",
+            "id": "69-bonus",
+            "slug": "crunch-time-bonus-3",
+            "date": "2016-10-09",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Behind the Scenes Part 1",
+            "id": "70-bonus",
+            "slug": "crunch-time-bonus-1",
+            "date": "2016-09-25",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Crunch Time Trailer #2",
+            "id": "5-bonus",
+            "slug": "crunch-time-bonus-5",
+            "date": "2016-09-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Hannah",
+            "id": "67-bonus",
+            "slug": "crunch-time-bonus-8",
+            "date": "2016-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Berkman",
+            "id": "8-bonus",
+            "slug": "crunch-time-bonus-6",
+            "date": "2016-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Sam",
+            "id": "7-bonus",
+            "slug": "crunch-time-bonus-10",
+            "date": "2016-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Connor",
+            "id": "6-bonus",
+            "slug": "crunch-time-bonus-7",
+            "date": "2016-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Introducing Larry",
+            "id": "4-bonus",
+            "slug": "crunch-time-bonus-9",
+            "date": "2016-08-23",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Story Featurette",
+            "id": "66-bonus",
+            "slug": "crunch-time-bonus-11",
+            "date": "2016-08-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

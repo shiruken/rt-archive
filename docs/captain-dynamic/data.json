@@ -1,1 +1,53 @@
-{"show": "Captain Dynamic", "slug": "captain-dynamic", "summary": {"count": 4, "uploaded": 3, "missing": 1, "incomplete": 0, "removed": 0}, "data": [{"title": "Outtakes!", "id": "1355-bonus", "slug": "captain-dynamic-season-1-outtakes", "date": "2009-03-25", "is_first": false, "is_uploaded": false, "is_complete_upload": false, "is_removed": false}, {"title": "Episode 3", "id": "22479", "slug": "captain-dynamic-season-1-episode-3", "date": "2009-03-12", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 2", "id": "20748", "slug": "captain-dynamic-season-1-episode-2", "date": "2009-03-05", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "Episode 1", "id": "20749", "slug": "captain-dynamic-season-1-episode-1", "date": "2009-02-26", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Captain Dynamic",
+    "slug": "captain-dynamic",
+    "summary": {
+        "count": 4,
+        "uploaded": 3,
+        "missing": 1,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "Outtakes!",
+            "id": "1355-bonus",
+            "slug": "captain-dynamic-season-1-outtakes",
+            "date": "2009-03-25",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 3",
+            "id": "22479",
+            "slug": "captain-dynamic-season-1-episode-3",
+            "date": "2009-03-12",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 2",
+            "id": "20748",
+            "slug": "captain-dynamic-season-1-episode-2",
+            "date": "2009-03-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Episode 1",
+            "id": "20749",
+            "slug": "captain-dynamic-season-1-episode-1",
+            "date": "2009-02-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

@@ -1,1 +1,143 @@
-{"show": "Retroactive", "slug": "retroactive", "summary": {"count": 13, "uploaded": 13, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "WORST SANTA EVER \u2022 Retroactive", "id": "1161", "slug": "retroactive-2017-bad-santa-retroactive", "date": "2017-12-15", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "LION KING THROWBACK \u2022 Retroactive", "id": "1162", "slug": "retroactive-2017-lion-king-retro", "date": "2017-05-08", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "E.T. REJECTED SEQUEL \u2022 Retroactive", "id": "1164", "slug": "retroactive-2017-2", "date": "2017-03-02", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "RUGRATS NOSTALGIA \u2022 Retroactive", "id": "1163", "slug": "retroactive-2017", "date": "2017-02-24", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SUB ZERO MORTAL CRISIS \u2022 Retroactive", "id": "1166", "slug": "retroactive-2017-3", "date": "2017-01-18", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "X-MEN SIMULATION \u2022 Retroactive", "id": "1165", "slug": "retroactive-2016-5", "date": "2016-12-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "ALIEN INVASION \u2022 Retroactive", "id": "1167", "slug": "retroactive-2016-6", "date": "2016-11-11", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "GLOVE ON BALLS \u2022 Retroactive", "id": "1169", "slug": "retroactive-2016-7", "date": "2016-10-22", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "SHAQ FU CRUISE \u2022 Retroactive", "id": "1168", "slug": "retroactive-2016-4", "date": "2016-10-13", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "GOLDEN AXE MEATBALL PRISONER \u2022 Retroactive", "id": "1170", "slug": "retroactive-2016-8", "date": "2016-10-01", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BEAVIS AND BUTT-HEAD \u2022 Retroactive", "id": "1171", "slug": "retroactive-2016-3", "date": "2016-09-17", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "TINY TOON CHEATERS \u2022 Retroactive", "id": "1172", "slug": "retroactive-2016-2", "date": "2016-09-03", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "BOOGERMAN VS BOOGERMEISTER \u2022 Retroactive", "id": "1173", "slug": "retroactive-2016", "date": "2016-08-20", "is_first": false, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Retroactive",
+    "slug": "retroactive",
+    "summary": {
+        "count": 13,
+        "uploaded": 13,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "WORST SANTA EVER \u2022 Retroactive",
+            "id": "1161",
+            "slug": "retroactive-2017-bad-santa-retroactive",
+            "date": "2017-12-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "LION KING THROWBACK \u2022 Retroactive",
+            "id": "1162",
+            "slug": "retroactive-2017-lion-king-retro",
+            "date": "2017-05-08",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "E.T. REJECTED SEQUEL \u2022 Retroactive",
+            "id": "1164",
+            "slug": "retroactive-2017-2",
+            "date": "2017-03-02",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RUGRATS NOSTALGIA \u2022 Retroactive",
+            "id": "1163",
+            "slug": "retroactive-2017",
+            "date": "2017-02-24",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SUB ZERO MORTAL CRISIS \u2022 Retroactive",
+            "id": "1166",
+            "slug": "retroactive-2017-3",
+            "date": "2017-01-18",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "X-MEN SIMULATION \u2022 Retroactive",
+            "id": "1165",
+            "slug": "retroactive-2016-5",
+            "date": "2016-12-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "ALIEN INVASION \u2022 Retroactive",
+            "id": "1167",
+            "slug": "retroactive-2016-6",
+            "date": "2016-11-11",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "GLOVE ON BALLS \u2022 Retroactive",
+            "id": "1169",
+            "slug": "retroactive-2016-7",
+            "date": "2016-10-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "SHAQ FU CRUISE \u2022 Retroactive",
+            "id": "1168",
+            "slug": "retroactive-2016-4",
+            "date": "2016-10-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "GOLDEN AXE MEATBALL PRISONER \u2022 Retroactive",
+            "id": "1170",
+            "slug": "retroactive-2016-8",
+            "date": "2016-10-01",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BEAVIS AND BUTT-HEAD \u2022 Retroactive",
+            "id": "1171",
+            "slug": "retroactive-2016-3",
+            "date": "2016-09-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "TINY TOON CHEATERS \u2022 Retroactive",
+            "id": "1172",
+            "slug": "retroactive-2016-2",
+            "date": "2016-09-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BOOGERMAN VS BOOGERMEISTER \u2022 Retroactive",
+            "id": "1173",
+            "slug": "retroactive-2016",
+            "date": "2016-08-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}

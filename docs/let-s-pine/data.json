@@ -1,1 +1,43 @@
-{"show": "Let's Pine", "slug": "let-s-pine", "summary": {"count": 3, "uploaded": 3, "missing": 0, "incomplete": 0, "removed": 0}, "data": [{"title": "This quiz is impossible", "id": "489", "slug": "let-s-pine-season-1-this-quiz-is-impossible", "date": "2017-11-22", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "The World's Hardest Game", "id": "490", "slug": "let-s-pine-season-1-the-world-s-hardest-game", "date": "2017-11-07", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}, {"title": "We wanna be millionaires?", "id": "491", "slug": "let-s-pine-season-1-we-wanna-be-millionaires-let-s-pine-1", "date": "2017-10-31", "is_first": true, "is_uploaded": true, "is_complete_upload": true, "is_removed": false}]}
+{
+    "show": "Let's Pine",
+    "slug": "let-s-pine",
+    "summary": {
+        "count": 3,
+        "uploaded": 3,
+        "missing": 0,
+        "incomplete": 0,
+        "removed": 0
+    },
+    "data": [
+        {
+            "title": "This quiz is impossible",
+            "id": "489",
+            "slug": "let-s-pine-season-1-this-quiz-is-impossible",
+            "date": "2017-11-22",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "The World's Hardest Game",
+            "id": "490",
+            "slug": "let-s-pine-season-1-the-world-s-hardest-game",
+            "date": "2017-11-07",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "We wanna be millionaires?",
+            "id": "491",
+            "slug": "let-s-pine-season-1-we-wanna-be-millionaires-let-s-pine-1",
+            "date": "2017-10-31",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        }
+    ]
+}
