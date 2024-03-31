@@ -88,21 +88,26 @@ function get_availability(x) {
 }
 
 function search() {
-    var input, filter, table, tr, td, i;
+    var input, filter, table, tr, td, i, j;
     input = document.getElementById("search");
     filter = input.value.toUpperCase();
     table = document.getElementById("table");
     tbody = table.getElementsByTagName("tbody")[0];
     tr = tbody.getElementsByTagName("tr");
     for (i = 0; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td")[0];
-        if (td) {
-            txtValue = td.textContent || td.innerText;
+        td = tr[i].getElementsByTagName("td");
+        var found = false;
+        for (j = 0; j < 2; j++) { // Title + Air Date
+            txtValue = td[j].textContent || td[j].innerText;
             if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                tr[i].style.display = "";
-            } else {
-                tr[i].style.display = "none";
+                found = true;
+                break;
             }
+        }
+        if (found) {
+            tr[i].style.display = "";
+        } else {
+            tr[i].style.display = "none";
         }
     }
 }
