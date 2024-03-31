@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Incomplete Uploads | Rooster Teeth Website Archival Progress</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="../images/favicon.png">
+    <meta name="description" content="Track the progress of the Rooster Teeth website archival effort">
+    <meta name="keywords" content="Rooster Teeth, RT, Archive, Internet Archive, Backup, Archival, Progress">
+    <meta name="author" content="shiruken">
+    <meta property="og:url" content="https://shiruken.github.io/rt-archive/incomplete/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Incomplete Uploads | Rooster Teeth Website Archival Progress">
+    <meta property="og:description" content="Track the progress of the Rooster Teeth website archival effort">
+    <meta property="og:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="shiruken.github.io">
+    <meta property="twitter:url" content="https://shiruken.github.io/rt-archive/incomplete/">
+    <meta name="twitter:title" content="Incomplete Uploads | Rooster Teeth Website Archival Progress">
+    <meta name="twitter:description" content="Track the progress of the Rooster Teeth website archival effort">
+    <meta name="twitter:image" content="https://shiruken.github.io/rt-archive/images/social.png">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/custom.css"/>
+</head>
+<body>
+    <noscript>
+        <h1 class="w3-container w3-center">JavaScript is required to view this website</h1>
+    </noscript>
+    <header class="w3-row w3-container w3-orange w3-text-white hidden">
+        <div class="w3-quarter">
+            <h4>
+                <a href="../" title="Back to All Shows" class="w3-hover-text-black">&larr; All Shows</a>
+            </h4>
+        </div>
+        <div class="w3-half w3-center">
+            <h1>Incomplete Uploads (<span id="count"></span>)<h1>
+        </div>
+    </header>
+    <div class="w3-auto hidden">
+        <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Title, Show, or Air Date" id="search" onkeyup="search()">
+        <table id="table_incomplete" class="w3-table-all">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Show</th>
+                    <th>Air Date</th>
+                    <th>Links</th>
+                    <th>FIRST</th>
+                    <th>Uploaded</th>
+                    <th>Complete</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div class="w3-section w3-padding">
+            <a href="incomplete.txt" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="incomplete.txt">Download list of all video URLs with incomplete uploads</a>
+        </div>
+        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+            <h6>Definitions</h6>
+            <ul>
+                <li><b>Incomplete:</b> Internet Archive uploads without the expected items</li>
+                <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
+                <li><b>Uploaded:</b> Video has been uploaded to Internet Archive</li>
+                <li><b>Complete:</b> Internet Archive upload contains all expected items</li>
+            </ul>
+        </div>
+    </div>
+    <div class="w3-container w3-center w3-text-gray hidden">
+        <p><a href="https://github.com/shiruken/rt-archive" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="https://github.com/shiruken/rt-archive">Source Code</a></p>
+    </div>
+    <script type="text/javascript">
+
+        window.onload = function() {
+            fetch("data.json")
+                .then((response) => response.json())
+                .then(processJSON);
+        };
+
+        function processJSON(json) {
+
+            // Populate Count
+            const count = document.getElementById("count");
+            count.textContent = json['count'].toLocaleString();
+
+            // Generate table
+            const data = json['data'];
+            const table = document.getElementById("table_incomplete");
+            const tbody = table.getElementsByTagName("tbody")[0];
+            Object.values(data).forEach(item => {
+                const row = document.createElement("tr");
+
+                const title = document.createElement("td");
+                title.textContent = item['title'];
+                row.append(title);
+
+                const show = document.createElement("td");
+                const show_link = document.createElement("a");
+                show_link.textContent = item['show'];
+                show_link.href = `../${item['show_slug']}/`;
+                show_link.title = `View archive status for '${item['show']}'`;
+                show_link.classList.add("w3-hover-text-red");
+                show.append(show_link);
+                row.append(show);
+
+                const air_date = document.createElement("td");
+                air_date.textContent = item['date'];
+                row.append(air_date);
+
+                const links = document.createElement("td");
+                const rt_link = document.createElement("a");
+                rt_link.textContent = "RT";
+                rt_link.href = `https://roosterteeth.com/watch/${item['slug']}`;
+                rt_link.target = "_blank";
+                rt_link.title = "View on Rooster Teeth";
+                rt_link.classList.add("w3-hover-text-red");
+                rt_link.setAttribute("data-umami-event", "outbound-link-click");
+                rt_link.setAttribute("data-umami-event-link", rt_link.href);
+                links.append(rt_link);
+                links.append(" · ");
+                const archive_link = document.createElement("a");
+                archive_link.textContent = "Archive";
+                archive_link.href = `https://archive.org/details/roosterteeth-${item['id']}`;
+                archive_link.target = "_blank";
+                archive_link.title = "View on Internet Archive";
+                archive_link.classList.add("w3-hover-text-red");
+                archive_link.setAttribute("data-umami-event", "outbound-link-click");
+                archive_link.setAttribute("data-umami-event-link", archive_link.href);
+                links.append(archive_link);
+                row.append(links);
+
+                const first = document.createElement("td");
+                first.textContent = item['is_first'] ? "⭐️" : "";
+                row.append(first);
+
+                const uploaded = document.createElement("td");
+                uploaded.textContent = "✅";
+                row.append(uploaded);
+
+                const completed = document.createElement("td");
+                completed.textContent = "❌";
+                row.append(completed);
+
+                tbody.append(row);
+            });
+
+            // Reveal everything once ready
+            const elements = document.getElementsByClassName("hidden");
+            Array.from(elements).forEach(element => {
+                element.classList.remove("hidden");
+            });
+        }
+
+        function search() {
+            var input, filter, table, tr, td, i, j;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("table_incomplete");
+            tbody = table.getElementsByTagName("tbody")[0];
+            tr = tbody.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td");
+                var found = false;
+                for (j = 0; j < 3; j++) { // Title + Show + Air Date
+                    txtValue = td[j].textContent || td[j].innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        found = true;
+                        break;
+                    }
+                }
+                if (found) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+
+    </script>
+    <script defer src="https://u.csullender.com/u.js" data-website-id="43288605-948a-4723-87c1-56c6d8ab63e2" data-domains="shiruken.github.io"></script>
+</body>
+</html>

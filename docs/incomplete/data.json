@@ -1,0 +1,446 @@
+{
+    "count": 49,
+    "data": [
+        {
+            "id": "52355",
+            "title": "Sonic Peanut Butter Bacon Burger & Shake",
+            "slug": "face-jam-2024-1-16",
+            "date": "2024-01-16",
+            "is_first": false,
+            "show": "Face Jam",
+            "show_slug": "face-jam"
+        },
+        {
+            "id": "51929",
+            "title": "Inside Gaming Plays Overwatch 2",
+            "slug": "lvl-up-season-1-inside-gaming-plays-overwatch-2",
+            "date": "2023-11-02",
+            "is_first": true,
+            "show": "LvL Up",
+            "show_slug": "lvl-up"
+        },
+        {
+            "id": "47777",
+            "title": "(UNCUT) The Road to Funhaus Wrestlemania Begins in WWE 2K22!",
+            "slug": "fullhaus-2022-fullwwe1",
+            "date": "2022-04-05",
+            "is_first": false,
+            "show": "Fullhaus",
+            "show_slug": "fullhaus"
+        },
+        {
+            "id": "46806",
+            "title": "Chip 'N Dale Rescue Rangers Trailer Reaction",
+            "slug": "screencast-2022-chip-n-dale-rescue-rangers-trailer-reaction",
+            "date": "2022-02-16",
+            "is_first": false,
+            "show": "Screencast",
+            "show_slug": "screencast"
+        },
+        {
+            "id": "46426",
+            "title": "We're All Superheros Now! | Super People w/ DigitalDunse | Live Gameplay",
+            "slug": "achievement-hunter-stream-archive-2022-super-people-1-3",
+            "date": "2022-01-05",
+            "is_first": false,
+            "show": "Achievement Hunter Stream Archive",
+            "show_slug": "achievement-hunter-stream-archive"
+        },
+        {
+            "id": "45354",
+            "title": "IHOP's Halloween Menu",
+            "slug": "face-jam-2021-50",
+            "date": "2021-09-27",
+            "is_first": false,
+            "show": "Face Jam",
+            "show_slug": "face-jam"
+        },
+        {
+            "id": "45113",
+            "title": "Minecraft: Big Snake",
+            "slug": "select-all-gaming-2021-9-6",
+            "date": "2021-09-06",
+            "is_first": false,
+            "show": "Select All Gaming",
+            "show_slug": "select-all-gaming"
+        },
+        {
+            "id": "45091",
+            "title": "Labor Day Challenge: Certified Cloacae Inspectors - Google Trends",
+            "slug": "google-trends-season-4-trendssept2021",
+            "date": "2021-09-03",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "44771",
+            "title": "Minecraft: Josh's Hole",
+            "slug": "select-all-gaming-2021-8-9",
+            "date": "2021-08-09",
+            "is_first": false,
+            "show": "Select All Gaming",
+            "show_slug": "select-all-gaming"
+        },
+        {
+            "id": "43110",
+            "title": "Chris Hates Valheim",
+            "slug": "select-all-gaming-2021-3-15",
+            "date": "2021-03-15",
+            "is_first": false,
+            "show": "Select All Gaming",
+            "show_slug": "select-all-gaming"
+        },
+        {
+            "id": "43109",
+            "title": "Taylor's Trench",
+            "slug": "select-all-gaming-2021-3-12",
+            "date": "2021-03-12",
+            "is_first": false,
+            "show": "Select All Gaming",
+            "show_slug": "select-all-gaming"
+        },
+        {
+            "id": "42705",
+            "title": "St. Patrick's Day Challenge: To Catch a Leprechaun - Google Trends Show",
+            "slug": "google-trends-season-4-trendspaddys",
+            "date": "2021-03-05",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "43106",
+            "title": "The Flower Dance",
+            "slug": "select-all-gaming-2021-3-1",
+            "date": "2021-03-01",
+            "is_first": false,
+            "show": "Select All Gaming",
+            "show_slug": "select-all-gaming"
+        },
+        {
+            "id": "43105",
+            "title": "The Elder",
+            "slug": "select-all-gaming-2021-2-26",
+            "date": "2021-02-26",
+            "is_first": false,
+            "show": "Select All Gaming",
+            "show_slug": "select-all-gaming"
+        },
+        {
+            "id": "41004",
+            "title": "Gremlins 2 HBO Max Watch Party",
+            "slug": "achievement-hunter-stream-archive-2020-watch-party-gremlins",
+            "date": "2020-11-01",
+            "is_first": false,
+            "show": "Achievement Hunter Stream Archive",
+            "show_slug": "achievement-hunter-stream-archive"
+        },
+        {
+            "id": "40960",
+            "title": "PS5: How Excited Are You? - Ep. 40",
+            "slug": "ps-i-love-you-xoxo-2020-ps5-how-excited-are-you-ep-40",
+            "date": "2020-10-29",
+            "is_first": false,
+            "show": "PS I Love You XOXO",
+            "show_slug": "ps-i-love-you-xoxo"
+        },
+        {
+            "id": "38730",
+            "title": "Snyder Cut Challenge: Release the Owls of Ga'Hoole! - Google Trends Show",
+            "slug": "google-trends-season-3-trendscut",
+            "date": "2020-06-05",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "37851",
+            "title": "Netflix Challenge: We Have No Chill - Google Trends Show",
+            "slug": "google-trends-season-3-trendsflix",
+            "date": "2020-05-01",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "37401",
+            "title": "Animal Crossing Challenge: Tanuki Anatomy 101 - Google Trends Show",
+            "slug": "google-trends-season-3-trendscrossing",
+            "date": "2020-04-03",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "36657",
+            "title": "Valentine's Day Challenge: Enter The TrendBlaster - Google Trends Show",
+            "slug": "google-trends-season-3-trendsvday",
+            "date": "2020-01-31",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "36097",
+            "title": "Full Blown Arcades (UNCUT) - The Coin Game Funny Moments",
+            "slug": "fullhaus-2019-fullcoin",
+            "date": "2019-12-17",
+            "is_first": false,
+            "show": "Fullhaus",
+            "show_slug": "fullhaus"
+        },
+        {
+            "id": "35063",
+            "title": "Rockstar Creates Another Damn Launcher",
+            "slug": "igru-09-21-19",
+            "date": "2019-09-21",
+            "is_first": false,
+            "show": "Inside Gaming Roundup",
+            "show_slug": "news-roundups"
+        },
+        {
+            "id": "34331",
+            "title": "Hobbs and Shaw Challenge: Are They in Outer Space Yet? - Google Trends Show",
+            "slug": "trendshobbs",
+            "date": "2019-08-02",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "34269",
+            "title": "Once Upon A Time In Hollywood Review (Ep. 29)",
+            "slug": "screencast-2019-once-upon-a-time-in-hollywood-review-kinda-funny-screencast-ep-29",
+            "date": "2019-07-27",
+            "is_first": false,
+            "show": "Screencast",
+            "show_slug": "screencast"
+        },
+        {
+            "id": "33998",
+            "title": "Spider-Man Challenge: What's A Powerman 5000? - Google Trends Show",
+            "slug": "gameplay-2019-trendsspidey",
+            "date": "2019-07-05",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "33505",
+            "title": "XBOX vs Cyberpunk Challenge: We Love Big Capitalism - Google Trends Show",
+            "slug": "gameplay-2019-trendse3",
+            "date": "2019-06-01",
+            "is_first": false,
+            "show": "Google Trends",
+            "show_slug": "google-trends"
+        },
+        {
+            "id": "31533",
+            "title": "THE ABSOLUTE GRINDER - Ultimate Chicken Horse (#16)",
+            "slug": "let-s-play-2019-chicken-horse",
+            "date": "2019-02-20",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "28553",
+            "title": "Awkward Hands - Strange Brigade",
+            "slug": "let-s-play-2018-awkward-hands-strange-brigade-with-nick-scarpino",
+            "date": "2018-09-10",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "27602",
+            "title": "Games Done Slow - Biohazard 4",
+            "slug": "fullhaus-2018-games-done-slow-biohazard-4",
+            "date": "2018-06-28",
+            "is_first": false,
+            "show": "Fullhaus",
+            "show_slug": "fullhaus"
+        },
+        {
+            "id": "26568",
+            "title": "Fore Honor - Golf It! - Rainbow Cannonballs! (#10)",
+            "slug": "let-s-play-2018-fore-honor-golf-it",
+            "date": "2018-04-20",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "23667",
+            "title": "It's Quiz Time",
+            "slug": "let-s-play-2017-it-s-quiz-time",
+            "date": "2018-01-15",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "7053",
+            "title": "Thor VS Wonder Woman (Marvel VS DC Comics)",
+            "slug": "death-battle-season-4-thor-vs-wonder-woman-marvel-vs-dc-comics",
+            "date": "2017-10-18",
+            "is_first": false,
+            "show": "DEATH BATTLE!",
+            "show_slug": "death-battle"
+        },
+        {
+            "id": "1291",
+            "title": "FANS ROAST COW CHOP \u2022 WRONG SIDE OF YOUTUBE",
+            "slug": "wrong-side-of-you-tube-2016-fans-roast-cow-chop",
+            "date": "2017-09-09",
+            "is_first": false,
+            "show": "Wrong Side of YouTube",
+            "show_slug": "wrong-side-of-you-tube"
+        },
+        {
+            "id": "152",
+            "title": "That's Why the Way I Am - Last Call #74",
+            "slug": "off-topic-the-achievement-hunter-podcast-2017-last-call-74-alfwjw3",
+            "date": "2017-04-30",
+            "is_first": true,
+            "show": "Off Topic: Last Call",
+            "show_slug": "last-call"
+        },
+        {
+            "id": "3662",
+            "title": "All the Cute Boys and Girls - #21",
+            "slug": "fan-service-2017-21-oi744hk",
+            "date": "2017-04-08",
+            "is_first": false,
+            "show": "Fan Service",
+            "show_slug": "fan-service"
+        },
+        {
+            "id": "8411",
+            "title": "Nintendo Switch Launch: SUCCESS OR FAILURE?",
+            "slug": "game-news-2017-retailers-are-happy-with-switch-but-some-people-are-having-hardware-probs",
+            "date": "2017-03-07",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "9458",
+            "title": "Gavin Forgot The Podcast - #415",
+            "slug": "rt-podcast-2017-415-na97ah",
+            "date": "2017-02-14",
+            "is_first": false,
+            "show": "Rooster Teeth Podcast",
+            "show_slug": "rt-podcast"
+        },
+        {
+            "id": "9217",
+            "title": "Professor Oak Still Bangs Your Mom - #182",
+            "slug": "the-patch-2016-182-bs6alu",
+            "date": "2016-11-17",
+            "is_first": false,
+            "show": "The Patch",
+            "show_slug": "the-patch"
+        },
+        {
+            "id": "2191",
+            "title": "Get to Know... RECORE",
+            "slug": "past-livestreams-2016-get-to-know-recore",
+            "date": "2016-09-18",
+            "is_first": false,
+            "show": "Past Livestreams",
+            "show_slug": "past-livestreams"
+        },
+        {
+            "id": "22759",
+            "title": "Grab Bag - MORE Rainbow Six: Siege BETA - Terrorist Hunt",
+            "slug": "achievement-hunter-season-2-grab-bag-more-rainbow-six-siege-beta-terrorist-hunt",
+            "date": "2015-11-22",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "11809",
+            "title": "RvB Easter Egg Number 10",
+            "slug": "easter-eggs-2013-5",
+            "date": "2013-02-19",
+            "is_first": false,
+            "show": "Easter Eggs",
+            "show_slug": "easter-eggs"
+        },
+        {
+            "id": "4444",
+            "title": "Video Game Vault - Whomp 'Em",
+            "slug": "video-game-vault-whomp-em",
+            "date": "2011-08-22",
+            "is_first": false,
+            "show": "Video Game Vault",
+            "show_slug": "video-game-vault"
+        },
+        {
+            "id": "4433",
+            "title": "Video Game Vault - Ghosts 'n Goblins",
+            "slug": "video-game-vault-ghosts-n-goblins",
+            "date": "2011-08-22",
+            "is_first": false,
+            "show": "Video Game Vault",
+            "show_slug": "video-game-vault"
+        },
+        {
+            "id": "4412",
+            "title": "Video Game Vault - Sonic the Hedgehog 2",
+            "slug": "video-game-vault-sonic-the-hedgehog-2",
+            "date": "2011-08-19",
+            "is_first": false,
+            "show": "Video Game Vault",
+            "show_slug": "video-game-vault"
+        },
+        {
+            "id": "4411",
+            "title": "Video Game Vault - Sonic the Hedgehog",
+            "slug": "video-game-vault-sonic-the-hedgehog",
+            "date": "2011-08-19",
+            "is_first": false,
+            "show": "Video Game Vault",
+            "show_slug": "video-game-vault"
+        },
+        {
+            "id": "4422",
+            "title": "Video Game Vault - Battleship",
+            "slug": "video-game-vault-battleship",
+            "date": "2011-08-18",
+            "is_first": false,
+            "show": "Video Game Vault",
+            "show_slug": "video-game-vault"
+        },
+        {
+            "id": "4277",
+            "title": "Video Game Vault - Track & Field II",
+            "slug": "video-game-vault-track-field-ii",
+            "date": "2011-08-16",
+            "is_first": false,
+            "show": "Video Game Vault",
+            "show_slug": "video-game-vault"
+        },
+        {
+            "id": "4686",
+            "title": "Top 10 Cartoon Games",
+            "slug": "top-10-cartoon-games",
+            "date": "2011-08-15",
+            "is_first": false,
+            "show": "ScrewAttack Presents: Top 10",
+            "show_slug": "top-10s"
+        },
+        {
+            "id": "21839",
+            "title": "Fatalities Part 5",
+            "slug": "achievement-hunter-achievement-hunter-fatalities-part-5",
+            "date": "2011-04-22",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        }
+    ]
+}
