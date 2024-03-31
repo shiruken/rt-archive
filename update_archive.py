@@ -73,7 +73,7 @@ def identify_missing_incomplete():
             fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
 
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
-    with open("data/incomplete.csv", "w") as fp:
+    with open("data/incomplete_urls.csv", "w") as fp:
         writer = csv.writer(fp)
         writer.writerow(['archive_url', 'rt_url'])
         for item in incomplete:
