@@ -8,5 +8,10 @@ header div.w3-quarter {
     margin-top: 12px;
 }
 table th:first-child {
-    width: 570px;
+    width: 50%;
+}
+@media (max-width: 1205px) {
+    table th:first-child {
+        width: 40%;
+    }
 }
