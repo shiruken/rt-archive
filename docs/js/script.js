@@ -74,15 +74,6 @@ function processJSON(json) {
         tbody.append(row);
     });
 
-    // Generate Internet Archive search link
-    const search_url = new URL("https://archive.org/search/");
-    const query = `scanner:"Roosterteeth Website Mirror" AND show_title:"${json['show']}"`;
-    search_url.searchParams.append("query", query);
-    search_url.searchParams.append("sort", "-date");
-    const search = document.getElementById("archive_search");
-    search.href = search_url.href;
-    search.setAttribute("data-umami-event-link", search.href);
-
     // Reveal everything once ready
     const elements = document.getElementsByClassName("hidden");
     Array.from(elements).forEach(element => {
