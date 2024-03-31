@@ -51,6 +51,11 @@ def update_watch():
             item['attributes']['is_sponsors_only'],
         ])
 
+    with open("data/urls.csv", "w") as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['archive_url', 'rt_url'])
+        writer.writerows(url_map.items())
+
     with open("data/rt_urls.txt", "w") as fp:
         print(*url_map.values(), sep="\n", file=fp)
 
