@@ -200,6 +200,19 @@ def generate_website():
     with open("docs/data.json", "w") as fp:
         json.dump(output, fp, indent=4)
 
+    # Generate missing page
+    df_missing = df[~df['is_uploaded'] & ~df['is_removed']].copy()
+    df_missing['rt_url'] = df_missing['rt_url'].str.replace(r'https://roosterteeth.com/watch/', "")
+    df_missing = df_missing.merge(df_show_slugs, left_on="show", right_index=True)
+    df_missing.rename(columns={'rt_id': 'id', 'rt_url': 'slug', 'slug': 'show_slug'}, inplace=True)
+    df_missing = df_missing[['title', 'slug', 'date', 'is_first', 'show', 'show_slug']]
+    output = {
+        "count": df_missing.shape[0],
+        "data": df_missing.to_dict(orient="records"),
+    }
+    with open("docs/missing/data.json", "w") as fp:
+        json.dump(output, fp, indent=4)
+
 
 class MyTemplate(Template):
     delimiter = '$$'

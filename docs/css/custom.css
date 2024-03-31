@@ -7,6 +7,14 @@ header a {
 header div.w3-quarter {
     margin-top: 12px;
 }
+div#summary a {
+    text-decoration: none;
+    border-bottom: 2px dotted #FFFFFF;
+}
+div#summary a:hover {
+    color: #000000;
+    border-bottom-color: #000000;
+}
 table th:first-child {
     width: 50%;
 }
@@ -14,4 +22,10 @@ table th:first-child {
     table th:first-child {
         width: 40%;
     }
+}
+#table_missing th:nth-child(1) {
+    width: 40%;
+}
+#table_missing th:nth-child(2) {
+    width: 20%;
 }
