@@ -100,7 +100,7 @@ function search() {
     var input, filter, table, tr, td, i;
     input = document.getElementById("search");
     filter = input.value.toUpperCase();
-    table = document.getElementById("showTable");
+    table = document.getElementById("table");
     tbody = table.getElementsByTagName("tbody")[0];
     tr = tbody.getElementsByTagName("tr");
     for (i = 0; i < tr.length; i++) {
