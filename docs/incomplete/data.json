@@ -1,5 +1,5 @@
 {
-    "count": 35,
+    "count": 28,
     "data": [
         {
             "id": "52355",
@@ -65,28 +65,10 @@
             "show_slug": "select-all-gaming"
         },
         {
-            "id": "42705",
-            "title": "St. Patrick's Day Challenge: To Catch a Leprechaun - Google Trends Show",
-            "slug": "google-trends-season-4-trendspaddys",
-            "date": "2021-03-05",
-            "is_first": false,
-            "show": "Google Trends",
-            "show_slug": "google-trends"
-        },
-        {
             "id": "43106",
             "title": "The Flower Dance",
             "slug": "select-all-gaming-2021-3-1",
             "date": "2021-03-01",
-            "is_first": false,
-            "show": "Select All Gaming",
-            "show_slug": "select-all-gaming"
-        },
-        {
-            "id": "43105",
-            "title": "The Elder",
-            "slug": "select-all-gaming-2021-2-26",
-            "date": "2021-02-26",
             "is_first": false,
             "show": "Select All Gaming",
             "show_slug": "select-all-gaming"
@@ -99,15 +81,6 @@
             "is_first": false,
             "show": "PS I Love You XOXO",
             "show_slug": "ps-i-love-you-xoxo"
-        },
-        {
-            "id": "37851",
-            "title": "Netflix Challenge: We Have No Chill - Google Trends Show",
-            "slug": "google-trends-season-3-trendsflix",
-            "date": "2020-05-01",
-            "is_first": false,
-            "show": "Google Trends",
-            "show_slug": "google-trends"
         },
         {
             "id": "37401",
@@ -137,15 +110,6 @@
             "show_slug": "fullhaus"
         },
         {
-            "id": "34269",
-            "title": "Once Upon A Time In Hollywood Review (Ep. 29)",
-            "slug": "screencast-2019-once-upon-a-time-in-hollywood-review-kinda-funny-screencast-ep-29",
-            "date": "2019-07-27",
-            "is_first": false,
-            "show": "Screencast",
-            "show_slug": "screencast"
-        },
-        {
             "id": "33505",
             "title": "XBOX vs Cyberpunk Challenge: We Love Big Capitalism - Google Trends Show",
             "slug": "gameplay-2019-trendse3",
@@ -159,24 +123,6 @@
             "title": "THE ABSOLUTE GRINDER - Ultimate Chicken Horse (#16)",
             "slug": "let-s-play-2019-chicken-horse",
             "date": "2019-02-20",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
-            "id": "27602",
-            "title": "Games Done Slow - Biohazard 4",
-            "slug": "fullhaus-2018-games-done-slow-biohazard-4",
-            "date": "2018-06-28",
-            "is_first": false,
-            "show": "Fullhaus",
-            "show_slug": "fullhaus"
-        },
-        {
-            "id": "26568",
-            "title": "Fore Honor - Golf It! - Rainbow Cannonballs! (#10)",
-            "slug": "let-s-play-2018-fore-honor-golf-it",
-            "date": "2018-04-20",
             "is_first": false,
             "show": "Let's Play",
             "show_slug": "lets-play"
@@ -225,15 +171,6 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
-        },
-        {
-            "id": "9458",
-            "title": "Gavin Forgot The Podcast - #415",
-            "slug": "rt-podcast-2017-415-na97ah",
-            "date": "2017-02-14",
-            "is_first": false,
-            "show": "Rooster Teeth Podcast",
-            "show_slug": "rt-podcast"
         },
         {
             "id": "2191",
