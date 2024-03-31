@@ -5,7 +5,7 @@
         "count": 519,
         "uploaded": 518,
         "missing": 1,
-        "incomplete": 1,
+        "incomplete": 0,
         "removed": 0
     },
     "data": [
@@ -1326,7 +1326,7 @@
             "date": "2019-11-01",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
