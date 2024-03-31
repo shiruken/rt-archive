@@ -1,5 +1,5 @@
 {
-    "count": 49,
+    "count": 40,
     "data": [
         {
             "id": "52355",
@@ -56,15 +56,6 @@
             "show_slug": "face-jam"
         },
         {
-            "id": "45113",
-            "title": "Minecraft: Big Snake",
-            "slug": "select-all-gaming-2021-9-6",
-            "date": "2021-09-06",
-            "is_first": false,
-            "show": "Select All Gaming",
-            "show_slug": "select-all-gaming"
-        },
-        {
             "id": "45091",
             "title": "Labor Day Challenge: Certified Cloacae Inspectors - Google Trends",
             "slug": "google-trends-season-4-trendssept2021",
@@ -78,15 +69,6 @@
             "title": "Minecraft: Josh's Hole",
             "slug": "select-all-gaming-2021-8-9",
             "date": "2021-08-09",
-            "is_first": false,
-            "show": "Select All Gaming",
-            "show_slug": "select-all-gaming"
-        },
-        {
-            "id": "43110",
-            "title": "Chris Hates Valheim",
-            "slug": "select-all-gaming-2021-3-15",
-            "date": "2021-03-15",
             "is_first": false,
             "show": "Select All Gaming",
             "show_slug": "select-all-gaming"
@@ -128,15 +110,6 @@
             "show_slug": "select-all-gaming"
         },
         {
-            "id": "41004",
-            "title": "Gremlins 2 HBO Max Watch Party",
-            "slug": "achievement-hunter-stream-archive-2020-watch-party-gremlins",
-            "date": "2020-11-01",
-            "is_first": false,
-            "show": "Achievement Hunter Stream Archive",
-            "show_slug": "achievement-hunter-stream-archive"
-        },
-        {
             "id": "40960",
             "title": "PS5: How Excited Are You? - Ep. 40",
             "slug": "ps-i-love-you-xoxo-2020-ps5-how-excited-are-you-ep-40",
@@ -144,15 +117,6 @@
             "is_first": false,
             "show": "PS I Love You XOXO",
             "show_slug": "ps-i-love-you-xoxo"
-        },
-        {
-            "id": "38730",
-            "title": "Snyder Cut Challenge: Release the Owls of Ga'Hoole! - Google Trends Show",
-            "slug": "google-trends-season-3-trendscut",
-            "date": "2020-06-05",
-            "is_first": false,
-            "show": "Google Trends",
-            "show_slug": "google-trends"
         },
         {
             "id": "37851",
@@ -191,24 +155,6 @@
             "show_slug": "fullhaus"
         },
         {
-            "id": "35063",
-            "title": "Rockstar Creates Another Damn Launcher",
-            "slug": "igru-09-21-19",
-            "date": "2019-09-21",
-            "is_first": false,
-            "show": "Inside Gaming Roundup",
-            "show_slug": "news-roundups"
-        },
-        {
-            "id": "34331",
-            "title": "Hobbs and Shaw Challenge: Are They in Outer Space Yet? - Google Trends Show",
-            "slug": "trendshobbs",
-            "date": "2019-08-02",
-            "is_first": false,
-            "show": "Google Trends",
-            "show_slug": "google-trends"
-        },
-        {
             "id": "34269",
             "title": "Once Upon A Time In Hollywood Review (Ep. 29)",
             "slug": "screencast-2019-once-upon-a-time-in-hollywood-review-kinda-funny-screencast-ep-29",
@@ -240,15 +186,6 @@
             "title": "THE ABSOLUTE GRINDER - Ultimate Chicken Horse (#16)",
             "slug": "let-s-play-2019-chicken-horse",
             "date": "2019-02-20",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
-            "id": "28553",
-            "title": "Awkward Hands - Strange Brigade",
-            "slug": "let-s-play-2018-awkward-hands-strange-brigade-with-nick-scarpino",
-            "date": "2018-09-10",
             "is_first": false,
             "show": "Let's Play",
             "show_slug": "lets-play"
@@ -335,15 +272,6 @@
             "show_slug": "rt-podcast"
         },
         {
-            "id": "9217",
-            "title": "Professor Oak Still Bangs Your Mom - #182",
-            "slug": "the-patch-2016-182-bs6alu",
-            "date": "2016-11-17",
-            "is_first": false,
-            "show": "The Patch",
-            "show_slug": "the-patch"
-        },
-        {
             "id": "2191",
             "title": "Get to Know... RECORE",
             "slug": "past-livestreams-2016-get-to-know-recore",
@@ -360,15 +288,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "11809",
-            "title": "RvB Easter Egg Number 10",
-            "slug": "easter-eggs-2013-5",
-            "date": "2013-02-19",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
         },
         {
             "id": "4444",
