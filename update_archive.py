@@ -10,7 +10,9 @@ from string import Template
 def identify_missing_incomplete():
     """Identify missing and incomplete Rooster Teeth videos from the Internet Archive
     - Missing video URLs: `data/missing.txt`
-    - Incomplete upload URLs: `data/incomplete_rt.txt` and `data/incomplete_archive.txt`
+    - Incomplete Upload URLs (`data/incomplete.csv`)
+      - Rooster Teeth URLs only: `data/incomplete_rt.txt`
+      - Internet Archive URLs only: `data/incomplete_archive.txt`
     """
     url = "https://archive.org/services/search/v1/scrape"
     query = {
@@ -71,6 +73,14 @@ def identify_missing_incomplete():
             fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
 
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
+    with open("data/incomplete.csv", "w") as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['archive_url', 'rt_url'])
+        for item in incomplete:
+            writer.writerow([
+                f"https://archive.org/details/{item}",
+                f"{rt_urls[archive_ids.index(item)]}"
+            ])
     with open("data/incomplete_rt_urls.txt", "w") as fp:
         for item in incomplete:
             fp.write(f"{rt_urls[archive_ids.index(item)]}\n")

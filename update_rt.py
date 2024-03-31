@@ -10,9 +10,10 @@ from pathlib import Path
 def update_watch():
     """Mirror the Rooster Teeth API /watch endpoint
     - Generates listings for:
-      - Every Rooster Teeth website video URL (`data/rt_urls.txt`)
-      - Every Internet Archive item URL (`data/archive_urls.txt`)
-      - Show slug mapping (`data/shows.csv`)
+      - Internet Archive URL <-> Rooster Teeth URL Mapping (`data/urls.csv`)
+        - Rooster Teeth URLs only (`data/rt_urls.txt`)
+        - Internet Archive URLs only (`data/archive_urls.txt`)
+      - Show Title <-> Show Slug mapping (`data/shows.csv`)
     - Writes intermediary file for RT Archival Checklist (`data/.temp.csv`)
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
