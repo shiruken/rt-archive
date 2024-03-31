@@ -40,6 +40,8 @@ This endpoint lists every episode published on the Rooster Teeth website, *exclu
 
 This endpoint lists every show published on the Rooster Teeth website.
 
+*Note: This endpoint is **supposed** to list every show published on the website, however it is missing seven shows that appear in the `/watch` endpoint: Inside Gaming Daily, Inside Gaming Explains, Inside Gaming Features, Inside Gaming Live!, Inside Gaming Podcast, Inside Gaming Reviews, and Inside Gaming Special.*
+
 * Original: https://svod-be.roosterteeth.com/api/v1/shows
 * Mirror: https://archive.org/download/roosterteeth-api/api/v1/shows.json
 
@@ -56,17 +58,17 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 
 *Updated every hour at minute 30*
 
-* [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive (includes 'dark' uploads).
-* [`incomplete_urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_urls.csv): Internet Archive and corresponding Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive.
-  * [`incomplete_rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_rt_urls.txt): Rooster Teeth URLs only.
-  * [`incomplete_archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_archive_urls.txt): Internet Archive URLs only.
+* [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive (includes 'dark' uploads)
+* [`incomplete_urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_urls.csv): Internet Archive and corresponding Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive
+  * [`incomplete_rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_rt_urls.txt): Rooster Teeth URLs only
+  * [`incomplete_archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_archive_urls.txt): Internet Archive URLs only
 
 *Updated every 4 hours on the hour*
 
 * [`urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/urls.csv): Mapping between Internet Archive URLs and Rooster Teeth URLs for every video
-  * [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs only.
-  * [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs only.
-* [`shows.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/shows.csv): Mapping between show titles and URL slugs.
+  * [`rt_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/rt_urls.txt): Rooster Teeth URLs only
+  * [`archive_urls.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/archive_urls.txt): Internet Archive URLs only
+* [`shows.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/shows.csv): Mapping between show titles and URL slugs
 * [`checklist.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/checklist.csv): Data formatted for the [RT Archival Checklist](https://docs.google.com/spreadsheets/d/17Vqd_xYLh-xma_nw_TkeFexzQ2sZ4uEntibiZB8KlRI/preview)
 
 *Updated daily at 00:45*
