@@ -228,6 +228,23 @@ def generate_website():
     with open("docs/incomplete/data.json", "w") as fp:
         json.dump(output, fp, indent=4)
 
+    # Generate data for removed page
+    df_removed = df[df['is_removed']].copy()
+    df_removed['rt_url'] = df_removed['rt_url'].str.replace(r'https://roosterteeth.com/watch/', "")
+    df_removed = df_removed.merge(df_show_slugs, left_on="show", right_index=True)
+    df_removed.rename(columns={'rt_id': 'id', 'rt_url': 'slug', 'slug': 'show_slug'}, inplace=True)
+    df_removed = df_removed[['id', 'title', 'slug', 'date', 'is_first', 'show', 'show_slug']]
+    output = {
+        "count": df_removed.shape[0],
+        "data": df_removed.to_dict(orient="records"),
+    }
+    with open("docs/removed/data.json", "w") as fp:
+        json.dump(output, fp, indent=4)
+    df_archive_links = "https://archive.org/details/roosterteeth-" + df_removed['id']
+    df_rt_links = "https://roosterteeth.com/watch/" + df_removed['slug']
+    df_links = pd.concat([df_archive_links, df_rt_links], axis=1, keys=['archive_url', 'rt_url'])
+    df_links.to_csv("docs/removed/removed.csv", index=False)
+
 
 class MyTemplate(Template):
     delimiter = '$$'

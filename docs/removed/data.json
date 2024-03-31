@@ -1,0 +1,23 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "id": "47608",
+            "title": "The Grand Guignol",
+            "slug": "gen-lock-season-2-5",
+            "date": "2022-03-23",
+            "is_first": true,
+            "show": "gen:LOCK",
+            "show_slug": "gen-lock"
+        },
+        {
+            "id": "39008",
+            "title": "DONKEY PATROL",
+            "slug": "doom-patrol-2020-ep-2",
+            "date": "2020-06-23",
+            "is_first": false,
+            "show": "Doom Patrol",
+            "show_slug": "doom-patrol"
+        }
+    ]
+}
