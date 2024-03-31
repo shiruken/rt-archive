@@ -3,8 +3,8 @@
     "slug": "dogbark-plays",
     "summary": {
         "count": 31,
-        "uploaded": 30,
-        "missing": 1,
+        "uploaded": 31,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "dogbark-plays-season-2-the-game-is-out-to-get-us",
             "date": "2024-03-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

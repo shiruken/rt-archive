@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42506,
-        "uploaded": 40631,
-        "missing": 1875,
-        "incomplete": 70,
+        "uploaded": 40634,
+        "missing": 1872,
+        "incomplete": 65,
         "removed": 2
     },
     "data": [
@@ -299,8 +299,8 @@
             "show": "Best Friends Simulator",
             "slug": "best-friends-simulator",
             "count": 30,
-            "uploaded": 29,
-            "missing": 1,
+            "uploaded": 30,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -848,8 +848,8 @@
             "show": "Dogbark Plays",
             "slug": "dogbark-plays",
             "count": 31,
-            "uploaded": 30,
-            "missing": 1,
+            "uploaded": 31,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1415,8 +1415,8 @@
             "show": "Gameplay",
             "slug": "gameplay",
             "count": 1876,
-            "uploaded": 1870,
-            "missing": 6,
+            "uploaded": 1871,
+            "missing": 5,
             "incomplete": 0,
             "removed": 0
         },
@@ -1498,7 +1498,7 @@
             "count": 76,
             "uploaded": 76,
             "missing": 0,
-            "incomplete": 11,
+            "incomplete": 10,
             "removed": 0
         },
         {
@@ -2074,7 +2074,7 @@
             "count": 2149,
             "uploaded": 2115,
             "missing": 34,
-            "incomplete": 5,
+            "incomplete": 4,
             "removed": 0
         },
         {
@@ -3163,7 +3163,7 @@
             "count": 82,
             "uploaded": 82,
             "missing": 0,
-            "incomplete": 13,
+            "incomplete": 10,
             "removed": 0
         },
         {

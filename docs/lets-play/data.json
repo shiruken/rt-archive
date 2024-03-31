@@ -5,7 +5,7 @@
         "count": 2149,
         "uploaded": 2115,
         "missing": 34,
-        "incomplete": 5,
+        "incomplete": 4,
         "removed": 0
     },
     "data": [
@@ -3926,7 +3926,7 @@
             "date": "2021-03-04",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
