@@ -15,7 +15,8 @@ div#summary a:hover {
     color: #000000;
     border-bottom-color: #000000;
 }
-table th:first-child {
+#table_shows th:first-child,
+#table_show th:first-child {
     width: 50%;
 }
 #table_missing th:first-child {
@@ -31,7 +32,8 @@ table th:first-child {
     width: 20%;
 }
 @media (max-width: 1205px) {
-    table th:first-child {
+    #table_shows th:first-child,
+    #table_show th:first-child {
         width: 40%;
     }
     #table_incomplete th:nth-child(2),

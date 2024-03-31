@@ -56,7 +56,7 @@
     </div>
     <div class="w3-auto hidden">
         <input class="w3-input w3-border w3-padding w3-section w3-half" type="text" placeholder="Filter by Show" id="search" onkeyup="search()">
-        <table id="table" class="w3-table-all">
+        <table id="table_shows" class="w3-table-all">
             <thead>
                 <tr>
                     <th>Show</th>
@@ -106,7 +106,7 @@
 
             // Generate table
             const data = json['data'];
-            const table = document.getElementById("table");
+            const table = document.getElementById("table_shows");
             const tbody = table.getElementsByTagName("tbody")[0];
             Object.values(data).forEach(item => {
                 const row = document.createElement("tr");
@@ -153,7 +153,7 @@
             var input, filter, table, tr, td, i;
             input = document.getElementById("search");
             filter = input.value.toUpperCase();
-            table = document.getElementById("table");
+            table = document.getElementById("table_shows");
             tbody = table.getElementsByTagName("tbody")[0];
             tr = tbody.getElementsByTagName("tr");
             for (i = 0; i < tr.length; i++) {

@@ -14,7 +14,7 @@ function processJSON(json) {
 
     // Generate table
     const data = json['data'];
-    const table = document.getElementById("table");
+    const table = document.getElementById("table_show");
     const tbody = table.getElementsByTagName("tbody")[0];
     Object.values(data).forEach(item => {
         const row = document.createElement("tr");
@@ -91,7 +91,7 @@ function search() {
     var input, filter, table, tr, td, i, j;
     input = document.getElementById("search");
     filter = input.value.toUpperCase();
-    table = document.getElementById("table");
+    table = document.getElementById("table_show");
     tbody = table.getElementsByTagName("tbody")[0];
     tr = tbody.getElementsByTagName("tr");
     for (i = 0; i < tr.length; i++) {
