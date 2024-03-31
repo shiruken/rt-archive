@@ -202,7 +202,7 @@ def generate_website():
 
     # Generate data for missing page
     df_missing = df[~df['is_uploaded'] & ~df['is_removed']].copy()
-    df_missing['rt_url'].to_csv("docs/missing/missing.txt", index=False, header=False)
+    df_missing['rt_url'].to_csv("docs/missing/missing.csv", index=False)
     df_missing['rt_url'] = df_missing['rt_url'].str.replace(r'https://roosterteeth.com/watch/', "")
     df_missing = df_missing.merge(df_show_slugs, left_on="show", right_index=True)
     df_missing.rename(columns={'rt_id': 'id', 'rt_url': 'slug', 'slug': 'show_slug'}, inplace=True)
@@ -216,7 +216,6 @@ def generate_website():
 
     # Generate data for incomplete page
     df_incomplete = df[~df['is_complete_upload'] & df['is_uploaded']& ~df['is_removed']].copy()
-    df_incomplete['rt_url'].to_csv("docs/incomplete/incomplete.txt", index=False, header=False)
     df_incomplete['rt_url'] = df_incomplete['rt_url'].str.replace(r'https://roosterteeth.com/watch/', "")
     df_incomplete = df_incomplete.merge(df_show_slugs, left_on="show", right_index=True)
     df_incomplete.rename(columns={'rt_id': 'id', 'rt_url': 'slug', 'slug': 'show_slug'}, inplace=True)
@@ -227,6 +226,10 @@ def generate_website():
     }
     with open("docs/incomplete/data.json", "w") as fp:
         json.dump(output, fp, indent=4)
+    df_archive_links = "https://archive.org/details/roosterteeth-" + df_incomplete['id']
+    df_rt_links = "https://roosterteeth.com/watch/" + df_incomplete['slug']
+    df_links = pd.concat([df_archive_links, df_rt_links], axis=1, keys=['archive_url', 'rt_url'])
+    df_links.to_csv("docs/incomplete/incomplete.csv", index=False)
 
     # Generate data for removed page
     df_removed = df[df['is_removed']].copy()
