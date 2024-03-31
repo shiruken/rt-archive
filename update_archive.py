@@ -4,6 +4,7 @@ import re
 import csv
 import pandas as pd
 import json
+from pathlib import Path
 from string import Template
 
 
@@ -162,6 +163,7 @@ def generate_website():
             "summary": summary.to_dict(),
             "data": df.to_dict(orient="records"),
         }
+        Path(f"docs/{show_slug}/").mkdir(parents=True, exist_ok=True)
         with open(f"docs/{show_slug}/data.json", "w") as fp:
             json.dump(output, fp, indent=4)
 
