@@ -1,6 +1,22 @@
 {
-    "count": 1872,
+    "count": 1874,
     "data": [
+        {
+            "title": "ANMA80",
+            "slug": "anma-podcast-2024-anma80",
+            "date": "2024-04-01",
+            "is_first": false,
+            "show": "ANMA Podcast",
+            "show_slug": "anma-podcast"
+        },
+        {
+            "title": "The True Story of the Conjuring House | Old Arnold Estate",
+            "slug": "red-web-2024-4-1",
+            "date": "2024-04-01",
+            "is_first": false,
+            "show": "Red Web",
+            "show_slug": "red-web"
+        },
         {
             "title": "EA Cancels Secret Titanfall Game & Nintendo Direct Incoming?! - Kinda Funny Games Daily 02.02.23",
             "slug": "kinda-funny-games-daily-2023-e3-cancels-secret-titanfall-game-nintendo-direct-incoming",
