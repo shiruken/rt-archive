@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42510,
-        "uploaded": 40638,
-        "missing": 1872,
+        "count": 42512,
+        "uploaded": 40637,
+        "missing": 1875,
         "incomplete": 8,
         "removed": 2
     },
@@ -848,8 +848,8 @@
             "show": "Dogbark Plays",
             "slug": "dogbark-plays",
             "count": 31,
-            "uploaded": 31,
-            "missing": 0,
+            "uploaded": 30,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -1693,9 +1693,9 @@
         {
             "show": "Hypothetical Nonsense",
             "slug": "hypothetical-nonsense",
-            "count": 31,
+            "count": 32,
             "uploaded": 31,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -2836,9 +2836,9 @@
         {
             "show": "Rooster Teeth Podcast",
             "slug": "rt-podcast",
-            "count": 707,
+            "count": 708,
             "uploaded": 707,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },

@@ -2,13 +2,23 @@
     "show": "Hypothetical Nonsense",
     "slug": "hypothetical-nonsense",
     "summary": {
-        "count": 31,
+        "count": 32,
         "uploaded": 31,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Did Rick and Morty Fall Off?",
+            "id": "52764",
+            "slug": "hypothetical-nonsense-season-1-rick-morty",
+            "date": "2024-04-01",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Our Biggest Fears (ft. Simon Mayer)",
             "id": "52727",
