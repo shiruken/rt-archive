@@ -46,7 +46,8 @@ def identify_missing_incomplete():
                         "JPEG" in item['format'] or
                         "PNG" in item['format'] or
                         "Animated GIF" in item['format'] or
-                        "JPEG 2000" in item['format']
+                        "JPEG 2000" in item['format'] or
+                        "Motion JPEG" in item['format']
                     )
                 ):
                     incomplete.append(item['identifier'])
