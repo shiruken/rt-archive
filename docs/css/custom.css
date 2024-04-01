@@ -22,11 +22,11 @@ div#summary a:hover {
 #table_missing th:first-child {
     width: 40%;
 }
-#table_missing th:nth-child(2),
 #table_incomplete th:first-child,
 #table_removed th:first-child {
     width: 35%;
 }
+#table_missing th:nth-child(2),
 #table_incomplete th:nth-child(2),
 #table_removed th:nth-child(2) {
     width: 20%;
