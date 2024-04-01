@@ -1,5 +1,5 @@
 {
-    "count": 14,
+    "count": 12,
     "data": [
         {
             "id": "52355",
@@ -45,24 +45,6 @@
             "is_first": true,
             "show": "Off Topic: Last Call",
             "show_slug": "last-call"
-        },
-        {
-            "id": "3662",
-            "title": "All the Cute Boys and Girls - #21",
-            "slug": "fan-service-2017-21-oi744hk",
-            "date": "2017-04-08",
-            "is_first": false,
-            "show": "Fan Service",
-            "show_slug": "fan-service"
-        },
-        {
-            "id": "2191",
-            "title": "Get to Know... RECORE",
-            "slug": "past-livestreams-2016-get-to-know-recore",
-            "date": "2016-09-18",
-            "is_first": false,
-            "show": "Past Livestreams",
-            "show_slug": "past-livestreams"
         },
         {
             "id": "4444",

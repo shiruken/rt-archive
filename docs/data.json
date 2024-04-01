@@ -3,7 +3,7 @@
         "count": 42506,
         "uploaded": 40634,
         "missing": 1872,
-        "incomplete": 14,
+        "incomplete": 12,
         "removed": 2
     },
     "data": [
@@ -1237,7 +1237,7 @@
             "count": 80,
             "uploaded": 80,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2506,7 +2506,7 @@
             "count": 9,
             "uploaded": 9,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
