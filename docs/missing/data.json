@@ -1,6 +1,22 @@
 {
-    "count": 1874,
+    "count": 1876,
     "data": [
+        {
+            "title": "This GOLF Game\u2019s Got TRUCKS in It! // Regulation Gameplay",
+            "slug": "lets-play-2024-4-1",
+            "date": "2024-04-01",
+            "is_first": true,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "title": "Goodbye, AI - DreamCast: The Final Nightmare",
+            "slug": "gameplay-2024-dcn5",
+            "date": "2024-04-01",
+            "is_first": false,
+            "show": "Gameplay",
+            "show_slug": "gameplay"
+        },
         {
             "title": "ANMA80",
             "slug": "anma-podcast-2024-anma80",
