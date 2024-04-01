@@ -3,7 +3,7 @@
         "count": 42506,
         "uploaded": 40634,
         "missing": 1872,
-        "incomplete": 28,
+        "incomplete": 14,
         "removed": 2
     },
     "data": [
@@ -94,7 +94,7 @@
             "count": 1783,
             "uploaded": 1203,
             "missing": 580,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1201,7 +1201,7 @@
             "count": 227,
             "uploaded": 227,
             "missing": 0,
-            "incomplete": 2,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1327,7 +1327,7 @@
             "count": 393,
             "uploaded": 393,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1390,7 +1390,7 @@
             "count": 1211,
             "uploaded": 1147,
             "missing": 64,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1498,7 +1498,7 @@
             "count": 76,
             "uploaded": 76,
             "missing": 0,
-            "incomplete": 4,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2074,7 +2074,7 @@
             "count": 2149,
             "uploaded": 2115,
             "missing": 34,
-            "incomplete": 2,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -3118,7 +3118,7 @@
             "count": 202,
             "uploaded": 202,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -3163,7 +3163,7 @@
             "count": 82,
             "uploaded": 82,
             "missing": 0,
-            "incomplete": 2,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -3856,7 +3856,7 @@
             "count": 69,
             "uploaded": 69,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {

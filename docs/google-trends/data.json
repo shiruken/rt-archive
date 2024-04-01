@@ -5,7 +5,7 @@
         "count": 76,
         "uploaded": 76,
         "missing": 0,
-        "incomplete": 4,
+        "incomplete": 0,
         "removed": 0
     },
     "data": [
@@ -166,7 +166,7 @@
             "date": "2021-09-03",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -326,7 +326,7 @@
             "date": "2020-04-03",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -346,7 +346,7 @@
             "date": "2020-01-31",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -426,7 +426,7 @@
             "date": "2019-06-01",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
