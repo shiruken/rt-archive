@@ -5,7 +5,7 @@
         "count": 36,
         "uploaded": 36,
         "missing": 0,
-        "incomplete": 1,
+        "incomplete": 0,
         "removed": 0
     },
     "data": [
@@ -126,7 +126,7 @@
             "date": "2023-11-02",
             "is_first": true,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

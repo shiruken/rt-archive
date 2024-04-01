@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42510,
-        "uploaded": 40634,
-        "missing": 1876,
-        "incomplete": 11,
+        "uploaded": 40638,
+        "missing": 1872,
+        "incomplete": 9,
         "removed": 2
     },
     "data": [
@@ -103,7 +103,7 @@
             "count": 667,
             "uploaded": 667,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -209,8 +209,8 @@
             "show": "ANMA Podcast",
             "slug": "anma-podcast",
             "count": 98,
-            "uploaded": 97,
-            "missing": 1,
+            "uploaded": 98,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1415,8 +1415,8 @@
             "show": "Gameplay",
             "slug": "gameplay",
             "count": 1877,
-            "uploaded": 1871,
-            "missing": 6,
+            "uploaded": 1872,
+            "missing": 5,
             "incomplete": 0,
             "removed": 0
         },
@@ -2072,8 +2072,8 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2150,
-            "uploaded": 2115,
-            "missing": 35,
+            "uploaded": 2116,
+            "missing": 34,
             "incomplete": 0,
             "removed": 0
         },
@@ -2164,7 +2164,7 @@
             "count": 36,
             "uploaded": 36,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2747,8 +2747,8 @@
             "show": "Red Web",
             "slug": "red-web",
             "count": 199,
-            "uploaded": 198,
-            "missing": 1,
+            "uploaded": 199,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },

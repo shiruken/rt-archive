@@ -3,8 +3,8 @@
     "slug": "anma-podcast",
     "summary": {
         "count": 98,
-        "uploaded": 97,
-        "missing": 1,
+        "uploaded": 98,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "anma-podcast-2024-anma80",
             "date": "2024-04-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

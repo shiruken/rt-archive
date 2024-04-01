@@ -3,8 +3,8 @@
     "slug": "lets-play",
     "summary": {
         "count": 2150,
-        "uploaded": 2115,
-        "missing": 35,
+        "uploaded": 2116,
+        "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "lets-play-2024-4-1",
             "date": "2024-04-01",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

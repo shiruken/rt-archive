@@ -1,5 +1,5 @@
 {
-    "count": 11,
+    "count": 9,
     "data": [
         {
             "id": "52355",
@@ -9,24 +9,6 @@
             "is_first": false,
             "show": "Face Jam",
             "show_slug": "face-jam"
-        },
-        {
-            "id": "51929",
-            "title": "Inside Gaming Plays Overwatch 2",
-            "slug": "lvl-up-season-1-inside-gaming-plays-overwatch-2",
-            "date": "2023-11-02",
-            "is_first": true,
-            "show": "LvL Up",
-            "show_slug": "lvl-up"
-        },
-        {
-            "id": "46426",
-            "title": "We're All Superheros Now! | Super People w/ DigitalDunse | Live Gameplay",
-            "slug": "achievement-hunter-stream-archive-2022-super-people-1-3",
-            "date": "2022-01-05",
-            "is_first": false,
-            "show": "Achievement Hunter Stream Archive",
-            "show_slug": "achievement-hunter-stream-archive"
         },
         {
             "id": "152",
