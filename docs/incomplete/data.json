@@ -1,5 +1,5 @@
 {
-    "count": 12,
+    "count": 11,
     "data": [
         {
             "id": "52355",
@@ -27,15 +27,6 @@
             "is_first": false,
             "show": "Achievement Hunter Stream Archive",
             "show_slug": "achievement-hunter-stream-archive"
-        },
-        {
-            "id": "40960",
-            "title": "PS5: How Excited Are You? - Ep. 40",
-            "slug": "ps-i-love-you-xoxo-2020-ps5-how-excited-are-you-ep-40",
-            "date": "2020-10-29",
-            "is_first": false,
-            "show": "PS I Love You XOXO",
-            "show_slug": "ps-i-love-you-xoxo"
         },
         {
             "id": "152",
