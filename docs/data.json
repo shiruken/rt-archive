@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42515,
-        "uploaded": 40637,
-        "missing": 1878,
-        "incomplete": 8,
+        "uploaded": 40639,
+        "missing": 1876,
+        "incomplete": 10,
         "removed": 2
     },
     "data": [
@@ -848,9 +848,9 @@
             "show": "Dogbark Plays",
             "slug": "dogbark-plays",
             "count": 31,
-            "uploaded": 30,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 31,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1694,9 +1694,9 @@
             "show": "Hypothetical Nonsense",
             "slug": "hypothetical-nonsense",
             "count": 32,
-            "uploaded": 31,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 32,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {

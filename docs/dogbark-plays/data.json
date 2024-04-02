@@ -3,9 +3,9 @@
     "slug": "dogbark-plays",
     "summary": {
         "count": 31,
-        "uploaded": 30,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 31,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "dogbark-plays-season-2-the-game-is-really-out-to-get-us",
             "date": "2024-04-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
