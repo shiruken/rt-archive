@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42515,
-        "uploaded": 40639,
-        "missing": 1876,
-        "incomplete": 10,
+        "uploaded": 40640,
+        "missing": 1875,
+        "incomplete": 8,
         "removed": 2
     },
     "data": [
@@ -850,7 +850,7 @@
             "count": 31,
             "uploaded": 31,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1696,7 +1696,7 @@
             "count": 32,
             "uploaded": 32,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2837,8 +2837,8 @@
             "show": "Rooster Teeth Podcast",
             "slug": "rt-podcast",
             "count": 708,
-            "uploaded": 707,
-            "missing": 1,
+            "uploaded": 708,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },

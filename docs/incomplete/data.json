@@ -1,24 +1,6 @@
 {
-    "count": 10,
+    "count": 8,
     "data": [
-        {
-            "id": "52764",
-            "title": "Did Rick and Morty Fall Off?",
-            "slug": "hypothetical-nonsense-season-1-rick-morty",
-            "date": "2024-04-01",
-            "is_first": false,
-            "show": "Hypothetical Nonsense",
-            "show_slug": "hypothetical-nonsense"
-        },
-        {
-            "id": "52778",
-            "title": "The Game Is REALLY Out to Get Us",
-            "slug": "dogbark-plays-season-2-the-game-is-really-out-to-get-us",
-            "date": "2024-04-01",
-            "is_first": false,
-            "show": "Dogbark Plays",
-            "show_slug": "dogbark-plays"
-        },
         {
             "id": "152",
             "title": "That's Why the Way I Am - Last Call #74",

@@ -3,8 +3,8 @@
     "slug": "rt-podcast",
     "summary": {
         "count": 708,
-        "uploaded": 707,
-        "missing": 1,
+        "uploaded": 708,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "rt-podcast-2024-rtp-795",
             "date": "2024-04-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
