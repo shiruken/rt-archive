@@ -2,13 +2,23 @@
     "show": "Grotethe",
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
-        "count": 72,
+        "count": 73,
         "uploaded": 72,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "[Second Wind] Countess Your Blessings - C02 - Ep 41",
+            "id": "52777",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e41",
+            "date": "2024-04-02",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "[Second Wind] Klawstred Way To The Top - C02 - Ep40",
             "id": "52743",
