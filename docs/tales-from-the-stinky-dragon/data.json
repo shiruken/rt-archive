@@ -3,9 +3,9 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 74,
-        "uploaded": 73,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 74,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -25,7 +25,7 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e41",
             "date": "2024-04-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
