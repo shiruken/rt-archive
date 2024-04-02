@@ -1,10 +1,10 @@
 {
-    "show": "Grotethe",
+    "show": "Tales From the Stinky Dragon",
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
-        "count": 73,
+        "count": 74,
         "uploaded": 73,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
@@ -17,6 +17,16 @@
             "is_first": true,
             "is_uploaded": true,
             "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "Countess Your Blessings - C02 - Ep 41",
+            "id": "52776",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e41",
+            "date": "2024-04-02",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {

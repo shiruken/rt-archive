@@ -35,6 +35,10 @@ def update_watch():
             show = item['attributes']['show_title'].strip()
             show_slug = item['attributes']['show_slug']
 
+        # Manual show name override
+        if show == "Grotethe":
+            show = "Tales From the Stinky Dragon"
+
         archive_url = f"https://archive.org/details/{identifier}"
         rt_url = f"https://roosterteeth.com{item['canonical_links']['self']}"
         url_map[archive_url] = rt_url
