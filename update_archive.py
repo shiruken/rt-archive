@@ -168,8 +168,11 @@ def generate_website():
         with open(f"docs/{show_slug}/data.json", "w") as fp:
             json.dump(output, fp, indent=4)
 
+        search_show_title = df.name
+        if search_show_title == "Tales from the Stinky Dragon":
+            search_show_title = "Grotethe"
         query = {
-            'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{df.name}"',
+            'query': f'scanner:"Roosterteeth Website Mirror" AND show_title:"{search_show_title}"',
             'sort': '-date'
         }
         show_search_url = f"https://archive.org/search?{urlencode(query)}"
