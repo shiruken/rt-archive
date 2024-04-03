@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42516,
+        "count": 42517,
         "uploaded": 40644,
-        "missing": 1872,
+        "missing": 1873,
         "incomplete": 8,
         "removed": 2
     },
@@ -1153,9 +1153,9 @@
         {
             "show": "F**KFACE",
             "slug": "f-kface",
-            "count": 260,
+            "count": 261,
             "uploaded": 260,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
