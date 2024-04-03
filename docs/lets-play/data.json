@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2150,
-        "uploaded": 2116,
+        "count": 2151,
+        "uploaded": 2117,
         "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Impromptu Weekend Truck Trials // Regulation Gameplay",
+            "id": "52782",
+            "slug": "lets-play-2024-impromptu-weekend-truck-trials-regulation-gameplay",
+            "date": "2024-04-03",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "This GOLF Game\u2019s Got TRUCKS in It! // Regulation Gameplay",
             "id": "52767",

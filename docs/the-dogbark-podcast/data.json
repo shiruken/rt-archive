@@ -2,13 +2,23 @@
     "show": "The Dogbark Podcast",
     "slug": "the-dogbark-podcast",
     "summary": {
-        "count": 26,
-        "uploaded": 26,
+        "count": 27,
+        "uploaded": 27,
         "missing": 0,
-        "incomplete": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
+        {
+            "title": "S2:E27 - Talkin' About Wagyu Burgers",
+            "id": "52783",
+            "slug": "the-dogbark-podcast-season-2-s2-e27-talkin-about-wagyu-burgers",
+            "date": "2024-04-03",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "S2:E26 - Talkin' About Late Nights with Joe",
             "id": "52748",
