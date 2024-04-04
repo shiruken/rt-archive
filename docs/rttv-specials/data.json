@@ -2,13 +2,23 @@
     "show": "RTTV Specials",
     "slug": "rttv-specials",
     "summary": {
-        "count": 29,
+        "count": 30,
         "uploaded": 29,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Rooster Teeth's First & Final 21st Anniversary Stream",
+            "id": "52780",
+            "slug": "rttv-specials-2024-21st-anniversary-stream",
+            "date": "2024-04-04",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Not Our Goodbye Stream!",
             "id": "52668",
