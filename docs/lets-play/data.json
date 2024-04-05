@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2151,
-        "uploaded": 2117,
+        "count": 2152,
+        "uploaded": 2118,
         "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Teamwork is ESSENTIAL in Moving Out 2 (#1) // Regulation Gameplay",
+            "id": "52784",
+            "slug": "lets-play-2024-teamwork-is-essential-in-moving-out-2-1-regulation-gameplay",
+            "date": "2024-04-05",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Impromptu Weekend Truck Trials // Regulation Gameplay",
             "id": "52782",
