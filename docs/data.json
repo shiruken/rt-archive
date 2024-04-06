@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42521,
+        "count": 42523,
         "uploaded": 40649,
-        "missing": 1872,
+        "missing": 1874,
         "incomplete": 8,
         "removed": 2
     },
@@ -307,9 +307,9 @@
         {
             "show": "Best Friends TV",
             "slug": "best-friends-tv",
-            "count": 35,
+            "count": 36,
             "uploaded": 35,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -847,9 +847,9 @@
         {
             "show": "Dogbark Plays",
             "slug": "dogbark-plays",
-            "count": 31,
+            "count": 32,
             "uploaded": 31,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },

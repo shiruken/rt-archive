@@ -2,13 +2,23 @@
     "show": "Dogbark Plays",
     "slug": "dogbark-plays",
     "summary": {
-        "count": 31,
+        "count": 32,
         "uploaded": 31,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Trying Not to Die in Elden Ring",
+            "id": "52791",
+            "slug": "dogbark-plays-season-2-trying-not-to-die-in-elden-ring",
+            "date": "2024-04-06",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "The Game Is REALLY Out to Get Us",
             "id": "52778",

@@ -2,13 +2,23 @@
     "show": "Best Friends TV",
     "slug": "best-friends-tv",
     "summary": {
-        "count": 35,
+        "count": 36,
         "uploaded": 35,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "We Invented Time Travel | BFTV",
+            "id": "52792",
+            "slug": "best-friends-tv-season-1-we-invented-time-travel-bftv",
+            "date": "2024-04-06",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "We have some big news\u2026",
             "id": "52773",
