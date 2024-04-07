@@ -2,13 +2,23 @@
     "show": "Dogbark Plays",
     "slug": "dogbark-plays",
     "summary": {
-        "count": 32,
-        "uploaded": 32,
+        "count": 33,
+        "uploaded": 33,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Who Gets Every Question Wrong?",
+            "id": "52785",
+            "slug": "dogbark-plays-season-2-who-gets-every-question-wrong",
+            "date": "2024-04-07",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Trying Not to Die in Elden Ring",
             "id": "52791",
