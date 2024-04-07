@@ -3,8 +3,8 @@
     "slug": "dogbark-plays",
     "summary": {
         "count": 32,
-        "uploaded": 31,
-        "missing": 1,
+        "uploaded": 32,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "dogbark-plays-season-2-trying-not-to-die-in-elden-ring",
             "date": "2024-04-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
