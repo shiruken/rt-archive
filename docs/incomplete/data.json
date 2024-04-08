@@ -1,5 +1,5 @@
 {
-    "count": 8,
+    "count": 7,
     "data": [
         {
             "id": "152",
@@ -32,15 +32,6 @@
             "id": "4412",
             "title": "Video Game Vault - Sonic the Hedgehog 2",
             "slug": "video-game-vault-sonic-the-hedgehog-2",
-            "date": "2011-08-19",
-            "is_first": false,
-            "show": "Video Game Vault",
-            "show_slug": "video-game-vault"
-        },
-        {
-            "id": "4411",
-            "title": "Video Game Vault - Sonic the Hedgehog",
-            "slug": "video-game-vault-sonic-the-hedgehog",
             "date": "2011-08-19",
             "is_first": false,
             "show": "Video Game Vault",
