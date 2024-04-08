@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42530,
-        "uploaded": 40656,
-        "missing": 1874,
+        "uploaded": 40657,
+        "missing": 1873,
         "incomplete": 7,
         "removed": 2
     },
@@ -2828,8 +2828,8 @@
             "show": "Rooster Teeth Podcast",
             "slug": "rt-podcast",
             "count": 709,
-            "uploaded": 708,
-            "missing": 1,
+            "uploaded": 709,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
