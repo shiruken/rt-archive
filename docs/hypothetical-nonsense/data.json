@@ -3,8 +3,8 @@
     "slug": "hypothetical-nonsense",
     "summary": {
         "count": 33,
-        "uploaded": 32,
-        "missing": 1,
+        "uploaded": 33,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "hypothetical-nonsense-season-1-hn32-cost-is-correct",
             "date": "2024-04-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
