@@ -2,13 +2,23 @@
     "show": "Hypothetical Nonsense",
     "slug": "hypothetical-nonsense",
     "summary": {
-        "count": 32,
+        "count": 33,
         "uploaded": 32,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "This is what a $1,000,000 house looks like.",
+            "id": "52789",
+            "slug": "hypothetical-nonsense-season-1-hn32-cost-is-correct",
+            "date": "2024-04-08",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Did Rick and Morty Fall Off?",
             "id": "52764",

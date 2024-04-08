@@ -1,6 +1,22 @@
 {
-    "count": 1872,
+    "count": 1874,
     "data": [
+        {
+            "title": "This is what a $1,000,000 house looks like.",
+            "slug": "hypothetical-nonsense-season-1-hn32-cost-is-correct",
+            "date": "2024-04-08",
+            "is_first": false,
+            "show": "Hypothetical Nonsense",
+            "show_slug": "hypothetical-nonsense"
+        },
+        {
+            "title": "The Delta Loop | Rooster Teeth Podcast",
+            "slug": "rt-podcast-2024-rtp796",
+            "date": "2024-04-08",
+            "is_first": false,
+            "show": "Rooster Teeth Podcast",
+            "show_slug": "rt-podcast"
+        },
         {
             "title": "EA Cancels Secret Titanfall Game & Nintendo Direct Incoming?! - Kinda Funny Games Daily 02.02.23",
             "slug": "kinda-funny-games-daily-2023-e3-cancels-secret-titanfall-game-nintendo-direct-incoming",
