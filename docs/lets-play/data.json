@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2152,
+        "count": 2153,
         "uploaded": 2118,
-        "missing": 34,
+        "missing": 35,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "We Can't Get Enough of Turbo Golf Racer // Regulation Gameplay",
+            "id": "52790",
+            "slug": "lets-play-2024-we-can-t-get-enough-of-turbo-golf-racer-regulation-gameplay",
+            "date": "2024-04-08",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Teamwork is ESSENTIAL in Moving Out 2 (#1) // Regulation Gameplay",
             "id": "52784",

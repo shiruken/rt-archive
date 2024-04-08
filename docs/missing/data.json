@@ -1,21 +1,13 @@
 {
-    "count": 1874,
+    "count": 1873,
     "data": [
         {
-            "title": "Camping out for Star Wars",
-            "slug": "anma-podcast-2024-anma81",
+            "title": "We Can't Get Enough of Turbo Golf Racer // Regulation Gameplay",
+            "slug": "lets-play-2024-we-can-t-get-enough-of-turbo-golf-racer-regulation-gameplay",
             "date": "2024-04-08",
-            "is_first": false,
-            "show": "ANMA Podcast",
-            "show_slug": "anma-podcast"
-        },
-        {
-            "title": "The True Story Behind the Movie | The Exorcist",
-            "slug": "red-web-2024-4-8",
-            "date": "2024-04-08",
-            "is_first": false,
-            "show": "Red Web",
-            "show_slug": "red-web"
+            "is_first": true,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
         },
         {
             "title": "EA Cancels Secret Titanfall Game & Nintendo Direct Incoming?! - Kinda Funny Games Daily 02.02.23",
