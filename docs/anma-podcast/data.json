@@ -2,13 +2,23 @@
     "show": "ANMA Podcast",
     "slug": "anma-podcast",
     "summary": {
-        "count": 98,
+        "count": 99,
         "uploaded": 98,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Camping out for Star Wars",
+            "id": "52787",
+            "slug": "anma-podcast-2024-anma81",
+            "date": "2024-04-08",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "ANMA80",
             "id": "52763",

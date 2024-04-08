@@ -2,13 +2,23 @@
     "show": "Red Web",
     "slug": "red-web",
     "summary": {
-        "count": 199,
+        "count": 200,
         "uploaded": 199,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The True Story Behind the Movie | The Exorcist",
+            "id": "52786",
+            "slug": "red-web-2024-4-8",
+            "date": "2024-04-08",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "The True Story of the Conjuring House | Old Arnold Estate",
             "id": "52752",
