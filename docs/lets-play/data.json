@@ -3,8 +3,8 @@
     "slug": "lets-play",
     "summary": {
         "count": 2153,
-        "uploaded": 2118,
-        "missing": 35,
+        "uploaded": 2119,
+        "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "lets-play-2024-we-can-t-get-enough-of-turbo-golf-racer-regulation-gameplay",
             "date": "2024-04-08",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
