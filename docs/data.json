@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42534,
-        "uploaded": 40660,
-        "missing": 1874,
-        "incomplete": 8,
+        "uploaded": 40662,
+        "missing": 1872,
+        "incomplete": 7,
         "removed": 2
     },
     "data": [
@@ -1199,8 +1199,8 @@
             "show": "Face Jam",
             "slug": "face-jam",
             "count": 229,
-            "uploaded": 228,
-            "missing": 1,
+            "uploaded": 229,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3359,9 +3359,9 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 76,
-            "uploaded": 75,
-            "missing": 1,
-            "incomplete": 1,
+            "uploaded": 76,
+            "missing": 0,
+            "incomplete": 0,
             "removed": 0
         },
         {

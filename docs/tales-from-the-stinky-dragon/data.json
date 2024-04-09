@@ -3,9 +3,9 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 76,
-        "uploaded": 75,
-        "missing": 1,
-        "incomplete": 1,
+        "uploaded": 76,
+        "missing": 0,
+        "incomplete": 0,
         "removed": 0
     },
     "data": [
@@ -15,8 +15,8 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02-e42",
             "date": "2024-04-09",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -26,7 +26,7 @@
             "date": "2024-04-09",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
