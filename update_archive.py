@@ -48,7 +48,10 @@ def identify_missing_incomplete():
                         "Animated GIF" in item['format'] or
                         "JPEG 2000" in item['format'] or
                         "Motion JPEG" in item['format']
-                    )
+                    ) or item['identifier'] in [ # Items with manually-added thumbnail files
+                        "roosterteeth-4277", "roosterteeth-4411", "roosterteeth-4412",
+                        "roosterteeth-4433", "roosterteeth-4444",
+                    ]
                 ):
                     incomplete.append(item['identifier'])
 

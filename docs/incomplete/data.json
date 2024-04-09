@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 3,
     "data": [
         {
             "id": "152",
@@ -11,46 +11,10 @@
             "show_slug": "last-call"
         },
         {
-            "id": "4444",
-            "title": "Video Game Vault - Whomp 'Em",
-            "slug": "video-game-vault-whomp-em",
-            "date": "2011-08-22",
-            "is_first": false,
-            "show": "Video Game Vault",
-            "show_slug": "video-game-vault"
-        },
-        {
-            "id": "4433",
-            "title": "Video Game Vault - Ghosts 'n Goblins",
-            "slug": "video-game-vault-ghosts-n-goblins",
-            "date": "2011-08-22",
-            "is_first": false,
-            "show": "Video Game Vault",
-            "show_slug": "video-game-vault"
-        },
-        {
-            "id": "4412",
-            "title": "Video Game Vault - Sonic the Hedgehog 2",
-            "slug": "video-game-vault-sonic-the-hedgehog-2",
-            "date": "2011-08-19",
-            "is_first": false,
-            "show": "Video Game Vault",
-            "show_slug": "video-game-vault"
-        },
-        {
             "id": "4422",
             "title": "Video Game Vault - Battleship",
             "slug": "video-game-vault-battleship",
             "date": "2011-08-18",
-            "is_first": false,
-            "show": "Video Game Vault",
-            "show_slug": "video-game-vault"
-        },
-        {
-            "id": "4277",
-            "title": "Video Game Vault - Track & Field II",
-            "slug": "video-game-vault-track-field-ii",
-            "date": "2011-08-16",
             "is_first": false,
             "show": "Video Game Vault",
             "show_slug": "video-game-vault"
