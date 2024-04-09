@@ -2,13 +2,23 @@
     "show": "So...Alright",
     "slug": "so-alright",
     "summary": {
-        "count": 32,
+        "count": 33,
         "uploaded": 32,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Six More Miles",
+            "id": "52796",
+            "slug": "so-alright-2024-sa33",
+            "date": "2024-04-09",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "A Deluge Of Memories",
             "id": "52779",
