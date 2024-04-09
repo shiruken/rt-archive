@@ -2,13 +2,53 @@
     "show": "Funhaus Live",
     "slug": "funhaus-live",
     "summary": {
-        "count": 285,
+        "count": 289,
         "uploaded": 284,
-        "missing": 1,
+        "missing": 5,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Funhaus Mystery Stream",
+            "id": "52803",
+            "slug": "funhaus-live-2024-mystery",
+            "date": "2024-04-09",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "La Ultima El Matador",
+            "id": "52802",
+            "slug": "funhaus-live-2024-lastmat",
+            "date": "2024-04-09",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "To a Place where Blind Swordsmen See - Elden Ring Coop Randomizer Finale",
+            "id": "52801",
+            "slug": "funhaus-live-2024-sword",
+            "date": "2024-04-09",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Streamin' with Zach Anner!",
+            "id": "52800",
+            "slug": "funhaus-live-2024-anner",
+            "date": "2024-04-09",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "losing our jobs FOR DEMOCRACY",
             "id": "52739",

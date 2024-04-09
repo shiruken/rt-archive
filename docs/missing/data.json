@@ -1,6 +1,46 @@
 {
-    "count": 1873,
+    "count": 1878,
     "data": [
+        {
+            "title": "Funhaus Mystery Stream",
+            "slug": "funhaus-live-2024-mystery",
+            "date": "2024-04-09",
+            "is_first": true,
+            "show": "Funhaus Live",
+            "show_slug": "funhaus-live"
+        },
+        {
+            "title": "La Ultima El Matador",
+            "slug": "funhaus-live-2024-lastmat",
+            "date": "2024-04-09",
+            "is_first": true,
+            "show": "Funhaus Live",
+            "show_slug": "funhaus-live"
+        },
+        {
+            "title": "To a Place where Blind Swordsmen See - Elden Ring Coop Randomizer Finale",
+            "slug": "funhaus-live-2024-sword",
+            "date": "2024-04-09",
+            "is_first": true,
+            "show": "Funhaus Live",
+            "show_slug": "funhaus-live"
+        },
+        {
+            "title": "Streamin' with Zach Anner!",
+            "slug": "funhaus-live-2024-anner",
+            "date": "2024-04-09",
+            "is_first": true,
+            "show": "Funhaus Live",
+            "show_slug": "funhaus-live"
+        },
+        {
+            "title": "D&D IG: After the Rolls",
+            "slug": "inside-gaming-extras-2024-d-d-ig-after-the-rolls-1",
+            "date": "2024-04-09",
+            "is_first": false,
+            "show": "Inside Gaming Extras",
+            "show_slug": "inside-gaming-extras"
+        },
         {
             "title": "Crew Commentary: Grand Theft Auto: The Musical!",
             "slug": "gameplay-2024-ccgta",

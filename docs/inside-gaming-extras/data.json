@@ -2,13 +2,23 @@
     "show": "Inside Gaming Extras",
     "slug": "inside-gaming-extras",
     "summary": {
-        "count": 5,
+        "count": 6,
         "uploaded": 5,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "D&D IG: After the Rolls",
+            "id": "52664",
+            "slug": "inside-gaming-extras-2024-d-d-ig-after-the-rolls-1",
+            "date": "2024-04-09",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Inside Gaming Goes D&D!",
             "id": "52696",
