@@ -1,6 +1,15 @@
 {
-    "count": 7,
+    "count": 8,
     "data": [
+        {
+            "id": "52794",
+            "title": "The Sferatu Be Good - C02 - Ep 42",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-tftsd-c2-e42",
+            "date": "2024-04-09",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
         {
             "id": "152",
             "title": "That's Why the Way I Am - Last Call #74",

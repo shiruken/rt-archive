@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42534,
-        "uploaded": 40658,
-        "missing": 1876,
-        "incomplete": 7,
+        "uploaded": 40660,
+        "missing": 1874,
+        "incomplete": 8,
         "removed": 2
     },
     "data": [
@@ -3215,8 +3215,8 @@
             "show": "So...Alright",
             "slug": "so-alright",
             "count": 33,
-            "uploaded": 32,
-            "missing": 1,
+            "uploaded": 33,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3359,9 +3359,9 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 76,
-            "uploaded": 74,
-            "missing": 2,
-            "incomplete": 0,
+            "uploaded": 75,
+            "missing": 1,
+            "incomplete": 1,
             "removed": 0
         },
         {
