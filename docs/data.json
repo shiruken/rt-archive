@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42534,
+        "count": 42535,
         "uploaded": 40662,
-        "missing": 1872,
+        "missing": 1873,
         "incomplete": 7,
         "removed": 2
     },
@@ -1414,9 +1414,9 @@
         {
             "show": "Gameplay",
             "slug": "gameplay",
-            "count": 1877,
+            "count": 1878,
             "uploaded": 1872,
-            "missing": 5,
+            "missing": 6,
             "incomplete": 0,
             "removed": 0
         },

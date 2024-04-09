@@ -2,13 +2,23 @@
     "show": "Gameplay",
     "slug": "gameplay",
     "summary": {
-        "count": 1877,
+        "count": 1878,
         "uploaded": 1872,
-        "missing": 5,
+        "missing": 6,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Crew Commentary: Grand Theft Auto: The Musical!",
+            "id": "52797",
+            "slug": "gameplay-2024-ccgta",
+            "date": "2024-04-09",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Goodbye, AI - DreamCast: The Final Nightmare",
             "id": "52774",
