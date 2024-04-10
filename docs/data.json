@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42540,
-        "uploaded": 40662,
-        "missing": 1878,
+        "uploaded": 40668,
+        "missing": 1872,
         "incomplete": 3,
         "removed": 2
     },
@@ -1334,8 +1334,8 @@
             "show": "Funhaus Live",
             "slug": "funhaus-live",
             "count": 289,
-            "uploaded": 284,
-            "missing": 5,
+            "uploaded": 288,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -1415,8 +1415,8 @@
             "show": "Gameplay",
             "slug": "gameplay",
             "count": 1878,
-            "uploaded": 1872,
-            "missing": 6,
+            "uploaded": 1873,
+            "missing": 5,
             "incomplete": 0,
             "removed": 0
         },
@@ -1766,8 +1766,8 @@
             "show": "Inside Gaming Extras",
             "slug": "inside-gaming-extras",
             "count": 6,
-            "uploaded": 5,
-            "missing": 1,
+            "uploaded": 6,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },

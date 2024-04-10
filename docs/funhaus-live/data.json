@@ -3,8 +3,8 @@
     "slug": "funhaus-live",
     "summary": {
         "count": 289,
-        "uploaded": 284,
-        "missing": 5,
+        "uploaded": 288,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "funhaus-live-2024-mystery",
             "date": "2024-04-09",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -25,8 +25,8 @@
             "slug": "funhaus-live-2024-lastmat",
             "date": "2024-04-09",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -35,8 +35,8 @@
             "slug": "funhaus-live-2024-sword",
             "date": "2024-04-09",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -45,8 +45,8 @@
             "slug": "funhaus-live-2024-anner",
             "date": "2024-04-09",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
