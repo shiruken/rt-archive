@@ -2,13 +2,23 @@
     "show": "F**KFACE",
     "slug": "f-kface",
     "summary": {
-        "count": 261,
+        "count": 262,
         "uploaded": 261,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The British Jackal // Beard Faucet [202]",
+            "id": "52804",
+            "slug": "f-kface-season-6-ff202",
+            "date": "2024-04-10",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Jizzle Knowledge // Tub Time Update [201]",
             "id": "52781",
