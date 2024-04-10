@@ -2,13 +2,23 @@
     "show": "Gameplay",
     "slug": "gameplay",
     "summary": {
-        "count": 1878,
-        "uploaded": 1873,
+        "count": 1879,
+        "uploaded": 1874,
         "missing": 5,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "We Pit James vs Blaine's girlfriend in Eye Tracker",
+            "id": "52798",
+            "slug": "gameplay-2024-trackblaine",
+            "date": "2024-04-10",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Crew Commentary: Grand Theft Auto: The Musical!",
             "id": "52797",

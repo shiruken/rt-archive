@@ -1,7 +1,7 @@
 {
     "summary": {
-        "count": 42541,
-        "uploaded": 40668,
+        "count": 42543,
+        "uploaded": 40670,
         "missing": 1873,
         "incomplete": 3,
         "removed": 2
@@ -1414,8 +1414,8 @@
         {
             "show": "Gameplay",
             "slug": "gameplay",
-            "count": 1878,
-            "uploaded": 1873,
+            "count": 1879,
+            "uploaded": 1874,
             "missing": 5,
             "incomplete": 0,
             "removed": 0
@@ -2062,8 +2062,8 @@
         {
             "show": "Let's Play",
             "slug": "lets-play",
-            "count": 2153,
-            "uploaded": 2119,
+            "count": 2154,
+            "uploaded": 2120,
             "missing": 34,
             "incomplete": 0,
             "removed": 0
