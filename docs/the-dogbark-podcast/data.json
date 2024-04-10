@@ -2,13 +2,23 @@
     "show": "The Dogbark Podcast",
     "slug": "the-dogbark-podcast",
     "summary": {
-        "count": 27,
+        "count": 28,
         "uploaded": 27,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "S2:E28 - Talkin' About the Solar Eclipse",
+            "id": "52806",
+            "slug": "the-dogbark-podcast-season-2-s2-e28-talkin-about-the-solar-eclipse",
+            "date": "2024-04-10",
+            "is_first": true,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "S2:E27 - Talkin' About Wagyu Burgers",
             "id": "52783",

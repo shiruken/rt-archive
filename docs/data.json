@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42543,
+        "count": 42544,
         "uploaded": 40670,
-        "missing": 1873,
+        "missing": 1874,
         "incomplete": 3,
         "removed": 2
     },
@@ -3439,9 +3439,9 @@
         {
             "show": "The Dogbark Podcast",
             "slug": "the-dogbark-podcast",
-            "count": 27,
+            "count": 28,
             "uploaded": 27,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
