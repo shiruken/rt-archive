@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42544,
-        "uploaded": 40670,
-        "missing": 1874,
-        "incomplete": 3,
+        "uploaded": 40672,
+        "missing": 1872,
+        "incomplete": 4,
         "removed": 2
     },
     "data": [
@@ -1154,9 +1154,9 @@
             "show": "F**KFACE",
             "slug": "f-kface",
             "count": 262,
-            "uploaded": 261,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 262,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -3440,8 +3440,8 @@
             "show": "The Dogbark Podcast",
             "slug": "the-dogbark-podcast",
             "count": 28,
-            "uploaded": 27,
-            "missing": 1,
+            "uploaded": 28,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
