@@ -3,8 +3,8 @@
     "slug": "red-vs-blue-psa",
     "summary": {
         "count": 79,
-        "uploaded": 78,
-        "missing": 1,
+        "uploaded": 79,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -361,12 +361,12 @@
         },
         {
             "title": "PSA: The Sound of Stupid",
-            "id": "2",
+            "id": "2-alt",
             "slug": "red-vs-blue-season-13-psa-the-sound-of-stupid",
             "date": "2015-05-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

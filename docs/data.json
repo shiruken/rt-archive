@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42545,
-        "uploaded": 40673,
-        "missing": 1872,
+        "uploaded": 40674,
+        "missing": 1871,
         "incomplete": 3,
         "removed": 2
     },
@@ -2648,8 +2648,8 @@
             "show": "Red vs. Blue PSA",
             "slug": "red-vs-blue-psa",
             "count": 79,
-            "uploaded": 78,
-            "missing": 1,
+            "uploaded": 79,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },

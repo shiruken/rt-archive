@@ -35,6 +35,11 @@ def update_watch():
             show = item['attributes']['show_title'].strip()
             show_slug = item['attributes']['show_slug']
 
+        # Manual identifier override
+        # For items that clashed with existing Internet Archive ploads
+        if identifier == "roosterteeth-2":
+            identifier += "-alt"
+
         # Manual show name override
         if show == "Grotethe":
             show = "Tales from the Stinky Dragon"
