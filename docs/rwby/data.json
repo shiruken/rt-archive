@@ -2,13 +2,23 @@
     "show": "RWBY",
     "slug": "rwby",
     "summary": {
-        "count": 165,
-        "uploaded": 165,
+        "count": 166,
+        "uploaded": 166,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "RWBY Beyond: Jr. Detectives",
+            "id": "52814",
+            "slug": "rwby-rwby-beyond-rwby-beyond-jr-detectives",
+            "date": "2024-04-13",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Volume 9 - Bonus Ending Animatic",
             "id": "52768",
