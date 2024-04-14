@@ -2,13 +2,23 @@
     "show": "Dogbark Plays",
     "slug": "dogbark-plays",
     "summary": {
-        "count": 33,
-        "uploaded": 33,
+        "count": 34,
+        "uploaded": 34,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "We Reach the Final Question to 1,000,000!",
+            "id": "52809",
+            "slug": "dogbark-plays-season-2-we-reach-the-final-question-to-1-000-000",
+            "date": "2024-04-14",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Who Gets Every Question Wrong?",
             "id": "52785",
