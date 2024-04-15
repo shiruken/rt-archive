@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42552,
-        "uploaded": 40681,
-        "missing": 1871,
+        "count": 42554,
+        "uploaded": 40682,
+        "missing": 1872,
         "incomplete": 3,
         "removed": 2
     },
@@ -1684,9 +1684,9 @@
         {
             "show": "Hypothetical Nonsense",
             "slug": "hypothetical-nonsense",
-            "count": 33,
+            "count": 34,
             "uploaded": 33,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -2827,8 +2827,8 @@
         {
             "show": "Rooster Teeth Podcast",
             "slug": "rt-podcast",
-            "count": 709,
-            "uploaded": 709,
+            "count": 710,
+            "uploaded": 710,
             "missing": 0,
             "incomplete": 0,
             "removed": 0

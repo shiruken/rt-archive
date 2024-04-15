@@ -2,13 +2,23 @@
     "show": "Rooster Teeth Podcast",
     "slug": "rt-podcast",
     "summary": {
-        "count": 709,
-        "uploaded": 709,
+        "count": 710,
+        "uploaded": 710,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Why Are We Here? | Rooster Teeth Podcast",
+            "id": "52810",
+            "slug": "rt-podcast-2024-rtp797",
+            "date": "2024-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "The Delta Loop | Rooster Teeth Podcast",
             "id": "52788",
