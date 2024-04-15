@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2155,
-        "uploaded": 2121,
+        "count": 2156,
+        "uploaded": 2122,
         "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Golf Is For THE BOYS // Regulation Gameplay",
+            "id": "52811",
+            "slug": "lets-play-2024-golf-is-for-the-boys-regulation-gameplay",
+            "date": "2024-04-15",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "FARM IS NOT MOVING // Regulation Gameplay Pt.2",
             "id": "52807",
