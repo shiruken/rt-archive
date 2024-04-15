@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42554,
-        "uploaded": 40682,
-        "missing": 1872,
+        "uploaded": 40683,
+        "missing": 1871,
         "incomplete": 3,
         "removed": 2
     },
@@ -1685,8 +1685,8 @@
             "show": "Hypothetical Nonsense",
             "slug": "hypothetical-nonsense",
             "count": 34,
-            "uploaded": 33,
-            "missing": 1,
+            "uploaded": 34,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
