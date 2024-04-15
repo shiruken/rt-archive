@@ -3,8 +3,8 @@
     "slug": "red-web",
     "summary": {
         "count": 201,
-        "uploaded": 200,
-        "missing": 1,
+        "uploaded": 201,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "red-web-2024-4-15",
             "date": "2024-04-15",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
