@@ -2,13 +2,23 @@
     "show": "So...Alright",
     "slug": "so-alright",
     "summary": {
-        "count": 33,
+        "count": 34,
         "uploaded": 33,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The worst year of all time",
+            "id": "52817",
+            "slug": "so-alright-2024-sa34",
+            "date": "2024-04-16",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Six More Miles",
             "id": "52796",
