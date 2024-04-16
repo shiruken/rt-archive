@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42558,
-        "uploaded": 40683,
-        "missing": 1875,
+        "uploaded": 40687,
+        "missing": 1871,
         "incomplete": 3,
         "removed": 2
     },
@@ -1199,8 +1199,8 @@
             "show": "Face Jam",
             "slug": "face-jam",
             "count": 230,
-            "uploaded": 229,
-            "missing": 1,
+            "uploaded": 230,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3215,8 +3215,8 @@
             "show": "So...Alright",
             "slug": "so-alright",
             "count": 34,
-            "uploaded": 33,
-            "missing": 1,
+            "uploaded": 34,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3359,8 +3359,8 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 78,
-            "uploaded": 76,
-            "missing": 2,
+            "uploaded": 78,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },

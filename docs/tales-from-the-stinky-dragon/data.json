@@ -3,8 +3,8 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 78,
-        "uploaded": 76,
-        "missing": 2,
+        "uploaded": 78,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e43",
             "date": "2024-04-16",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -25,8 +25,8 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e43",
             "date": "2024-04-16",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
