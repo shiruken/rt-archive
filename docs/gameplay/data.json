@@ -2,13 +2,23 @@
     "show": "Gameplay",
     "slug": "gameplay",
     "summary": {
-        "count": 1880,
-        "uploaded": 1875,
+        "count": 1881,
+        "uploaded": 1876,
         "missing": 5,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Wait'll You Get a Load of Ryan in Eye Tracker",
+            "id": "52824",
+            "slug": "gameplay-2024-eyeryan",
+            "date": "2024-04-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "It's the World Wrestling Funhaus Seven Man Barroom Brawl!",
             "id": "52815",

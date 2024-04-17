@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2156,
-        "uploaded": 2122,
+        "count": 2157,
+        "uploaded": 2123,
         "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The Iciest Truck Trial Yet // Regulation Gameplay",
+            "id": "52823",
+            "slug": "lets-play-2024-the-iciest-truck-trial-yet-regulation-gameplay",
+            "date": "2024-04-17",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Golf Is For THE BOYS // Regulation Gameplay",
             "id": "52811",
