@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2157,
-        "uploaded": 2123,
+        "count": 2158,
+        "uploaded": 2124,
         "missing": 34,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "EFFICIENTLY INEFFICIENT MOVING // Regulation Gameplay Pt.3",
+            "id": "52826",
+            "slug": "lets-play-2024-efficiently-inefficient-moving-regulation-gameplay-pt-3",
+            "date": "2024-04-19",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "The Iciest Truck Trial Yet // Regulation Gameplay",
             "id": "52823",
