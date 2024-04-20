@@ -1,9 +1,9 @@
 {
     "summary": {
-        "count": 42564,
-        "uploaded": 40693,
+        "count": 42566,
+        "uploaded": 40695,
         "missing": 1871,
-        "incomplete": 3,
+        "incomplete": 4,
         "removed": 2
     },
     "data": [
@@ -838,10 +838,10 @@
         {
             "show": "Dogbark",
             "slug": "dogbark",
-            "count": 48,
-            "uploaded": 48,
+            "count": 49,
+            "uploaded": 49,
             "missing": 0,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -3007,8 +3007,8 @@
         {
             "show": "RWBY",
             "slug": "rwby",
-            "count": 166,
-            "uploaded": 166,
+            "count": 167,
+            "uploaded": 167,
             "missing": 0,
             "incomplete": 0,
             "removed": 0

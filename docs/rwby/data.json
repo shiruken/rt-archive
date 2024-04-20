@@ -2,13 +2,23 @@
     "show": "RWBY",
     "slug": "rwby",
     "summary": {
-        "count": 166,
-        "uploaded": 166,
+        "count": 167,
+        "uploaded": 167,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "RWBY Beyond: A Knight\u2019s Journal",
+            "id": "52830",
+            "slug": "rwby-rwby-beyond-a-knight-s-journal",
+            "date": "2024-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "RWBY Beyond: Jr. Detectives",
             "id": "52814",
