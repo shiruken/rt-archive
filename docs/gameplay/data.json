@@ -3,8 +3,8 @@
     "slug": "gameplay",
     "summary": {
         "count": 1882,
-        "uploaded": 1876,
-        "missing": 6,
+        "uploaded": 1877,
+        "missing": 5,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "gameplay-2024-wwfh4",
             "date": "2024-04-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

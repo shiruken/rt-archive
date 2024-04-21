@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42570,
-        "uploaded": 40697,
-        "missing": 1873,
+        "uploaded": 40699,
+        "missing": 1871,
         "incomplete": 3,
         "removed": 2
     },
@@ -848,8 +848,8 @@
             "show": "Dogbark Plays",
             "slug": "dogbark-plays",
             "count": 36,
-            "uploaded": 35,
-            "missing": 1,
+            "uploaded": 36,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1415,8 +1415,8 @@
             "show": "Gameplay",
             "slug": "gameplay",
             "count": 1882,
-            "uploaded": 1876,
-            "missing": 6,
+            "uploaded": 1877,
+            "missing": 5,
             "incomplete": 0,
             "removed": 0
         },
