@@ -2,13 +2,23 @@
     "show": "Dogbark Plays",
     "slug": "dogbark-plays",
     "summary": {
-        "count": 35,
+        "count": 36,
         "uploaded": 35,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Our Last Chance to Win $1,000,000 (Finale)",
+            "id": "52827",
+            "slug": "dogbark-plays-season-2-our-last-chance-to-win-1-000-000-finale",
+            "date": "2024-04-21",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "We're Gonna F#CK (Up) Some Ghosts! - Content Warning",
             "id": "52821",
