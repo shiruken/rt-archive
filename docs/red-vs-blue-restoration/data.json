@@ -2,13 +2,23 @@
     "show": "Red vs. Blue: Restoration",
     "slug": "red-vs-blue-restoration",
     "summary": {
-        "count": 2,
-        "uploaded": 2,
+        "count": 3,
+        "uploaded": 3,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Rooster Teeth Founders Play Halo For The Last Time\u2026",
+            "id": "52835",
+            "slug": "red-vs-blue-restoration-red-vs-blue-restoration-rooster-teeth-founders-play-halo-for-the-last-time",
+            "date": "2024-04-20",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "RvB Restoration (2024) Official Trailer",
             "id": "52772",
