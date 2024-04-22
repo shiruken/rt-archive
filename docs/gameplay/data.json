@@ -2,13 +2,23 @@
     "show": "Gameplay",
     "slug": "gameplay",
     "summary": {
-        "count": 1882,
+        "count": 1883,
         "uploaded": 1877,
-        "missing": 5,
+        "missing": 6,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Our Goldeneye Slap Fight Gets Out of Hand - Gaming Impossible",
+            "id": "52836",
+            "slug": "gameplay-2024-gifinale",
+            "date": "2024-04-22",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Hot Ryan on Ryan on Ryan Action - World Wrestling Funhaus",
             "id": "52833",

@@ -2,13 +2,23 @@
     "show": "Hypothetical Nonsense",
     "slug": "hypothetical-nonsense",
     "summary": {
-        "count": 34,
-        "uploaded": 34,
+        "count": 35,
+        "uploaded": 35,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Rating your  \u201cShower Thoughts\u201d",
+            "id": "52832",
+            "slug": "hypothetical-nonsense-season-1-hn34-shower-thoughts",
+            "date": "2024-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Dear Howard, Howardeez nuts in yo mouth?",
             "id": "52812",

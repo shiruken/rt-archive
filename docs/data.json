@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42572,
-        "uploaded": 40701,
-        "missing": 1871,
+        "count": 42575,
+        "uploaded": 40703,
+        "missing": 1872,
         "incomplete": 3,
         "removed": 2
     },
@@ -1414,9 +1414,9 @@
         {
             "show": "Gameplay",
             "slug": "gameplay",
-            "count": 1882,
+            "count": 1883,
             "uploaded": 1877,
-            "missing": 5,
+            "missing": 6,
             "incomplete": 0,
             "removed": 0
         },
@@ -1684,8 +1684,8 @@
         {
             "show": "Hypothetical Nonsense",
             "slug": "hypothetical-nonsense",
-            "count": 34,
-            "uploaded": 34,
+            "count": 35,
+            "uploaded": 35,
             "missing": 0,
             "incomplete": 0,
             "removed": 0
@@ -2827,8 +2827,8 @@
         {
             "show": "Rooster Teeth Podcast",
             "slug": "rt-podcast",
-            "count": 711,
-            "uploaded": 711,
+            "count": 712,
+            "uploaded": 712,
             "missing": 0,
             "incomplete": 0,
             "removed": 0

@@ -2,13 +2,23 @@
     "show": "Rooster Teeth Podcast",
     "slug": "rt-podcast",
     "summary": {
-        "count": 711,
-        "uploaded": 711,
+        "count": 712,
+        "uploaded": 712,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The Final Rooster Teeth Podcast",
+            "id": "52837",
+            "slug": "rt-podcast-2024-rtp798",
+            "date": "2024-04-22",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "It\u2019s The Final Cancellation - It's A Choice",
             "id": "52828",
