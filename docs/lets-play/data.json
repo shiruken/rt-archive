@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2158,
+        "count": 2159,
         "uploaded": 2124,
-        "missing": 34,
+        "missing": 35,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Going for WORLD'S FIRST on this Achievement // Regulation Gameplay",
+            "id": "52834",
+            "slug": "lets-play-2024-4-22",
+            "date": "2024-04-22",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "EFFICIENTLY INEFFICIENT MOVING // Regulation Gameplay Pt.3",
             "id": "52826",
