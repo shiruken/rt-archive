@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42575,
-        "uploaded": 40705,
-        "missing": 1870,
+        "uploaded": 40722,
+        "missing": 1853,
         "incomplete": 3,
         "removed": 2
     },
@@ -92,8 +92,8 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1203,
-            "missing": 580,
+            "uploaded": 1204,
+            "missing": 579,
             "incomplete": 0,
             "removed": 0
         },
@@ -884,8 +884,8 @@
             "show": "Easter Eggs",
             "slug": "easter-eggs",
             "count": 334,
-            "uploaded": 307,
-            "missing": 27,
+            "uploaded": 308,
+            "missing": 26,
             "incomplete": 0,
             "removed": 0
         },
@@ -1379,8 +1379,8 @@
             "show": "Game Fails",
             "slug": "game-fails",
             "count": 72,
-            "uploaded": 19,
-            "missing": 53,
+            "uploaded": 30,
+            "missing": 42,
             "incomplete": 0,
             "removed": 0
         },
@@ -2180,8 +2180,8 @@
             "show": "MegaCraft",
             "slug": "megacraft",
             "count": 33,
-            "uploaded": 32,
-            "missing": 1,
+            "uploaded": 33,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -2558,8 +2558,8 @@
             "show": "Quick Bits",
             "slug": "quick-bits",
             "count": 18,
-            "uploaded": 17,
-            "missing": 1,
+            "uploaded": 18,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -2900,8 +2900,8 @@
             "show": "RT Life",
             "slug": "rt-life",
             "count": 391,
-            "uploaded": 376,
-            "missing": 15,
+            "uploaded": 377,
+            "missing": 14,
             "incomplete": 0,
             "removed": 0
         },
@@ -3584,8 +3584,8 @@
             "show": "Things to Do In",
             "slug": "things-to-do-in",
             "count": 571,
-            "uploaded": 568,
-            "missing": 3,
+            "uploaded": 569,
+            "missing": 2,
             "incomplete": 0,
             "removed": 0
         },

@@ -3,8 +3,8 @@
     "slug": "game-fails",
     "summary": {
         "count": 72,
-        "uploaded": 19,
-        "missing": 53,
+        "uploaded": 30,
+        "missing": 42,
         "incomplete": 0,
         "removed": 0
     },
@@ -35,8 +35,8 @@
             "slug": "game-fails-2014-16",
             "date": "2014-06-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -165,8 +165,8 @@
             "slug": "game-fails-2014-25",
             "date": "2014-03-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -185,8 +185,8 @@
             "slug": "game-fails-2014-21",
             "date": "2014-03-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -195,8 +195,8 @@
             "slug": "game-fails-2014-19",
             "date": "2014-03-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -265,8 +265,8 @@
             "slug": "game-fails-2014-13",
             "date": "2014-01-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -485,8 +485,8 @@
             "slug": "game-fails-2013-30",
             "date": "2013-06-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -555,8 +555,8 @@
             "slug": "game-fails-2013-12",
             "date": "2013-04-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -585,8 +585,8 @@
             "slug": "game-fails-2013-23",
             "date": "2013-02-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -605,8 +605,8 @@
             "slug": "game-fails-season-1-best-fails-of-december-2012",
             "date": "2013-01-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -645,8 +645,8 @@
             "slug": "game-fails-season-1-best-fails-of-august-2012",
             "date": "2012-09-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -685,8 +685,8 @@
             "slug": "game-fails-season-1-best-fails-of-april-2012",
             "date": "2012-05-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

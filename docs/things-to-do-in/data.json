@@ -3,8 +3,8 @@
     "slug": "things-to-do-in",
     "summary": {
         "count": 571,
-        "uploaded": 568,
-        "missing": 3,
+        "uploaded": 569,
+        "missing": 2,
         "incomplete": 0,
         "removed": 0
     },
@@ -3285,8 +3285,8 @@
             "slug": "things-to-do-in-2013-23",
             "date": "2013-09-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

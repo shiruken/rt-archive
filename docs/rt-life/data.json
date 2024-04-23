@@ -3,8 +3,8 @@
     "slug": "rt-life",
     "summary": {
         "count": 391,
-        "uploaded": 376,
-        "missing": 15,
+        "uploaded": 377,
+        "missing": 14,
         "incomplete": 0,
         "removed": 0
     },
@@ -3845,8 +3845,8 @@
             "slug": "rt-life-2012-37",
             "date": "2012-02-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

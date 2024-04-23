@@ -3,8 +3,8 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1203,
-        "missing": 580,
+        "uploaded": 1204,
+        "missing": 579,
         "incomplete": 0,
         "removed": 0
     },
@@ -3235,8 +3235,8 @@
             "slug": "achievement-hunter-achievement-hunter-ryan-the-slide-guy",
             "date": "2015-07-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

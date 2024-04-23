@@ -3,8 +3,8 @@
     "slug": "megacraft",
     "summary": {
         "count": 33,
-        "uploaded": 32,
-        "missing": 1,
+        "uploaded": 33,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -55,8 +55,8 @@
             "slug": "megacraft-2015-5",
             "date": "2015-06-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
