@@ -3,8 +3,8 @@
     "slug": "demo-disk",
     "summary": {
         "count": 184,
-        "uploaded": 183,
-        "missing": 1,
+        "uploaded": 184,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -425,8 +425,8 @@
             "slug": "demo-disk-2017-demo145",
             "date": "2017-12-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

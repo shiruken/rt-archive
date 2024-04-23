@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42575,
-        "uploaded": 40704,
-        "missing": 1871,
+        "uploaded": 40705,
+        "missing": 1870,
         "incomplete": 3,
         "removed": 2
     },
@@ -785,8 +785,8 @@
             "show": "Demo Disk",
             "slug": "demo-disk",
             "count": 184,
-            "uploaded": 183,
-            "missing": 1,
+            "uploaded": 184,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
