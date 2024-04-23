@@ -3,8 +3,8 @@
     "slug": "easter-eggs",
     "summary": {
         "count": 334,
-        "uploaded": 308,
-        "missing": 26,
+        "uploaded": 309,
+        "missing": 25,
         "incomplete": 0,
         "removed": 0
     },
@@ -3115,8 +3115,8 @@
             "slug": "easter-eggs-2010-23",
             "date": "2010-09-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

@@ -3,8 +3,8 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1204,
-        "missing": 579,
+        "uploaded": 1207,
+        "missing": 576,
         "incomplete": 0,
         "removed": 0
     },
@@ -17685,8 +17685,8 @@
             "slug": "achievement-hunter-achievement-hunter-worst-day-shift-manager-ever",
             "date": "2008-09-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -17735,8 +17735,8 @@
             "slug": "achievement-hunter-achievement-hunter-madden-09-touchdowns",
             "date": "2008-08-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -17815,8 +17815,8 @@
             "slug": "achievement-hunter-achievement-hunter-gta-iv-rolled-over-walkthrough",
             "date": "2008-08-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

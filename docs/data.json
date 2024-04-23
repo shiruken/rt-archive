@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42575,
-        "uploaded": 40722,
-        "missing": 1853,
+        "uploaded": 40727,
+        "missing": 1848,
         "incomplete": 3,
         "removed": 2
     },
@@ -92,8 +92,8 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1204,
-            "missing": 579,
+            "uploaded": 1207,
+            "missing": 576,
             "incomplete": 0,
             "removed": 0
         },
@@ -146,8 +146,8 @@
             "show": "AHWU",
             "slug": "ahwu",
             "count": 495,
-            "uploaded": 421,
-            "missing": 74,
+            "uploaded": 422,
+            "missing": 73,
             "incomplete": 0,
             "removed": 0
         },
@@ -884,8 +884,8 @@
             "show": "Easter Eggs",
             "slug": "easter-eggs",
             "count": 334,
-            "uploaded": 308,
-            "missing": 26,
+            "uploaded": 309,
+            "missing": 25,
             "incomplete": 0,
             "removed": 0
         },
