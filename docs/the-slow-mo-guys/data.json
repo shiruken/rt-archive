@@ -3,8 +3,8 @@
     "slug": "the-slow-mo-guys",
     "summary": {
         "count": 77,
-        "uploaded": 57,
-        "missing": 20,
+        "uploaded": 59,
+        "missing": 18,
         "incomplete": 0,
         "removed": 0
     },
@@ -335,8 +335,8 @@
             "slug": "the-slow-mo-guys-season-1-condom-challenge",
             "date": "2015-12-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -505,8 +505,8 @@
             "slug": "the-slow-mo-guys-season-1-slow-motion-vomit",
             "date": "2014-07-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

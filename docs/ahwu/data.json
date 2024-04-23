@@ -3,8 +3,8 @@
     "slug": "ahwu",
     "summary": {
         "count": 495,
-        "uploaded": 422,
-        "missing": 73,
+        "uploaded": 423,
+        "missing": 72,
         "incomplete": 0,
         "removed": 0
     },
@@ -4945,8 +4945,8 @@
             "slug": "ahwu-2010-3",
             "date": "2010-03-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

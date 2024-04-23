@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42579,
-        "uploaded": 40731,
-        "missing": 1848,
+        "uploaded": 40742,
+        "missing": 1837,
         "incomplete": 3,
         "removed": 2
     },
@@ -119,8 +119,8 @@
             "show": "Achievement Unlocked",
             "slug": "achievement-unlocked",
             "count": 924,
-            "uploaded": 255,
-            "missing": 669,
+            "uploaded": 257,
+            "missing": 667,
             "incomplete": 0,
             "removed": 0
         },
@@ -146,8 +146,8 @@
             "show": "AHWU",
             "slug": "ahwu",
             "count": 495,
-            "uploaded": 422,
-            "missing": 73,
+            "uploaded": 423,
+            "missing": 72,
             "incomplete": 0,
             "removed": 0
         },
@@ -884,8 +884,8 @@
             "show": "Easter Eggs",
             "slug": "easter-eggs",
             "count": 334,
-            "uploaded": 309,
-            "missing": 25,
+            "uploaded": 310,
+            "missing": 24,
             "incomplete": 0,
             "removed": 0
         },
@@ -1379,8 +1379,8 @@
             "show": "Game Fails",
             "slug": "game-fails",
             "count": 72,
-            "uploaded": 30,
-            "missing": 42,
+            "uploaded": 35,
+            "missing": 37,
             "incomplete": 0,
             "removed": 0
         },
@@ -3539,8 +3539,8 @@
             "show": "The Slow Mo Guys",
             "slug": "the-slow-mo-guys",
             "count": 77,
-            "uploaded": 57,
-            "missing": 20,
+            "uploaded": 59,
+            "missing": 18,
             "incomplete": 0,
             "removed": 0
         },

@@ -3,8 +3,8 @@
     "slug": "achievement-unlocked",
     "summary": {
         "count": 924,
-        "uploaded": 255,
-        "missing": 669,
+        "uploaded": 257,
+        "missing": 667,
         "incomplete": 0,
         "removed": 0
     },
@@ -7705,8 +7705,8 @@
             "slug": "achievement-unlocked-season-1-vidmaster-challenge-classic-guide",
             "date": "2009-09-25",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -9215,8 +9215,8 @@
             "slug": "achievement-unlocked-season-1-smasher-achievement-guide",
             "date": "2008-09-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
