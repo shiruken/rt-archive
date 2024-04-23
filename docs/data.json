@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42579,
-        "uploaded": 40730,
-        "missing": 1849,
+        "uploaded": 40731,
+        "missing": 1848,
         "incomplete": 3,
         "removed": 2
     },
@@ -3359,8 +3359,8 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 80,
-            "uploaded": 79,
-            "missing": 1,
+            "uploaded": 80,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
