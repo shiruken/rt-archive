@@ -3,8 +3,8 @@
     "slug": "the-patch-game-club",
     "summary": {
         "count": 42,
-        "uploaded": 30,
-        "missing": 12,
+        "uploaded": 31,
+        "missing": 11,
         "incomplete": 0,
         "removed": 0
     },
@@ -365,8 +365,8 @@
             "slug": "the-patch-game-club-season-1-dont-starve-together-so-many-other-ways-to-die-too",
             "date": "2015-05-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

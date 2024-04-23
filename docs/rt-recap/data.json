@@ -3,8 +3,8 @@
     "slug": "rt-recap",
     "summary": {
         "count": 24,
-        "uploaded": 3,
-        "missing": 21,
+        "uploaded": 15,
+        "missing": 9,
         "incomplete": 0,
         "removed": 0
     },
@@ -75,8 +75,8 @@
             "slug": "rt-recap-2013-rt-recap-week-of-january-13th",
             "date": "2013-01-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -95,8 +95,8 @@
             "slug": "rt-recap-2012-rt-recap-week-of-december-30th",
             "date": "2012-12-30",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -105,8 +105,8 @@
             "slug": "rt-recap-2012-rt-recap-week-of-december-23rd",
             "date": "2012-12-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -145,8 +145,8 @@
             "slug": "rt-recap-2012-rt-recap-week-of-november-17th",
             "date": "2012-11-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -155,8 +155,8 @@
             "slug": "rt-recap-2012-rt-recap-week-of-november-10th",
             "date": "2012-11-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -165,8 +165,8 @@
             "slug": "rt-recap-2012-rt-recap-week-of-oct-21st",
             "date": "2012-10-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -185,8 +185,8 @@
             "slug": "rt-recap-2012-rt-recap-week-of-oct-6th",
             "date": "2012-10-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -195,8 +195,8 @@
             "slug": "rt-recap-2012-week-of-september-28th",
             "date": "2012-09-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -205,8 +205,8 @@
             "slug": "rt-recap-2012-week-of-september-21st",
             "date": "2012-09-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -225,8 +225,8 @@
             "slug": "rt-recap-2012-week-of-august-10th",
             "date": "2012-08-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -235,8 +235,8 @@
             "slug": "rt-recap-2012-week-of-august-3rd",
             "date": "2012-08-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -245,8 +245,8 @@
             "slug": "rt-recap-2012-week-of-july-27th",
             "date": "2012-07-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

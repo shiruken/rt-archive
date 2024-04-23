@@ -3,8 +3,8 @@
     "slug": "ahwu",
     "summary": {
         "count": 495,
-        "uploaded": 423,
-        "missing": 72,
+        "uploaded": 429,
+        "missing": 66,
         "incomplete": 0,
         "removed": 0
     },
@@ -3665,8 +3665,8 @@
             "slug": "ahwu-2013-27",
             "date": "2013-07-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -4355,8 +4355,8 @@
             "slug": "ahwu-2011-13",
             "date": "2011-11-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -4765,8 +4765,8 @@
             "slug": "ahwu-2010-42",
             "date": "2010-12-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -4785,8 +4785,8 @@
             "slug": "ahwu-2010-35",
             "date": "2010-11-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -4835,8 +4835,8 @@
             "slug": "ahwu-2010-26",
             "date": "2010-08-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -4925,8 +4925,8 @@
             "slug": "ahwu-2010-5",
             "date": "2010-03-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

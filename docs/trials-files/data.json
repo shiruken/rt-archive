@@ -3,8 +3,8 @@
     "slug": "trials-files",
     "summary": {
         "count": 121,
-        "uploaded": 112,
-        "missing": 9,
+        "uploaded": 114,
+        "missing": 7,
         "incomplete": 0,
         "removed": 0
     },
@@ -905,8 +905,8 @@
             "slug": "trials-files-2012-4",
             "date": "2012-11-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1115,8 +1115,8 @@
             "slug": "trials-files-2012-17",
             "date": "2012-07-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

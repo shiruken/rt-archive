@@ -3,8 +3,8 @@
     "slug": "countdown",
     "summary": {
         "count": 65,
-        "uploaded": 34,
-        "missing": 31,
+        "uploaded": 35,
+        "missing": 30,
         "incomplete": 0,
         "removed": 0
     },
@@ -155,8 +155,8 @@
             "slug": "countdown-2015-18",
             "date": "2015-05-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

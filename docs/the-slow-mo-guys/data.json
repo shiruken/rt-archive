@@ -3,8 +3,8 @@
     "slug": "the-slow-mo-guys",
     "summary": {
         "count": 77,
-        "uploaded": 59,
-        "missing": 18,
+        "uploaded": 67,
+        "missing": 10,
         "incomplete": 0,
         "removed": 0
     },
@@ -395,8 +395,8 @@
             "slug": "the-slow-mo-guys-season-1-match-head-bomb-at-2500-fps-the-slow-mo-guys",
             "date": "2015-08-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -415,8 +415,8 @@
             "slug": "the-slow-mo-guys-season-1-explosive-oil-fire-at-2500fps",
             "date": "2015-05-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -425,8 +425,8 @@
             "slug": "the-slow-mo-guys-season-1-lighting-a-candle-without-touching-it",
             "date": "2015-05-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -455,8 +455,8 @@
             "slug": "the-slow-mo-guys-season-1-tiny-plasma-cutter-in-slow-motion",
             "date": "2014-12-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -465,8 +465,8 @@
             "slug": "the-slow-mo-guys-season-1-non-newtonian-fluid-in-slow-motion",
             "date": "2014-11-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -475,8 +475,8 @@
             "slug": "the-slow-mo-guys-season-1-imploding-drum",
             "date": "2014-09-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -485,8 +485,8 @@
             "slug": "the-slow-mo-guys-season-1-catching-a-bullet-with-a-watermelon",
             "date": "2014-08-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -595,8 +595,8 @@
             "slug": "the-slow-mo-guys-season-1-beer-bottle-trick-at-2500fps-the-slow-mo-guys",
             "date": "2013-12-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

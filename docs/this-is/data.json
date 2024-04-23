@@ -3,8 +3,8 @@
     "slug": "this-is",
     "summary": {
         "count": 138,
-        "uploaded": 113,
-        "missing": 25,
+        "uploaded": 114,
+        "missing": 24,
         "incomplete": 0,
         "removed": 0
     },
@@ -705,8 +705,8 @@
             "slug": "this-is-2012-48",
             "date": "2012-09-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

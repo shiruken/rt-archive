@@ -3,8 +3,8 @@
     "slug": "lets-play",
     "summary": {
         "count": 2159,
-        "uploaded": 2125,
-        "missing": 34,
+        "uploaded": 2131,
+        "missing": 28,
         "incomplete": 0,
         "removed": 0
     },
@@ -12525,8 +12525,8 @@
             "slug": "lets-play-2017-ghost-recon-wildlands-one-bullet-challenge",
             "date": "2017-04-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20715,8 +20715,8 @@
             "slug": "lets-play-2013-43",
             "date": "2013-03-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20815,8 +20815,8 @@
             "slug": "lets-play-2013-50",
             "date": "2013-02-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20945,8 +20945,8 @@
             "slug": "lets-play-2013-82",
             "date": "2013-01-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20995,8 +20995,8 @@
             "slug": "lets-play-2012-15",
             "date": "2012-12-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21035,8 +21035,8 @@
             "slug": "lets-play-2012-44",
             "date": "2012-12-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

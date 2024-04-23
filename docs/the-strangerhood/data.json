@@ -3,8 +3,8 @@
     "slug": "the-strangerhood",
     "summary": {
         "count": 31,
-        "uploaded": 23,
-        "missing": 8,
+        "uploaded": 31,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -55,8 +55,8 @@
             "slug": "the-strangerhood-season-1-bye-nikki-bye",
             "date": "2011-04-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -185,8 +185,8 @@
             "slug": "the-strangerhood-season-1-strangerhood-studios-6",
             "date": "2005-10-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -195,8 +195,8 @@
             "slug": "the-strangerhood-season-1-strangerhood-studios-5",
             "date": "2005-09-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -215,8 +215,8 @@
             "slug": "the-strangerhood-season-1-strangerhood-studios-3",
             "date": "2005-08-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -225,8 +225,8 @@
             "slug": "the-strangerhood-season-1-strangerhood-studios-2",
             "date": "2005-07-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -235,8 +235,8 @@
             "slug": "the-strangerhood-season-1-strangerhood-studios-1",
             "date": "2005-07-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -275,8 +275,8 @@
             "slug": "the-strangerhood-season-1-holiday-wishes",
             "date": "2004-12-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -315,8 +315,8 @@
             "slug": "the-strangerhood-bonus-1",
             "date": "2004-11-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

@@ -3,8 +3,8 @@
     "slug": "easter-eggs",
     "summary": {
         "count": 334,
-        "uploaded": 310,
-        "missing": 24,
+        "uploaded": 330,
+        "missing": 4,
         "incomplete": 0,
         "removed": 0
     },
@@ -2525,8 +2525,8 @@
             "slug": "easter-eggs-2011-26",
             "date": "2011-11-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2535,8 +2535,8 @@
             "slug": "easter-eggs-2011-24",
             "date": "2011-11-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2545,8 +2545,8 @@
             "slug": "easter-eggs-2011-20",
             "date": "2011-11-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2655,8 +2655,8 @@
             "slug": "easter-eggs-2011-39",
             "date": "2011-10-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3025,8 +3025,8 @@
             "slug": "easter-eggs-2011-64",
             "date": "2011-01-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3095,8 +3095,8 @@
             "slug": "easter-eggs-2010-25",
             "date": "2010-10-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3105,8 +3105,8 @@
             "slug": "easter-eggs-2010-24",
             "date": "2010-10-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3125,8 +3125,8 @@
             "slug": "easter-eggs-2010-22",
             "date": "2010-09-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3185,8 +3185,8 @@
             "slug": "easter-eggs-2010-15",
             "date": "2010-08-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3195,8 +3195,8 @@
             "slug": "easter-eggs-2010-14",
             "date": "2010-08-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3205,8 +3205,8 @@
             "slug": "easter-eggs-2010-13",
             "date": "2010-07-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3215,8 +3215,8 @@
             "slug": "easter-eggs-2010-12",
             "date": "2010-06-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3225,8 +3225,8 @@
             "slug": "easter-eggs-2010-11",
             "date": "2010-06-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3235,8 +3235,8 @@
             "slug": "easter-eggs-2010-10",
             "date": "2010-05-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3255,8 +3255,8 @@
             "slug": "easter-eggs-2010-8",
             "date": "2010-05-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3265,8 +3265,8 @@
             "slug": "easter-eggs-2010-7",
             "date": "2010-05-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3275,8 +3275,8 @@
             "slug": "easter-eggs-2010-6",
             "date": "2010-05-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3295,8 +3295,8 @@
             "slug": "easter-eggs-2010-4",
             "date": "2010-05-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3315,8 +3315,8 @@
             "slug": "easter-eggs-2010-2",
             "date": "2010-04-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3325,8 +3325,8 @@
             "slug": "easter-eggs-2010",
             "date": "2010-04-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

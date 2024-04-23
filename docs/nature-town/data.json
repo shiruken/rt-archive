@@ -3,8 +3,8 @@
     "slug": "nature-town",
     "summary": {
         "count": 5,
-        "uploaded": 4,
-        "missing": 1,
+        "uploaded": 5,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -45,8 +45,8 @@
             "slug": "nature-town-season-1-nuts-nuts-nuts",
             "date": "2012-07-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

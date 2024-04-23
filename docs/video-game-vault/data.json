@@ -3,8 +3,8 @@
     "slug": "video-game-vault",
     "summary": {
         "count": 340,
-        "uploaded": 337,
-        "missing": 3,
+        "uploaded": 338,
+        "missing": 2,
         "incomplete": 1,
         "removed": 0
     },
@@ -1715,8 +1715,8 @@
             "slug": "video-game-vault-ecco-the-tides-of-time",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

@@ -3,8 +3,8 @@
     "slug": "game-fails",
     "summary": {
         "count": 72,
-        "uploaded": 35,
-        "missing": 37,
+        "uploaded": 37,
+        "missing": 35,
         "incomplete": 0,
         "removed": 0
     },
@@ -595,8 +595,8 @@
             "slug": "game-fails-season-1-best-fails-of-2012",
             "date": "2013-01-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -675,8 +675,8 @@
             "slug": "game-fails-season-1-best-fails-of-may-2012",
             "date": "2012-06-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

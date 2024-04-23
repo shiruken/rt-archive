@@ -3,9 +3,9 @@
     "slug": "game-news",
     "summary": {
         "count": 1211,
-        "uploaded": 1147,
-        "missing": 64,
-        "incomplete": 0,
+        "uploaded": 1193,
+        "missing": 18,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -11495,8 +11495,8 @@
             "slug": "game-news-2015-83",
             "date": "2015-08-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11525,8 +11525,8 @@
             "slug": "game-news-2015-78",
             "date": "2015-08-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11545,8 +11545,8 @@
             "slug": "game-news-2015-75",
             "date": "2015-08-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11555,8 +11555,8 @@
             "slug": "game-news-2015-73",
             "date": "2015-08-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11565,8 +11565,8 @@
             "slug": "game-news-2015-72",
             "date": "2015-08-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11595,8 +11595,8 @@
             "slug": "game-news-2015-69",
             "date": "2015-08-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11605,8 +11605,8 @@
             "slug": "game-news-2015-68",
             "date": "2015-08-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11625,8 +11625,8 @@
             "slug": "game-news-2015-66",
             "date": "2015-07-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11635,8 +11635,8 @@
             "slug": "game-news-2015-65",
             "date": "2015-07-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11645,8 +11645,8 @@
             "slug": "game-news-2015-64",
             "date": "2015-07-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11655,8 +11655,8 @@
             "slug": "game-news-2015-62",
             "date": "2015-07-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11675,8 +11675,8 @@
             "slug": "game-news-2015-59",
             "date": "2015-07-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11695,8 +11695,8 @@
             "slug": "game-news-2015-56",
             "date": "2015-07-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11715,8 +11715,8 @@
             "slug": "game-news-2015-53",
             "date": "2015-07-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11725,8 +11725,8 @@
             "slug": "game-news-2015-51",
             "date": "2015-07-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11735,8 +11735,8 @@
             "slug": "game-news-2015-50",
             "date": "2015-07-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11745,8 +11745,8 @@
             "slug": "game-news-2015-49",
             "date": "2015-07-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11765,8 +11765,8 @@
             "slug": "game-news-2015-47",
             "date": "2015-07-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11775,8 +11775,8 @@
             "slug": "game-news-2015-46",
             "date": "2015-06-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11785,8 +11785,8 @@
             "slug": "game-news-2015-45",
             "date": "2015-06-26",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11805,8 +11805,8 @@
             "slug": "game-news-2015-43",
             "date": "2015-06-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11815,8 +11815,8 @@
             "slug": "game-news-2015-42",
             "date": "2015-06-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11825,8 +11825,8 @@
             "slug": "game-news-2015-41",
             "date": "2015-06-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11845,8 +11845,8 @@
             "slug": "game-news-2015-38",
             "date": "2015-06-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11855,7 +11855,7 @@
             "slug": "game-news-2015-37",
             "date": "2015-06-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11865,8 +11865,8 @@
             "slug": "game-news-2015-34",
             "date": "2015-06-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11885,8 +11885,8 @@
             "slug": "game-news-2015-30",
             "date": "2015-06-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11905,8 +11905,8 @@
             "slug": "game-news-2015-28",
             "date": "2015-05-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11915,8 +11915,8 @@
             "slug": "game-news-2015-26",
             "date": "2015-05-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11925,8 +11925,8 @@
             "slug": "game-news-2015-25",
             "date": "2015-05-26",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11945,8 +11945,8 @@
             "slug": "game-news-2015-23",
             "date": "2015-05-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11955,8 +11955,8 @@
             "slug": "game-news-2015-21",
             "date": "2015-05-20",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11975,8 +11975,8 @@
             "slug": "game-news-2015-19",
             "date": "2015-05-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11985,8 +11985,8 @@
             "slug": "game-news-2015-17",
             "date": "2015-05-15",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11995,8 +11995,8 @@
             "slug": "game-news-2015-16",
             "date": "2015-05-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12005,8 +12005,8 @@
             "slug": "game-news-2015-15",
             "date": "2015-05-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12015,8 +12015,8 @@
             "slug": "game-news-2015-14",
             "date": "2015-05-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12025,8 +12025,8 @@
             "slug": "game-news-2015-13",
             "date": "2015-05-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12035,8 +12035,8 @@
             "slug": "game-news-2015-12",
             "date": "2015-05-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12045,8 +12045,8 @@
             "slug": "game-news-2015-11",
             "date": "2015-05-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12065,8 +12065,8 @@
             "slug": "game-news-2015-8",
             "date": "2015-05-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12075,8 +12075,8 @@
             "slug": "game-news-2015-5",
             "date": "2015-05-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12085,8 +12085,8 @@
             "slug": "game-news-2015-4",
             "date": "2015-05-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12095,8 +12095,8 @@
             "slug": "game-news-2015-3",
             "date": "2015-05-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12105,8 +12105,8 @@
             "slug": "game-news-2015-2",
             "date": "2015-05-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12115,8 +12115,8 @@
             "slug": "game-news-2015",
             "date": "2015-05-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

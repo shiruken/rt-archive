@@ -3,8 +3,8 @@
     "slug": "entertainment-news",
     "summary": {
         "count": 126,
-        "uploaded": 116,
-        "missing": 10,
+        "uploaded": 124,
+        "missing": 2,
         "incomplete": 0,
         "removed": 0
     },
@@ -1185,8 +1185,8 @@
             "slug": "entertainment-news-2015-9",
             "date": "2015-07-30",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1195,8 +1195,8 @@
             "slug": "entertainment-news-2015-8",
             "date": "2015-07-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1205,8 +1205,8 @@
             "slug": "entertainment-news-2015-7",
             "date": "2015-07-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1215,8 +1215,8 @@
             "slug": "entertainment-news-2015-6",
             "date": "2015-07-20",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1225,8 +1225,8 @@
             "slug": "entertainment-news-2015-5",
             "date": "2015-07-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1235,8 +1235,8 @@
             "slug": "entertainment-news-2015-4",
             "date": "2015-07-02",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1245,8 +1245,8 @@
             "slug": "entertainment-news-2015-3",
             "date": "2015-06-30",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1255,8 +1255,8 @@
             "slug": "entertainment-news-2015-2",
             "date": "2015-06-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

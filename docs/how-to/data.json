@@ -3,8 +3,8 @@
     "slug": "how-to",
     "summary": {
         "count": 121,
-        "uploaded": 103,
-        "missing": 18,
+        "uploaded": 104,
+        "missing": 17,
         "incomplete": 0,
         "removed": 0
     },
@@ -745,8 +745,8 @@
             "slug": "how-to-2015-9",
             "date": "2015-01-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

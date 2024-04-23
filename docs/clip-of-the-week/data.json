@@ -3,8 +3,8 @@
     "slug": "clip-of-the-week",
     "summary": {
         "count": 97,
-        "uploaded": 74,
-        "missing": 23,
+        "uploaded": 89,
+        "missing": 8,
         "incomplete": 0,
         "removed": 0
     },
@@ -425,8 +425,8 @@
             "slug": "clip-of-the-week-kid-icarus-fan-film-2-the-reckoning",
             "date": "2012-03-16",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -635,8 +635,8 @@
             "slug": "clip-of-the-week-the-others",
             "date": "2011-08-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -645,8 +645,8 @@
             "slug": "clip-of-the-week-real-world-power-ups",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -665,8 +665,8 @@
             "slug": "clip-of-the-week-armory-testing",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -695,8 +695,8 @@
             "slug": "clip-of-the-week-the-tank",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -725,8 +725,8 @@
             "slug": "clip-of-the-week-nick-the-destroyer",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -755,8 +755,8 @@
             "slug": "clip-of-the-week-screwattack-mario-kart",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -765,8 +765,8 @@
             "slug": "clip-of-the-week-gotta-kill-em-all",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -785,8 +785,8 @@
             "slug": "clip-of-the-week-funcoland-again",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -825,8 +825,8 @@
             "slug": "clip-of-the-week-purple-stuff",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -865,8 +865,8 @@
             "slug": "clip-of-the-week-gametap",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -875,8 +875,8 @@
             "slug": "clip-of-the-week-zelda-sucks",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -885,8 +885,8 @@
             "slug": "clip-of-the-week-comment-aggression",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -905,8 +905,8 @@
             "slug": "clip-of-the-week-are-you-ready-for-the-new-screwattack-com",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -955,8 +955,8 @@
             "slug": "clip-of-the-week-pet-shop",
             "date": "2011-08-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

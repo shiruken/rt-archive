@@ -3,8 +3,8 @@
     "slug": "rt-shorts",
     "summary": {
         "count": 239,
-        "uploaded": 231,
-        "missing": 8,
+        "uploaded": 233,
+        "missing": 6,
         "incomplete": 0,
         "removed": 0
     },
@@ -1195,8 +1195,8 @@
             "slug": "rt-shorts-season-6-barenaked-ladies-say-what-you-want-official-music-video",
             "date": "2015-05-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -1545,8 +1545,8 @@
             "slug": "rt-shorts-season-4-and-the-nominees-are",
             "date": "2012-02-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

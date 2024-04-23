@@ -3,8 +3,8 @@
     "slug": "gameplay",
     "summary": {
         "count": 1883,
-        "uploaded": 1878,
-        "missing": 5,
+        "uploaded": 1879,
+        "missing": 4,
         "incomplete": 0,
         "removed": 0
     },
@@ -18625,8 +18625,8 @@
             "slug": "funhaus-gameplay-season-1-just-f-ckin-around",
             "date": "2015-05-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

@@ -3,8 +3,8 @@
     "slug": "rt-news",
     "summary": {
         "count": 61,
-        "uploaded": 1,
-        "missing": 60,
+        "uploaded": 53,
+        "missing": 8,
         "incomplete": 0,
         "removed": 0
     },
@@ -35,8 +35,8 @@
             "slug": "rt-news-rt-news-mirrors-edge-2s-drop-in-multiplayer-watch-dogs-beta-spotted-wildstar-dated",
             "date": "2014-03-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -45,8 +45,8 @@
             "slug": "rt-news-rt-news-the-witcher-3-delayed-xbox-live-unstable-hearthstone-officially-launches",
             "date": "2014-03-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -55,8 +55,8 @@
             "slug": "rt-news-rt-news-titanfall-live-action-collaboration-new-tales-from-the-borderlands-details",
             "date": "2014-03-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -65,8 +65,8 @@
             "slug": "rt-news-rt-news-no-titanfall-for-south-africa-the-last-of-us-movie-revealed-watch-dogs-multiplayer-details",
             "date": "2014-03-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -75,8 +75,8 @@
             "slug": "rt-news-rt-news-mgs-v-too-big-to-finish-uncharted-writer-leaves-naughty-dog-xbox-one-updated",
             "date": "2014-03-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -85,8 +85,8 @@
             "slug": "rt-news-rt-news-batman-arkham-knight-announced-dishonored-2-teased-ps4-passes-6-million",
             "date": "2014-03-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -95,8 +95,8 @@
             "slug": "rt-news-rt-news-bioware-on-next-gen-mass-effect-xbox-live-for-iosandroid-twitch-beats-pokemon",
             "date": "2014-03-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -105,8 +105,8 @@
             "slug": "rt-news-rt-news-bioshock-infinites-non-lethal-challenge-cloud-backups-for-pc-games-65-new-xbox-indie-devs",
             "date": "2014-02-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -115,8 +115,8 @@
             "slug": "rt-news-rt-news-tv-stars-gta-v-lawsuit-minecraft-passes-100-million-users-molyneux-blasts-fable-iii",
             "date": "2014-02-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -125,8 +125,8 @@
             "slug": "rt-news-rt-news-south-park-game-censored-xbox-one-gets-twitch-next-month-king-abandons-candy-tm",
             "date": "2014-02-26",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -145,8 +145,8 @@
             "slug": "rt-news-rt-news-new-tony-hawk-game-no-pvz-garden-warfare-microtransactions-ps4-sold-out-for-months",
             "date": "2014-02-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -155,8 +155,8 @@
             "slug": "rt-news-rt-news-steam-region-locks-games-retroactively-interactive-daylight-scares-xbox-update-preview",
             "date": "2014-02-20",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -165,8 +165,8 @@
             "slug": "rt-news-rt-news-mini-games-coming-to-minecraft-doom-beta-with-wolfenstein-final-fantasy-not-ready-for-pc",
             "date": "2014-02-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -175,8 +175,8 @@
             "slug": "rt-news-rt-news-bioshock-studio-shutting-down-valve-doesnt-care-about-your-porn-the-order-1886-details",
             "date": "2014-02-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -185,8 +185,8 @@
             "slug": "rt-news-rt-news-koopalings-and-mario-kart-8-release-date-new-3ds-pokemon-game-xbox-one-controller-changes",
             "date": "2014-02-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -195,8 +195,8 @@
             "slug": "rt-news-rt-news-infamous-second-son-details-decide-double-fines-next-game-myst-gets-3d-update",
             "date": "2014-02-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -215,8 +215,8 @@
             "slug": "rt-news-rt-news-sledgehammer-making-next-call-of-duty-naughty-dog-considering-the-last-of-us-sequel",
             "date": "2014-02-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -225,8 +225,8 @@
             "slug": "rt-news-rt-news-sonic-boom-announced-xbox-360-titanfall-delayed-flappy-bird-makes-50kday",
             "date": "2014-02-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -235,8 +235,8 @@
             "slug": "rt-news-rt-news-major-updates-for-xbox-one-pokemon-bank-back-for-us-burial-at-sea-2-dated",
             "date": "2014-02-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -245,8 +245,8 @@
             "slug": "rt-news-rt-news-pokemon-bank-is-back-in-europe-thief-is-gold-burial-at-sea-ep-2-is-6-hours",
             "date": "2014-02-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -255,8 +255,8 @@
             "slug": "rt-news-rt-news-ubisoft-loses-watch-dogs-trademark-sonic-for-next-gen-minecraft-passes-35-million",
             "date": "2014-02-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -265,8 +265,8 @@
             "slug": "rt-news-rt-news-cheaper-xbox-one-coming-no-co-op-for-shadow-of-mordor-killer-instinct-punishes-quitters",
             "date": "2014-02-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -285,8 +285,8 @@
             "slug": "rt-news-rt-news-elder-scrolls-onlines-ce-exclusive-race-ps-now-invites-sent-nintendo-pres-takes-paycut",
             "date": "2014-01-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -295,8 +295,8 @@
             "slug": "rt-news-rt-news-eve-online-battle-does-250k-damage-titanfall-beta-confirmed-sly-cooper-movie-announced",
             "date": "2014-01-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -305,8 +305,8 @@
             "slug": "rt-news-rt-news-ms-acquires-gears-of-war-halo-series-director-rumored-collective-crowd-funding-launches",
             "date": "2014-01-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -315,8 +315,8 @@
             "slug": "rt-news-rt-news-possible-ps-vita-slim-release-kingdom-come-kickstarted-dice-teases-star-wars-battlefront",
             "date": "2014-01-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -325,8 +325,8 @@
             "slug": "rt-news-rt-news-first-shadow-of-mordor-gameplay-tomb-raider-framerate-differences-esos-star-studded-cast",
             "date": "2014-01-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -335,8 +335,8 @@
             "slug": "rt-news-rt-news-nintendos-next-hardware-rumored-hearthstone-hits-open-beta-candy-crush-vs-banner-saga",
             "date": "2014-01-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -345,8 +345,8 @@
             "slug": "rt-news-rt-news-more-evidence-of-gta-v-for-pc-ps4-error-deleting-game-progress-secret-xbox-one-marketing",
             "date": "2014-01-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -355,8 +355,8 @@
             "slug": "rt-news-rt-news-star-wars-1313-tm-abandoned-nintendo-considering-restructure-lol-earns-624-million",
             "date": "2014-01-20",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -365,8 +365,8 @@
             "slug": "rt-news-rt-news-steam-up-10m-in-3-months-steam-controller-ditches-touch-screen-get-in-the-titanfall-alpha",
             "date": "2014-01-16",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -375,8 +375,8 @@
             "slug": "rt-news-rt-news-rockstar-takes-down-gta-online-starbound-to-wipe-characters-lols-new-player-features",
             "date": "2014-01-15",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -385,8 +385,8 @@
             "slug": "rt-news-rt-news-cod-ghosts-gets-onslaught-steam-virtual-reality-support-dayz-sells-1-million",
             "date": "2014-01-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -395,8 +395,8 @@
             "slug": "rt-news-rt-news-halo-pro-joins-343-simcity-goes-offline-and-supports-mods-agdq-raises-1-million",
             "date": "2014-01-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -405,8 +405,8 @@
             "slug": "rt-news-rt-news-nintendos-record-year-for-3ds-titanfall-will-have-48-combatants-mgr-revengeance-pc-patch",
             "date": "2014-01-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -415,8 +415,8 @@
             "slug": "rt-news-rt-news-xbox-one-social-feature-update-x1-twitch-months-away-343-art-director-steps-down",
             "date": "2014-01-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -425,8 +425,8 @@
             "slug": "rt-news-rt-news-china-unbans-consoles-titanfalls-12-player-max-new-assassins-creed-content",
             "date": "2014-01-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -435,8 +435,8 @@
             "slug": "rt-news-rt-news-xbox-one-passes-3-million-steam-machines-detailed-become-esos-emperor",
             "date": "2014-01-06",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -445,8 +445,8 @@
             "slug": "rt-news-rt-news-wow-accounts-compromised-bethesda-reinstating-classic-fallout-no-titanfall-mod-tools",
             "date": "2014-01-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -455,8 +455,8 @@
             "slug": "rt-news-rt-news-marvel-games-pulled-from-digital-stores-ftls-new-aliens-steam-sale-doubles-devs-income",
             "date": "2014-01-02",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -465,8 +465,8 @@
             "slug": "rt-news-rt-news-freeze-dlc-for-arkham-origins-teased-warframe-on-xbox-one-game-server-cyber-attacks",
             "date": "2013-12-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -475,8 +475,8 @@
             "slug": "rt-news-rt-news-battlefield-4-banned-in-china-microsoft-trademarks-throne-together-aid-for-hello-games",
             "date": "2013-12-30",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -485,8 +485,8 @@
             "slug": "rt-news-rt-news-notch-debunks-minecraft-wii-u-rumors-nintendo-network-taken-offline-homeworld-hd-details",
             "date": "2013-12-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -505,8 +505,8 @@
             "slug": "rt-news-rt-news-batman-arkham-announcement-teased-elder-scrolls-online-pvp-details-blacklight-launch-plans",
             "date": "2013-12-25",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -525,8 +525,8 @@
             "slug": "rt-news-rt-news-next-mass-effect-is-playable-dragon-age-inquisition-dev-update-hearthstone-beta-delayed",
             "date": "2013-12-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -535,8 +535,8 @@
             "slug": "rt-news-rt-news-steam-sale-highlights-ea-lawsuit-for-sec-violations-revengeance-pc-dated",
             "date": "2013-12-20",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -555,8 +555,8 @@
             "slug": "rt-news-rt-news-new-star-wars-game-announced-dota-2-opens-up-dayz-alpha-at-150000",
             "date": "2013-12-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -565,8 +565,8 @@
             "slug": "rt-news-rt-news-political-group-uses-bioshock-propaganda-minecraft-ps3-tomorrow-pro-gamer-athletic-visa",
             "date": "2013-12-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -575,8 +575,8 @@
             "slug": "rt-news-rt-news-ps4-expands-to-48-countries-dead-rising-3-dlc-38-studios-properties-auctioned",
             "date": "2013-12-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -585,8 +585,8 @@
             "slug": "rt-news-rt-news-steamos-available-friday-maybe-fallout-4-again-fable-anniversary-dated",
             "date": "2013-12-13",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -595,8 +595,8 @@
             "slug": "rt-news-rt-news-ea-under-investigation-over-bf4-xbox-one-sells-2-million-elder-scrolls-online-release-date",
             "date": "2013-12-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -605,8 +605,8 @@
             "slug": "rt-news-rt-news-ea-halts-battlefield-dlc-work-for-bug-fixes-new-destiny-details-starbound-beta-begins",
             "date": "2013-12-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
