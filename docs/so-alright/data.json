@@ -2,13 +2,23 @@
     "show": "So...Alright",
     "slug": "so-alright",
     "summary": {
-        "count": 34,
+        "count": 35,
         "uploaded": 34,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "NBA Playoffs",
+            "id": "52844",
+            "slug": "so-alright-2024-sa35",
+            "date": "2024-04-23",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "The worst year of all time",
             "id": "52817",
