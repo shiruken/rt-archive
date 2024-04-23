@@ -3,8 +3,8 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1207,
-        "missing": 576,
+        "uploaded": 1209,
+        "missing": 574,
         "incomplete": 0,
         "removed": 0
     },
@@ -2045,8 +2045,8 @@
             "slug": "achievement-hunter-2016-super-meat-boy-full-stream",
             "date": "2016-08-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2105,8 +2105,8 @@
             "slug": "achievement-hunter-2016-yu-gi-oh-full-stream",
             "date": "2016-08-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

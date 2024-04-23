@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42579,
-        "uploaded": 40742,
-        "missing": 1837,
+        "uploaded": 40746,
+        "missing": 1833,
         "incomplete": 3,
         "removed": 2
     },
@@ -92,8 +92,8 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1207,
-            "missing": 576,
+            "uploaded": 1209,
+            "missing": 574,
             "incomplete": 0,
             "removed": 0
         },
@@ -2459,8 +2459,8 @@
             "show": "Pajamachievements",
             "slug": "pajamachievements",
             "count": 6,
-            "uploaded": 1,
-            "missing": 5,
+            "uploaded": 2,
+            "missing": 4,
             "incomplete": 0,
             "removed": 0
         },
@@ -3134,8 +3134,8 @@
             "show": "ScrewAttack Shorts",
             "slug": "clip-of-the-week",
             "count": 97,
-            "uploaded": 73,
-            "missing": 24,
+            "uploaded": 74,
+            "missing": 23,
             "incomplete": 0,
             "removed": 0
         },

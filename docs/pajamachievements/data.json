@@ -3,8 +3,8 @@
     "slug": "pajamachievements",
     "summary": {
         "count": 6,
-        "uploaded": 1,
-        "missing": 5,
+        "uploaded": 2,
+        "missing": 4,
         "incomplete": 0,
         "removed": 0
     },
@@ -45,8 +45,8 @@
             "slug": "pajamachievements-season-1-pajamachievements-community-video-street-fighter-iv",
             "date": "2009-06-12",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

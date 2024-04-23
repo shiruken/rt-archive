@@ -3,8 +3,8 @@
     "slug": "clip-of-the-week",
     "summary": {
         "count": 97,
-        "uploaded": 73,
-        "missing": 24,
+        "uploaded": 74,
+        "missing": 23,
         "incomplete": 0,
         "removed": 0
     },
@@ -805,8 +805,8 @@
             "slug": "clip-of-the-week-jump-in",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
