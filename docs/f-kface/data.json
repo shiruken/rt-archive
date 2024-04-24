@@ -3,8 +3,8 @@
     "slug": "f-kface",
     "summary": {
         "count": 264,
-        "uploaded": 263,
-        "missing": 1,
+        "uploaded": 264,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "f-kface-season-6-ff204",
             "date": "2024-04-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
