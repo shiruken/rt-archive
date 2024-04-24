@@ -3,8 +3,8 @@
     "slug": "lets-play",
     "summary": {
         "count": 2160,
-        "uploaded": 2131,
-        "missing": 29,
+        "uploaded": 2132,
+        "missing": 28,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "lets-play-2024-wwe-22k4-is-awesome-regulation-gameplay",
             "date": "2024-04-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
