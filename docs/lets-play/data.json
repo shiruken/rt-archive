@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2159,
+        "count": 2160,
         "uploaded": 2131,
-        "missing": 28,
+        "missing": 29,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "WWE 22K4 Is AWESOME! // Regulation Gameplay",
+            "id": "52845",
+            "slug": "lets-play-2024-wwe-22k4-is-awesome-regulation-gameplay",
+            "date": "2024-04-24",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Going for WORLD'S FIRST on this Achievement // Regulation Gameplay",
             "id": "52834",
