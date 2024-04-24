@@ -39,16 +39,17 @@ def identify_missing_incomplete():
                 archive_items.append(item["identifier"])
 
                 if not (
+                    item['item_size'] > 1e6 and
                     "MPEG4" in item['format'] and
-                    "JSON" in item['format'] and # .info.json file
-                    "Unknown" in item['format'] and # .description file
+                    "JSON" in item['format'] and  # .info.json file
+                    "Unknown" in item['format'] and  # .description file
                     (
                         "JPEG" in item['format'] or
                         "PNG" in item['format'] or
                         "Animated GIF" in item['format'] or
                         "JPEG 2000" in item['format'] or
-                        "Motion JPEG" in item['format']
-                    ) or item['identifier'] in [ # Items with manually-added thumbnail files
+                        "Motion JPEG" in item['format']  # ???
+                    ) or item['identifier'] in [  # Items with manually-added WEBP thumbnails
                         "roosterteeth-4277", "roosterteeth-4411", "roosterteeth-4412",
                         "roosterteeth-4433", "roosterteeth-4444",
                     ]

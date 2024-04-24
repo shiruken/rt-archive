@@ -3,7 +3,7 @@
         "count": 42580,
         "uploaded": 41465,
         "missing": 1115,
-        "incomplete": 6,
+        "incomplete": 650,
         "removed": 2
     },
     "data": [
@@ -94,7 +94,7 @@
             "count": 1783,
             "uploaded": 1527,
             "missing": 256,
-            "incomplete": 0,
+            "incomplete": 297,
             "removed": 0
         },
         {
@@ -121,7 +121,7 @@
             "count": 924,
             "uploaded": 452,
             "missing": 472,
-            "incomplete": 2,
+            "incomplete": 172,
             "removed": 0
         },
         {
@@ -148,7 +148,7 @@
             "count": 495,
             "uploaded": 429,
             "missing": 66,
-            "incomplete": 0,
+            "incomplete": 6,
             "removed": 0
         },
         {
@@ -589,7 +589,7 @@
             "count": 65,
             "uploaded": 35,
             "missing": 30,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -886,7 +886,7 @@
             "count": 334,
             "uploaded": 330,
             "missing": 4,
-            "incomplete": 0,
+            "incomplete": 20,
             "removed": 0
         },
         {
@@ -922,7 +922,7 @@
             "count": 126,
             "uploaded": 124,
             "missing": 2,
-            "incomplete": 0,
+            "incomplete": 8,
             "removed": 0
         },
         {
@@ -1282,7 +1282,7 @@
             "count": 181,
             "uploaded": 180,
             "missing": 1,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1390,7 +1390,7 @@
             "count": 1211,
             "uploaded": 1193,
             "missing": 18,
-            "incomplete": 1,
+            "incomplete": 46,
             "removed": 0
         },
         {
@@ -1678,7 +1678,7 @@
             "count": 121,
             "uploaded": 104,
             "missing": 17,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1777,7 +1777,7 @@
             "count": 94,
             "uploaded": 94,
             "missing": 0,
-            "incomplete": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -1930,7 +1930,7 @@
             "count": 920,
             "uploaded": 919,
             "missing": 1,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1984,7 +1984,7 @@
             "count": 116,
             "uploaded": 116,
             "missing": 0,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2308,7 +2308,7 @@
             "count": 5,
             "uploaded": 5,
             "missing": 0,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2551,7 +2551,7 @@
             "count": 137,
             "uploaded": 137,
             "missing": 0,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2902,7 +2902,7 @@
             "count": 391,
             "uploaded": 385,
             "missing": 6,
-            "incomplete": 0,
+            "incomplete": 4,
             "removed": 0
         },
         {
@@ -2911,7 +2911,7 @@
             "count": 61,
             "uploaded": 53,
             "missing": 8,
-            "incomplete": 0,
+            "incomplete": 51,
             "removed": 0
         },
         {
@@ -2929,7 +2929,7 @@
             "count": 24,
             "uploaded": 15,
             "missing": 9,
-            "incomplete": 0,
+            "incomplete": 12,
             "removed": 0
         },
         {
@@ -2938,7 +2938,7 @@
             "count": 239,
             "uploaded": 233,
             "missing": 6,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -3136,7 +3136,7 @@
             "count": 97,
             "uploaded": 89,
             "missing": 8,
-            "incomplete": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -3505,7 +3505,7 @@
             "count": 42,
             "uploaded": 31,
             "missing": 11,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -3541,7 +3541,7 @@
             "count": 77,
             "uploaded": 67,
             "missing": 10,
-            "incomplete": 0,
+            "incomplete": 6,
             "removed": 0
         },
         {
@@ -3550,7 +3550,7 @@
             "count": 31,
             "uploaded": 31,
             "missing": 0,
-            "incomplete": 0,
+            "incomplete": 8,
             "removed": 0
         },
         {
@@ -3595,7 +3595,7 @@
             "count": 138,
             "uploaded": 114,
             "missing": 24,
-            "incomplete": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -3658,7 +3658,7 @@
             "count": 121,
             "uploaded": 114,
             "missing": 7,
-            "incomplete": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -3775,7 +3775,7 @@
             "count": 340,
             "uploaded": 338,
             "missing": 2,
-            "incomplete": 1,
+            "incomplete": 2,
             "removed": 0
         },
         {

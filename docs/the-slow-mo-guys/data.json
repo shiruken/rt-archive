@@ -5,7 +5,7 @@
         "count": 77,
         "uploaded": 67,
         "missing": 10,
-        "incomplete": 0,
+        "incomplete": 6,
         "removed": 0
     },
     "data": [
@@ -426,7 +426,7 @@
             "date": "2015-05-13",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -456,7 +456,7 @@
             "date": "2014-12-10",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -466,7 +466,7 @@
             "date": "2014-11-06",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -476,7 +476,7 @@
             "date": "2014-09-11",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -486,7 +486,7 @@
             "date": "2014-08-22",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -596,7 +596,7 @@
             "date": "2013-12-05",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {

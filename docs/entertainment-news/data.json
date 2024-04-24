@@ -5,7 +5,7 @@
         "count": 126,
         "uploaded": 124,
         "missing": 2,
-        "incomplete": 0,
+        "incomplete": 8,
         "removed": 0
     },
     "data": [
@@ -1186,7 +1186,7 @@
             "date": "2015-07-30",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1196,7 +1196,7 @@
             "date": "2015-07-24",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1206,7 +1206,7 @@
             "date": "2015-07-23",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1216,7 +1216,7 @@
             "date": "2015-07-20",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1226,7 +1226,7 @@
             "date": "2015-07-08",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1236,7 +1236,7 @@
             "date": "2015-07-02",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1246,7 +1246,7 @@
             "date": "2015-06-30",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -1256,7 +1256,7 @@
             "date": "2015-06-09",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {

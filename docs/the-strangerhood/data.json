@@ -5,7 +5,7 @@
         "count": 31,
         "uploaded": 31,
         "missing": 0,
-        "incomplete": 0,
+        "incomplete": 8,
         "removed": 0
     },
     "data": [
@@ -56,7 +56,7 @@
             "date": "2011-04-04",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -186,7 +186,7 @@
             "date": "2005-10-12",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -196,7 +196,7 @@
             "date": "2005-09-08",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -216,7 +216,7 @@
             "date": "2005-08-01",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -226,7 +226,7 @@
             "date": "2005-07-13",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -236,7 +236,7 @@
             "date": "2005-07-13",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -276,7 +276,7 @@
             "date": "2004-12-23",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -316,7 +316,7 @@
             "date": "2004-11-10",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         }
     ]

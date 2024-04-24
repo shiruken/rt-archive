@@ -5,7 +5,7 @@
         "count": 391,
         "uploaded": 385,
         "missing": 6,
-        "incomplete": 0,
+        "incomplete": 4,
         "removed": 0
     },
     "data": [
@@ -2666,7 +2666,7 @@
             "date": "2014-06-06",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -2726,7 +2726,7 @@
             "date": "2014-04-27",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -2746,7 +2746,7 @@
             "date": "2014-04-14",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -3006,7 +3006,7 @@
             "date": "2013-10-05",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
