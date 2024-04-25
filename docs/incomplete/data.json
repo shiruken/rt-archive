@@ -1,5 +1,5 @@
 {
-    "count": 650,
+    "count": 649,
     "data": [
         {
             "id": "50238",
@@ -5838,15 +5838,6 @@
             "title": "Holiday Wishes",
             "slug": "the-strangerhood-season-1-holiday-wishes",
             "date": "2004-12-23",
-            "is_first": false,
-            "show": "The Strangerhood",
-            "show_slug": "the-strangerhood"
-        },
-        {
-            "id": "124-bonus",
-            "title": "Strangerhood Trailer",
-            "slug": "the-strangerhood-bonus-1",
-            "date": "2004-11-10",
             "is_first": false,
             "show": "The Strangerhood",
             "show_slug": "the-strangerhood"

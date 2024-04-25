@@ -3,8 +3,8 @@
     "slug": "achievement-unlocked",
     "summary": {
         "count": 924,
-        "uploaded": 452,
-        "missing": 472,
+        "uploaded": 453,
+        "missing": 471,
         "incomplete": 172,
         "removed": 0
     },
@@ -8375,8 +8375,8 @@
             "slug": "achievement-unlocked-season-1-crackdown-shot-putter-body-juggler-achievement-guide",
             "date": "2009-01-27",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
