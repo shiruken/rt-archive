@@ -3,9 +3,9 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1528,
-        "missing": 255,
-        "incomplete": 296,
+        "uploaded": 1531,
+        "missing": 252,
+        "incomplete": 289,
         "removed": 0
     },
     "data": [
@@ -6076,7 +6076,7 @@
             "date": "2012-11-29",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -13946,7 +13946,7 @@
             "date": "2010-08-12",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -14405,8 +14405,8 @@
             "slug": "achievement-hunter-achievement-hunter-8-ways-to-kill-yourself",
             "date": "2010-06-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -14895,8 +14895,8 @@
             "slug": "achievement-hunter-achievement-hunter-mega64-pax-interview",
             "date": "2010-04-02",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15866,7 +15866,7 @@
             "date": "2009-12-24",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15946,7 +15946,7 @@
             "date": "2009-12-09",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -17136,7 +17136,7 @@
             "date": "2009-01-23",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -17285,8 +17285,8 @@
             "slug": "achievement-hunter-achievement-hunter-community-video-blast-from-the-past-submissive-defiant-what-cat-two-points-trusty-hardware-zero-point-energy",
             "date": "2008-12-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -17316,7 +17316,7 @@
             "date": "2008-12-04",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -17766,7 +17766,7 @@
             "date": "2008-08-15",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

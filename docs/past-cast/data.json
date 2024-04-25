@@ -3,8 +3,8 @@
     "slug": "past-cast",
     "summary": {
         "count": 5,
-        "uploaded": 3,
-        "missing": 2,
+        "uploaded": 5,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -25,8 +25,8 @@
             "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-guevara",
             "date": "2012-01-07",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -55,8 +55,8 @@
             "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-john",
             "date": "2011-11-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

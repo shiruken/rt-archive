@@ -3,8 +3,8 @@
     "slug": "lets-play",
     "summary": {
         "count": 2160,
-        "uploaded": 2137,
-        "missing": 23,
+        "uploaded": 2152,
+        "missing": 8,
         "incomplete": 0,
         "removed": 0
     },
@@ -20735,8 +20735,8 @@
             "slug": "lets-play-2013-32",
             "date": "2013-03-25",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20765,8 +20765,8 @@
             "slug": "lets-play-2013-180",
             "date": "2013-03-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20885,8 +20885,8 @@
             "slug": "lets-play-2013-73",
             "date": "2013-01-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20915,8 +20915,8 @@
             "slug": "lets-play-2013-192",
             "date": "2013-01-16",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20925,8 +20925,8 @@
             "slug": "lets-play-2013-172",
             "date": "2013-01-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20935,8 +20935,8 @@
             "slug": "lets-play-2013-142",
             "date": "2013-01-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21015,8 +21015,8 @@
             "slug": "lets-play-2012-10",
             "date": "2012-12-17",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21025,8 +21025,8 @@
             "slug": "lets-play-2012-77",
             "date": "2012-12-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21055,8 +21055,8 @@
             "slug": "lets-play-2012-28",
             "date": "2012-12-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21065,8 +21065,8 @@
             "slug": "lets-play-2012-11",
             "date": "2012-11-26",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21095,8 +21095,8 @@
             "slug": "lets-play-2012-83",
             "date": "2012-11-15",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21105,8 +21105,8 @@
             "slug": "lets-play-2012-78",
             "date": "2012-11-12",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21295,8 +21295,8 @@
             "slug": "lets-play-2012-68",
             "date": "2012-08-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21375,8 +21375,8 @@
             "slug": "lets-play-2012-37",
             "date": "2012-05-26",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -21515,8 +21515,8 @@
             "slug": "lets-play-2012-80",
             "date": "2012-02-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

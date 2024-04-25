@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42581,
-        "uploaded": 41491,
-        "missing": 1090,
-        "incomplete": 645,
+        "uploaded": 41524,
+        "missing": 1057,
+        "incomplete": 623,
         "removed": 2
     },
     "data": [
@@ -92,9 +92,9 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1528,
-            "missing": 255,
-            "incomplete": 296,
+            "uploaded": 1531,
+            "missing": 252,
+            "incomplete": 289,
             "removed": 0
         },
         {
@@ -119,9 +119,9 @@
             "show": "Achievement Unlocked",
             "slug": "achievement-unlocked",
             "count": 924,
-            "uploaded": 453,
-            "missing": 471,
-            "incomplete": 172,
+            "uploaded": 454,
+            "missing": 470,
+            "incomplete": 168,
             "removed": 0
         },
         {
@@ -884,9 +884,9 @@
             "show": "Easter Eggs",
             "slug": "easter-eggs",
             "count": 334,
-            "uploaded": 330,
-            "missing": 4,
-            "incomplete": 20,
+            "uploaded": 331,
+            "missing": 3,
+            "incomplete": 11,
             "removed": 0
         },
         {
@@ -2063,8 +2063,8 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2160,
-            "uploaded": 2137,
-            "missing": 23,
+            "uploaded": 2152,
+            "missing": 8,
             "incomplete": 0,
             "removed": 0
         },
@@ -2308,7 +2308,7 @@
             "count": 5,
             "uploaded": 5,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2459,8 +2459,8 @@
             "show": "Pajamachievements",
             "slug": "pajamachievements",
             "count": 6,
-            "uploaded": 2,
-            "missing": 4,
+            "uploaded": 6,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -2486,8 +2486,8 @@
             "show": "Past Cast",
             "slug": "past-cast",
             "count": 5,
-            "uploaded": 3,
-            "missing": 2,
+            "uploaded": 5,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -2567,8 +2567,8 @@
             "show": "Rage Quit",
             "slug": "rage-quit",
             "count": 204,
-            "uploaded": 201,
-            "missing": 3,
+            "uploaded": 202,
+            "missing": 2,
             "incomplete": 0,
             "removed": 0
         },
@@ -2900,8 +2900,8 @@
             "show": "RT Life",
             "slug": "rt-life",
             "count": 391,
-            "uploaded": 389,
-            "missing": 2,
+            "uploaded": 391,
+            "missing": 0,
             "incomplete": 1,
             "removed": 0
         },
@@ -2929,16 +2929,16 @@
             "count": 24,
             "uploaded": 15,
             "missing": 9,
-            "incomplete": 12,
+            "incomplete": 11,
             "removed": 0
         },
         {
             "show": "RT Shorts",
             "slug": "rt-shorts",
             "count": 239,
-            "uploaded": 234,
-            "missing": 5,
-            "incomplete": 1,
+            "uploaded": 236,
+            "missing": 3,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -3332,8 +3332,8 @@
             "show": "Stroyent",
             "slug": "stroyent",
             "count": 4,
-            "uploaded": 2,
-            "missing": 2,
+            "uploaded": 4,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3550,7 +3550,7 @@
             "count": 31,
             "uploaded": 31,
             "missing": 0,
-            "incomplete": 7,
+            "incomplete": 6,
             "removed": 0
         },
         {

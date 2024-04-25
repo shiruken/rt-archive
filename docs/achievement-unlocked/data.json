@@ -3,9 +3,9 @@
     "slug": "achievement-unlocked",
     "summary": {
         "count": 924,
-        "uploaded": 453,
-        "missing": 471,
-        "incomplete": 172,
+        "uploaded": 454,
+        "missing": 470,
+        "incomplete": 168,
         "removed": 0
     },
     "data": [
@@ -6566,7 +6566,7 @@
             "date": "2010-07-27",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -6586,7 +6586,7 @@
             "date": "2010-07-19",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -7316,7 +7316,7 @@
             "date": "2009-12-07",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -8715,8 +8715,8 @@
             "slug": "achievement-unlocked-season-1-achievement-hunter-haiku-contest",
             "date": "2008-12-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -9036,7 +9036,7 @@
             "date": "2008-10-27",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

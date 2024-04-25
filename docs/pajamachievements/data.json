@@ -3,8 +3,8 @@
     "slug": "pajamachievements",
     "summary": {
         "count": 6,
-        "uploaded": 2,
-        "missing": 4,
+        "uploaded": 6,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "pajamachievements-season-1-pajamachievements-ufc",
             "date": "2009-09-25",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -25,8 +25,8 @@
             "slug": "pajamachievements-season-1-pajamachievements-prototype",
             "date": "2009-06-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -35,8 +35,8 @@
             "slug": "pajamachievements-season-1-pajamachievements-preview-06",
             "date": "2009-06-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -55,8 +55,8 @@
             "slug": "pajamachievements-season-1-pajamachievements-uno",
             "date": "2009-06-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

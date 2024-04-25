@@ -3,9 +3,9 @@
     "slug": "rt-shorts",
     "summary": {
         "count": 239,
-        "uploaded": 234,
-        "missing": 5,
-        "incomplete": 1,
+        "uploaded": 236,
+        "missing": 3,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -1665,7 +1665,7 @@
             "slug": "rt-shorts-season-3-the-slow-mo-guys-present-welcome-to-rtx",
             "date": "2011-06-03",
             "is_first": true,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1905,8 +1905,8 @@
             "slug": "rt-shorts-season-3-mega64-kills-themselves",
             "date": "2010-12-02",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

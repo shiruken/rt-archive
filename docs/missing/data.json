@@ -1,5 +1,5 @@
 {
-    "count": 1090,
+    "count": 1057,
     "data": [
         {
             "title": "EA Cancels Secret Titanfall Game & Nintendo Direct Incoming?! - Kinda Funny Games Daily 02.02.23",
@@ -2826,14 +2826,6 @@
             "show_slug": "ahwu"
         },
         {
-            "title": "X-Men Arcade",
-            "slug": "lets-play-2013-32",
-            "date": "2013-03-25",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Return of the surprise commentaries",
             "slug": "game-fails-2013-7",
             "date": "2013-03-23",
@@ -2848,14 +2840,6 @@
             "is_first": false,
             "show": "Game Fails",
             "show_slug": "game-fails"
-        },
-        {
-            "title": "World Of Warcraft Ep2",
-            "slug": "lets-play-2013-180",
-            "date": "2013-03-11",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "title": "Post-Human Warrior Guide",
@@ -3050,14 +3034,6 @@
             "show_slug": "ahwu"
         },
         {
-            "title": "Hawken",
-            "slug": "lets-play-2013-73",
-            "date": "2013-01-28",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "RT Recap - Week of January 27th",
             "slug": "rt-recap-2013-rt-recap-week-of-january-27th",
             "date": "2013-01-28",
@@ -3098,36 +3074,12 @@
             "show_slug": "rt-recap"
         },
         {
-            "title": "Far Cry 3 Episode 6",
-            "slug": "lets-play-2013-192",
-            "date": "2013-01-16",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Achievement Raceway Tour - Minecraft Community Map",
             "slug": "achievement-unlocked-season-1-achievement-raceway-tour-minecraft-community-map",
             "date": "2013-01-15",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "DeathCraft II Part 2",
-            "slug": "lets-play-2013-172",
-            "date": "2013-01-14",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
-            "title": "Far Cry 3 Episode 5",
-            "slug": "lets-play-2013-142",
-            "date": "2013-01-10",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "title": "8-bit Hydrant Overflow and Dance Player, Dance! Guides",
@@ -3194,28 +3146,12 @@
             "show_slug": "ahwu"
         },
         {
-            "title": "Madden 2013",
-            "slug": "lets-play-2012-10",
-            "date": "2012-12-17",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "RT Recap - Week of December 16th",
             "slug": "rt-recap-2012-rt-recap-week-of-december-16th",
             "date": "2012-12-17",
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
-        },
-        {
-            "title": "Far Cry 3 Episode 2",
-            "slug": "lets-play-2012-77",
-            "date": "2012-12-12",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "title": "Week #142",
@@ -3272,14 +3208,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "The Hidden",
-            "slug": "lets-play-2012-28",
-            "date": "2012-12-03",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "title": "Week #141",
@@ -3370,14 +3298,6 @@
             "show_slug": "ahwu"
         },
         {
-            "title": "Killing Floor",
-            "slug": "lets-play-2012-11",
-            "date": "2012-11-26",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Standard Equipment May Vary Guide",
             "slug": "achievement-unlocked-season-1-standard-equipment-may-vary-guide",
             "date": "2012-11-26",
@@ -3426,14 +3346,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Halo 4 - Infinity Slayer Episode 2",
-            "slug": "lets-play-2012-83",
-            "date": "2012-11-15",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Hey Good Looking Achievement Guide",
             "slug": "achievement-unlocked-season-1-hey-good-looking-achievement-guide",
             "date": "2012-11-14",
@@ -3464,14 +3376,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "Spartan Ops Episode 1",
-            "slug": "lets-play-2012-78",
-            "date": "2012-11-12",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "title": "Explore the Floor Achievement Guide",
@@ -3760,22 +3664,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "title": "Left 4 Dead 2: Cold Stream - With Geoff Jack Michael and Gavin - Part 2",
-            "slug": "lets-play-2012-68",
-            "date": "2012-08-29",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
-            "title": "Slender Part 2",
-            "slug": "rage-quit-2012-36",
-            "date": "2012-08-24",
-            "is_first": false,
-            "show": "Rage Quit",
-            "show_slug": "rage-quit"
         },
         {
             "title": "Safe Driver Guide",
@@ -4082,14 +3970,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Max Payne 3",
-            "slug": "lets-play-2012-37",
-            "date": "2012-05-26",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Diablo 3 - Last Stand of the Ancients Guide",
             "slug": "achievement-unlocked-season-1-diablo-3-last-stand-of-the-ancients-guide",
             "date": "2012-05-23",
@@ -4330,14 +4210,6 @@
             "show_slug": "ahwu"
         },
         {
-            "title": "RTX: July 7th & 8th",
-            "slug": "rt-life-2012-46",
-            "date": "2012-03-31",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "title": "Angry Birds Space: Cold Cuts 3 Star Guide levels 2-1 to 2-10",
             "slug": "achievement-unlocked-season-1-angry-birds-space-cold-cuts-3-star-guide-levels-2-1-to-2-10",
             "date": "2012-03-29",
@@ -4450,14 +4322,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "RTX Announcement Video",
-            "slug": "rt-life-2012-13",
-            "date": "2012-02-27",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "title": "Missile Command Achievement Guide",
             "slug": "achievement-unlocked-season-1-missile-command-achievement-guide",
             "date": "2012-02-27",
@@ -4538,14 +4402,6 @@
             "show_slug": "rt-shorts"
         },
         {
-            "title": "Saints Row The Third With Geoff & Michael - Part 10",
-            "slug": "lets-play-2012-80",
-            "date": "2012-02-11",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Assassin's Creed: Revelations",
             "slug": "rage-quit-2012-44",
             "date": "2012-02-09",
@@ -4568,14 +4424,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "title": "Past Cast: History Blogs of YesterYear",
-            "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-guevara",
-            "date": "2012-01-07",
-            "is_first": false,
-            "show": "Past Cast",
-            "show_slug": "past-cast"
         },
         {
             "title": "Saints Row The Third With Geoff & Michael - Part 5",
@@ -4632,14 +4480,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "Past Cast: History Blogs of YesterYear",
-            "slug": "past-cast-season-1-past-cast-history-blogs-of-yesteryear-john",
-            "date": "2011-11-22",
-            "is_first": false,
-            "show": "Past Cast",
-            "show_slug": "past-cast"
         },
         {
             "title": "All According to Plan... Achievement Guide",
@@ -5978,14 +5818,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "The Slow Mo Guys Present: Welcome to RTX!",
-            "slug": "rt-shorts-season-3-the-slow-mo-guys-present-welcome-to-rtx",
-            "date": "2011-06-03",
-            "is_first": true,
-            "show": "RT Shorts",
-            "show_slug": "rt-shorts"
-        },
-        {
             "title": "Lead Foot Achievement Guide",
             "slug": "achievement-unlocked-season-1-lead-foot-achievement-guide",
             "date": "2011-06-01",
@@ -6480,14 +6312,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "MEGA64 KILLS THEMSELVES",
-            "slug": "rt-shorts-season-3-mega64-kills-themselves",
-            "date": "2010-12-02",
-            "is_first": false,
-            "show": "RT Shorts",
-            "show_slug": "rt-shorts"
         },
         {
             "title": "Gnome Invasion Part Four",
@@ -7082,14 +6906,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "title": "8 Ways to Kill Yourself",
-            "slug": "achievement-hunter-achievement-hunter-8-ways-to-kill-yourself",
-            "date": "2010-06-03",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "title": "Spot Monopolist (University)",
             "slug": "achievement-hunter-achievement-hunter-spot-monopolist-university",
             "date": "2010-06-03",
@@ -7221,14 +7037,6 @@
             "title": "Sherlock Part 1 - Exhibition Station",
             "slug": "achievement-hunter-achievement-hunter-sherlock-part-1-exhibition-station",
             "date": "2010-04-05",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "title": "Mega64 PAX Interview",
-            "slug": "achievement-hunter-achievement-hunter-mega64-pax-interview",
-            "date": "2010-04-02",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
@@ -7570,14 +7378,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "title": "UFC",
-            "slug": "pajamachievements-season-1-pajamachievements-ufc",
-            "date": "2009-09-25",
-            "is_first": false,
-            "show": "Pajamachievements",
-            "show_slug": "pajamachievements"
-        },
-        {
             "title": "Both Tubes Achievement Guide",
             "slug": "achievement-unlocked-season-1-both-tubes-achievement-guide",
             "date": "2009-09-23",
@@ -7666,14 +7466,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "title": "Easter Eggs",
-            "slug": "easter-eggs-2009",
-            "date": "2009-07-14",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "title": "Achievement Overview",
             "slug": "achievement-unlocked-season-1-achievement-overview-battlefield1942",
             "date": "2009-07-10",
@@ -7698,14 +7490,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Prototype",
-            "slug": "pajamachievements-season-1-pajamachievements-prototype",
-            "date": "2009-06-29",
-            "is_first": false,
-            "show": "Pajamachievements",
-            "show_slug": "pajamachievements"
-        },
-        {
             "title": "But the Kids Love Us! Achievement Guide",
             "slug": "achievement-unlocked-season-1-but-the-kids-love-us-achievement-guide",
             "date": "2009-06-24",
@@ -7728,14 +7512,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "title": "Preview: 06",
-            "slug": "pajamachievements-season-1-pajamachievements-preview-06",
-            "date": "2009-06-19",
-            "is_first": false,
-            "show": "Pajamachievements",
-            "show_slug": "pajamachievements"
         },
         {
             "title": "Level One Guide w/ artifacts, fountains, scans",
@@ -7776,14 +7552,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "title": "Uno",
-            "slug": "pajamachievements-season-1-pajamachievements-uno",
-            "date": "2009-06-05",
-            "is_first": false,
-            "show": "Pajamachievements",
-            "show_slug": "pajamachievements"
         },
         {
             "title": "X-Men Origins: Wolverine - Ultimate Wolverine Achievement Guide",
@@ -8410,22 +8178,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Achievement Hunter: Haiku Contest",
-            "slug": "achievement-unlocked-season-1-achievement-hunter-haiku-contest",
-            "date": "2008-12-08",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "Community Video: Blast From The Past, Submissive, Defiant, What Cat?, Two Points, Trusty Hardware, Zero Point Energy",
-            "slug": "achievement-hunter-achievement-hunter-community-video-blast-from-the-past-submissive-defiant-what-cat-two-points-trusty-hardware-zero-point-energy",
-            "date": "2008-12-05",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "title": "Community Video: Little Rocket Man (Long Version)",
             "slug": "achievement-hunter-achievement-hunter-community-video-little-rocket-man-long-version",
             "date": "2008-12-05",
@@ -8704,22 +8456,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "title": "Human Juicifier",
-            "slug": "stroyent-season-1-human-juicifier",
-            "date": "2008-06-19",
-            "is_first": false,
-            "show": "Stroyent",
-            "show_slug": "stroyent"
-        },
-        {
-            "title": "Projectile Dysfunction",
-            "slug": "stroyent-season-1-projectile-dysfunction",
-            "date": "2008-06-19",
-            "is_first": false,
-            "show": "Stroyent",
-            "show_slug": "stroyent"
         }
     ]
 }

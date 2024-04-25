@@ -1,5 +1,5 @@
 {
-    "count": 645,
+    "count": 623,
     "data": [
         {
             "id": "50238",
@@ -1217,15 +1217,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "23503",
-            "title": "The Far Cry Experience: Hygiene",
-            "slug": "achievement-hunter-achievement-hunter-the-far-cry-experience-hygiene",
-            "date": "2012-11-29",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "18466",
             "title": "Trials Evolution: Trials Files #32",
             "slug": "trials-files-2012-4",
@@ -1325,24 +1316,6 @@
             "show_slug": "rt-recap"
         },
         {
-            "id": "16211",
-            "title": "Week of July 27th",
-            "slug": "rt-recap-2012-week-of-july-27th",
-            "date": "2012-07-27",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
-            "id": "18069",
-            "title": "Nuts! Nuts! Nuts.",
-            "slug": "nature-town-season-1-nuts-nuts-nuts",
-            "date": "2012-07-27",
-            "is_first": false,
-            "show": "Nature Town",
-            "show_slug": "nature-town"
-        },
-        {
             "id": "22229",
             "title": "Intel Operative Part 3",
             "slug": "achievement-hunter-achievement-hunter-intel-operative-part-3",
@@ -1431,15 +1404,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "11972",
-            "title": "Minecraft Easter Egg",
-            "slug": "easter-eggs-2011-26",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
         },
         {
             "id": "21636",
@@ -1586,6 +1550,15 @@
             "show_slug": "achievement-hunter"
         },
         {
+            "id": "11624",
+            "title": "The Slow Mo Guys Present: Welcome to RTX!",
+            "slug": "rt-shorts-season-3-the-slow-mo-guys-present-welcome-to-rtx",
+            "date": "2011-06-03",
+            "is_first": true,
+            "show": "RT Shorts",
+            "show_slug": "rt-shorts"
+        },
+        {
             "id": "25078",
             "title": "Collectible Guide Part 3",
             "slug": "achievement-unlocked-season-1-collectible-guide-part-3",
@@ -1593,15 +1566,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "1399-bonus",
-            "title": "Bye Nikki Bye",
-            "slug": "the-strangerhood-season-1-bye-nikki-bye",
-            "date": "2011-04-04",
-            "is_first": false,
-            "show": "The Strangerhood",
-            "show_slug": "the-strangerhood"
         },
         {
             "id": "24961",
@@ -1692,15 +1656,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25287",
-            "title": "Easter Eggs (George Lucas Version)",
-            "slug": "easter-eggs-2010-25",
-            "date": "2010-10-21",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
         },
         {
             "id": "24716",
@@ -1901,15 +1856,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "24714",
-            "title": "\"The Sacrifice\" DLC Easter Eggs",
-            "slug": "easter-eggs-2010-24",
-            "date": "2010-10-06",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "24856",
             "title": "Come on! Follow me!",
             "slug": "achievement-hunter-achievement-hunter-come-on-follow-me",
@@ -2016,15 +1962,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25286",
-            "title": "Hidden Ammo Cache Easter Egg",
-            "slug": "easter-eggs-2010-22",
-            "date": "2010-09-28",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
         },
         {
             "id": "24821",
@@ -2297,24 +2234,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "24911",
-            "title": "Hidden Playboy Playmates in the Demo",
-            "slug": "achievement-hunter-achievement-hunter-hidden-playboy-playmates-in-the-demo",
-            "date": "2010-08-12",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25280",
-            "title": "Unicorn Easter Egg",
-            "slug": "easter-eggs-2010-15",
-            "date": "2010-08-11",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "24837",
             "title": "Monday Night Combat - Avatar Awards",
             "slug": "achievement-hunter-achievement-hunter-avatar-awards",
@@ -2477,15 +2396,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25279",
-            "title": "Tauren Space Marine Easter Egg",
-            "slug": "easter-eggs-2010-14",
-            "date": "2010-08-03",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "24941",
             "title": "Lost Planet 2: Frank West and Albert Wesker Eater Egg",
             "slug": "achievement-hunter-achievement-hunter-lost-planet-2-frank-west-and-albert-wesker-eater-egg",
@@ -2529,15 +2439,6 @@
             "is_first": false,
             "show": "Easter Eggs",
             "show_slug": "easter-eggs"
-        },
-        {
-            "id": "25192",
-            "title": "Real Life Achievements #2 Driving on the Left",
-            "slug": "achievement-unlocked-season-1-real-life-achievements-2-driving-on-the-left",
-            "date": "2010-07-27",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "24992",
@@ -2592,15 +2493,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25193",
-            "title": "Real Life Achievements: Start the Day with a Beer",
-            "slug": "achievement-unlocked-season-1-real-life-achievements-start-the-day-with-a-beer",
-            "date": "2010-07-19",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "24948",
@@ -3161,15 +3053,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25908",
-            "title": "Beached Whale Easter Egg",
-            "slug": "easter-eggs-2010-6",
-            "date": "2010-05-04",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "24693",
             "title": "\"Baby\" Panay Moustache Easter Egg",
             "slug": "easter-eggs-2010-4",
@@ -3260,15 +3143,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25905",
-            "title": "Midnight Riders Tour Bus Easter Egg",
-            "slug": "easter-eggs-2010-2",
-            "date": "2010-04-22",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "25534",
             "title": "Russian Embassy - Rooftop",
             "slug": "achievement-hunter-achievement-hunter-russian-embassy-rooftop",
@@ -3276,15 +3150,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24690",
-            "title": "Frank West \"Dead Rising\" Easter Egg",
-            "slug": "easter-eggs-2010",
-            "date": "2010-04-22",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
         },
         {
             "id": "25556",
@@ -4178,15 +4043,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25325",
-            "title": "Army of Two: The 40th Day Preview",
-            "slug": "achievement-hunter-achievement-hunter-army-of-two-the-40th-day-preview",
-            "date": "2009-12-24",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25572",
             "title": "Spec Ops - Bravo - Race",
             "slug": "achievement-hunter-achievement-hunter-spec-ops-bravo-race",
@@ -4284,24 +4140,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25620",
-            "title": "White Dots Map Help",
-            "slug": "achievement-hunter-achievement-hunter-white-dots-map-help",
-            "date": "2009-12-09",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25860",
-            "title": "The Quick and the Dead Achievement Guide",
-            "slug": "achievement-unlocked-season-1-the-quick-and-the-dead-achievement-guide",
-            "date": "2009-12-07",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "25740",
@@ -5312,15 +5150,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25552",
-            "title": "Skate 2 - On Top of the World",
-            "slug": "achievement-hunter-achievement-hunter-skate-2-on-top-of-the-world",
-            "date": "2009-01-23",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25856",
             "title": "The Gunslinger Achievement Guide",
             "slug": "achievement-unlocked-season-1-the-gunslinger-achievement-guide",
@@ -5364,15 +5193,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25441",
-            "title": "Invincible Zombie Glitch",
-            "slug": "achievement-hunter-achievement-hunter-invincible-zombie-glitch",
-            "date": "2008-12-04",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25700",
@@ -5627,15 +5447,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25771",
-            "title": "Like A Rat Achievement Guide",
-            "slug": "achievement-unlocked-season-1-like-a-rat-achievement-guide",
-            "date": "2008-10-27",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25820",
             "title": "Pure: Unlocked Stage 3 Achievement Guide",
             "slug": "achievement-unlocked-season-1-pure-unlocked-stage-3-achievement-guide",
@@ -5739,15 +5550,6 @@
             "title": "King: Treaty / Millionaire",
             "slug": "achievement-hunter-achievement-hunter-king-treaty-millionaire",
             "date": "2008-08-28",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24662",
-            "title": "Scorpion's Sting Walkthrough",
-            "slug": "achievement-hunter-achievement-hunter-scorpions-sting-walkthrough",
-            "date": "2008-08-15",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"

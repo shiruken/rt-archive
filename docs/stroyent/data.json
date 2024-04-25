@@ -3,8 +3,8 @@
     "slug": "stroyent",
     "summary": {
         "count": 4,
-        "uploaded": 2,
-        "missing": 2,
+        "uploaded": 4,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -35,8 +35,8 @@
             "slug": "stroyent-season-1-human-juicifier",
             "date": "2008-06-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -45,8 +45,8 @@
             "slug": "stroyent-season-1-projectile-dysfunction",
             "date": "2008-06-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]
