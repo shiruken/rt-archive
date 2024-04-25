@@ -3,8 +3,8 @@
     "slug": "rage-quit",
     "summary": {
         "count": 204,
-        "uploaded": 199,
-        "missing": 5,
+        "uploaded": 201,
+        "missing": 3,
         "incomplete": 0,
         "removed": 0
     },
@@ -855,8 +855,8 @@
             "slug": "rage-quit-2013-10",
             "date": "2013-05-02",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -865,8 +865,8 @@
             "slug": "rage-quit-2013-49",
             "date": "2013-04-26",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

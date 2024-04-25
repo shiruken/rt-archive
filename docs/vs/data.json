@@ -3,8 +3,8 @@
     "slug": "vs",
     "summary": {
         "count": 164,
-        "uploaded": 163,
-        "missing": 1,
+        "uploaded": 164,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -1605,8 +1605,8 @@
             "slug": "vs-2013-27",
             "date": "2013-04-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

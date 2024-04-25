@@ -3,8 +3,8 @@
     "slug": "specials",
     "summary": {
         "count": 28,
-        "uploaded": 27,
-        "missing": 1,
+        "uploaded": 28,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -285,8 +285,8 @@
             "slug": "the-know-specials-season-1-5",
             "date": "2015-02-04",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

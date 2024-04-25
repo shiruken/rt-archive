@@ -3,8 +3,8 @@
     "slug": "gameplay",
     "summary": {
         "count": 1883,
-        "uploaded": 1879,
-        "missing": 4,
+        "uploaded": 1882,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
@@ -18475,8 +18475,8 @@
             "slug": "funhaus-gameplay-season-1-king-f-ck-up",
             "date": "2015-05-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -18765,8 +18765,8 @@
             "slug": "funhaus-gameplay-season-1-luscious-little-boy",
             "date": "2015-05-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -18795,8 +18795,8 @@
             "slug": "funhaus-gameplay-season-1-worst-pirate-ever",
             "date": "2015-05-05",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

@@ -1,5 +1,5 @@
 {
-    "count": 649,
+    "count": 645,
     "data": [
         {
             "id": "50238",
@@ -659,15 +659,6 @@
             "show_slug": "rt-life"
         },
         {
-            "id": "19381",
-            "title": "Behind Macrowave Time Machine and Kara's Bugs",
-            "slug": "rt-life-2014-16",
-            "date": "2014-04-27",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "id": "17980",
             "title": "Wolfenstein: The New Order",
             "slug": "five-facts-2014-12",
@@ -675,15 +666,6 @@
             "is_first": false,
             "show": "Five Facts",
             "show_slug": "five-facts"
-        },
-        {
-            "id": "18812",
-            "title": "Brandon's Joy Ride",
-            "slug": "rt-life-2014-5",
-            "date": "2014-04-14",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
         },
         {
             "id": "15313",
@@ -1163,15 +1145,6 @@
             "show_slug": "rt-news"
         },
         {
-            "id": "18838",
-            "title": "Podcast Ambush and Beer Cam",
-            "slug": "rt-life-2013-41",
-            "date": "2013-10-05",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "id": "22519",
             "title": "Game Night - Jenga Smeef",
             "slug": "achievement-hunter-achievement-hunter-game-night-jenga-smeef",
@@ -1197,15 +1170,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "22587",
-            "title": "Let's Play Wednesday!",
-            "slug": "achievement-hunter-achievement-hunter-lets-play-wednesday",
-            "date": "2013-04-17",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "16198",

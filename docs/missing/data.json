@@ -1,5 +1,5 @@
 {
-    "count": 1114,
+    "count": 1090,
     "data": [
         {
             "title": "EA Cancels Secret Titanfall Game & Nintendo Direct Incoming?! - Kinda Funny Games Daily 02.02.23",
@@ -120,14 +120,6 @@
             "is_first": false,
             "show": "Funhaus Podcast",
             "show_slug": "funhaus-podcast"
-        },
-        {
-            "title": "Who's Your Daddy? - FULL STREAM",
-            "slug": "achievement-hunter-2016-who-s-your-daddy-full-stream",
-            "date": "2016-08-08",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "title": "Sponsor Play - The Evil Within Pt.2",
@@ -554,32 +546,8 @@
             "show_slug": "how-to"
         },
         {
-            "title": "KING F*CK UP",
-            "slug": "funhaus-gameplay-season-1-king-f-ck-up",
-            "date": "2015-05-05",
-            "is_first": false,
-            "show": "Gameplay",
-            "show_slug": "gameplay"
-        },
-        {
             "title": "FILTHY PIRATE F*CK",
             "slug": "funhaus-gameplay-season-1-filthy-pirate-f-ck",
-            "date": "2015-05-05",
-            "is_first": false,
-            "show": "Gameplay",
-            "show_slug": "gameplay"
-        },
-        {
-            "title": "LUSCIOUS LITTLE BOY",
-            "slug": "funhaus-gameplay-season-1-luscious-little-boy",
-            "date": "2015-05-05",
-            "is_first": false,
-            "show": "Gameplay",
-            "show_slug": "gameplay"
-        },
-        {
-            "title": "WORST PIRATE EVER",
-            "slug": "funhaus-gameplay-season-1-worst-pirate-ever",
             "date": "2015-05-05",
             "is_first": false,
             "show": "Gameplay",
@@ -826,14 +794,6 @@
             "show_slug": "countdown"
         },
         {
-            "title": "GTA V - Blood Sport",
-            "slug": "things-to-do-in-2015-52",
-            "date": "2015-03-07",
-            "is_first": false,
-            "show": "Things to Do In",
-            "show_slug": "things-to-do-in"
-        },
-        {
             "title": "Volume 233",
             "slug": "fails-of-the-weak-2015-26",
             "date": "2015-03-06",
@@ -904,14 +864,6 @@
             "is_first": false,
             "show": "Fails of the Weak",
             "show_slug": "fails-of-the-weak"
-        },
-        {
-            "title": "Tribute to Monty Oum",
-            "slug": "the-know-specials-season-1-5",
-            "date": "2015-02-04",
-            "is_first": false,
-            "show": "Specials",
-            "show_slug": "specials"
         },
         {
             "title": "Volume 228",
@@ -1064,14 +1016,6 @@
             "is_first": false,
             "show": "Countdown",
             "show_slug": "countdown"
-        },
-        {
-            "title": "Rooster Teeth vs. Zombiens Game Trailer",
-            "slug": "rt-life-2014-2",
-            "date": "2014-11-14",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
         },
         {
             "title": "The Evil Within",
@@ -1258,14 +1202,6 @@
             "show_slug": "trials-files"
         },
         {
-            "title": "Rooster Teeth Ice Bucket Challenge",
-            "slug": "rt-life-2014-13",
-            "date": "2014-08-19",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "title": "Top 5 Community Hunter Videos",
             "slug": "countdown-season-1-countdown-top-5-community-hunter-videos",
             "date": "2014-08-18",
@@ -1354,14 +1290,6 @@
             "show_slug": "how-to"
         },
         {
-            "title": "Barenaked Ladies - \"Did I Say That Out Loud?\" (Official Music Video)",
-            "slug": "rt-shorts-season-5-barenaked-ladies-did-i-say-that-out-loud-official-music-video",
-            "date": "2014-07-17",
-            "is_first": false,
-            "show": "RT Shorts",
-            "show_slug": "rt-shorts"
-        },
-        {
             "title": "Trials Files #113",
             "slug": "trials-files-2014-27",
             "date": "2014-07-15",
@@ -1376,14 +1304,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "Recap for the Week of June 30th, 2014",
-            "slug": "game-fails-2014-22",
-            "date": "2014-07-11",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
         },
         {
             "title": "Titanfall, Game Update Four",
@@ -1402,14 +1322,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Recap for the Week of June 23rd, 2014",
-            "slug": "game-fails-2014-20",
-            "date": "2014-07-04",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
             "title": "Guacamelee! - I Swat You Achievement Guide",
             "slug": "achievement-unlocked-season-1-guacamelee-i-swat-you-achievement-guide",
             "date": "2014-07-02",
@@ -1424,22 +1336,6 @@
             "is_first": false,
             "show": "Countdown",
             "show_slug": "countdown"
-        },
-        {
-            "title": "SpeedRunners Part 2",
-            "slug": "lets-play-2014-137",
-            "date": "2014-06-24",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
-            "title": "Giant Bubbles Popping in Slow Motion",
-            "slug": "the-slow-mo-guys-season-1-giant-bubbles-popping-in-slow-motion",
-            "date": "2014-06-18",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
         },
         {
             "title": "Call of Duty: Ghosts - Spelunker Guide",
@@ -1818,14 +1714,6 @@
             "show_slug": "game-fails"
         },
         {
-            "title": "Rebel The Dog and Chris's Eyes Burn Off",
-            "slug": "rt-life-2014-36",
-            "date": "2014-03-29",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "title": "Mousetrap Chain Reaction",
             "slug": "the-slow-mo-guys-season-1-mousetrap-chain-reaction",
             "date": "2014-03-28",
@@ -1840,14 +1728,6 @@
             "is_first": false,
             "show": "Achievement HUNT",
             "show_slug": "achievement-hunt"
-        },
-        {
-            "title": "Recap for the Week of March 10th, 2014",
-            "slug": "game-fails-2014-24",
-            "date": "2014-03-21",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
         },
         {
             "title": "Achievement HUNT #21",
@@ -2402,14 +2282,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Fart Hoofer Street Pass",
-            "slug": "rt-life-2013-37",
-            "date": "2013-09-28",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
-        },
-        {
             "title": "Grand Theft Auto V - A Lot of Cheddar Guide",
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-a-lot-of-cheddar-guide",
             "date": "2013-09-26",
@@ -2480,14 +2352,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "Slow Mo Car Explosion - The Slow Mo Guys",
-            "slug": "the-slow-mo-guys-season-1-slow-mo-car-explosion-the-slow-mo-guys",
-            "date": "2013-09-16",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
         },
         {
             "title": "Recap for the Week of September 2, 2013",
@@ -2762,14 +2626,6 @@
             "show_slug": "game-fails"
         },
         {
-            "title": "Let's Build in Minecraft - Thread the Needle",
-            "slug": "lets-play-2013-99",
-            "date": "2013-05-21",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Week #164",
             "slug": "ahwu-2013-22",
             "date": "2013-05-20",
@@ -2826,14 +2682,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "title": "Surgeon Simulator 2013: Ambulance & Space Missions",
-            "slug": "rage-quit-2013-10",
-            "date": "2013-05-02",
-            "is_first": false,
-            "show": "Rage Quit",
-            "show_slug": "rage-quit"
-        },
-        {
             "title": "Derp, Just the Tip Guides",
             "slug": "achievement-unlocked-season-1-derp-just-the-tip-guides",
             "date": "2013-05-02",
@@ -2856,14 +2704,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "title": "Surgeon Simulator 2013: Steam Edition",
-            "slug": "rage-quit-2013-49",
-            "date": "2013-04-26",
-            "is_first": false,
-            "show": "Rage Quit",
-            "show_slug": "rage-quit"
         },
         {
             "title": "Full Lockdown Guide",
@@ -2922,14 +2762,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "title": "Splinter Cell: Double Agent",
-            "slug": "lets-play-2013-146",
-            "date": "2013-04-15",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Week #159",
             "slug": "ahwu-2013-32",
             "date": "2013-04-15",
@@ -2938,36 +2770,12 @@
             "show_slug": "ahwu"
         },
         {
-            "title": "Episode 6: Ray vs. Michael",
-            "slug": "vs-2013-27",
-            "date": "2013-04-11",
-            "is_first": false,
-            "show": "VS",
-            "show_slug": "vs"
-        },
-        {
-            "title": "Halo 4 - Castle DLC",
-            "slug": "lets-play-2013-122",
-            "date": "2013-04-10",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "title": "Week #158",
             "slug": "ahwu-2013-23",
             "date": "2013-04-09",
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "title": "Tomb Raider Part 2",
-            "slug": "lets-play-2013-98",
-            "date": "2013-04-09",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "title": "Lost Weekend Guide",

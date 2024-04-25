@@ -3,8 +3,8 @@
     "slug": "the-slow-mo-guys",
     "summary": {
         "count": 77,
-        "uploaded": 67,
-        "missing": 10,
+        "uploaded": 69,
+        "missing": 8,
         "incomplete": 6,
         "removed": 0
     },
@@ -515,8 +515,8 @@
             "slug": "the-slow-mo-guys-season-1-giant-bubbles-popping-in-slow-motion",
             "date": "2014-06-18",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -605,8 +605,8 @@
             "slug": "the-slow-mo-guys-season-1-slow-mo-car-explosion-the-slow-mo-guys",
             "date": "2013-09-16",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

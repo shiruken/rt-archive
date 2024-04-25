@@ -3,9 +3,9 @@
     "slug": "rt-life",
     "summary": {
         "count": 391,
-        "uploaded": 385,
-        "missing": 6,
-        "incomplete": 4,
+        "uploaded": 389,
+        "missing": 2,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -2555,8 +2555,8 @@
             "slug": "rt-life-2014-2",
             "date": "2014-11-14",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2575,8 +2575,8 @@
             "slug": "rt-life-2014-13",
             "date": "2014-08-19",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2726,7 +2726,7 @@
             "date": "2014-04-27",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2746,7 +2746,7 @@
             "date": "2014-04-14",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2765,8 +2765,8 @@
             "slug": "rt-life-2014-36",
             "date": "2014-03-29",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3006,7 +3006,7 @@
             "date": "2013-10-05",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3015,8 +3015,8 @@
             "slug": "rt-life-2013-37",
             "date": "2013-09-28",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

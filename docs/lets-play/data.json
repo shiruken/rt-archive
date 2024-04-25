@@ -3,8 +3,8 @@
     "slug": "lets-play",
     "summary": {
         "count": 2160,
-        "uploaded": 2132,
-        "missing": 28,
+        "uploaded": 2137,
+        "missing": 23,
         "incomplete": 0,
         "removed": 0
     },
@@ -18815,8 +18815,8 @@
             "slug": "lets-play-2014-137",
             "date": "2014-06-24",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20575,8 +20575,8 @@
             "slug": "lets-play-2013-99",
             "date": "2013-05-21",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20675,8 +20675,8 @@
             "slug": "lets-play-2013-146",
             "date": "2013-04-15",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20685,8 +20685,8 @@
             "slug": "lets-play-2013-122",
             "date": "2013-04-10",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -20695,8 +20695,8 @@
             "slug": "lets-play-2013-98",
             "date": "2013-04-09",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

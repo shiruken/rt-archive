@@ -3,9 +3,9 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1527,
-        "missing": 256,
-        "incomplete": 297,
+        "uploaded": 1528,
+        "missing": 255,
+        "incomplete": 296,
         "removed": 0
     },
     "data": [
@@ -1925,8 +1925,8 @@
             "slug": "achievement-hunter-2016-who-s-your-daddy-full-stream",
             "date": "2016-08-08",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -4746,7 +4746,7 @@
             "date": "2013-04-17",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

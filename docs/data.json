@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42581,
-        "uploaded": 41467,
-        "missing": 1114,
-        "incomplete": 649,
+        "uploaded": 41491,
+        "missing": 1090,
+        "incomplete": 645,
         "removed": 2
     },
     "data": [
@@ -92,9 +92,9 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1527,
-            "missing": 256,
-            "incomplete": 297,
+            "uploaded": 1528,
+            "missing": 255,
+            "incomplete": 296,
             "removed": 0
         },
         {
@@ -1379,8 +1379,8 @@
             "show": "Game Fails",
             "slug": "game-fails",
             "count": 72,
-            "uploaded": 37,
-            "missing": 35,
+            "uploaded": 40,
+            "missing": 32,
             "incomplete": 0,
             "removed": 0
         },
@@ -1415,8 +1415,8 @@
             "show": "Gameplay",
             "slug": "gameplay",
             "count": 1883,
-            "uploaded": 1879,
-            "missing": 4,
+            "uploaded": 1882,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -2063,8 +2063,8 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2160,
-            "uploaded": 2132,
-            "missing": 28,
+            "uploaded": 2137,
+            "missing": 23,
             "incomplete": 0,
             "removed": 0
         },
@@ -2567,8 +2567,8 @@
             "show": "Rage Quit",
             "slug": "rage-quit",
             "count": 204,
-            "uploaded": 199,
-            "missing": 5,
+            "uploaded": 201,
+            "missing": 3,
             "incomplete": 0,
             "removed": 0
         },
@@ -2900,9 +2900,9 @@
             "show": "RT Life",
             "slug": "rt-life",
             "count": 391,
-            "uploaded": 385,
-            "missing": 6,
-            "incomplete": 4,
+            "uploaded": 389,
+            "missing": 2,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2936,8 +2936,8 @@
             "show": "RT Shorts",
             "slug": "rt-shorts",
             "count": 239,
-            "uploaded": 233,
-            "missing": 6,
+            "uploaded": 234,
+            "missing": 5,
             "incomplete": 1,
             "removed": 0
         },
@@ -3242,8 +3242,8 @@
             "show": "Specials",
             "slug": "specials",
             "count": 28,
-            "uploaded": 27,
-            "missing": 1,
+            "uploaded": 28,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3539,8 +3539,8 @@
             "show": "The Slow Mo Guys",
             "slug": "the-slow-mo-guys",
             "count": 77,
-            "uploaded": 67,
-            "missing": 10,
+            "uploaded": 69,
+            "missing": 8,
             "incomplete": 6,
             "removed": 0
         },
@@ -3584,8 +3584,8 @@
             "show": "Things to Do In",
             "slug": "things-to-do-in",
             "count": 571,
-            "uploaded": 569,
-            "missing": 2,
+            "uploaded": 570,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -3791,8 +3791,8 @@
             "show": "VS",
             "slug": "vs",
             "count": 164,
-            "uploaded": 163,
-            "missing": 1,
+            "uploaded": 164,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
