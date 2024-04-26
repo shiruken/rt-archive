@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42582,
-        "uploaded": 41524,
-        "missing": 1058,
-        "incomplete": 623,
+        "uploaded": 41525,
+        "missing": 1057,
+        "incomplete": 624,
         "removed": 2
     },
     "data": [
@@ -2063,9 +2063,9 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2161,
-            "uploaded": 2152,
-            "missing": 9,
-            "incomplete": 0,
+            "uploaded": 2153,
+            "missing": 8,
+            "incomplete": 1,
             "removed": 0
         },
         {

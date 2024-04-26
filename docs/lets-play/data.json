@@ -3,9 +3,9 @@
     "slug": "lets-play",
     "summary": {
         "count": 2161,
-        "uploaded": 2152,
-        "missing": 9,
-        "incomplete": 0,
+        "uploaded": 2153,
+        "missing": 8,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "lets-play-2024-we-re-moving-while-spinning-regulation-gameplay-pt-4",
             "date": "2024-04-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
