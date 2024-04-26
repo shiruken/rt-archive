@@ -2,13 +2,23 @@
     "show": "Gameplay",
     "slug": "gameplay",
     "summary": {
-        "count": 1883,
-        "uploaded": 1882,
+        "count": 1884,
+        "uploaded": 1883,
         "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Are You Ready for the FINAL Funhaus Gameplay?",
+            "id": "52852",
+            "slug": "gameplay-2024-finaldemo",
+            "date": "2024-04-26",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "Our Goldeneye Slap Fight Gets Out of Hand - Gaming Impossible",
             "id": "52836",
