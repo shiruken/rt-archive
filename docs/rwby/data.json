@@ -2,13 +2,33 @@
     "show": "RWBY",
     "slug": "rwby",
     "summary": {
-        "count": 167,
-        "uploaded": 167,
+        "count": 169,
+        "uploaded": 169,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "RWBY Beyond: Boba",
+            "id": "52849",
+            "slug": "rwby-rwby-beyond-boba",
+            "date": "2024-04-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "RWBY Beyond: The Adventures of Somewhat",
+            "id": "52847",
+            "slug": "rwby-rwby-beyond-somewhat",
+            "date": "2024-04-27",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "RWBY Beyond: A Knight\u2019s Journal",
             "id": "52830",
