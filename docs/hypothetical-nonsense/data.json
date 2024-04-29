@@ -2,13 +2,23 @@
     "show": "Hypothetical Nonsense",
     "slug": "hypothetical-nonsense",
     "summary": {
-        "count": 35,
+        "count": 36,
         "uploaded": 35,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Our Final Episode. (kinda)",
+            "id": "52838",
+            "slug": "hypothetical-nonsense-season-1-hn35-finale",
+            "date": "2024-04-29",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Rating your  \u201cShower Thoughts\u201d",
             "id": "52832",
