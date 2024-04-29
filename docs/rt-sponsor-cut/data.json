@@ -3,8 +3,8 @@
     "slug": "rt-sponsor-cut",
     "summary": {
         "count": 175,
-        "uploaded": 173,
-        "missing": 2,
+        "uploaded": 174,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
@@ -225,8 +225,8 @@
             "slug": "rt-sponsor-cut-2016-sponsor-play-the-evil-within-pt-2",
             "date": "2016-01-08",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

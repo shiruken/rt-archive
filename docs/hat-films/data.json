@@ -3,8 +3,8 @@
     "slug": "hat-films",
     "summary": {
         "count": 11,
-        "uploaded": 10,
-        "missing": 1,
+        "uploaded": 11,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -115,8 +115,8 @@
             "slug": "why-you-should-watch-hat-films-in-2020",
             "date": "2020-01-03",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

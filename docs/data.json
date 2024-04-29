@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42585,
-        "uploaded": 41528,
-        "missing": 1057,
-        "incomplete": 623,
+        "uploaded": 41535,
+        "missing": 1050,
+        "incomplete": 625,
         "removed": 2
     },
     "data": [
@@ -92,8 +92,8 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1531,
-            "missing": 252,
+            "uploaded": 1532,
+            "missing": 251,
             "incomplete": 289,
             "removed": 0
         },
@@ -659,8 +659,8 @@
             "show": "CypherDen's Adventures",
             "slug": "cypherden-s-adventures",
             "count": 56,
-            "uploaded": 55,
-            "missing": 1,
+            "uploaded": 56,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1352,9 +1352,9 @@
             "show": "Funhaus Podcast",
             "slug": "funhaus-podcast",
             "count": 449,
-            "uploaded": 447,
-            "missing": 2,
-            "incomplete": 0,
+            "uploaded": 448,
+            "missing": 1,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1622,8 +1622,8 @@
             "show": "Hat Films",
             "slug": "hat-films",
             "count": 11,
-            "uploaded": 10,
-            "missing": 1,
+            "uploaded": 11,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -2378,9 +2378,9 @@
             "show": "Off Topic",
             "slug": "off-topic-the-achievement-hunter-podcast",
             "count": 407,
-            "uploaded": 405,
-            "missing": 2,
-            "incomplete": 0,
+            "uploaded": 406,
+            "missing": 1,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2963,8 +2963,8 @@
             "show": "RT Sponsor Cut",
             "slug": "rt-sponsor-cut",
             "count": 175,
-            "uploaded": 173,
-            "missing": 2,
+            "uploaded": 174,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -3494,8 +3494,8 @@
             "show": "The Patch",
             "slug": "the-patch",
             "count": 102,
-            "uploaded": 98,
-            "missing": 4,
+            "uploaded": 99,
+            "missing": 3,
             "incomplete": 0,
             "removed": 0
         },

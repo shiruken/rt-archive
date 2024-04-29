@@ -3,8 +3,8 @@
     "slug": "cypherden-s-adventures",
     "summary": {
         "count": 56,
-        "uploaded": 55,
-        "missing": 1,
+        "uploaded": 56,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "cypherden-s-adventures-season-1-the-love-of-my-life-rejected-me",
             "date": "2022-01-22",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

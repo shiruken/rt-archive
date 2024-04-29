@@ -3,9 +3,9 @@
     "slug": "funhaus-podcast",
     "summary": {
         "count": 449,
-        "uploaded": 447,
-        "missing": 2,
-        "incomplete": 0,
+        "uploaded": 448,
+        "missing": 1,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -3375,7 +3375,7 @@
             "slug": "dude-soup-2017-dude-soup-podcast-117",
             "date": "2017-04-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
