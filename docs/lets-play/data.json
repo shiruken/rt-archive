@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2161,
-        "uploaded": 2153,
+        "count": 2162,
+        "uploaded": 2154,
         "missing": 8,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Just Some Bros Robbing A Club // Regulation Gameplay",
+            "id": "52850",
+            "slug": "lets-play-2024-just-some-bros-robbing-a-club-regulation-gameplay",
+            "date": "2024-04-29",
+            "is_first": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
         {
             "title": "We're Moving While SPINNING // Regulation Gameplay Pt.4",
             "id": "52848",
