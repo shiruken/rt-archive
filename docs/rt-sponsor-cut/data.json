@@ -3,8 +3,8 @@
     "slug": "rt-sponsor-cut",
     "summary": {
         "count": 175,
-        "uploaded": 174,
-        "missing": 1,
+        "uploaded": 175,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -265,8 +265,8 @@
             "slug": "rt-sponsor-cut-season-2-sponsor-play-halo-2-pt-13",
             "date": "2015-10-16",
             "is_first": true,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
