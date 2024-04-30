@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42592,
-        "uploaded": 41539,
-        "missing": 1053,
+        "uploaded": 41544,
+        "missing": 1048,
         "incomplete": 625,
         "removed": 2
     },
@@ -308,8 +308,8 @@
             "show": "Best Friends TV",
             "slug": "best-friends-tv",
             "count": 38,
-            "uploaded": 37,
-            "missing": 1,
+            "uploaded": 38,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1199,8 +1199,8 @@
             "show": "Face Jam",
             "slug": "face-jam",
             "count": 232,
-            "uploaded": 231,
-            "missing": 1,
+            "uploaded": 232,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3215,8 +3215,8 @@
             "show": "So...Alright",
             "slug": "so-alright",
             "count": 36,
-            "uploaded": 35,
-            "missing": 1,
+            "uploaded": 36,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3359,8 +3359,8 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 82,
-            "uploaded": 80,
-            "missing": 2,
+            "uploaded": 82,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
