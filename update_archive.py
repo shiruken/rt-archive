@@ -24,6 +24,7 @@ def identify_missing_incomplete():
 
     archive_items = []
     incomplete = []
+    total_size = 0
 
     count = 1
     while True:
@@ -56,6 +57,8 @@ def identify_missing_incomplete():
                 ):
                     incomplete.append(item['identifier'])
 
+            total_size += item['item_size']
+
         if 'cursor' in json:
             query['cursor'] = json['cursor']
         else:
@@ -64,6 +67,7 @@ def identify_missing_incomplete():
         count += 1
 
     print(f"Identified {len(archive_items):,} items from the Internet Archive Scrape API across {count:,} requests")
+    print(f"Total Size: {total_size} bytes")
 
     with open("data/archive_urls.txt", "r") as fp:
         archive_ids = [line.rstrip().replace("https://archive.org/details/", "") for line in fp]
