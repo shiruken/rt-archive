@@ -1,8 +1,8 @@
 {
     "summary": {
         "count": 42588,
-        "uploaded": 41538,
-        "missing": 1050,
+        "uploaded": 41539,
+        "missing": 1049,
         "incomplete": 625,
         "removed": 2
     },
@@ -2936,8 +2936,8 @@
             "show": "RT Shorts",
             "slug": "rt-shorts",
             "count": 239,
-            "uploaded": 236,
-            "missing": 3,
+            "uploaded": 237,
+            "missing": 2,
             "incomplete": 2,
             "removed": 0
         },

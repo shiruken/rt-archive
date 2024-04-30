@@ -3,8 +3,8 @@
     "slug": "rt-shorts",
     "summary": {
         "count": 239,
-        "uploaded": 236,
-        "missing": 3,
+        "uploaded": 237,
+        "missing": 2,
         "incomplete": 2,
         "removed": 0
     },
@@ -1565,8 +1565,8 @@
             "slug": "rt-shorts-season-4-snapshot",
             "date": "2012-02-11",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
