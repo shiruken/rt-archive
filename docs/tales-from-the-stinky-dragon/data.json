@@ -2,13 +2,33 @@
     "show": "Tales from the Stinky Dragon",
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
-        "count": 80,
+        "count": 82,
         "uploaded": 80,
-        "missing": 0,
+        "missing": 2,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "[Second Wind] Eddie, Set, Go! - C02 - Ep 45",
+            "id": "52842",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e45",
+            "date": "2024-04-30",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
+        {
+            "title": "Eddie, Set, Go! - C02 - Ep 45",
+            "id": "52841",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e45",
+            "date": "2024-04-30",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "[Second Wind] Can I Get a Vitness? - C02 - Ep 44",
             "id": "52840",
