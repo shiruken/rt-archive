@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42587,
+        "count": 42588,
         "uploaded": 41538,
-        "missing": 1049,
+        "missing": 1050,
         "incomplete": 625,
         "removed": 2
     },
@@ -307,9 +307,9 @@
         {
             "show": "Best Friends TV",
             "slug": "best-friends-tv",
-            "count": 37,
+            "count": 38,
             "uploaded": 37,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
