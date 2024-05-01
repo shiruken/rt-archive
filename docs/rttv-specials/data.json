@@ -2,13 +2,23 @@
     "show": "RTTV Specials",
     "slug": "rttv-specials",
     "summary": {
-        "count": 30,
+        "count": 31,
         "uploaded": 30,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Rooster Teeth Final Stream - Why We Were Here",
+            "id": "52859",
+            "slug": "rttv-specials-2024-rooster-teeth-final-stream-why-we-were-here",
+            "date": "2024-04-30",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Rooster Teeth's First & Final 21st Anniversary Stream",
             "id": "52780",

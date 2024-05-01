@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42592,
+        "count": 42593,
         "uploaded": 41544,
-        "missing": 1048,
+        "missing": 1049,
         "incomplete": 625,
         "removed": 2
     },
@@ -2989,9 +2989,9 @@
         {
             "show": "RTTV Specials",
             "slug": "rttv-specials",
-            "count": 30,
+            "count": 31,
             "uploaded": 30,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
