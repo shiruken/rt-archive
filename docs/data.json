@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42596,
+        "count": 42597,
         "uploaded": 41544,
-        "missing": 1052,
+        "missing": 1053,
         "incomplete": 625,
         "removed": 2
     },
@@ -2431,9 +2431,9 @@
         {
             "show": "OT3 Podcast",
             "slug": "ot3-podcast",
-            "count": 53,
+            "count": 54,
             "uploaded": 52,
-            "missing": 1,
+            "missing": 2,
             "incomplete": 0,
             "removed": 0
         },
