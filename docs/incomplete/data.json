@@ -1,5 +1,5 @@
 {
-    "count": 626,
+    "count": 625,
     "data": [
         {
             "id": "50238",
@@ -54,15 +54,6 @@
             "is_first": false,
             "show": "Inside Gaming Features",
             "show_slug": "inside-gaming-features"
-        },
-        {
-            "id": "26660",
-            "title": "Nintendo Labo 4/20 Weedplay",
-            "slug": "fullhaus-2018-nintendo-labo-4-20-weedplay",
-            "date": "2018-04-27",
-            "is_first": false,
-            "show": "Fullhaus",
-            "show_slug": "fullhaus"
         },
         {
             "id": "152",
