@@ -2,13 +2,23 @@
     "show": "Let's Play",
     "slug": "lets-play",
     "summary": {
-        "count": 2162,
+        "count": 2163,
         "uploaded": 2154,
-        "missing": 8,
+        "missing": 9,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "Finally Breaking Free! // Regulation Gameplay",
+            "id": "52853",
+            "slug": "lets-play-2024-finally-breaking-free-regulation-gameplay",
+            "date": "2024-05-01",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Just Some Bros Robbing A Club // Regulation Gameplay",
             "id": "52850",

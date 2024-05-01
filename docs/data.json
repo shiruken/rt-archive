@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42594,
+        "count": 42596,
         "uploaded": 41544,
-        "missing": 1050,
+        "missing": 1052,
         "incomplete": 625,
         "removed": 2
     },
@@ -2062,9 +2062,9 @@
         {
             "show": "Let's Play",
             "slug": "lets-play",
-            "count": 2162,
+            "count": 2163,
             "uploaded": 2154,
-            "missing": 8,
+            "missing": 9,
             "incomplete": 0,
             "removed": 0
         },
@@ -2431,9 +2431,9 @@
         {
             "show": "OT3 Podcast",
             "slug": "ot3-podcast",
-            "count": 52,
+            "count": 53,
             "uploaded": 52,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
