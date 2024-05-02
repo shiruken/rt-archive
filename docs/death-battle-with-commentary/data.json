@@ -3,9 +3,9 @@
     "slug": "death-battle-with-commentary",
     "summary": {
         "count": 98,
-        "uploaded": 97,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 98,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -935,7 +935,7 @@
             "slug": "death-battle-with-commentary-2018-leon-kennedy-vs-frank-west-w-commentary",
             "date": "2018-05-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

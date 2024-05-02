@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42597,
-        "uploaded": 41550,
-        "missing": 1047,
-        "incomplete": 626,
+        "uploaded": 41569,
+        "missing": 1028,
+        "incomplete": 641,
         "removed": 2
     },
     "data": [
@@ -713,9 +713,9 @@
             "show": "DEATH BATTLE Cast",
             "slug": "death-battle-cast",
             "count": 375,
-            "uploaded": 372,
-            "missing": 3,
-            "incomplete": 0,
+            "uploaded": 375,
+            "missing": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -740,9 +740,9 @@
             "show": "Death Battle With Commentary",
             "slug": "death-battle-with-commentary",
             "count": 98,
-            "uploaded": 97,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 98,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1334,8 +1334,8 @@
             "show": "Funhaus Live",
             "slug": "funhaus-live",
             "count": 289,
-            "uploaded": 288,
-            "missing": 1,
+            "uploaded": 289,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1352,8 +1352,8 @@
             "show": "Funhaus Podcast",
             "slug": "funhaus-podcast",
             "count": 449,
-            "uploaded": 448,
-            "missing": 1,
+            "uploaded": 449,
+            "missing": 0,
             "incomplete": 1,
             "removed": 0
         },
@@ -1388,9 +1388,9 @@
             "show": "Game News",
             "slug": "game-news",
             "count": 1211,
-            "uploaded": 1193,
-            "missing": 18,
-            "incomplete": 46,
+            "uploaded": 1200,
+            "missing": 11,
+            "incomplete": 53,
             "removed": 0
         },
         {
@@ -1451,9 +1451,9 @@
             "show": "Glitch Please",
             "slug": "glitch-please",
             "count": 110,
-            "uploaded": 109,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 110,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1856,9 +1856,9 @@
             "show": "JT Music Behind the Scenes",
             "slug": "jt-music-behind-the-scenes",
             "count": 1,
-            "uploaded": 0,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 1,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2144,9 +2144,9 @@
             "show": "Love & Sex Stuff",
             "slug": "love-sex-stuff",
             "count": 64,
-            "uploaded": 63,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 64,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2378,8 +2378,8 @@
             "show": "Off Topic",
             "slug": "off-topic-the-achievement-hunter-podcast",
             "count": 407,
-            "uploaded": 406,
-            "missing": 1,
+            "uploaded": 407,
+            "missing": 0,
             "incomplete": 1,
             "removed": 0
         },
@@ -3494,9 +3494,9 @@
             "show": "The Patch",
             "slug": "the-patch",
             "count": 102,
-            "uploaded": 99,
-            "missing": 3,
-            "incomplete": 0,
+            "uploaded": 101,
+            "missing": 1,
+            "incomplete": 2,
             "removed": 0
         },
         {

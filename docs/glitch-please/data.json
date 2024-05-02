@@ -3,9 +3,9 @@
     "slug": "glitch-please",
     "summary": {
         "count": 110,
-        "uploaded": 109,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 110,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -765,7 +765,7 @@
             "slug": "glitch-please-season-1-screaming-about-shaders-15",
             "date": "2017-09-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

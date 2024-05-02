@@ -3,9 +3,9 @@
     "slug": "jt-music-behind-the-scenes",
     "summary": {
         "count": 1,
-        "uploaded": 0,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 1,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "jt-music-behind-the-scenes-jt-music-behind-the-scenes-fnaf-6-music-video-behind-the-scenes",
             "date": "2018-02-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         }

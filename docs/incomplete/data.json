@@ -1,5 +1,5 @@
 {
-    "count": 626,
+    "count": 641,
     "data": [
         {
             "id": "50262",
@@ -47,6 +47,24 @@
             "show_slug": "off-topic-the-achievement-hunter-podcast"
         },
         {
+            "id": "36648",
+            "title": "Miles VS Static Questions Answered - #163",
+            "slug": "death-battle-cast-2020-163",
+            "date": "2020-01-30",
+            "is_first": false,
+            "show": "DEATH BATTLE Cast",
+            "show_slug": "death-battle-cast"
+        },
+        {
+            "id": "36357",
+            "title": "Rise of the Spoilers - #160",
+            "slug": "death-battle-cast-2020-160",
+            "date": "2020-01-08",
+            "is_first": false,
+            "show": "DEATH BATTLE Cast",
+            "show_slug": "death-battle-cast"
+        },
+        {
             "id": "35803",
             "title": "102 Things To Do In Death Stranding",
             "slug": "igf-11-17-19",
@@ -63,6 +81,42 @@
             "is_first": false,
             "show": "Inside Gaming Features",
             "show_slug": "inside-gaming-features"
+        },
+        {
+            "id": "31518",
+            "title": "Is Friends With Benefits Possible? (w/Ashley Jenkins)",
+            "slug": "love-sex-stuff-season-1-is-friends-with-benefits-possible-w-ashley-jenkins-love-sex-stuff",
+            "date": "2019-01-19",
+            "is_first": false,
+            "show": "Love & Sex Stuff",
+            "show_slug": "love-sex-stuff"
+        },
+        {
+            "id": "26975",
+            "title": "Leon Kennedy VS Frank West w/ Commentary",
+            "slug": "death-battle-with-commentary-2018-leon-kennedy-vs-frank-west-w-commentary",
+            "date": "2018-05-22",
+            "is_first": false,
+            "show": "Death Battle With Commentary",
+            "show_slug": "death-battle-with-commentary"
+        },
+        {
+            "id": "24076",
+            "title": "FNAF 6 Music Video - Behind the Scenes",
+            "slug": "jt-music-behind-the-scenes-jt-music-behind-the-scenes-fnaf-6-music-video-behind-the-scenes",
+            "date": "2018-02-13",
+            "is_first": false,
+            "show": "JT Music Behind the Scenes",
+            "show_slug": "jt-music-behind-the-scenes"
+        },
+        {
+            "id": "1083",
+            "title": "Screaming About Destiny 2 Shaders - #15",
+            "slug": "glitch-please-season-1-screaming-about-shaders-15",
+            "date": "2017-09-08",
+            "is_first": false,
+            "show": "Glitch Please",
+            "show_slug": "glitch-please"
         },
         {
             "id": "152",
@@ -83,6 +137,42 @@
             "show_slug": "funhaus-podcast"
         },
         {
+            "id": "9266",
+            "title": "We Have No Lives? - #136",
+            "slug": "the-patch-2015-patch-136",
+            "date": "2015-12-24",
+            "is_first": false,
+            "show": "The Patch",
+            "show_slug": "the-patch"
+        },
+        {
+            "id": "9268",
+            "title": "Are Games Shipping Too Broken? - #134",
+            "slug": "the-patch-2015-are-games-shipping-too-broken-134",
+            "date": "2015-12-10",
+            "is_first": false,
+            "show": "The Patch",
+            "show_slug": "the-patch"
+        },
+        {
+            "id": "8608",
+            "title": "Star Wars Battlefront: A New HATE?",
+            "slug": "game-news-2015-91",
+            "date": "2015-09-02",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "8614",
+            "title": "Men Threaten Violence Over Pok?mon",
+            "slug": "game-news-2015-85",
+            "date": "2015-08-25",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
             "id": "8639",
             "title": "Is Nintendo's New Console All Digital?",
             "slug": "game-news-2015-83",
@@ -92,10 +182,37 @@
             "show_slug": "game-news"
         },
         {
+            "id": "8616",
+            "title": "Destiny's Upcoming Changes",
+            "slug": "game-news-2015-81",
+            "date": "2015-08-20",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "8617",
+            "title": "Rocket League BEATS Minecraft?",
+            "slug": "game-news-2015-80",
+            "date": "2015-08-15",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
             "id": "8619",
             "title": "Star Wars Battlefront: NO ONE Wants a Campaign?!",
             "slug": "game-news-2015-78",
             "date": "2015-08-14",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "8650",
+            "title": "New eSports Drug Rules Still Pot Friendly?",
+            "slug": "game-news-2015-77",
+            "date": "2015-08-12",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -123,6 +240,24 @@
             "title": "Steam Game SCAM?!",
             "slug": "game-news-2015-72",
             "date": "2015-08-06",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "8627",
+            "title": "$1,000 Bounty for Mario Glitch?!",
+            "slug": "game-news-2015-71",
+            "date": "2015-08-06",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "8628",
+            "title": "Gamescom the NEW E3?!",
+            "slug": "game-news-2015-70",
+            "date": "2015-08-04",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"

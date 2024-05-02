@@ -3,9 +3,9 @@
     "slug": "game-news",
     "summary": {
         "count": 1211,
-        "uploaded": 1193,
-        "missing": 18,
-        "incomplete": 46,
+        "uploaded": 1200,
+        "missing": 11,
+        "incomplete": 53,
         "removed": 0
     },
     "data": [
@@ -11425,7 +11425,7 @@
             "slug": "game-news-2015-91",
             "date": "2015-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11485,7 +11485,7 @@
             "slug": "game-news-2015-85",
             "date": "2015-08-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11505,7 +11505,7 @@
             "slug": "game-news-2015-81",
             "date": "2015-08-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11515,7 +11515,7 @@
             "slug": "game-news-2015-80",
             "date": "2015-08-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11535,7 +11535,7 @@
             "slug": "game-news-2015-77",
             "date": "2015-08-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11575,7 +11575,7 @@
             "slug": "game-news-2015-71",
             "date": "2015-08-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11585,7 +11585,7 @@
             "slug": "game-news-2015-70",
             "date": "2015-08-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

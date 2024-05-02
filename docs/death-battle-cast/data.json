@@ -3,9 +3,9 @@
     "slug": "death-battle-cast",
     "summary": {
         "count": 375,
-        "uploaded": 372,
-        "missing": 3,
-        "incomplete": 0,
+        "uploaded": 375,
+        "missing": 0,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -2105,7 +2105,7 @@
             "slug": "death-battle-cast-2020-163",
             "date": "2020-01-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2125,8 +2125,8 @@
             "slug": "death-battle-cast-2020-161",
             "date": "2020-01-15",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -2135,7 +2135,7 @@
             "slug": "death-battle-cast-2020-160",
             "date": "2020-01-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

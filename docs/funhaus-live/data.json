@@ -3,8 +3,8 @@
     "slug": "funhaus-live",
     "summary": {
         "count": 289,
-        "uploaded": 288,
-        "missing": 1,
+        "uploaded": 289,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -2255,8 +2255,8 @@
             "slug": "funhaus-live-2021-cluenerts",
             "date": "2021-08-31",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {

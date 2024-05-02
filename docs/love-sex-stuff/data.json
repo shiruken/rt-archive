@@ -3,9 +3,9 @@
     "slug": "love-sex-stuff",
     "summary": {
         "count": 64,
-        "uploaded": 63,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 64,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -115,7 +115,7 @@
             "slug": "love-sex-stuff-season-1-is-friends-with-benefits-possible-w-ashley-jenkins-love-sex-stuff",
             "date": "2019-01-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

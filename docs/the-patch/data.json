@@ -3,9 +3,9 @@
     "slug": "the-patch",
     "summary": {
         "count": 102,
-        "uploaded": 99,
-        "missing": 3,
-        "incomplete": 0,
+        "uploaded": 101,
+        "missing": 1,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -715,7 +715,7 @@
             "slug": "the-patch-2015-patch-136",
             "date": "2015-12-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -735,7 +735,7 @@
             "slug": "the-patch-2015-are-games-shipping-too-broken-134",
             "date": "2015-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

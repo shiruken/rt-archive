@@ -3,8 +3,8 @@
     "slug": "off-topic-the-achievement-hunter-podcast",
     "summary": {
         "count": 407,
-        "uploaded": 406,
-        "missing": 1,
+        "uploaded": 407,
+        "missing": 0,
         "incomplete": 1,
         "removed": 0
     },
@@ -1715,8 +1715,8 @@
             "slug": "off-topic-2020-234",
             "date": "2020-05-23",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
