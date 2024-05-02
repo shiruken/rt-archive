@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42597,
-        "uploaded": 41544,
-        "missing": 1053,
-        "incomplete": 625,
+        "uploaded": 41548,
+        "missing": 1049,
+        "incomplete": 626,
         "removed": 2
     },
     "data": [
@@ -1154,9 +1154,9 @@
             "show": "F**KFACE",
             "slug": "f-kface",
             "count": 265,
-            "uploaded": 264,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 265,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2063,8 +2063,8 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2163,
-            "uploaded": 2154,
-            "missing": 9,
+            "uploaded": 2155,
+            "missing": 8,
             "incomplete": 0,
             "removed": 0
         },
@@ -2432,8 +2432,8 @@
             "show": "OT3 Podcast",
             "slug": "ot3-podcast",
             "count": 54,
-            "uploaded": 52,
-            "missing": 2,
+            "uploaded": 54,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },

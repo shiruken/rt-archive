@@ -3,9 +3,9 @@
     "slug": "f-kface",
     "summary": {
         "count": 265,
-        "uploaded": 264,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 265,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "f-kface-season-6-ff205",
             "date": "2024-05-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

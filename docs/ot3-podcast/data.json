@@ -3,8 +3,8 @@
     "slug": "ot3-podcast",
     "summary": {
         "count": 54,
-        "uploaded": 52,
-        "missing": 2,
+        "uploaded": 54,
+        "missing": 0,
         "incomplete": 0,
         "removed": 0
     },
@@ -15,8 +15,8 @@
             "slug": "ot3-podcast-2022-last-of-ot3",
             "date": "2024-05-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -25,8 +25,8 @@
             "slug": "ot3-podcast-2022-is-it-the-end-of-fanfiction-as-we-know-it-ot3",
             "date": "2024-05-01",
             "is_first": false,
-            "is_uploaded": false,
-            "is_complete_upload": false,
+            "is_uploaded": true,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
