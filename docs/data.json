@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42597,
-        "uploaded": 41549,
-        "missing": 1048,
-        "incomplete": 625,
+        "uploaded": 41550,
+        "missing": 1047,
+        "incomplete": 626,
         "removed": 2
     },
     "data": [
@@ -1928,9 +1928,9 @@
             "show": "Kinda Funny Games Daily",
             "slug": "kinda-funny-games-daily",
             "count": 920,
-            "uploaded": 919,
-            "missing": 1,
-            "incomplete": 1,
+            "uploaded": 920,
+            "missing": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {

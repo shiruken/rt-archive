@@ -3,9 +3,9 @@
     "slug": "kinda-funny-games-daily",
     "summary": {
         "count": 920,
-        "uploaded": 919,
-        "missing": 1,
-        "incomplete": 1,
+        "uploaded": 920,
+        "missing": 0,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -465,7 +465,7 @@
             "slug": "kinda-funny-games-daily-2023-e3-cancels-secret-titanfall-game-nintendo-direct-incoming",
             "date": "2023-02-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
