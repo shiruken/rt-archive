@@ -3,9 +3,9 @@
     "slug": "easter-eggs",
     "summary": {
         "count": 334,
-        "uploaded": 331,
-        "missing": 3,
-        "incomplete": 11,
+        "uploaded": 332,
+        "missing": 2,
+        "incomplete": 12,
         "removed": 0
     },
     "data": [
@@ -1275,7 +1275,7 @@
             "slug": "easter-eggs-2012-21",
             "date": "2012-12-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

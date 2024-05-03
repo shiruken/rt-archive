@@ -3,9 +3,9 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1532,
-        "missing": 251,
-        "incomplete": 289,
+        "uploaded": 1537,
+        "missing": 246,
+        "incomplete": 294,
         "removed": 0
     },
     "data": [
@@ -3255,7 +3255,7 @@
             "slug": "achievement-hunter-season-1-episode-2097",
             "date": "2015-07-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3395,7 +3395,7 @@
             "slug": "achievement-hunter-achievement-hunter-game-fails-rap-game-failed",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4595,7 +4595,7 @@
             "slug": "achievement-hunter-achievement-hunter-lets-build-with-geoff-and-gav-shopping-list",
             "date": "2013-04-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4755,7 +4755,7 @@
             "slug": "achievement-hunter-achievement-hunter-lets-build-with-gav-geoff-and-ryan-raining-butts",
             "date": "2013-04-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6065,7 +6065,7 @@
             "slug": "achievement-hunter-achievement-hunter-solace-map-walkthrough",
             "date": "2012-11-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

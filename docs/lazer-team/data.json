@@ -3,9 +3,9 @@
     "slug": "lazer-team",
     "summary": {
         "count": 15,
-        "uploaded": 14,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 15,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -115,7 +115,7 @@
             "slug": "lazer-team-lazer-team-lazer-team-movie-trailer",
             "date": "2015-03-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

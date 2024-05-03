@@ -3,9 +3,9 @@
     "slug": "five-facts",
     "summary": {
         "count": 181,
-        "uploaded": 180,
-        "missing": 1,
-        "incomplete": 1,
+        "uploaded": 181,
+        "missing": 0,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -1195,7 +1195,7 @@
             "slug": "five-facts-2014-14",
             "date": "2014-01-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

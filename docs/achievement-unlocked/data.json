@@ -3,9 +3,9 @@
     "slug": "achievement-unlocked",
     "summary": {
         "count": 924,
-        "uploaded": 454,
-        "missing": 470,
-        "incomplete": 168,
+        "uploaded": 633,
+        "missing": 291,
+        "incomplete": 347,
         "removed": 0
     },
     "data": [
@@ -675,7 +675,7 @@
             "slug": "achievement-unlocked-season-1-goat-simulator-gaotville-achievement-guide",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -685,7 +685,7 @@
             "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-4",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -695,7 +695,7 @@
             "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-3",
             "date": "2015-04-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -705,7 +705,7 @@
             "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-2",
             "date": "2015-04-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -715,7 +715,7 @@
             "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-1",
             "date": "2015-04-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -735,7 +735,7 @@
             "slug": "achievement-unlocked-season-1-blue-estate-keep-quiet-achievement-guide",
             "date": "2015-02-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -755,7 +755,7 @@
             "slug": "achievement-unlocked-season-1-geometry-wars-3-cleaning-up-achievement-guide",
             "date": "2014-12-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -765,7 +765,7 @@
             "slug": "achievement-unlocked-season-1-geometry-wars-3-deadliest-achievement-guide",
             "date": "2014-12-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -775,7 +775,7 @@
             "slug": "achievement-unlocked-season-1-halo-mcc-halo-2-blastacular-guide",
             "date": "2014-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -795,7 +795,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-advanced-warfare-intel-locations-31-45-guide",
             "date": "2014-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -805,7 +805,7 @@
             "slug": "achievement-unlocked-season-1-halo-mcc-halo-2-5-achievement-guides",
             "date": "2014-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -815,7 +815,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-advanced-warfare-intel-locations-guide",
             "date": "2014-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -825,7 +825,7 @@
             "slug": "achievement-unlocked-season-1-borderlands-the-pre-sequel-family-guy-reference-mission",
             "date": "2014-11-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -835,7 +835,7 @@
             "slug": "achievement-unlocked-season-1-borderlands-the-pre-sequel-star-wars-reference-mission",
             "date": "2014-11-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -845,7 +845,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-advanced-warfare-sitting-ducks",
             "date": "2014-11-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -925,7 +925,7 @@
             "slug": "achievement-unlocked-season-1-middle-earth-shadow-of-mordor-no-power-in-numbers-guide",
             "date": "2014-10-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -935,7 +935,7 @@
             "slug": "achievement-unlocked-season-1-middle-earth-shadow-of-mordor-black-celebration-guide",
             "date": "2014-10-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -945,7 +945,7 @@
             "slug": "achievement-unlocked-season-1-middle-earth-shadow-of-mordor-height-of-despair-guide",
             "date": "2014-10-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -975,7 +975,7 @@
             "slug": "achievement-unlocked-season-1-metro-2033-redux-manhattan-project-raider-dj-artyom-guides",
             "date": "2014-09-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -985,7 +985,7 @@
             "slug": "achievement-unlocked-season-1-hotline-miami-combo-king-trophy-guide",
             "date": "2014-08-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1015,7 +1015,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-riders-of-the-rustlands-rags-to-riches",
             "date": "2014-08-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1025,7 +1025,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-riders-of-the-rustlands-junkyard-funk",
             "date": "2014-08-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1055,7 +1055,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-eggstra-nemesis-guide",
             "date": "2014-08-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1075,7 +1075,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-squirrel-scavengers-guide",
             "date": "2014-07-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1085,7 +1085,7 @@
             "slug": "achievement-unlocked-season-1-achievement-hunter-presents-rtx-2014-intro",
             "date": "2014-07-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1095,7 +1095,7 @@
             "slug": "achievement-unlocked-season-1-transformers-rise-of-the-dark-spark-spectacularly-amazing-guide",
             "date": "2014-07-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1105,7 +1105,7 @@
             "slug": "achievement-unlocked-season-1-guacamelee-i-swat-you-achievement-guide",
             "date": "2014-07-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1125,7 +1125,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-spelunker-guide",
             "date": "2014-06-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1135,7 +1135,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-dog-fight-guide",
             "date": "2014-06-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1155,7 +1155,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-expedition-track-challenge",
             "date": "2014-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1165,7 +1165,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-cold-storage-track-challenge",
             "date": "2014-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1185,7 +1185,7 @@
             "slug": "achievement-unlocked-season-1-dead-rising-3-arcade-collector-guide",
             "date": "2014-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1195,7 +1195,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-eco-park-track-challenge",
             "date": "2014-06-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1205,7 +1205,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-rocky-road-track-challenge",
             "date": "2014-06-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1225,7 +1225,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-rainforest-rumble-temple-trouble-track-challenge",
             "date": "2014-05-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1235,7 +1235,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-rainforest-rumble-bungalow-beach-track-challenge",
             "date": "2014-05-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1245,7 +1245,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-rainforest-rumble-swamp-crash-track-challenge",
             "date": "2014-05-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1255,7 +1255,7 @@
             "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-stay-true-to-yourself-poor-workplace-etiquette-independent-woman",
             "date": "2014-05-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1265,7 +1265,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-cactus-around-the-oasis-track-challenge",
             "date": "2014-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1285,7 +1285,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-cactus-sunrise-dash-track-challenge",
             "date": "2014-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1295,7 +1295,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-cactus-stormtrooper-track-challenge",
             "date": "2014-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1315,7 +1315,7 @@
             "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-dancing-in-the-dark-secrets-of-the-deep-stairs-with-attiude-trophies",
             "date": "2014-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1325,7 +1325,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-marina-mania-track-challenge",
             "date": "2014-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1335,7 +1335,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-blimp-my-ride-track-challenge",
             "date": "2014-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1345,7 +1345,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-park-and-ride-track-challenge",
             "date": "2014-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1355,7 +1355,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-skyscraper-showdown-track-challenge",
             "date": "2014-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1365,7 +1365,7 @@
             "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-no-cutsies-head-otter-dunk-tank-trophies",
             "date": "2014-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1375,7 +1375,7 @@
             "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-3-trophies",
             "date": "2014-05-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1395,7 +1395,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-shivering-isles-track-challenge",
             "date": "2014-05-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1405,7 +1405,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-shear-pressure-track-challenge",
             "date": "2014-05-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1415,7 +1415,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-peak-performance-track-challenge",
             "date": "2014-05-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1425,7 +1425,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-deep-freeze-track-challenge",
             "date": "2014-05-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1435,7 +1435,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-fusion-factory",
             "date": "2014-05-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1455,7 +1455,7 @@
             "slug": "achievement-unlocked-season-1-trials-fusion-the-bike-is-your-hula-hoop-guide",
             "date": "2014-04-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1475,7 +1475,7 @@
             "slug": "achievement-unlocked-season-1-achievement-hunter-presents-geoff-and-gavin-check-out-van-helsing-ii-for-steam",
             "date": "2014-04-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1485,7 +1485,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-inquisitive-mind-achievement-guide",
             "date": "2014-04-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1495,7 +1495,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-big-game-trapper-achievement-guide",
             "date": "2014-04-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1505,7 +1505,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-egg-stra-devastation-achievement-guide",
             "date": "2014-04-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1515,7 +1515,7 @@
             "slug": "achievement-unlocked-season-1-south-park-the-stick-of-truth-gingivitis-perverted-and-too-far-guides",
             "date": "2014-03-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1525,7 +1525,7 @@
             "slug": "achievement-unlocked-season-1-south-park-the-stick-of-truth-3-achievements",
             "date": "2014-03-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1535,7 +1535,7 @@
             "slug": "achievement-unlocked-season-1-farcry-classic-3-achievements",
             "date": "2014-02-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1545,7 +1545,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-egg-stra-xp-guide",
             "date": "2014-01-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1555,7 +1555,7 @@
             "slug": "achievement-unlocked-season-1-tomb-raider-definitive-edition-chatterbox-guide",
             "date": "2014-01-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1565,7 +1565,7 @@
             "slug": "achievement-unlocked-season-1-tomb-raider-definitive-edition-3-achievements",
             "date": "2014-01-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1585,7 +1585,7 @@
             "slug": "achievement-unlocked-season-1-halo-spartan-assault-3-achievements",
             "date": "2013-12-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1595,7 +1595,7 @@
             "slug": "achievement-unlocked-season-1-achievement-hunter-presents-xbox-one-unboxing",
             "date": "2013-11-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1615,7 +1615,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-they-look-like-ants-guide",
             "date": "2013-11-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1625,7 +1625,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-fly-by-wire-guide",
             "date": "2013-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1635,7 +1635,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-end-of-your-rope-guide",
             "date": "2013-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1655,7 +1655,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-jack-pot-guide",
             "date": "2013-11-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1685,7 +1685,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-deep-freeze-guide",
             "date": "2013-11-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1695,7 +1695,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-audiophile-guide",
             "date": "2013-11-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1715,7 +1715,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-burn-baby-burn-guide",
             "date": "2013-11-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1735,7 +1735,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-it-came-from-below-guide",
             "date": "2013-11-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1745,7 +1745,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-go-ugly-early-guide",
             "date": "2013-11-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1755,7 +1755,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-waste-not-guide",
             "date": "2013-11-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1765,7 +1765,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-liberty-wall-guide",
             "date": "2013-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1775,7 +1775,7 @@
             "slug": "achievement-unlocked-season-1-saints-row-iv-health-inspector-guide",
             "date": "2013-10-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1785,7 +1785,7 @@
             "slug": "achievement-unlocked-season-1-saints-row-iv-rigging-the-race-guide",
             "date": "2013-10-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1795,7 +1795,7 @@
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-three-man-army-guide",
             "date": "2013-09-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1805,7 +1805,7 @@
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-a-lot-of-cheddar-guide",
             "date": "2013-09-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1815,7 +1815,7 @@
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-a-mystery-solved-guide",
             "date": "2013-09-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1825,7 +1825,7 @@
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-wanted-alive-or-alive-guide",
             "date": "2013-09-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1835,7 +1835,7 @@
             "slug": "achievement-unlocked-season-1-trading-pure-alpha-guide",
             "date": "2013-09-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1845,7 +1845,7 @@
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-altruist-acolyte-guide",
             "date": "2013-09-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1855,7 +1855,7 @@
             "slug": "achievement-unlocked-season-1-grand-theft-auto-v-out-of-your-depth-guide",
             "date": "2013-09-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1865,7 +1865,7 @@
             "slug": "achievement-unlocked-season-1-a-few-gears-loose-pogo-a-go-go-guides",
             "date": "2013-09-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1875,7 +1875,7 @@
             "slug": "achievement-unlocked-season-1-ducktales-remastered-bless-me-bagpipes-guide",
             "date": "2013-09-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1885,7 +1885,7 @@
             "slug": "achievement-unlocked-season-1-ducktales-remastered-3-achievements",
             "date": "2013-09-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1905,7 +1905,7 @@
             "slug": "achievement-unlocked-season-1-kung-fu-grip-guide",
             "date": "2013-09-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1915,7 +1915,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-master-of-disguise-guide",
             "date": "2013-09-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1925,7 +1925,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-not-a-gold-digger-all-your-base-guides",
             "date": "2013-09-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1935,7 +1935,7 @@
             "slug": "achievement-unlocked-season-1-epic-jump-quest-guide",
             "date": "2013-08-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1945,7 +1945,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-awaken-the-gazebo-guide",
             "date": "2013-07-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1955,7 +1955,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-mazed-and-confused-guide",
             "date": "2013-07-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1965,7 +1965,7 @@
             "slug": "achievement-unlocked-season-1-death-from-below-guide",
             "date": "2013-07-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1975,7 +1975,7 @@
             "slug": "achievement-unlocked-season-1-when-the-revolution-comes-guide",
             "date": "2013-07-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1985,7 +1985,7 @@
             "slug": "achievement-unlocked-season-1-candygram-guide",
             "date": "2013-07-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1995,7 +1995,7 @@
             "slug": "achievement-unlocked-season-1-ectoplasmic-residue-guide",
             "date": "2013-07-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2015,7 +2015,7 @@
             "slug": "achievement-unlocked-season-1-the-walking-dead-400-days-two-out-of-three-reunited-guides",
             "date": "2013-07-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2025,7 +2025,7 @@
             "slug": "achievement-unlocked-season-1-deadpool-spawn-more-deadpool-lords-pc-load-lead-er-i-can-open-doors-guides",
             "date": "2013-07-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2085,7 +2085,7 @@
             "slug": "achievement-unlocked-season-1-forgotten-bloodlust-guides",
             "date": "2013-05-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2095,7 +2095,7 @@
             "slug": "achievement-unlocked-season-1-the-pool-is-open-guide",
             "date": "2013-05-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2105,7 +2105,7 @@
             "slug": "achievement-unlocked-season-1-running-man-guide",
             "date": "2013-05-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2115,7 +2115,7 @@
             "slug": "achievement-unlocked-season-1-derp-just-the-tip-guides",
             "date": "2013-05-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2125,7 +2125,7 @@
             "slug": "achievement-unlocked-season-1-twins-achievement-guide",
             "date": "2013-04-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2135,7 +2135,7 @@
             "slug": "achievement-unlocked-season-1-full-lockdown-guide",
             "date": "2013-04-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2145,7 +2145,7 @@
             "slug": "achievement-unlocked-season-1-gg-bridge-guide",
             "date": "2013-04-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2155,7 +2155,7 @@
             "slug": "achievement-unlocked-season-1-a-burst-of-flavor-guide",
             "date": "2013-04-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2175,7 +2175,7 @@
             "slug": "achievement-unlocked-season-1-paranormal-power-guide",
             "date": "2013-04-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2185,7 +2185,7 @@
             "slug": "achievement-unlocked-season-1-lost-weekend-guide",
             "date": "2013-04-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2195,7 +2195,7 @@
             "slug": "achievement-unlocked-season-1-more-for-your-money-guide",
             "date": "2013-04-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2205,7 +2205,7 @@
             "slug": "achievement-unlocked-season-1-skeet-shoot-guide",
             "date": "2013-04-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2215,7 +2215,7 @@
             "slug": "achievement-unlocked-season-1-the-mvp-guide",
             "date": "2013-04-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2225,7 +2225,7 @@
             "slug": "achievement-unlocked-season-1-heartbreaker-achievement-guide",
             "date": "2013-03-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2235,7 +2235,7 @@
             "slug": "achievement-unlocked-season-1-post-human-warrior-guide",
             "date": "2013-03-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2245,7 +2245,7 @@
             "slug": "achievement-unlocked-season-1-ping-pong-guide",
             "date": "2013-02-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2255,7 +2255,7 @@
             "slug": "achievement-unlocked-season-1-roadkill-guide",
             "date": "2013-02-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2265,7 +2265,7 @@
             "slug": "achievement-unlocked-season-1-white-rider-guide",
             "date": "2013-02-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2275,7 +2275,7 @@
             "slug": "achievement-unlocked-season-1-bang-for-the-buck-arrow-to-the-knee-guides",
             "date": "2013-02-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2285,7 +2285,7 @@
             "slug": "achievement-unlocked-season-1-who-needs-rockets-guide",
             "date": "2013-02-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2295,7 +2295,7 @@
             "slug": "achievement-unlocked-season-1-no-need-for-alarm-guide",
             "date": "2013-02-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2305,7 +2305,7 @@
             "slug": "achievement-unlocked-season-1-steel-tail-achievement-guide",
             "date": "2013-02-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2315,7 +2315,7 @@
             "slug": "achievement-unlocked-season-1-mostly-come-at-night-guide",
             "date": "2013-02-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2325,7 +2325,7 @@
             "slug": "achievement-unlocked-season-1-hungry-achievement-guide",
             "date": "2013-02-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2335,7 +2335,7 @@
             "slug": "achievement-unlocked-season-1-fire-alarm-guide",
             "date": "2013-02-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2345,7 +2345,7 @@
             "slug": "achievement-unlocked-season-1-short-controlled-bursts-guide",
             "date": "2013-02-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2355,7 +2355,7 @@
             "slug": "achievement-unlocked-season-1-space-ace-achievement-guide",
             "date": "2013-02-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2365,7 +2365,7 @@
             "slug": "achievement-unlocked-season-1-shafted-guide",
             "date": "2013-02-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2375,7 +2375,7 @@
             "slug": "achievement-unlocked-season-1-slippery-when-undead-guide",
             "date": "2013-02-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2385,7 +2385,7 @@
             "slug": "achievement-unlocked-season-1-under-a-buck-achievement-guide",
             "date": "2013-02-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2395,7 +2395,7 @@
             "slug": "achievement-unlocked-season-1-vertigoner-guide",
             "date": "2013-02-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2405,7 +2405,7 @@
             "slug": "achievement-unlocked-season-1-a-man-with-guts-and-honor-guide",
             "date": "2013-01-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2415,7 +2415,7 @@
             "slug": "achievement-unlocked-season-1-achievement-raceway-tour-minecraft-community-map",
             "date": "2013-01-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2435,7 +2435,7 @@
             "slug": "achievement-unlocked-season-1-8-bit-hydrant-overflow-and-dance-player-dance-guides",
             "date": "2013-01-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2445,7 +2445,7 @@
             "slug": "achievement-unlocked-season-1-rocky-road-tire-crunch-guide",
             "date": "2013-01-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2455,7 +2455,7 @@
             "slug": "achievement-unlocked-season-1-the-cosplayer-guide",
             "date": "2013-01-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2475,7 +2475,7 @@
             "slug": "achievement-unlocked-season-1-never-say-stop-achievement-guide",
             "date": "2012-12-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2495,7 +2495,7 @@
             "slug": "achievement-unlocked-season-1-love-the-boom-achievement-guide",
             "date": "2012-12-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2515,7 +2515,7 @@
             "slug": "achievement-unlocked-season-1-never-saw-it-coming-guide",
             "date": "2012-12-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2525,7 +2525,7 @@
             "slug": "achievement-unlocked-season-1-what-power-outage-guide",
             "date": "2012-12-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2535,7 +2535,7 @@
             "slug": "achievement-unlocked-season-1-no-easy-way-out-guide",
             "date": "2012-12-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2545,7 +2545,7 @@
             "slug": "achievement-unlocked-season-1-fearless-or-stupid-guide",
             "date": "2012-12-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2555,7 +2555,7 @@
             "slug": "achievement-unlocked-season-1-improper-use-achievement-guide",
             "date": "2012-12-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2565,7 +2565,7 @@
             "slug": "achievement-unlocked-season-1-toxophilite-guide",
             "date": "2012-11-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2575,7 +2575,7 @@
             "slug": "achievement-unlocked-season-1-unheard-achievement-guide",
             "date": "2012-11-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2585,7 +2585,7 @@
             "slug": "achievement-unlocked-season-1-free-fall-achievement-guide",
             "date": "2012-11-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2595,7 +2595,7 @@
             "slug": "achievement-unlocked-season-1-you-have-no-power-over-me-guide",
             "date": "2012-11-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2605,7 +2605,7 @@
             "slug": "achievement-unlocked-season-1-standard-equipment-may-vary-guide",
             "date": "2012-11-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2625,7 +2625,7 @@
             "slug": "achievement-unlocked-season-1-high-iq-achievement-guide-part-3",
             "date": "2012-11-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2635,7 +2635,7 @@
             "slug": "achievement-unlocked-season-1-dance-on-my-grave-guide",
             "date": "2012-11-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2645,7 +2645,7 @@
             "slug": "achievement-unlocked-season-1-high-iq-achievement-guide-part-2",
             "date": "2012-11-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2665,7 +2665,7 @@
             "slug": "achievement-unlocked-season-1-the-lights-of-their-eyes-guide",
             "date": "2012-11-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2675,7 +2675,7 @@
             "slug": "achievement-unlocked-season-1-hey-good-looking-achievement-guide",
             "date": "2012-11-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2685,7 +2685,7 @@
             "slug": "achievement-unlocked-season-1-chief-smash-achievement-guide",
             "date": "2012-11-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2695,7 +2695,7 @@
             "slug": "achievement-unlocked-season-1-happy-hour-guide",
             "date": "2012-11-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2705,7 +2705,7 @@
             "slug": "achievement-unlocked-season-1-man-of-the-people-achievement-guide",
             "date": "2012-11-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2725,7 +2725,7 @@
             "slug": "achievement-unlocked-season-1-explore-the-floor-achievement-guide",
             "date": "2012-11-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2735,7 +2735,7 @@
             "slug": "achievement-unlocked-season-1-halo-4-give-him-the-stick-achievement-guide",
             "date": "2012-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2745,7 +2745,7 @@
             "slug": "achievement-unlocked-season-1-terminus-achievement-guide",
             "date": "2012-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2755,7 +2755,7 @@
             "slug": "achievement-unlocked-season-1-halo-4-this-is-my-rifle-this-is-my-gun-achievement-guide",
             "date": "2012-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2765,7 +2765,7 @@
             "slug": "achievement-unlocked-season-1-roses-vs-violets-guide",
             "date": "2012-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2775,7 +2775,7 @@
             "slug": "achievement-unlocked-season-1-knight-in-white-assassination-guide",
             "date": "2012-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2785,7 +2785,7 @@
             "slug": "achievement-unlocked-season-1-9-achievements",
             "date": "2012-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2795,7 +2795,7 @@
             "slug": "achievement-unlocked-season-1-halo-4-bros-to-the-close-achievement-guide",
             "date": "2012-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2805,7 +2805,7 @@
             "slug": "achievement-unlocked-season-1-halo-4-midnight-launch-achievement-guide",
             "date": "2012-11-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2815,7 +2815,7 @@
             "slug": "achievement-unlocked-season-1-halo-4-digging-up-the-past-achievement-guide",
             "date": "2012-11-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2825,7 +2825,7 @@
             "slug": "achievement-unlocked-season-1-dirty-laundry-guide",
             "date": "2012-11-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2845,7 +2845,7 @@
             "slug": "achievement-unlocked-season-1-target-practice-guide",
             "date": "2012-11-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2855,7 +2855,7 @@
             "slug": "achievement-unlocked-season-1-hell-money-achievement-guide",
             "date": "2012-10-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2875,7 +2875,7 @@
             "slug": "achievement-unlocked-season-1-double-header-guide",
             "date": "2012-10-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2885,7 +2885,7 @@
             "slug": "achievement-unlocked-season-1-vender-bender-guide",
             "date": "2012-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2895,7 +2895,7 @@
             "slug": "achievement-unlocked-season-1-leftover-lead-guide",
             "date": "2012-10-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2905,7 +2905,7 @@
             "slug": "achievement-unlocked-season-1-on-the-clock-guide",
             "date": "2012-10-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2925,7 +2925,7 @@
             "slug": "achievement-unlocked-season-1-3-more-quick-achievements",
             "date": "2012-10-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2935,7 +2935,7 @@
             "slug": "achievement-unlocked-season-1-3-quick-achievements",
             "date": "2012-10-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2945,7 +2945,7 @@
             "slug": "achievement-unlocked-season-1-two-missable-achievements",
             "date": "2012-10-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2985,7 +2985,7 @@
             "slug": "achievement-unlocked-season-1-bodyguard-achievement-guide",
             "date": "2012-10-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3015,7 +3015,7 @@
             "slug": "achievement-unlocked-season-1-ghost-achievement-guide-1",
             "date": "2012-09-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

@@ -1,5 +1,5 @@
 {
-    "count": 641,
+    "count": 1061,
     "data": [
         {
             "id": "50262",
@@ -281,6 +281,15 @@
             "show_slug": "game-news"
         },
         {
+            "id": "8631",
+            "title": "Konami a Prison Camp?",
+            "slug": "game-news-2015-67",
+            "date": "2015-08-03",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
             "id": "8656",
             "title": "Sony Lets YOU Pick Your Free Game",
             "slug": "game-news-2015-66",
@@ -308,6 +317,15 @@
             "show_slug": "game-news"
         },
         {
+            "id": "8009",
+            "title": "Five Nights at Freddy's Movie Details",
+            "slug": "entertainment-news-2015-10",
+            "date": "2015-07-30",
+            "is_first": false,
+            "show": "Entertainment News",
+            "show_slug": "entertainment-news"
+        },
+        {
             "id": "8010",
             "title": "Who's Watching My Little Pony Porn?",
             "slug": "entertainment-news-2015-9",
@@ -324,6 +342,33 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
+        },
+        {
+            "id": "22801",
+            "title": "Joel and Adam Stream Terraria - Part 2",
+            "slug": "achievement-hunter-season-1-episode-2097",
+            "date": "2015-07-26",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "8637",
+            "title": "Half-Life 3 Will Never Release, Here's Why",
+            "slug": "game-news-2015-60",
+            "date": "2015-07-24",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "11485",
+            "title": "Sunset: A Real CHORE",
+            "slug": "the-patch-game-club-season-1-episode-18",
+            "date": "2015-07-24",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
         },
         {
             "id": "8011",
@@ -353,6 +398,33 @@
             "show_slug": "achievement-hunter"
         },
         {
+            "id": "8638",
+            "title": "Five Nights at Freddy's 4 Release SURPRISE!",
+            "slug": "game-news-2015-58",
+            "date": "2015-07-23",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "18144",
+            "title": "6ft Man in 6ft Giant Water Balloon",
+            "slug": "the-slow-mo-guys-season-1-episode-43",
+            "date": "2015-07-23",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "9296",
+            "title": "The Patch #114",
+            "slug": "the-patch-2015-22",
+            "date": "2015-07-23",
+            "is_first": false,
+            "show": "The Patch",
+            "show_slug": "the-patch"
+        },
+        {
             "id": "8012",
             "title": "Space Jam 2 Happening?!",
             "slug": "entertainment-news-2015-7",
@@ -378,6 +450,15 @@
             "is_first": false,
             "show": "Entertainment News",
             "show_slug": "entertainment-news"
+        },
+        {
+            "id": "8663",
+            "title": "Fallout Shelter Makes BANK",
+            "slug": "game-news-2015-54",
+            "date": "2015-07-17",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
         },
         {
             "id": "8699",
@@ -416,6 +497,24 @@
             "show_slug": "game-news"
         },
         {
+            "id": "22164",
+            "title": "Volume 250",
+            "slug": "fails-of-the-weak-2015-13",
+            "date": "2015-07-03",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "11488",
+            "title": "This War of Mine: War Sucks",
+            "slug": "the-patch-game-club-season-1-this-war-of-mine-war-sucks",
+            "date": "2015-07-02",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
             "id": "8017",
             "title": "Creepypasta: The TV SHOW?!",
             "slug": "entertainment-news-2015-4",
@@ -434,6 +533,15 @@
             "show_slug": "game-news"
         },
         {
+            "id": "8694",
+            "title": "Warner KNEW Batman was Broken?",
+            "slug": "game-news-2015-48",
+            "date": "2015-07-01",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
             "id": "8695",
             "title": "New Fallout 4 Character",
             "slug": "game-news-2015-47",
@@ -441,6 +549,15 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
+        },
+        {
+            "id": "11378",
+            "title": "Kholat",
+            "slug": "how-to-2015-13",
+            "date": "2015-07-01",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
         },
         {
             "id": "22807",
@@ -470,6 +587,15 @@
             "show_slug": "game-news"
         },
         {
+            "id": "14980",
+            "title": "Top 5 Rivalries in Video Games",
+            "slug": "countdown-2015-9",
+            "date": "2015-06-28",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
             "id": "8691",
             "title": "PS4 Rise of the Tomb Raider RELEASE DATE!",
             "slug": "game-news-2015-45",
@@ -477,6 +603,15 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
+        },
+        {
+            "id": "20056",
+            "title": "Volume 249",
+            "slug": "fails-of-the-weak-2015-7",
+            "date": "2015-06-25",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
         },
         {
             "id": "8690",
@@ -506,6 +641,51 @@
             "show_slug": "game-news"
         },
         {
+            "id": "14981",
+            "title": "Top 5 Easy 1000 Gamerscore Games Part 4",
+            "slug": "countdown-2015-6",
+            "date": "2015-06-22",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "20430",
+            "title": "Week #269",
+            "slug": "ahwu-2015-3",
+            "date": "2015-06-16",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "14985",
+            "title": "Top 5 Most Destructive Weapons In Fallout 3",
+            "slug": "countdown-2015-2",
+            "date": "2015-06-14",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "8685",
+            "title": "Steam Sale SCAMS?",
+            "slug": "game-news-2015-40",
+            "date": "2015-06-12",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "11489",
+            "title": "Long Live the Queen: Elegance. Grace. Assassination.",
+            "slug": "the-patch-game-club-season-1-long-live-the-queen-elegance-grace-assassination",
+            "date": "2015-06-11",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
             "id": "8684",
             "title": "How to Play Assassin's Creed: Syndicate Before Anyone Else",
             "slug": "game-news-2015-38",
@@ -533,6 +713,33 @@
             "show_slug": "entertainment-news"
         },
         {
+            "id": "20431",
+            "title": "AHWU #268",
+            "slug": "ahwu-2015-39",
+            "date": "2015-06-08",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "14984",
+            "title": "Top 5 - Dinosaur Games",
+            "slug": "countdown-2015-26",
+            "date": "2015-06-05",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "8014",
+            "title": "Han NOT So Solo?!",
+            "slug": "entertainment-news-2015",
+            "date": "2015-06-05",
+            "is_first": false,
+            "show": "Entertainment News",
+            "show_slug": "entertainment-news"
+        },
+        {
             "id": "8679",
             "title": "How to Get a Steam Controller Before Release",
             "slug": "game-news-2015-34",
@@ -542,10 +749,55 @@
             "show_slug": "game-news"
         },
         {
+            "id": "20059",
+            "title": "Volume 246",
+            "slug": "fails-of-the-weak-2015-25",
+            "date": "2015-06-04",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "8677",
+            "title": "Fallout 4: Best Game EVER?! Yes.",
+            "slug": "game-news-2015-33",
+            "date": "2015-06-03",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "11383",
+            "title": "Grow Home",
+            "slug": "how-to-2015-24",
+            "date": "2015-06-03",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
             "id": "8675",
             "title": "LEGO Worlds a Minecraft KILLER?",
             "slug": "game-news-2015-30",
             "date": "2015-06-01",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "14986",
+            "title": "Top 5 Video Games from 1995",
+            "slug": "countdown-2015-23",
+            "date": "2015-06-01",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "8674",
+            "title": "Xbox SAVES Silent Hills?",
+            "slug": "game-news-2015-29",
+            "date": "2015-05-29",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -558,6 +810,24 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
+        },
+        {
+            "id": "11493",
+            "title": "Ori and the Blind Forest: Cheers, Tears, and SO MUCH RAGE",
+            "slug": "the-patch-game-club-season-1-ori-and-the-blind-forest-cheers-tears-and-so-much-rage",
+            "date": "2015-05-28",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "20060",
+            "title": "Volume 245",
+            "slug": "fails-of-the-weak-2015-22",
+            "date": "2015-05-28",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
         },
         {
             "id": "8672",
@@ -578,6 +848,24 @@
             "show_slug": "game-news"
         },
         {
+            "id": "8669",
+            "title": "Rockstar SUES GTA Movie?",
+            "slug": "game-news-2015-24",
+            "date": "2015-05-22",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "14989",
+            "title": "Top 5 Ground Pounds in Video Games",
+            "slug": "countdown-2015-21",
+            "date": "2015-05-22",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
             "id": "8668",
             "title": "AMD Accuses Nvidia of Witcher 3 Sabotage",
             "slug": "game-news-2015-23",
@@ -587,10 +875,28 @@
             "show_slug": "game-news"
         },
         {
+            "id": "20061",
+            "title": "Volume 244",
+            "slug": "fails-of-the-weak-2015-20",
+            "date": "2015-05-21",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
             "id": "8667",
             "title": "H1Z1 Cheaters Publicly Shamed",
             "slug": "game-news-2015-21",
             "date": "2015-05-20",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
+            "id": "8664",
+            "title": "Korean Witcher 3 Fans Angry",
+            "slug": "game-news-2015-20",
+            "date": "2015-05-19",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -632,6 +938,15 @@
             "show_slug": "game-news"
         },
         {
+            "id": "11495",
+            "title": "Gone Home: Snoop on Your Angsty Family!",
+            "slug": "the-patch-game-club-season-1-gone-home-snoop-on-your-angsty-family",
+            "date": "2015-05-15",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
             "id": "8657",
             "title": "Can E3 Save Nintendo?",
             "slug": "game-news-2015-16",
@@ -668,6 +983,15 @@
             "show_slug": "game-news"
         },
         {
+            "id": "20062",
+            "title": "Volume 243",
+            "slug": "fails-of-the-weak-2015-15",
+            "date": "2015-05-14",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
             "id": "8654",
             "title": "PlayStation 4 HACKED?",
             "slug": "game-news-2015-12",
@@ -695,6 +1019,15 @@
             "show_slug": "the-slow-mo-guys"
         },
         {
+            "id": "8651",
+            "title": "The Witcher 3: Is It Good?",
+            "slug": "game-news-2015-9",
+            "date": "2015-05-12",
+            "is_first": false,
+            "show": "Game News",
+            "show_slug": "game-news"
+        },
+        {
             "id": "8652",
             "title": "Castlevania Successor SMASHES Kickstarter",
             "slug": "game-news-2015-8",
@@ -711,6 +1044,15 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
+        },
+        {
+            "id": "14991",
+            "title": "Top 5 Easy Arcade Completions",
+            "slug": "countdown-2015-12",
+            "date": "2015-05-11",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
         },
         {
             "id": "8645",
@@ -758,6 +1100,411 @@
             "show_slug": "game-news"
         },
         {
+            "id": "20063",
+            "title": "Volume 242",
+            "slug": "fails-of-the-weak-2015-10",
+            "date": "2015-05-07",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "11387",
+            "title": "Drawful",
+            "slug": "how-to-2015-11",
+            "date": "2015-05-06",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "11150",
+            "title": "FILTHY PIRATE F*CK",
+            "slug": "funhaus-gameplay-season-1-filthy-pirate-f-ck",
+            "date": "2015-05-05",
+            "is_first": false,
+            "show": "Gameplay",
+            "show_slug": "gameplay"
+        },
+        {
+            "id": "14992",
+            "title": "Top 5 Best DLC in Video Games",
+            "slug": "countdown-2015-3",
+            "date": "2015-05-03",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "11497",
+            "title": "Child of Light: RPG? More Like ArtPG!",
+            "slug": "the-patch-game-club-season-1-child-of-light-rpg-more-like-artpg",
+            "date": "2015-05-01",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "20064",
+            "title": "Volume 241",
+            "slug": "fails-of-the-weak-2015-27",
+            "date": "2015-04-30",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "14995",
+            "title": "Top 5 Easy 1000 Gamerscore Games - Part 3",
+            "slug": "countdown-2015-24",
+            "date": "2015-04-26",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "23396",
+            "title": "Game Fails Rap - Game Failed",
+            "slug": "achievement-hunter-achievement-hunter-game-fails-rap-game-failed",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "11498",
+            "title": "Brothers: A Tale of Perfect Brother-Based Gameplay",
+            "slug": "the-patch-game-club-season-1-brothers-a-tale-of-perfect-brother-based-gameplay",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "11500",
+            "title": "Limbo: Trial by Grisly Death... for Kids!",
+            "slug": "the-patch-game-club-season-1-limbo-trial-by-grisly-death-for-kids",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "11501",
+            "title": "The Cat Lady: The Most Disturbing Adventure Game Ever?",
+            "slug": "the-patch-game-club-season-1-the-cat-lady-the-most-disturbing-adventure-game-ever",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "11502",
+            "title": "Valiant Hearts: War is Puzzling",
+            "slug": "the-patch-game-club-season-1-valiant-hearts-war-is-puzzling",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "11503",
+            "title": "Hatoful Boyfriend: Pigeon Dating Sim AND Murder Mystery!",
+            "slug": "the-patch-game-club-season-1-hatoful-boyfriend-pigeon-dating-sim-and-murder-mystery",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "The Patch Game Club",
+            "show_slug": "the-patch-game-club"
+        },
+        {
+            "id": "20065",
+            "title": "Volume 240",
+            "slug": "fails-of-the-weak-2015-23",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "13090",
+            "title": "Goat Simulator - GaotVille Achievement Guide",
+            "slug": "achievement-unlocked-season-1-goat-simulator-gaotville-achievement-guide",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13091",
+            "title": "Mortal Kombat X - Fatalities Part 4",
+            "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-4",
+            "date": "2015-04-24",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13093",
+            "title": "Mortal Kombat X - Fatalities Part 3",
+            "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-3",
+            "date": "2015-04-23",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13094",
+            "title": "Mortal Kombat X - Fatalities Part 2",
+            "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-2",
+            "date": "2015-04-21",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "23281",
+            "title": "Farcry4 co-op Part 4",
+            "slug": "lets-play-let-s-play-2-149",
+            "date": "2015-04-21",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "14993",
+            "title": "Top 5 Birds in Video Games",
+            "slug": "countdown-2015-20",
+            "date": "2015-04-20",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13095",
+            "title": "Mortal Kombat X - Fatalities Part 1",
+            "slug": "achievement-unlocked-season-1-mortal-kombat-x-fatalities-part-1",
+            "date": "2015-04-17",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22182",
+            "title": "Volume 239",
+            "slug": "fails-of-the-weak-2015-19",
+            "date": "2015-04-17",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "11389",
+            "title": "I am Bread Real Life Edition",
+            "slug": "how-to-2015-19",
+            "date": "2015-04-16",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "20066",
+            "title": "Volume 238",
+            "slug": "fails-of-the-weak-2015-16",
+            "date": "2015-04-10",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "14996",
+            "title": "Top 5 Games With Cameras",
+            "slug": "countdown-2015-13",
+            "date": "2015-04-06",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "22183",
+            "title": "Volume 237",
+            "slug": "fails-of-the-weak-2015-12",
+            "date": "2015-04-03",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "20067",
+            "title": "Volume 236",
+            "slug": "fails-of-the-weak-2015-9",
+            "date": "2015-03-27",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "20068",
+            "title": "Volume 235",
+            "slug": "fails-of-the-weak-2015-5",
+            "date": "2015-03-20",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "15932",
+            "title": "Convertible Aerodynamics at 1000fps - The Slow Mo Guys",
+            "slug": "the-slow-mo-guys-season-1-convertible-aerodynamics-at-1000fps-the-slow-mo-guys",
+            "date": "2015-03-19",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "15001",
+            "title": "Top 5 Crossover Game Series",
+            "slug": "countdown-2015-4",
+            "date": "2015-03-16",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "29413",
+            "title": "Lazer Team - Movie Trailer",
+            "slug": "lazer-team-lazer-team-lazer-team-movie-trailer",
+            "date": "2015-03-15",
+            "is_first": false,
+            "show": "Lazer Team",
+            "show_slug": "lazer-team"
+        },
+        {
+            "id": "20070",
+            "title": "Volume 234",
+            "slug": "fails-of-the-weak-2015-2",
+            "date": "2015-03-13",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "15002",
+            "title": "Top 5 Games from 2005",
+            "slug": "countdown-2015-27",
+            "date": "2015-03-09",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "20071",
+            "title": "Volume 233",
+            "slug": "fails-of-the-weak-2015-26",
+            "date": "2015-03-06",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "15931",
+            "title": "Hypnotic Ink Physics in 4K Slow Motion",
+            "slug": "the-slow-mo-guys-season-1-hypnotic-ink-physics-in-4k-slow-motion",
+            "date": "2015-03-02",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "15003",
+            "title": "Top 5 Dogs in Video Games",
+            "slug": "countdown-2015-25",
+            "date": "2015-03-02",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "20072",
+            "title": "Volume 232",
+            "slug": "fails-of-the-weak-2015-24",
+            "date": "2015-02-27",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "15004",
+            "title": "Top 5 Cats In Video Games",
+            "slug": "countdown-2015-22",
+            "date": "2015-02-23",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "20073",
+            "title": "Volume 231",
+            "slug": "fails-of-the-weak-2015-21",
+            "date": "2015-02-20",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "13104",
+            "title": "Blue Estate - Keep Quiet Achievement Guide",
+            "slug": "achievement-unlocked-season-1-blue-estate-keep-quiet-achievement-guide",
+            "date": "2015-02-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20074",
+            "title": "Volume 230",
+            "slug": "fails-of-the-weak-2015-17",
+            "date": "2015-02-13",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "22186",
+            "title": "Volume 229",
+            "slug": "fails-of-the-weak-2015-14",
+            "date": "2015-02-06",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "20075",
+            "title": "Volume 228",
+            "slug": "fails-of-the-weak-2015-11",
+            "date": "2015-01-30",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "15006",
+            "title": "Top 5 Weakest Enemies in Video Games",
+            "slug": "countdown-2015-10",
+            "date": "2015-01-26",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "20076",
+            "title": "Volume 227",
+            "slug": "fails-of-the-weak-2015-8",
+            "date": "2015-01-23",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
             "id": "11403",
             "title": "Mario Twins",
             "slug": "how-to-2015-9",
@@ -765,6 +1512,87 @@
             "is_first": false,
             "show": "How To",
             "show_slug": "how-to"
+        },
+        {
+            "id": "22191",
+            "title": "Volume 226",
+            "slug": "fails-of-the-weak-2015-6",
+            "date": "2015-01-16",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "11404",
+            "title": "Drink",
+            "slug": "how-to-2015-6",
+            "date": "2015-01-15",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "20077",
+            "title": "Volume 225",
+            "slug": "fails-of-the-weak-2015-3",
+            "date": "2015-01-09",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "11405",
+            "title": "Call of Duty Advanced Warfare",
+            "slug": "how-to-2015-3",
+            "date": "2015-01-08",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "20078",
+            "title": "Volume 224",
+            "slug": "fails-of-the-weak-2015-29",
+            "date": "2015-01-02",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "22525",
+            "title": "AHWU #246",
+            "slug": "ahwu-2014-49",
+            "date": "2014-12-29",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "22343",
+            "title": "Episode 223",
+            "slug": "fails-of-the-weak-2014-48",
+            "date": "2014-12-26",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
+        },
+        {
+            "id": "11408",
+            "title": "Slap Part 2",
+            "slug": "how-to-season-1-how-to-slap-part-2",
+            "date": "2014-12-25",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "20079",
+            "title": "Episode 222",
+            "slug": "fails-of-the-weak-2014-40",
+            "date": "2014-12-19",
+            "is_first": false,
+            "show": "Fails of the Weak",
+            "show_slug": "fails-of-the-weak"
         },
         {
             "id": "15933",
@@ -776,6 +1604,123 @@
             "show_slug": "the-slow-mo-guys"
         },
         {
+            "id": "15027",
+            "title": "Top 10 Third Person Open World Game Series",
+            "slug": "countdown-season-1-countdown-top-10-third-person-open-world-game-series",
+            "date": "2014-12-08",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13106",
+            "title": "Geometry Wars 3 - Cleaning Up Achievement Guide",
+            "slug": "achievement-unlocked-season-1-geometry-wars-3-cleaning-up-achievement-guide",
+            "date": "2014-12-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13109",
+            "title": "Geometry Wars 3 - Deadliest Achievement Guide",
+            "slug": "achievement-unlocked-season-1-geometry-wars-3-deadliest-achievement-guide",
+            "date": "2014-12-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20458",
+            "title": "Week #241",
+            "slug": "ahwu-2014-14",
+            "date": "2014-11-24",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "15015",
+            "title": "Top 5 Things to Be Thankful for As a Rooster Teeth Fan for 2014",
+            "slug": "countdown-season-1-countdown-top-5-things-to-be-thankful-for-as-a-rooster-teeth-fan-for-2014",
+            "date": "2014-11-24",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13176",
+            "title": "Halo: MCC [Halo 2] - BLASTacular! Guide",
+            "slug": "achievement-unlocked-season-1-halo-mcc-halo-2-blastacular-guide",
+            "date": "2014-11-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "15016",
+            "title": "Top 12 Multiplayer Maps in The Master Chief Collection",
+            "slug": "countdown-season-1-countdown-top-12-multiplayer-maps-in-the-master-chief-collection",
+            "date": "2014-11-17",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "11414",
+            "title": "The Evil Within",
+            "slug": "how-to-season-1-how-to-the-evil-within",
+            "date": "2014-11-13",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "13118",
+            "title": "Call Of Duty: Advanced Warfare - Intel Locations 31-45 Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-advanced-warfare-intel-locations-31-45-guide",
+            "date": "2014-11-11",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "17983",
+            "title": "Scary Character Edition - GO! #55",
+            "slug": "go-2014-52",
+            "date": "2014-11-11",
+            "is_first": false,
+            "show": "GO!",
+            "show_slug": "go"
+        },
+        {
+            "id": "13120",
+            "title": "Halo: MCC [Halo 2] - 5 Achievement Guides",
+            "slug": "achievement-unlocked-season-1-halo-mcc-halo-2-5-achievement-guides",
+            "date": "2014-11-11",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13121",
+            "title": "Call Of Duty: Advanced Warfare - Intel Locations Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-advanced-warfare-intel-locations-guide",
+            "date": "2014-11-11",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20460",
+            "title": "Week #239",
+            "slug": "ahwu-2014-50",
+            "date": "2014-11-10",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
             "id": "15934",
             "title": "Non-Newtonian Fluid in Slow Motion",
             "slug": "the-slow-mo-guys-season-1-non-newtonian-fluid-in-slow-motion",
@@ -783,6 +1728,105 @@
             "is_first": false,
             "show": "The Slow Mo Guys",
             "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "13125",
+            "title": "Borderlands: The Pre-Sequel - Family Guy Reference Mission",
+            "slug": "achievement-unlocked-season-1-borderlands-the-pre-sequel-family-guy-reference-mission",
+            "date": "2014-11-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13126",
+            "title": "Borderlands: The Pre-Sequel - Star Wars Reference Mission",
+            "slug": "achievement-unlocked-season-1-borderlands-the-pre-sequel-star-wars-reference-mission",
+            "date": "2014-11-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13129",
+            "title": "Call of Duty: Advanced Warfare - Sitting Ducks",
+            "slug": "achievement-unlocked-season-1-call-of-duty-advanced-warfare-sitting-ducks",
+            "date": "2014-11-04",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "15022",
+            "title": "10 Games With Gold...So Far",
+            "slug": "countdown-season-1-countdown-10-games-with-gold-so-far",
+            "date": "2014-11-03",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13137",
+            "title": "Middle Earth: Shadow of Mordor - No Power in Numbers Guide",
+            "slug": "achievement-unlocked-season-1-middle-earth-shadow-of-mordor-no-power-in-numbers-guide",
+            "date": "2014-10-03",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13138",
+            "title": "Middle Earth: Shadow of Mordor - Black Celebration Guide",
+            "slug": "achievement-unlocked-season-1-middle-earth-shadow-of-mordor-black-celebration-guide",
+            "date": "2014-10-03",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13154",
+            "title": "Middle Earth: Shadow of Mordor - Height of Despair Guide",
+            "slug": "achievement-unlocked-season-1-middle-earth-shadow-of-mordor-height-of-despair-guide",
+            "date": "2014-10-01",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "15021",
+            "title": "Top 10 2D Beat'Em Ups",
+            "slug": "countdown-season-1-countdown-top-10-2d-beatem-ups",
+            "date": "2014-09-29",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "16495",
+            "title": "Minecraft - Mark Nutt Training",
+            "slug": "things-to-do-in-2014-71",
+            "date": "2014-09-24",
+            "is_first": false,
+            "show": "Things to Do In",
+            "show_slug": "things-to-do-in"
+        },
+        {
+            "id": "15023",
+            "title": "Top 10 Cheats In Video Games",
+            "slug": "countdown-season-1-countdown-top-10-cheats-in-video-games",
+            "date": "2014-09-22",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "15024",
+            "title": "Top 10 Puzzle Games",
+            "slug": "countdown-season-1-countdown-top-10-puzzle-games",
+            "date": "2014-09-15",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
         },
         {
             "id": "17907",
@@ -794,6 +1838,60 @@
             "show_slug": "the-slow-mo-guys"
         },
         {
+            "id": "15025",
+            "title": "Top 10 Female Protagonists",
+            "slug": "countdown-season-1-countdown-top-10-female-protagonists",
+            "date": "2014-09-08",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13141",
+            "title": "Metro 2033 Redux - Manhattan Project, Raider, DJ Artyom Guides",
+            "slug": "achievement-unlocked-season-1-metro-2033-redux-manhattan-project-raider-dj-artyom-guides",
+            "date": "2014-09-04",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "16223",
+            "title": "Trials Files #117",
+            "slug": "trials-files-2014-22",
+            "date": "2014-09-02",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
+            "id": "11430",
+            "title": "Hohokum",
+            "slug": "how-to-season-1-how-to-hohokum",
+            "date": "2014-08-28",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "13145",
+            "title": "Hotline Miami - Combo King Trophy Guide",
+            "slug": "achievement-unlocked-season-1-hotline-miami-combo-king-trophy-guide",
+            "date": "2014-08-27",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "18413",
+            "title": "Trials Files #116",
+            "slug": "trials-files-2014-16",
+            "date": "2014-08-26",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
             "id": "15935",
             "title": "Catching a Bullet with a Watermelon",
             "slug": "the-slow-mo-guys-season-1-catching-a-bullet-with-a-watermelon",
@@ -801,6 +1899,33 @@
             "is_first": false,
             "show": "The Slow Mo Guys",
             "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "15030",
+            "title": "Top 5 Community Hunter Videos",
+            "slug": "countdown-season-1-countdown-top-5-community-hunter-videos",
+            "date": "2014-08-18",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "15936",
+            "title": "Leaping Slow Motion Doggy",
+            "slug": "the-slow-mo-guys-season-1-leaping-slow-motion-doggy",
+            "date": "2014-08-12",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "15031",
+            "title": "Top 15 Kid-Friendly Game Series",
+            "slug": "countdown-season-1-countdown-top-15-kid-friendly-game-series",
+            "date": "2014-08-11",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
         },
         {
             "id": "20474",
@@ -812,6 +1937,186 @@
             "show_slug": "ahwu"
         },
         {
+            "id": "13152",
+            "title": "Trials Fusion - Riders of the Rustlands - Rags to Riches",
+            "slug": "achievement-unlocked-season-1-trials-fusion-riders-of-the-rustlands-rags-to-riches",
+            "date": "2014-08-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13153",
+            "title": "Trials Fusion - Riders of the Rustlands - Junkyard Funk",
+            "slug": "achievement-unlocked-season-1-trials-fusion-riders-of-the-rustlands-junkyard-funk",
+            "date": "2014-08-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13158",
+            "title": "Call of Duty: Ghosts - Eggstra Nemesis! Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-eggstra-nemesis-guide",
+            "date": "2014-08-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13163",
+            "title": "Trials Fusion - Squirrel Scavengers Guide",
+            "slug": "achievement-unlocked-season-1-trials-fusion-squirrel-scavengers-guide",
+            "date": "2014-07-30",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "16224",
+            "title": "Trials Files #115",
+            "slug": "trials-files-2014-37",
+            "date": "2014-07-29",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
+            "id": "15033",
+            "title": "Ray's Top 6 Favorite Games",
+            "slug": "countdown-season-1-countdown-rays-top-6-favorite-games",
+            "date": "2014-07-28",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "16225",
+            "title": "Trails Files #114",
+            "slug": "trials-files-2014-33",
+            "date": "2014-07-22",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
+            "id": "11437",
+            "title": "Outlast live at RTX",
+            "slug": "how-to-season-1-how-to-outlast-live-at-rtx",
+            "date": "2014-07-17",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "16226",
+            "title": "Trials Files #113",
+            "slug": "trials-files-2014-27",
+            "date": "2014-07-15",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
+            "id": "13165",
+            "title": "Achievement Hunter Presents - RTX 2014 Intro",
+            "slug": "achievement-unlocked-season-1-achievement-hunter-presents-rtx-2014-intro",
+            "date": "2014-07-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11436",
+            "title": "Titanfall, Game Update Four",
+            "slug": "how-to-season-1-how-to-titanfall-game-update-four",
+            "date": "2014-07-10",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "13167",
+            "title": "Transformers: Rise of the Dark Spark - Spectacularly Amazing Guide",
+            "slug": "achievement-unlocked-season-1-transformers-rise-of-the-dark-spark-spectacularly-amazing-guide",
+            "date": "2014-07-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13168",
+            "title": "Guacamelee! - I Swat You Achievement Guide",
+            "slug": "achievement-unlocked-season-1-guacamelee-i-swat-you-achievement-guide",
+            "date": "2014-07-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "15037",
+            "title": "Top 10 Animal Companions",
+            "slug": "countdown-season-1-countdown-top-10-animal-companions",
+            "date": "2014-06-30",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13178",
+            "title": "Call of Duty: Ghosts - Spelunker Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-spelunker-guide",
+            "date": "2014-06-13",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11441",
+            "title": "Octodad",
+            "slug": "how-to-season-1-how-to-octodad",
+            "date": "2014-06-12",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "13179",
+            "title": "Call of Duty: Ghosts - Dog Fight Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-dog-fight-guide",
+            "date": "2014-06-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13208",
+            "title": "Trials Fusion - Skill Showcase - Expedition Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-expedition-track-challenge",
+            "date": "2014-06-10",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13183",
+            "title": "Trials Fusion - Skill Showcase - Cold Storage Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-cold-storage-track-challenge",
+            "date": "2014-06-10",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13186",
+            "title": "Dead Rising 3 - Arcade Collector Guide",
+            "slug": "achievement-unlocked-season-1-dead-rising-3-arcade-collector-guide",
+            "date": "2014-06-10",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
             "id": "18803",
             "title": "Rooster Teeth Movie Fundraising Campaign on IndieGogo",
             "slug": "rt-life-2014-4",
@@ -819,6 +2124,294 @@
             "is_first": false,
             "show": "RT Life",
             "show_slug": "rt-life"
+        },
+        {
+            "id": "13188",
+            "title": "Trials Fusion - Skill Showcase - Eco Park Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-eco-park-track-challenge",
+            "date": "2014-06-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13189",
+            "title": "Trials Fusion - Skill Showcase - Rocky Road Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-skill-showcase-rocky-road-track-challenge",
+            "date": "2014-06-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13192",
+            "title": "Trials Fusion - Rainforest Rumble - Temple Trouble Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-rainforest-rumble-temple-trouble-track-challenge",
+            "date": "2014-05-30",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11443",
+            "title": "Gang Beasts with Joel and Adam",
+            "slug": "how-to-season-1-how-to-gang-beasts-with-joel-and-adam",
+            "date": "2014-05-29",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "23345",
+            "title": "Recap for the Week of May 12th, 2014",
+            "slug": "game-fails-2014-26",
+            "date": "2014-05-23",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13194",
+            "title": "Trials Fusion - Rainforest Rumble - Bungalow Beach Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-rainforest-rumble-bungalow-beach-track-challenge",
+            "date": "2014-05-22",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13195",
+            "title": "Trials Fusion - Rainforest Rumble - Swamp Crash Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-rainforest-rumble-swamp-crash-track-challenge",
+            "date": "2014-05-22",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "15041",
+            "title": "Comic Book Edition",
+            "slug": "countdown-season-1-countdown-comic-book-edition",
+            "date": "2014-05-19",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "19219",
+            "title": "Recap for the Week of May 5th, 2014",
+            "slug": "game-fails-2014-23",
+            "date": "2014-05-16",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13196",
+            "title": "Octodad: Dadliest Catch - Stay True to Yourself, Poor Workplace Etiquette, Independent Woman",
+            "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-stay-true-to-yourself-poor-workplace-etiquette-independent-woman",
+            "date": "2014-05-16",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13197",
+            "title": "Trials Fusion - Cactus - Around the Oasis Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-cactus-around-the-oasis-track-challenge",
+            "date": "2014-05-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13200",
+            "title": "Trials Fusion - Cactus - Sunrise Dash Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-cactus-sunrise-dash-track-challenge",
+            "date": "2014-05-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13201",
+            "title": "Trials Fusion - Cactus - Stormtrooper Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-cactus-stormtrooper-track-challenge",
+            "date": "2014-05-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13203",
+            "title": "Octodad: Dadliest Catch - Dancing in the Dark, Secrets of the Deep, Stairs with Attiude Trophies",
+            "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-dancing-in-the-dark-secrets-of-the-deep-stairs-with-attiude-trophies",
+            "date": "2014-05-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13204",
+            "title": "Trials Fusion - Urban Sprawl - Marina Mania Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-marina-mania-track-challenge",
+            "date": "2014-05-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13205",
+            "title": "Trials Fusion - Urban Sprawl - Blimp My Ride Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-blimp-my-ride-track-challenge",
+            "date": "2014-05-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13206",
+            "title": "Trials Fusion - Urban Sprawl - Park and Ride Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-park-and-ride-track-challenge",
+            "date": "2014-05-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13207",
+            "title": "Trials Fusion - Urban Sprawl - Skyscraper Showdown Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-urban-sprawl-skyscraper-showdown-track-challenge",
+            "date": "2014-05-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13209",
+            "title": "Octodad: Dadliest Catch - No Cutsies, Head Otter, Dunk Tank Trophies",
+            "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-no-cutsies-head-otter-dunk-tank-trophies",
+            "date": "2014-05-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "15939",
+            "title": "Swim Cap Trick in Slow Motion",
+            "slug": "the-slow-mo-guys-season-1-swim-cap-trick-in-slow-motion",
+            "date": "2014-05-13",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "15045",
+            "title": "Beard Edition",
+            "slug": "countdown-season-1-countdown-beard-edition",
+            "date": "2014-05-12",
+            "is_first": false,
+            "show": "Countdown",
+            "show_slug": "countdown"
+        },
+        {
+            "id": "13211",
+            "title": "Octodad: Dadliest Catch - 3 Trophies",
+            "slug": "achievement-unlocked-season-1-octodad-dadliest-catch-3-trophies",
+            "date": "2014-05-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "21988",
+            "title": "Recap for the Week of April 28th, 2014",
+            "slug": "game-fails-2014-18",
+            "date": "2014-05-10",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13213",
+            "title": "Trials Fusion - Arctic Open - Shivering Isles Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-shivering-isles-track-challenge",
+            "date": "2014-05-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13261",
+            "title": "Trials Fusion - Arctic Open - Shear Pressure Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-shear-pressure-track-challenge",
+            "date": "2014-05-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13214",
+            "title": "Trials Fusion - Arctic Open - Peak Performance Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-peak-performance-track-challenge",
+            "date": "2014-05-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13215",
+            "title": "Trials Fusion - Arctic Open - Deep Freeze Track Challenge",
+            "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-deep-freeze-track-challenge",
+            "date": "2014-05-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11446",
+            "title": "Dreadout",
+            "slug": "how-to-season-1-how-to-dreadout",
+            "date": "2014-05-08",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "13216",
+            "title": "Trials Fusion: Arctic Open - Fusion Factory",
+            "slug": "achievement-unlocked-season-1-trials-fusion-arctic-open-fusion-factory",
+            "date": "2014-05-01",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11448",
+            "title": "Broforce with Joel, Adam, and Adam",
+            "slug": "how-to-season-1-how-to-broforce-with-joel-adam-and-adam",
+            "date": "2014-05-01",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "11449",
+            "title": "Spelunky",
+            "slug": "how-to-season-1-how-to-spelunky",
+            "date": "2014-04-24",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "15940",
+            "title": "Cannon Firing in Slow Motion",
+            "slug": "the-slow-mo-guys-season-1-cannon-firing-in-slow-motion",
+            "date": "2014-04-22",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
         },
         {
             "id": "17980",
@@ -830,6 +2423,141 @@
             "show_slug": "five-facts"
         },
         {
+            "id": "13221",
+            "title": "Trials Fusion - The Bike is Your Hula Hoop Guide",
+            "slug": "achievement-unlocked-season-1-trials-fusion-the-bike-is-your-hula-hoop-guide",
+            "date": "2014-04-21",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11450",
+            "title": "Tiny Brains with Joel & Adam",
+            "slug": "how-to-season-1-how-to-tiny-brains-with-joel-and-adam",
+            "date": "2014-04-17",
+            "is_first": false,
+            "show": "How To",
+            "show_slug": "how-to"
+        },
+        {
+            "id": "13228",
+            "title": "Achievement Hunter Presents - Geoff and Gavin check out Van Helsing II for Steam",
+            "slug": "achievement-unlocked-season-1-achievement-hunter-presents-geoff-and-gavin-check-out-van-helsing-ii-for-steam",
+            "date": "2014-04-16",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20492",
+            "title": "Week #209",
+            "slug": "ahwu-2014-7",
+            "date": "2014-04-14",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19223",
+            "title": "Recap for the Week of March 31st, 2014",
+            "slug": "game-fails-2014-2",
+            "date": "2014-04-11",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13230",
+            "title": "Call of Duty: Ghosts - Inquisitive Mind Achievement Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-inquisitive-mind-achievement-guide",
+            "date": "2014-04-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13231",
+            "title": "Call of Duty: Ghosts - Big Game Trapper Achievement Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-big-game-trapper-achievement-guide",
+            "date": "2014-04-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13232",
+            "title": "Call of Duty: Ghosts - Egg-stra Devastation! Achievement Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-egg-stra-devastation-achievement-guide",
+            "date": "2014-04-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "19224",
+            "title": "Recap for the Week of March 24th, 2014",
+            "slug": "game-fails-2014-27",
+            "date": "2014-04-04",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "18311",
+            "title": "Mousetrap Chain Reaction",
+            "slug": "the-slow-mo-guys-season-1-mousetrap-chain-reaction",
+            "date": "2014-03-28",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
+            "id": "15558",
+            "title": "Achievement HUNT #22",
+            "slug": "achievement-hunt-2014-44",
+            "date": "2014-03-26",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
+            "id": "17881",
+            "title": "Achievement HUNT #21",
+            "slug": "achievement-hunt-2014-39",
+            "date": "2014-03-19",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
+            "id": "15310",
+            "title": "New Steam Controller Design + Titanfall PC Improved By Xbox One + A Big RT Announcement",
+            "slug": "rt-news-rt-news-new-steam-controller-design-titanfall-pc-improved-by-xbox-one-a-big-rt-announcement",
+            "date": "2014-03-14",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "15311",
+            "title": "First Gamerscore Millionaire + Titanfall Dev Hunting Cheaters + LoL Player Admits Match Fixing",
+            "slug": "rt-news-rt-news-first-gamerscore-millionaire-titanfall-dev-hunting-cheaters-lol-player-admits-match-fixing",
+            "date": "2014-03-13",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "15559",
+            "title": "Achievement HUNT #20",
+            "slug": "achievement-hunt-2014-34",
+            "date": "2014-03-12",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
             "id": "15313",
             "title": "Mirror's Edge 2's Drop-in Multiplayer + Watch Dogs Beta Spotted + WildStar Dated",
             "slug": "rt-news-rt-news-mirrors-edge-2s-drop-in-multiplayer-watch-dogs-beta-spotted-wildstar-dated",
@@ -837,6 +2565,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "13234",
+            "title": "South Park: The Stick of Truth - Gingivitis, Perverted, and Too Far Guides",
+            "slug": "achievement-unlocked-season-1-south-park-the-stick-of-truth-gingivitis-perverted-and-too-far-guides",
+            "date": "2014-03-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
         },
         {
             "id": "15312",
@@ -857,6 +2594,24 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "22541",
+            "title": "Week #204",
+            "slug": "ahwu-2014-34",
+            "date": "2014-03-10",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "18322",
+            "title": "Airbag",
+            "slug": "the-slow-mo-guys-season-1-airbag",
+            "date": "2014-03-09",
+            "is_first": false,
+            "show": "The Slow Mo Guys",
+            "show_slug": "the-slow-mo-guys"
+        },
+        {
             "id": "15315",
             "title": "No Titanfall for South Africa + The Last Of Us Movie Revealed + Watch Dogs Multiplayer Details",
             "slug": "rt-news-rt-news-no-titanfall-for-south-africa-the-last-of-us-movie-revealed-watch-dogs-multiplayer-details",
@@ -866,6 +2621,24 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "17587",
+            "title": "Oculus Rift: Outlast Part 3 with Joel and Adam",
+            "slug": "lets-play-2014-195",
+            "date": "2014-03-06",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "13236",
+            "title": "South Park: The Stick of Truth - 3 Achievements",
+            "slug": "achievement-unlocked-season-1-south-park-the-stick-of-truth-3-achievements",
+            "date": "2014-03-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
             "id": "15317",
             "title": "MGS V Too Big To Finish? + Uncharted Writer Leaves Naughty Dog + Xbox One Updated",
             "slug": "rt-news-rt-news-mgs-v-too-big-to-finish-uncharted-writer-leaves-naughty-dog-xbox-one-updated",
@@ -873,6 +2646,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "18217",
+            "title": "Achievement HUNT #19",
+            "slug": "achievement-hunt-2014-28",
+            "date": "2014-03-05",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
         },
         {
             "id": "15318",
@@ -891,6 +2673,24 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "23374",
+            "title": "Week #203",
+            "slug": "ahwu-2014-28",
+            "date": "2014-03-03",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19229",
+            "title": "Recap for the Week of February 17th, 2014",
+            "slug": "game-fails-2014-15",
+            "date": "2014-02-28",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
         },
         {
             "id": "15321",
@@ -915,6 +2715,15 @@
             "title": "South Park Game Censored + Xbox One Gets Twitch Next Month + King Abandons Candy TM",
             "slug": "rt-news-rt-news-south-park-game-censored-xbox-one-gets-twitch-next-month-king-abandons-candy-tm",
             "date": "2014-02-26",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "15324",
+            "title": "X1 Titanfall Bundle & UK Price Drop + DayZ Creator Stepping Down + No Samurai Assassin's Creed",
+            "slug": "rt-news-rt-news-x1-titanfall-bundle-and-uk-price-drop-dayz-creator-stepping-down-no-samurai-assassins-creed",
+            "date": "2014-02-25",
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
@@ -947,6 +2756,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "15561",
+            "title": "Achievement HUNT #17",
+            "slug": "achievement-hunt-2014-14",
+            "date": "2014-02-19",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
             "id": "17720",
             "title": "BioShock Studio Shutting Down + Valve Doesn't Care About Your Porn + The Order: 1886 Details",
             "slug": "rt-news-rt-news-bioshock-studio-shutting-down-valve-doesnt-care-about-your-porn-the-order-1886-details",
@@ -954,6 +2772,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "13240",
+            "title": "FarCry Classic: 3 Achievements",
+            "slug": "achievement-unlocked-season-1-farcry-classic-3-achievements",
+            "date": "2014-02-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
         },
         {
             "id": "17725",
@@ -969,6 +2796,24 @@
             "title": "InFAMOUS Second Son Details + Decide Double Fine's Next Game + Myst Gets 3D Update",
             "slug": "rt-news-rt-news-infamous-second-son-details-decide-double-fines-next-game-myst-gets-3d-update",
             "date": "2014-02-13",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "15562",
+            "title": "Achievement HUNT #16",
+            "slug": "achievement-hunt-2014-9",
+            "date": "2014-02-12",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
+            "id": "17732",
+            "title": "Titanfall Beta Sign-Ups Open + Xbox Update Delayed + Batman Arkham Devs Ignore Bugs",
+            "slug": "rt-news-rt-news-titanfall-beta-sign-ups-open-xbox-update-delayed-batman-arkham-devs-ignore-bugs",
+            "date": "2014-02-12",
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
@@ -1001,6 +2846,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "17899",
+            "title": "Achievement HUNT #15",
+            "slug": "achievement-hunt-2014-3",
+            "date": "2014-02-06",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
             "id": "15335",
             "title": "Pokemon Bank Is Back...In Europe + Thief Is Gold + Burial at Sea Ep 2 Is 6 Hours",
             "slug": "rt-news-rt-news-pokemon-bank-is-back-in-europe-thief-is-gold-burial-at-sea-ep-2-is-6-hours",
@@ -1028,6 +2882,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "15337",
+            "title": "Nintendo's Bold New Plan + Halo 2 Anniversary Leaked + Halo 5 Delayed",
+            "slug": "rt-news-rt-news-nintendos-bold-new-plan-halo-2-anniversary-leaked-halo-5-delayed",
+            "date": "2014-01-31",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
             "id": "15338",
             "title": "Elder Scrolls Online's CE Exclusive Race + PS Now Invites Sent + Nintendo Pres Takes Paycut",
             "slug": "rt-news-rt-news-elder-scrolls-onlines-ce-exclusive-race-ps-now-invites-sent-nintendo-pres-takes-paycut",
@@ -1046,6 +2909,15 @@
             "show_slug": "achievement-hunter"
         },
         {
+            "id": "13241",
+            "title": "Call of Duty: Ghosts - Egg-stra XP! Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-egg-stra-xp-guide",
+            "date": "2014-01-28",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
             "id": "15339",
             "title": "EVE Online Battle Does $250k+ Damage + Titanfall Beta Confirmed + Sly Cooper Movie Announced",
             "slug": "rt-news-rt-news-eve-online-battle-does-250k-damage-titanfall-beta-confirmed-sly-cooper-movie-announced",
@@ -1055,6 +2927,24 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "13242",
+            "title": "Tomb Raider: Definitive Edition - Chatterbox Guide",
+            "slug": "achievement-unlocked-season-1-tomb-raider-definitive-edition-chatterbox-guide",
+            "date": "2014-01-28",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13243",
+            "title": "Tomb Raider: Definitive Edition - 3 Achievements",
+            "slug": "achievement-unlocked-season-1-tomb-raider-definitive-edition-3-achievements",
+            "date": "2014-01-27",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
             "id": "15341",
             "title": "MS Acquires Gears Of War + Halo Series Director Rumored + Collective Crowd Funding Launches",
             "slug": "rt-news-rt-news-ms-acquires-gears-of-war-halo-series-director-rumored-collective-crowd-funding-launches",
@@ -1062,6 +2952,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "22149",
+            "title": "Recap for the Week of January 13th, 2014",
+            "slug": "game-fails-2014-17",
+            "date": "2014-01-24",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
         },
         {
             "id": "15340",
@@ -1080,6 +2979,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "15564",
+            "title": "Achievement HUNT #13",
+            "slug": "achievement-hunt-2014-24",
+            "date": "2014-01-22",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
         },
         {
             "id": "17730",
@@ -1118,6 +3026,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "15565",
+            "title": "Achievement HUNT #12",
+            "slug": "achievement-hunt-2014-18",
+            "date": "2014-01-15",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
             "id": "15346",
             "title": "Rockstar Takes Down GTA Online + Starbound To Wipe Characters + LoL's New Player Features",
             "slug": "rt-news-rt-news-rockstar-takes-down-gta-online-starbound-to-wipe-characters-lols-new-player-features",
@@ -1136,6 +3053,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "20503",
+            "title": "Week #196",
+            "slug": "ahwu-2014-19",
+            "date": "2014-01-13",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
             "id": "17740",
             "title": "Halo Pro Joins 343 + SimCity Goes Offline And Supports Mods + AGDQ Raises $1 Million",
             "slug": "rt-news-rt-news-halo-pro-joins-343-simcity-goes-offline-and-supports-mods-agdq-raises-1-million",
@@ -1143,6 +3069,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "19236",
+            "title": "Recap for the Week of December 30th, 2013",
+            "slug": "game-fails-2013-34",
+            "date": "2014-01-10",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
         },
         {
             "id": "15348",
@@ -1163,6 +3098,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "15566",
+            "title": "Achievement HUNT #11",
+            "slug": "achievement-hunt-2014-12",
+            "date": "2014-01-08",
+            "is_first": false,
+            "show": "Achievement HUNT",
+            "show_slug": "achievement-hunt"
+        },
+        {
             "id": "17744",
             "title": "China Unbans Consoles + Titanfall's 12 Player Max + New Assassin's Creed Content",
             "slug": "rt-news-rt-news-china-unbans-consoles-titanfalls-12-player-max-new-assassins-creed-content",
@@ -1170,6 +3114,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "15843",
+            "title": "Batman: Arkham Asylum",
+            "slug": "five-facts-2014-14",
+            "date": "2014-01-07",
+            "is_first": false,
+            "show": "Five Facts",
+            "show_slug": "five-facts"
         },
         {
             "id": "15351",
@@ -1208,6 +3161,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "13247",
+            "title": "Halo: Spartan Assault - 3 Achievements",
+            "slug": "achievement-unlocked-season-1-halo-spartan-assault-3-achievements",
+            "date": "2013-12-31",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
             "id": "15353",
             "title": "Battlefield 4 Banned In China + Microsoft Trademarks Throne Together + Aid For Hello Games?",
             "slug": "rt-news-rt-news-battlefield-4-banned-in-china-microsoft-trademarks-throne-together-aid-for-hello-games",
@@ -1226,6 +3188,33 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "15355",
+            "title": "Holiday Gaming in GTA + BL2 + LoL + Dota 2 + TF2 + WOW + AC + More",
+            "slug": "rt-news-rt-news-holiday-gaming-in-gta-bl2-lol-dota-2-tf2-wow-ac-more",
+            "date": "2013-12-26",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "15357",
+            "title": "Star Citizen Breaks Its Own Record + Mafia Creator's New Open World RPG + Nintendo Takes Japan",
+            "slug": "rt-news-rt-news-star-citizen-breaks-its-own-record-mafia-creators-new-open-world-rpg-nintendo-takes-japan",
+            "date": "2013-12-24",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "20506",
+            "title": "Week #193",
+            "slug": "ahwu-2013-4",
+            "date": "2013-12-23",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
             "id": "15358",
             "title": "Next Mass Effect Is Playable + Dragon Age Inquisition Dev Update + Hearthstone Beta Delayed",
             "slug": "rt-news-rt-news-next-mass-effect-is-playable-dragon-age-inquisition-dev-update-hearthstone-beta-delayed",
@@ -1235,10 +3224,28 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "19238",
+            "title": "Recap for the Week of December 9th, 2013",
+            "slug": "game-fails-2013-5",
+            "date": "2013-12-20",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
             "id": "15359",
             "title": "Steam Sale Highlights + EA Lawsuit For SEC Violations + Revengeance PC Dated",
             "slug": "rt-news-rt-news-steam-sale-highlights-ea-lawsuit-for-sec-violations-revengeance-pc-dated",
             "date": "2013-12-20",
+            "is_first": false,
+            "show": "RT News",
+            "show_slug": "rt-news"
+        },
+        {
+            "id": "17760",
+            "title": "Minecraft Gets Avengers + New Legend of Zelda Spin-off + Get A Free Celebi Pokemon",
+            "slug": "rt-news-rt-news-minecraft-gets-avengers-new-legend-of-zelda-spin-off-get-a-free-celebi-pokemon",
+            "date": "2013-12-19",
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
@@ -1262,6 +3269,15 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "20507",
+            "title": "Week #192",
+            "slug": "ahwu-2013-2",
+            "date": "2013-12-16",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
             "id": "17763",
             "title": "PS4 Expands To 48 Countries + Dead Rising 3 DLC + 38 Studios Properties Auctioned",
             "slug": "rt-news-rt-news-ps4-expands-to-48-countries-dead-rising-3-dlc-38-studios-properties-auctioned",
@@ -1269,6 +3285,15 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
+        },
+        {
+            "id": "21995",
+            "title": "Recap for the Week of December 2, 2013",
+            "slug": "game-fails-2013-2",
+            "date": "2013-12-13",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
         },
         {
             "id": "15361",
@@ -1289,6 +3314,24 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "21094",
+            "title": "Recap for the Week of November 25th, 2013",
+            "slug": "game-fails-2013-28",
+            "date": "2013-12-06",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "17632",
+            "title": "3D Ultra MiniGolf Adventures Episode 5",
+            "slug": "lets-play-2013-188",
+            "date": "2013-12-05",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
             "id": "15944",
             "title": "Beer Bottle Trick at 2500fps - The Slow Mo Guys",
             "slug": "the-slow-mo-guys-season-1-beer-bottle-trick-at-2500fps-the-slow-mo-guys",
@@ -1307,6 +3350,312 @@
             "show_slug": "rt-news"
         },
         {
+            "id": "20510",
+            "title": "Week #190",
+            "slug": "ahwu-2013-40",
+            "date": "2013-12-02",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "20511",
+            "title": "Week #189",
+            "slug": "ahwu-2013-35",
+            "date": "2013-11-25",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19239",
+            "title": "Recap for the Week of November 11th, 2013",
+            "slug": "game-fails-2013-22",
+            "date": "2013-11-22",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13249",
+            "title": "Achievement Hunter Presents: Xbox One Unboxing",
+            "slug": "achievement-unlocked-season-1-achievement-hunter-presents-xbox-one-unboxing",
+            "date": "2013-11-22",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13251",
+            "title": "Call of Duty: Ghosts - They look like ants Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-they-look-like-ants-guide",
+            "date": "2013-11-19",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13252",
+            "title": "Call of Duty: Ghosts - Fly-by-wire guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-fly-by-wire-guide",
+            "date": "2013-11-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13253",
+            "title": "Call of Duty: Ghosts - End of your rope Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-end-of-your-rope-guide",
+            "date": "2013-11-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "19240",
+            "title": "Recap for the Week of November 4th, 2013",
+            "slug": "game-fails-2013-20",
+            "date": "2013-11-15",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13255",
+            "title": "Call of Duty: Ghosts - Jack-pot Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-jack-pot-guide",
+            "date": "2013-11-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13258",
+            "title": "Call of Duty: Ghosts - Deep Freeze Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-deep-freeze-guide",
+            "date": "2013-11-13",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13259",
+            "title": "Call of Duty: Ghosts - Audiophile Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-audiophile-guide",
+            "date": "2013-11-13",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13263",
+            "title": "Call of Duty: Ghosts - Burn Baby Burn Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-burn-baby-burn-guide",
+            "date": "2013-11-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13265",
+            "title": "Call of Duty: Ghosts - It Came from Below! Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-it-came-from-below-guide",
+            "date": "2013-11-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "19241",
+            "title": "Recap for the Week of October 28th, 2013",
+            "slug": "game-fails-2013-15",
+            "date": "2013-11-08",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13286",
+            "title": "Call of Duty: Ghosts - Go Ugly Early Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-go-ugly-early-guide",
+            "date": "2013-11-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13266",
+            "title": "Call of Duty: Ghosts - Waste Not Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-waste-not-guide",
+            "date": "2013-11-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13268",
+            "title": "Call of Duty: Ghosts - Liberty Wall Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-ghosts-liberty-wall-guide",
+            "date": "2013-11-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20513",
+            "title": "Week #186",
+            "slug": "ahwu-2013-19",
+            "date": "2013-11-04",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19242",
+            "title": "Recap for the Week of October 21st, 2013",
+            "slug": "game-fails-2013-11",
+            "date": "2013-11-01",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "19243",
+            "title": "Recap for the Week of October 14th, 2013",
+            "slug": "game-fails-2013-9",
+            "date": "2013-10-25",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13270",
+            "title": "Saints Row IV - Health Inspector Guide",
+            "slug": "achievement-unlocked-season-1-saints-row-iv-health-inspector-guide",
+            "date": "2013-10-24",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13271",
+            "title": "Saints Row IV - Rigging the Race Guide",
+            "slug": "achievement-unlocked-season-1-saints-row-iv-rigging-the-race-guide",
+            "date": "2013-10-24",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "6795",
+            "title": "Hard News 10/23/13 - Titanfall, Bravely Default, and the Console War",
+            "slug": "hard-news-102313-titanfall-bravely-default-and-the-console-war",
+            "date": "2013-10-23",
+            "is_first": false,
+            "show": "Hard News",
+            "show_slug": "hard-news"
+        },
+        {
+            "id": "20515",
+            "title": "Week #184",
+            "slug": "ahwu-2013-5",
+            "date": "2013-10-21",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19244",
+            "title": "Recap for the Week of October 7th, 2013",
+            "slug": "game-fails-2013-4",
+            "date": "2013-10-18",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "17661",
+            "title": "Minecraft - Episode 73 - Galacticraft Part 2",
+            "slug": "lets-play-2013-15",
+            "date": "2013-10-18",
+            "is_first": false,
+            "show": "Let's Play Minecraft",
+            "show_slug": "let-s-play-minecraft"
+        },
+        {
+            "id": "19245",
+            "title": "Recap for the Week of September 30th, 2013",
+            "slug": "game-fails-2013",
+            "date": "2013-10-11",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "20516",
+            "title": "Week #182",
+            "slug": "ahwu-2013-46",
+            "date": "2013-10-07",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "20517",
+            "title": "Week #181",
+            "slug": "ahwu-2013-38",
+            "date": "2013-09-30",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13273",
+            "title": "Grand Theft Auto V - Three Man Army Guide",
+            "slug": "achievement-unlocked-season-1-grand-theft-auto-v-three-man-army-guide",
+            "date": "2013-09-30",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13274",
+            "title": "Grand Theft Auto V - A Lot of Cheddar Guide",
+            "slug": "achievement-unlocked-season-1-grand-theft-auto-v-a-lot-of-cheddar-guide",
+            "date": "2013-09-26",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22417",
+            "title": "Splinter Cell: Blacklist",
+            "slug": "lets-play-2013-162",
+            "date": "2013-09-25",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "13275",
+            "title": "Grand Theft Auto V - A Mystery, Solved Guide",
+            "slug": "achievement-unlocked-season-1-grand-theft-auto-v-a-mystery-solved-guide",
+            "date": "2013-09-23",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20518",
+            "title": "Week #180",
+            "slug": "ahwu-2013-34",
+            "date": "2013-09-23",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
             "id": "22519",
             "title": "Game Night - Jenga Smeef",
             "slug": "achievement-hunter-achievement-hunter-game-night-jenga-smeef",
@@ -1314,6 +3663,132 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "13276",
+            "title": "Grand Theft Auto V - Wanted: Alive Or Alive Guide",
+            "slug": "achievement-unlocked-season-1-grand-theft-auto-v-wanted-alive-or-alive-guide",
+            "date": "2013-09-20",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13279",
+            "title": "Trading Pure Alpha Guide",
+            "slug": "achievement-unlocked-season-1-trading-pure-alpha-guide",
+            "date": "2013-09-19",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13280",
+            "title": "Grand Theft Auto V - Altruist Acolyte Guide",
+            "slug": "achievement-unlocked-season-1-grand-theft-auto-v-altruist-acolyte-guide",
+            "date": "2013-09-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13281",
+            "title": "Grand Theft Auto V - Out of Your Depth Guide",
+            "slug": "achievement-unlocked-season-1-grand-theft-auto-v-out-of-your-depth-guide",
+            "date": "2013-09-17",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13282",
+            "title": "A Few Gears Loose, Pogo A Go Go Guides",
+            "slug": "achievement-unlocked-season-1-a-few-gears-loose-pogo-a-go-go-guides",
+            "date": "2013-09-17",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22156",
+            "title": "Recap for the Week of September 2, 2013",
+            "slug": "game-fails-2013-19",
+            "date": "2013-09-13",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13283",
+            "title": "DuckTales: Remastered - Bless Me Bagpipes Guide",
+            "slug": "achievement-unlocked-season-1-ducktales-remastered-bless-me-bagpipes-guide",
+            "date": "2013-09-13",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13320",
+            "title": "DuckTales: Remastered - 3 Achievements",
+            "slug": "achievement-unlocked-season-1-ducktales-remastered-3-achievements",
+            "date": "2013-09-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13285",
+            "title": "Kung Fu Grip Guide",
+            "slug": "achievement-unlocked-season-1-kung-fu-grip-guide",
+            "date": "2013-09-09",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20520",
+            "title": "Week #178",
+            "slug": "ahwu-2013-25",
+            "date": "2013-09-09",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "6762",
+            "title": "Hard News 09/09/13 - PS4, new Vita, and Vita TV",
+            "slug": "hard-news-090913-ps4-new-vita-and-vita-tv",
+            "date": "2013-09-09",
+            "is_first": false,
+            "show": "Hard News",
+            "show_slug": "hard-news"
+        },
+        {
+            "id": "19247",
+            "title": "Recap for the Week of August 26th, 2013",
+            "slug": "game-fails-2013-16",
+            "date": "2013-09-06",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13288",
+            "title": "Call of Duty: Black Ops 2 - Master of Disguise Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-master-of-disguise-guide",
+            "date": "2013-09-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13287",
+            "title": "Call of Duty: Black Ops 2 - Not a Gold Digger, All Your Base Guides",
+            "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-not-a-gold-digger-all-your-base-guides",
+            "date": "2013-09-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
         },
         {
             "id": "22531",
@@ -1325,6 +3800,150 @@
             "show_slug": "achievement-hunter"
         },
         {
+            "id": "20522",
+            "title": "Week #176",
+            "slug": "ahwu-2013-14",
+            "date": "2013-08-26",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13289",
+            "title": "Epic Jump Quest Guide",
+            "slug": "achievement-unlocked-season-1-epic-jump-quest-guide",
+            "date": "2013-08-20",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22548",
+            "title": "Week #173",
+            "slug": "ahwu-2013-49",
+            "date": "2013-08-05",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19250",
+            "title": "Best Fails of July 2013",
+            "slug": "game-fails-2013-32",
+            "date": "2013-08-02",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "23347",
+            "title": "Best of: Early Days of Gamefails",
+            "slug": "game-fails-2013-26",
+            "date": "2013-07-26",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13290",
+            "title": "Call of Duty: Black Ops 2 - Awaken the Gazebo Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-awaken-the-gazebo-guide",
+            "date": "2013-07-25",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13291",
+            "title": "Call Of Duty: Black Ops 2 - Mazed and Confused Guide",
+            "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-mazed-and-confused-guide",
+            "date": "2013-07-25",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22370",
+            "title": "Week #171",
+            "slug": "ahwu-2013-37",
+            "date": "2013-07-22",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13292",
+            "title": "Death From Below Guide",
+            "slug": "achievement-unlocked-season-1-death-from-below-guide",
+            "date": "2013-07-22",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13293",
+            "title": "When the Revolution Comes Guide",
+            "slug": "achievement-unlocked-season-1-when-the-revolution-comes-guide",
+            "date": "2013-07-19",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13295",
+            "title": "Candygram Guide",
+            "slug": "achievement-unlocked-season-1-candygram-guide",
+            "date": "2013-07-17",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13296",
+            "title": "Ectoplasmic Residue Guide",
+            "slug": "achievement-unlocked-season-1-ectoplasmic-residue-guide",
+            "date": "2013-07-17",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20526",
+            "title": "Week #170",
+            "slug": "ahwu-2013-33",
+            "date": "2013-07-15",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13331",
+            "title": "The Walking Dead: 400 Days - Two out of Three, Reunited Guides",
+            "slug": "achievement-unlocked-season-1-the-walking-dead-400-days-two-out-of-three-reunited-guides",
+            "date": "2013-07-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13297",
+            "title": "Deadpool - Spawn more Deadpool-lords, PC LOAD LEAD-ER, I can open doors! Guides",
+            "slug": "achievement-unlocked-season-1-deadpool-spawn-more-deadpool-lords-pc-load-lead-er-i-can-open-doors-guides",
+            "date": "2013-07-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "19251",
+            "title": "Best Fails of June 2013",
+            "slug": "game-fails-2013-18",
+            "date": "2013-07-05",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
             "id": "20528",
             "title": "Week #169",
             "slug": "ahwu-2013-27",
@@ -1332,6 +3951,600 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
+        },
+        {
+            "id": "22008",
+            "title": "Best of: Top 5 Crushed",
+            "slug": "game-fails-2013-17",
+            "date": "2013-06-28",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "23377",
+            "title": "Week #168",
+            "slug": "ahwu-2013-16",
+            "date": "2013-06-24",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "20529",
+            "title": "Week #167",
+            "slug": "ahwu-2013-10",
+            "date": "2013-06-17",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19252",
+            "title": "Best Of Nailed It!",
+            "slug": "game-fails-2013-6",
+            "date": "2013-06-14",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "16266",
+            "title": "Trials Files #60",
+            "slug": "trials-files-2011-49",
+            "date": "2013-06-11",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
+            "id": "19256",
+            "title": "Best Bring the Pain",
+            "slug": "game-fails-2013-24",
+            "date": "2013-05-31",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13351",
+            "title": "Forgotten, Bloodlust Guides",
+            "slug": "achievement-unlocked-season-1-forgotten-bloodlust-guides",
+            "date": "2013-05-31",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13352",
+            "title": "The Pool Is Open Guide",
+            "slug": "achievement-unlocked-season-1-the-pool-is-open-guide",
+            "date": "2013-05-29",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "19257",
+            "title": "Best Shots to the Head",
+            "slug": "game-fails-2013-21",
+            "date": "2013-05-24",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "20533",
+            "title": "Week #164",
+            "slug": "ahwu-2013-22",
+            "date": "2013-05-20",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "22159",
+            "title": "Best Accidental Wins",
+            "slug": "game-fails-2013-14",
+            "date": "2013-05-17",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "19258",
+            "title": "Best fails of April 2013",
+            "slug": "game-fails-2013-13",
+            "date": "2013-05-15",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "20532",
+            "title": "Week #163",
+            "slug": "ahwu-2013-17",
+            "date": "2013-05-13",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "17774",
+            "title": "Grand Theft Auto IV Part 1",
+            "slug": "lets-play-2013-74",
+            "date": "2013-05-13",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "20534",
+            "title": "Week #162",
+            "slug": "ahwu-2013-11",
+            "date": "2013-05-06",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13381",
+            "title": "Running man Guide",
+            "slug": "achievement-unlocked-season-1-running-man-guide",
+            "date": "2013-05-03",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13382",
+            "title": "Derp, Just the Tip Guides",
+            "slug": "achievement-unlocked-season-1-derp-just-the-tip-guides",
+            "date": "2013-05-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22573",
+            "title": "Let's Build with Geoff & Gav - Shopping List",
+            "slug": "achievement-hunter-achievement-hunter-lets-build-with-geoff-and-gav-shopping-list",
+            "date": "2013-04-30",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "13394",
+            "title": "Twins Achievement Guide",
+            "slug": "achievement-unlocked-season-1-twins-achievement-guide",
+            "date": "2013-04-30",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13396",
+            "title": "Full Lockdown Guide",
+            "slug": "achievement-unlocked-season-1-full-lockdown-guide",
+            "date": "2013-04-25",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13397",
+            "title": "GG Bridge Guide",
+            "slug": "achievement-unlocked-season-1-gg-bridge-guide",
+            "date": "2013-04-25",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20536",
+            "title": "Week #160",
+            "slug": "ahwu-2013-42",
+            "date": "2013-04-23",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19261",
+            "title": "Best of Free Vasectomys",
+            "slug": "game-fails-2013-25",
+            "date": "2013-04-19",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13407",
+            "title": "A Burst of Flavor Guide",
+            "slug": "achievement-unlocked-season-1-a-burst-of-flavor-guide",
+            "date": "2013-04-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13409",
+            "title": "Paranormal Power Guide",
+            "slug": "achievement-unlocked-season-1-paranormal-power-guide",
+            "date": "2013-04-17",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22588",
+            "title": "Let's Build with Gav, Geoff and Ryan - Raining Butts",
+            "slug": "achievement-hunter-achievement-hunter-lets-build-with-gav-geoff-and-ryan-raining-butts",
+            "date": "2013-04-17",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "20538",
+            "title": "Week #159",
+            "slug": "ahwu-2013-32",
+            "date": "2013-04-15",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "20539",
+            "title": "Week #158",
+            "slug": "ahwu-2013-23",
+            "date": "2013-04-09",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13432",
+            "title": "Lost Weekend Guide",
+            "slug": "achievement-unlocked-season-1-lost-weekend-guide",
+            "date": "2013-04-03",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13442",
+            "title": "More For Your Money Guide",
+            "slug": "achievement-unlocked-season-1-more-for-your-money-guide",
+            "date": "2013-04-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13443",
+            "title": "Skeet Shoot Guide",
+            "slug": "achievement-unlocked-season-1-skeet-shoot-guide",
+            "date": "2013-04-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13515",
+            "title": "The MVP Guide",
+            "slug": "achievement-unlocked-season-1-the-mvp-guide",
+            "date": "2013-04-01",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13444",
+            "title": "Heartbreaker Achievement Guide",
+            "slug": "achievement-unlocked-season-1-heartbreaker-achievement-guide",
+            "date": "2013-03-29",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20541",
+            "title": "Week #156",
+            "slug": "ahwu-2013-6",
+            "date": "2013-03-25",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "19262",
+            "title": "Return of the surprise commentaries",
+            "slug": "game-fails-2013-7",
+            "date": "2013-03-23",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "22017",
+            "title": "Best fails of February 2013",
+            "slug": "game-fails-2013-27",
+            "date": "2013-03-12",
+            "is_first": false,
+            "show": "Game Fails",
+            "show_slug": "game-fails"
+        },
+        {
+            "id": "13496",
+            "title": "Post-Human Warrior Guide",
+            "slug": "achievement-unlocked-season-1-post-human-warrior-guide",
+            "date": "2013-03-01",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13509",
+            "title": "Ping Pong! Guide",
+            "slug": "achievement-unlocked-season-1-ping-pong-guide",
+            "date": "2013-02-26",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20545",
+            "title": "Week #152",
+            "slug": "ahwu-2013-21",
+            "date": "2013-02-25",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13534",
+            "title": "Roadkill Guide",
+            "slug": "achievement-unlocked-season-1-roadkill-guide",
+            "date": "2013-02-25",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13660",
+            "title": "White Rider Guide",
+            "slug": "achievement-unlocked-season-1-white-rider-guide",
+            "date": "2013-02-22",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13538",
+            "title": "Bang For The Buck, Arrow to the Knee! Guides",
+            "slug": "achievement-unlocked-season-1-bang-for-the-buck-arrow-to-the-knee-guides",
+            "date": "2013-02-21",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13539",
+            "title": "Who Needs Rockets? Guide",
+            "slug": "achievement-unlocked-season-1-who-needs-rockets-guide",
+            "date": "2013-02-20",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13540",
+            "title": "No Need For Alarm Guide",
+            "slug": "achievement-unlocked-season-1-no-need-for-alarm-guide",
+            "date": "2013-02-20",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13541",
+            "title": "Steel Tail Achievement Guide",
+            "slug": "achievement-unlocked-season-1-steel-tail-achievement-guide",
+            "date": "2013-02-19",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13542",
+            "title": "Mostly Come at Night... Guide",
+            "slug": "achievement-unlocked-season-1-mostly-come-at-night-guide",
+            "date": "2013-02-19",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20546",
+            "title": "Week #151",
+            "slug": "ahwu-2013-13",
+            "date": "2013-02-19",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13543",
+            "title": "Hungry Achievement Guide",
+            "slug": "achievement-unlocked-season-1-hungry-achievement-guide",
+            "date": "2013-02-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13545",
+            "title": "Fire Alarm Guide",
+            "slug": "achievement-unlocked-season-1-fire-alarm-guide",
+            "date": "2013-02-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13562",
+            "title": "Short, Controlled Bursts Guide",
+            "slug": "achievement-unlocked-season-1-short-controlled-bursts-guide",
+            "date": "2013-02-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20547",
+            "title": "Week #150",
+            "slug": "ahwu-2013-44",
+            "date": "2013-02-11",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "17840",
+            "title": "Minecraft Zombie Apocalypse",
+            "slug": "lets-play-2013-185",
+            "date": "2013-02-11",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "13613",
+            "title": "Space Ace Achievement Guide",
+            "slug": "achievement-unlocked-season-1-space-ace-achievement-guide",
+            "date": "2013-02-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13625",
+            "title": "Shafted Guide",
+            "slug": "achievement-unlocked-season-1-shafted-guide",
+            "date": "2013-02-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13629",
+            "title": "Slippery When Undead Guide",
+            "slug": "achievement-unlocked-season-1-slippery-when-undead-guide",
+            "date": "2013-02-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13631",
+            "title": "Under a Buck Achievement Guide",
+            "slug": "achievement-unlocked-season-1-under-a-buck-achievement-guide",
+            "date": "2013-02-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13630",
+            "title": "Vertigoner Guide",
+            "slug": "achievement-unlocked-season-1-vertigoner-guide",
+            "date": "2013-02-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20548",
+            "title": "Week #149",
+            "slug": "ahwu-2013-30",
+            "date": "2013-02-04",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "16196",
+            "title": "RT Recap - Week of February 3rd",
+            "slug": "rt-recap-2013-rt-recap-week-of-february-3rd",
+            "date": "2013-02-03",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
+            "id": "20549",
+            "title": "Week #148",
+            "slug": "ahwu-2013-20",
+            "date": "2013-01-28",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "16197",
+            "title": "RT Recap - Week of January 27th",
+            "slug": "rt-recap-2013-rt-recap-week-of-january-27th",
+            "date": "2013-01-28",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
+            "id": "20550",
+            "title": "Week #147",
+            "slug": "ahwu-2013-7",
+            "date": "2013-01-21",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "21376",
+            "title": "League of Legends",
+            "slug": "lets-play-2013-36",
+            "date": "2013-01-21",
+            "is_first": false,
+            "show": "Let's Play",
+            "show_slug": "lets-play"
+        },
+        {
+            "id": "13683",
+            "title": "A Man With Guts And Honor Guide",
+            "slug": "achievement-unlocked-season-1-a-man-with-guts-and-honor-guide",
+            "date": "2013-01-21",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "18210",
+            "title": "RT Recap - Week of January 20th",
+            "slug": "rt-recap-2013-rt-recap-week-of-january-20th",
+            "date": "2013-01-20",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
+            "id": "13721",
+            "title": "Achievement Raceway Tour - Minecraft Community Map",
+            "slug": "achievement-unlocked-season-1-achievement-raceway-tour-minecraft-community-map",
+            "date": "2013-01-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
         },
         {
             "id": "16198",
@@ -1347,6 +4560,51 @@
             "title": "Tour of Achievement City",
             "slug": "achievement-unlocked-season-1-tour-of-achievement-city",
             "date": "2013-01-09",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13748",
+            "title": "8-bit Hydrant Overflow and Dance Player, Dance! Guides",
+            "slug": "achievement-unlocked-season-1-8-bit-hydrant-overflow-and-dance-player-dance-guides",
+            "date": "2013-01-08",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20552",
+            "title": "Week #145",
+            "slug": "ahwu-2013-26",
+            "date": "2013-01-07",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "16199",
+            "title": "RT Recap - Week of January 6th",
+            "slug": "rt-recap-2013-rt-recap-week-of-january-6th",
+            "date": "2013-01-06",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
+            "id": "13760",
+            "title": "Rocky Road Tire Crunch Guide",
+            "slug": "achievement-unlocked-season-1-rocky-road-tire-crunch-guide",
+            "date": "2013-01-04",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13761",
+            "title": "The Cosplayer Guide",
+            "slug": "achievement-unlocked-season-1-the-cosplayer-guide",
+            "date": "2013-01-03",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -1370,10 +4628,181 @@
             "show_slug": "rt-recap"
         },
         {
+            "id": "13773",
+            "title": "Never Say Stop Achievement Guide",
+            "slug": "achievement-unlocked-season-1-never-say-stop-achievement-guide",
+            "date": "2012-12-21",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20554",
+            "title": "Week #143",
+            "slug": "ahwu-2012-5",
+            "date": "2012-12-17",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "16202",
+            "title": "RT Recap - Week of December 16th",
+            "slug": "rt-recap-2012-rt-recap-week-of-december-16th",
+            "date": "2012-12-17",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
+            "id": "20555",
+            "title": "Week #142",
+            "slug": "ahwu-2012-36",
+            "date": "2012-12-10",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "16203",
+            "title": "RT Recap - Week of December 8th",
+            "slug": "rt-recap-2012-rt-recap-week-of-december-8th",
+            "date": "2012-12-07",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
             "id": "13890",
             "title": "Bite Your Finger Guide",
             "slug": "achievement-unlocked-season-1-bite-your-finger-guide",
             "date": "2012-12-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13843",
+            "title": "Love the Boom Achievement Guide",
+            "slug": "achievement-unlocked-season-1-love-the-boom-achievement-guide",
+            "date": "2012-12-05",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13916",
+            "title": "Never Saw it Coming Guide",
+            "slug": "achievement-unlocked-season-1-never-saw-it-coming-guide",
+            "date": "2012-12-04",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13859",
+            "title": "What Power Outage? Guide",
+            "slug": "achievement-unlocked-season-1-what-power-outage-guide",
+            "date": "2012-12-04",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13935",
+            "title": "No Easy Way Out Guide",
+            "slug": "achievement-unlocked-season-1-no-easy-way-out-guide",
+            "date": "2012-12-04",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22375",
+            "title": "Week #141",
+            "slug": "ahwu-2012-16",
+            "date": "2012-12-03",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13864",
+            "title": "Fearless or Stupid Guide",
+            "slug": "achievement-unlocked-season-1-fearless-or-stupid-guide",
+            "date": "2012-12-03",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "11839",
+            "title": "RvB Easter Egg Number 5",
+            "slug": "easter-eggs-2012-21",
+            "date": "2012-12-03",
+            "is_first": false,
+            "show": "Easter Eggs",
+            "show_slug": "easter-eggs"
+        },
+        {
+            "id": "13866",
+            "title": "Improper Use Achievement Guide",
+            "slug": "achievement-unlocked-season-1-improper-use-achievement-guide",
+            "date": "2012-12-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "18211",
+            "title": "RT Recap - Week of December 1st",
+            "slug": "rt-recap-2012-rt-recap-week-of-december-1st",
+            "date": "2012-12-01",
+            "is_first": false,
+            "show": "RT Recap",
+            "show_slug": "rt-recap"
+        },
+        {
+            "id": "13867",
+            "title": "Toxophilite Guide",
+            "slug": "achievement-unlocked-season-1-toxophilite-guide",
+            "date": "2012-11-30",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "22025",
+            "title": "Solace Map Walkthrough",
+            "slug": "achievement-hunter-achievement-hunter-solace-map-walkthrough",
+            "date": "2012-11-29",
+            "is_first": false,
+            "show": "Achievement Hunter",
+            "show_slug": "achievement-hunter"
+        },
+        {
+            "id": "13945",
+            "title": "Unheard Achievement Guide",
+            "slug": "achievement-unlocked-season-1-unheard-achievement-guide",
+            "date": "2012-11-29",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13868",
+            "title": "Free Fall Achievement Guide",
+            "slug": "achievement-unlocked-season-1-free-fall-achievement-guide",
+            "date": "2012-11-29",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13870",
+            "title": "You Have No Power Over Me Guide",
+            "slug": "achievement-unlocked-season-1-you-have-no-power-over-me-guide",
+            "date": "2012-11-28",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -1388,6 +4817,51 @@
             "show_slug": "trials-files"
         },
         {
+            "id": "20558",
+            "title": "Week #140",
+            "slug": "ahwu-2012-6",
+            "date": "2012-11-26",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
+            "id": "13873",
+            "title": "Standard Equipment May Vary Guide",
+            "slug": "achievement-unlocked-season-1-standard-equipment-may-vary-guide",
+            "date": "2012-11-26",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13875",
+            "title": "High IQ Achievement Guide (Part 3)",
+            "slug": "achievement-unlocked-season-1-high-iq-achievement-guide-part-3",
+            "date": "2012-11-21",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13877",
+            "title": "Dance On My Grave Guide",
+            "slug": "achievement-unlocked-season-1-dance-on-my-grave-guide",
+            "date": "2012-11-20",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20559",
+            "title": "Week #139",
+            "slug": "ahwu-2012",
+            "date": "2012-11-19",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
+        },
+        {
             "id": "16204",
             "title": "RT Recap - Week of November 17th",
             "slug": "rt-recap-2012-rt-recap-week-of-november-17th",
@@ -1395,6 +4869,78 @@
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
+        },
+        {
+            "id": "13878",
+            "title": "High IQ Achievement Guide (Part 2)",
+            "slug": "achievement-unlocked-season-1-high-iq-achievement-guide-part-2",
+            "date": "2012-11-16",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13893",
+            "title": "The Lights Of Their Eyes Guide",
+            "slug": "achievement-unlocked-season-1-the-lights-of-their-eyes-guide",
+            "date": "2012-11-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13894",
+            "title": "Hey Good Looking Achievement Guide",
+            "slug": "achievement-unlocked-season-1-hey-good-looking-achievement-guide",
+            "date": "2012-11-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13895",
+            "title": "Chief, Smash! Achievement Guide",
+            "slug": "achievement-unlocked-season-1-chief-smash-achievement-guide",
+            "date": "2012-11-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13988",
+            "title": "Happy Hour Guide",
+            "slug": "achievement-unlocked-season-1-happy-hour-guide",
+            "date": "2012-11-14",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13896",
+            "title": "Man of the People Achievement Guide",
+            "slug": "achievement-unlocked-season-1-man-of-the-people-achievement-guide",
+            "date": "2012-11-13",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13900",
+            "title": "Explore the Floor Achievement Guide",
+            "slug": "achievement-unlocked-season-1-explore-the-floor-achievement-guide",
+            "date": "2012-11-12",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "20560",
+            "title": "Week #138",
+            "slug": "ahwu-2012-44",
+            "date": "2012-11-12",
+            "is_first": false,
+            "show": "AHWU",
+            "show_slug": "ahwu"
         },
         {
             "id": "18233",
@@ -1406,10 +4952,181 @@
             "show_slug": "rt-recap"
         },
         {
+            "id": "13901",
+            "title": "Halo 4: Give Him the Stick - Achievement Guide",
+            "slug": "achievement-unlocked-season-1-halo-4-give-him-the-stick-achievement-guide",
+            "date": "2012-11-09",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13902",
+            "title": "Terminus Achievement Guide",
+            "slug": "achievement-unlocked-season-1-terminus-achievement-guide",
+            "date": "2012-11-09",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13910",
+            "title": "Halo 4: This is my Rifle, this is my Gun - Achievement Guide",
+            "slug": "achievement-unlocked-season-1-halo-4-this-is-my-rifle-this-is-my-gun-achievement-guide",
+            "date": "2012-11-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13911",
+            "title": "Roses vs Violets Guide",
+            "slug": "achievement-unlocked-season-1-roses-vs-violets-guide",
+            "date": "2012-11-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13912",
+            "title": "Knight in White Assassination Guide",
+            "slug": "achievement-unlocked-season-1-knight-in-white-assassination-guide",
+            "date": "2012-11-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "14023",
+            "title": "9 Achievements",
+            "slug": "achievement-unlocked-season-1-9-achievements",
+            "date": "2012-11-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13927",
+            "title": "Halo 4: Bros to the Close - Achievement Guide",
+            "slug": "achievement-unlocked-season-1-halo-4-bros-to-the-close-achievement-guide",
+            "date": "2012-11-07",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13928",
+            "title": "Halo 4: Midnight Launch - Achievement Guide",
+            "slug": "achievement-unlocked-season-1-halo-4-midnight-launch-achievement-guide",
+            "date": "2012-11-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13929",
+            "title": "Halo 4: Digging Up The Past - Achievement Guide",
+            "slug": "achievement-unlocked-season-1-halo-4-digging-up-the-past-achievement-guide",
+            "date": "2012-11-06",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "16289",
+            "title": "Trials Evolution: Trials Files #29",
+            "slug": "trials-files-2012-21",
+            "date": "2012-11-06",
+            "is_first": false,
+            "show": "Trials Files",
+            "show_slug": "trials-files"
+        },
+        {
+            "id": "13941",
+            "title": "Dirty Laundry Guide",
+            "slug": "achievement-unlocked-season-1-dirty-laundry-guide",
+            "date": "2012-11-02",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13943",
+            "title": "Target Practice Guide",
+            "slug": "achievement-unlocked-season-1-target-practice-guide",
+            "date": "2012-11-01",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13946",
+            "title": "Hell Money Achievement Guide",
+            "slug": "achievement-unlocked-season-1-hell-money-achievement-guide",
+            "date": "2012-10-31",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
             "id": "13947",
             "title": "Release the Kraken! Guide",
             "slug": "achievement-unlocked-season-1-release-the-kraken-guide",
             "date": "2012-10-31",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13948",
+            "title": "Double Header Guide",
+            "slug": "achievement-unlocked-season-1-double-header-guide",
+            "date": "2012-10-29",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13949",
+            "title": "Vender Bender Guide",
+            "slug": "achievement-unlocked-season-1-vender-bender-guide",
+            "date": "2012-10-26",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13956",
+            "title": "Leftover Lead Guide",
+            "slug": "achievement-unlocked-season-1-leftover-lead-guide",
+            "date": "2012-10-25",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13962",
+            "title": "On the Clock Guide",
+            "slug": "achievement-unlocked-season-1-on-the-clock-guide",
+            "date": "2012-10-24",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13970",
+            "title": "3 More Quick Achievements!",
+            "slug": "achievement-unlocked-season-1-3-more-quick-achievements",
+            "date": "2012-10-23",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "13971",
+            "title": "3 Quick Achievements",
+            "slug": "achievement-unlocked-season-1-3-quick-achievements",
+            "date": "2012-10-22",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -1422,6 +5139,42 @@
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
+        },
+        {
+            "id": "19359",
+            "title": "Mine & Mercy is the Mark",
+            "slug": "this-is-2012-107",
+            "date": "2012-10-19",
+            "is_first": false,
+            "show": "This is...",
+            "show_slug": "this-is"
+        },
+        {
+            "id": "13975",
+            "title": "Two missable Achievements",
+            "slug": "achievement-unlocked-season-1-two-missable-achievements",
+            "date": "2012-10-18",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "14004",
+            "title": "Bodyguard Achievement Guide",
+            "slug": "achievement-unlocked-season-1-bodyguard-achievement-guide",
+            "date": "2012-10-15",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
+        },
+        {
+            "id": "19362",
+            "title": "Dishonored",
+            "slug": "this-is-2012-49",
+            "date": "2012-10-11",
+            "is_first": false,
+            "show": "This is...",
+            "show_slug": "this-is"
         },
         {
             "id": "16207",
@@ -1442,6 +5195,15 @@
             "show_slug": "rt-recap"
         },
         {
+            "id": "19372",
+            "title": "Fire Pro Wrestling",
+            "slug": "this-is-2012-90",
+            "date": "2012-09-26",
+            "is_first": false,
+            "show": "This is...",
+            "show_slug": "this-is"
+        },
+        {
             "id": "16209",
             "title": "Week of September 21st",
             "slug": "rt-recap-2012-week-of-september-21st",
@@ -1449,6 +5211,15 @@
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
+        },
+        {
+            "id": "14089",
+            "title": "Ghost Achievement Guide",
+            "slug": "achievement-unlocked-season-1-ghost-achievement-guide-1",
+            "date": "2012-09-19",
+            "is_first": false,
+            "show": "Achievement Unlocked",
+            "show_slug": "achievement-unlocked"
         },
         {
             "id": "19378",
@@ -1476,6 +5247,15 @@
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
+        },
+        {
+            "id": "19618",
+            "title": "Slender",
+            "slug": "this-is-2012-82",
+            "date": "2012-07-19",
+            "is_first": false,
+            "show": "This is...",
+            "show_slug": "this-is"
         },
         {
             "id": "22229",

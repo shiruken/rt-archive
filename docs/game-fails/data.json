@@ -3,9 +3,9 @@
     "slug": "game-fails",
     "summary": {
         "count": 72,
-        "uploaded": 40,
-        "missing": 32,
-        "incomplete": 0,
+        "uploaded": 72,
+        "missing": 0,
+        "incomplete": 32,
         "removed": 0
     },
     "data": [
@@ -85,7 +85,7 @@
             "slug": "game-fails-2014-26",
             "date": "2014-05-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -95,7 +95,7 @@
             "slug": "game-fails-2014-23",
             "date": "2014-05-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -105,7 +105,7 @@
             "slug": "game-fails-2014-18",
             "date": "2014-05-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -145,7 +145,7 @@
             "slug": "game-fails-2014-2",
             "date": "2014-04-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -155,7 +155,7 @@
             "slug": "game-fails-2014-27",
             "date": "2014-04-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -205,7 +205,7 @@
             "slug": "game-fails-2014-15",
             "date": "2014-02-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -255,7 +255,7 @@
             "slug": "game-fails-2014-17",
             "date": "2014-01-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -275,7 +275,7 @@
             "slug": "game-fails-2013-34",
             "date": "2014-01-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -295,7 +295,7 @@
             "slug": "game-fails-2013-5",
             "date": "2013-12-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -305,7 +305,7 @@
             "slug": "game-fails-2013-2",
             "date": "2013-12-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -315,7 +315,7 @@
             "slug": "game-fails-2013-28",
             "date": "2013-12-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -325,7 +325,7 @@
             "slug": "game-fails-2013-22",
             "date": "2013-11-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -335,7 +335,7 @@
             "slug": "game-fails-2013-20",
             "date": "2013-11-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -345,7 +345,7 @@
             "slug": "game-fails-2013-15",
             "date": "2013-11-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -355,7 +355,7 @@
             "slug": "game-fails-2013-11",
             "date": "2013-11-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -365,7 +365,7 @@
             "slug": "game-fails-2013-9",
             "date": "2013-10-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -375,7 +375,7 @@
             "slug": "game-fails-2013-4",
             "date": "2013-10-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -385,7 +385,7 @@
             "slug": "game-fails-2013",
             "date": "2013-10-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -405,7 +405,7 @@
             "slug": "game-fails-2013-19",
             "date": "2013-09-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -415,7 +415,7 @@
             "slug": "game-fails-2013-16",
             "date": "2013-09-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -435,7 +435,7 @@
             "slug": "game-fails-2013-32",
             "date": "2013-08-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -445,7 +445,7 @@
             "slug": "game-fails-2013-26",
             "date": "2013-07-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -455,7 +455,7 @@
             "slug": "game-fails-2013-18",
             "date": "2013-07-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -465,7 +465,7 @@
             "slug": "game-fails-2013-17",
             "date": "2013-06-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -475,7 +475,7 @@
             "slug": "game-fails-2013-6",
             "date": "2013-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -495,7 +495,7 @@
             "slug": "game-fails-2013-24",
             "date": "2013-05-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -505,7 +505,7 @@
             "slug": "game-fails-2013-21",
             "date": "2013-05-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -515,7 +515,7 @@
             "slug": "game-fails-2013-14",
             "date": "2013-05-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -525,7 +525,7 @@
             "slug": "game-fails-2013-13",
             "date": "2013-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -545,7 +545,7 @@
             "slug": "game-fails-2013-25",
             "date": "2013-04-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -565,7 +565,7 @@
             "slug": "game-fails-2013-7",
             "date": "2013-03-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -575,7 +575,7 @@
             "slug": "game-fails-2013-27",
             "date": "2013-03-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

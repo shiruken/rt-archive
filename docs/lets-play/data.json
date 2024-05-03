@@ -3,9 +3,9 @@
     "slug": "lets-play",
     "summary": {
         "count": 2163,
-        "uploaded": 2155,
-        "missing": 8,
-        "incomplete": 0,
+        "uploaded": 2162,
+        "missing": 1,
+        "incomplete": 7,
         "removed": 0
     },
     "data": [
@@ -16835,7 +16835,7 @@
             "slug": "lets-play-let-s-play-2-149",
             "date": "2015-04-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -19385,7 +19385,7 @@
             "slug": "lets-play-2014-195",
             "date": "2014-03-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -19675,7 +19675,7 @@
             "slug": "lets-play-2013-188",
             "date": "2013-12-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -20015,7 +20015,7 @@
             "slug": "lets-play-2013-162",
             "date": "2013-09-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -20635,7 +20635,7 @@
             "slug": "lets-play-2013-74",
             "date": "2013-05-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -20875,7 +20875,7 @@
             "slug": "lets-play-2013-185",
             "date": "2013-02-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -20935,7 +20935,7 @@
             "slug": "lets-play-2013-36",
             "date": "2013-01-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

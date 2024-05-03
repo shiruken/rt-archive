@@ -3,9 +3,9 @@
     "slug": "this-is",
     "summary": {
         "count": 138,
-        "uploaded": 114,
-        "missing": 24,
-        "incomplete": 1,
+        "uploaded": 118,
+        "missing": 20,
+        "incomplete": 5,
         "removed": 0
     },
     "data": [
@@ -605,7 +605,7 @@
             "slug": "this-is-2012-107",
             "date": "2012-10-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -635,7 +635,7 @@
             "slug": "this-is-2012-49",
             "date": "2012-10-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -685,7 +685,7 @@
             "slug": "this-is-2012-90",
             "date": "2012-09-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -765,7 +765,7 @@
             "slug": "this-is-2012-82",
             "date": "2012-07-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

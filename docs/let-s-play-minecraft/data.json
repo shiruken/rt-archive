@@ -3,9 +3,9 @@
     "slug": "let-s-play-minecraft",
     "summary": {
         "count": 519,
-        "uploaded": 518,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 519,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -4525,7 +4525,7 @@
             "slug": "lets-play-2013-15",
             "date": "2013-10-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

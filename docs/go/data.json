@@ -3,9 +3,9 @@
     "slug": "go",
     "summary": {
         "count": 104,
-        "uploaded": 103,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 104,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -505,7 +505,7 @@
             "slug": "go-2014-52",
             "date": "2014-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

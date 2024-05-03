@@ -3,9 +3,9 @@
     "slug": "the-patch",
     "summary": {
         "count": 102,
-        "uploaded": 101,
-        "missing": 1,
-        "incomplete": 2,
+        "uploaded": 102,
+        "missing": 0,
+        "incomplete": 3,
         "removed": 0
     },
     "data": [
@@ -935,7 +935,7 @@
             "slug": "the-patch-2015-22",
             "date": "2015-07-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

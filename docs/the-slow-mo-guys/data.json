@@ -3,9 +3,9 @@
     "slug": "the-slow-mo-guys",
     "summary": {
         "count": 77,
-        "uploaded": 69,
-        "missing": 8,
-        "incomplete": 6,
+        "uploaded": 77,
+        "missing": 0,
+        "incomplete": 14,
         "removed": 0
     },
     "data": [
@@ -405,7 +405,7 @@
             "slug": "the-slow-mo-guys-season-1-episode-43",
             "date": "2015-07-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -435,7 +435,7 @@
             "slug": "the-slow-mo-guys-season-1-convertible-aerodynamics-at-1000fps-the-slow-mo-guys",
             "date": "2015-03-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -445,7 +445,7 @@
             "slug": "the-slow-mo-guys-season-1-hypnotic-ink-physics-in-4k-slow-motion",
             "date": "2015-03-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -495,7 +495,7 @@
             "slug": "the-slow-mo-guys-season-1-leaping-slow-motion-doggy",
             "date": "2014-08-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -525,7 +525,7 @@
             "slug": "the-slow-mo-guys-season-1-swim-cap-trick-in-slow-motion",
             "date": "2014-05-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -535,7 +535,7 @@
             "slug": "the-slow-mo-guys-season-1-cannon-firing-in-slow-motion",
             "date": "2014-04-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -545,7 +545,7 @@
             "slug": "the-slow-mo-guys-season-1-mousetrap-chain-reaction",
             "date": "2014-03-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -555,7 +555,7 @@
             "slug": "the-slow-mo-guys-season-1-airbag",
             "date": "2014-03-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

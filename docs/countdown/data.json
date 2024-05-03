@@ -3,9 +3,9 @@
     "slug": "countdown",
     "summary": {
         "count": 65,
-        "uploaded": 35,
-        "missing": 30,
-        "incomplete": 1,
+        "uploaded": 65,
+        "missing": 0,
+        "incomplete": 31,
         "removed": 0
     },
     "data": [
@@ -95,7 +95,7 @@
             "slug": "countdown-2015-9",
             "date": "2015-06-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -105,7 +105,7 @@
             "slug": "countdown-2015-6",
             "date": "2015-06-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -115,7 +115,7 @@
             "slug": "countdown-2015-2",
             "date": "2015-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -125,7 +125,7 @@
             "slug": "countdown-2015-26",
             "date": "2015-06-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -135,7 +135,7 @@
             "slug": "countdown-2015-23",
             "date": "2015-06-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -145,7 +145,7 @@
             "slug": "countdown-2015-21",
             "date": "2015-05-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -165,7 +165,7 @@
             "slug": "countdown-2015-12",
             "date": "2015-05-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -175,7 +175,7 @@
             "slug": "countdown-2015-3",
             "date": "2015-05-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -185,7 +185,7 @@
             "slug": "countdown-2015-24",
             "date": "2015-04-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -195,7 +195,7 @@
             "slug": "countdown-2015-20",
             "date": "2015-04-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -215,7 +215,7 @@
             "slug": "countdown-2015-13",
             "date": "2015-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -245,7 +245,7 @@
             "slug": "countdown-2015-4",
             "date": "2015-03-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -255,7 +255,7 @@
             "slug": "countdown-2015-27",
             "date": "2015-03-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -265,7 +265,7 @@
             "slug": "countdown-2015-25",
             "date": "2015-03-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -275,7 +275,7 @@
             "slug": "countdown-2015-22",
             "date": "2015-02-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -305,7 +305,7 @@
             "slug": "countdown-2015-10",
             "date": "2015-01-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -375,7 +375,7 @@
             "slug": "countdown-season-1-countdown-top-10-third-person-open-world-game-series",
             "date": "2014-12-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -395,7 +395,7 @@
             "slug": "countdown-season-1-countdown-top-5-things-to-be-thankful-for-as-a-rooster-teeth-fan-for-2014",
             "date": "2014-11-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -405,7 +405,7 @@
             "slug": "countdown-season-1-countdown-top-12-multiplayer-maps-in-the-master-chief-collection",
             "date": "2014-11-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -425,7 +425,7 @@
             "slug": "countdown-season-1-countdown-10-games-with-gold-so-far",
             "date": "2014-11-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -475,7 +475,7 @@
             "slug": "countdown-season-1-countdown-top-10-2d-beatem-ups",
             "date": "2014-09-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -485,7 +485,7 @@
             "slug": "countdown-season-1-countdown-top-10-cheats-in-video-games",
             "date": "2014-09-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -495,7 +495,7 @@
             "slug": "countdown-season-1-countdown-top-10-puzzle-games",
             "date": "2014-09-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -505,7 +505,7 @@
             "slug": "countdown-season-1-countdown-top-10-female-protagonists",
             "date": "2014-09-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -525,7 +525,7 @@
             "slug": "countdown-season-1-countdown-top-5-community-hunter-videos",
             "date": "2014-08-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -535,7 +535,7 @@
             "slug": "countdown-season-1-countdown-top-15-kid-friendly-game-series",
             "date": "2014-08-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -555,7 +555,7 @@
             "slug": "countdown-season-1-countdown-rays-top-6-favorite-games",
             "date": "2014-07-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -595,7 +595,7 @@
             "slug": "countdown-season-1-countdown-top-10-animal-companions",
             "date": "2014-06-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -645,7 +645,7 @@
             "slug": "countdown-season-1-countdown-comic-book-edition",
             "date": "2014-05-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -655,7 +655,7 @@
             "slug": "countdown-season-1-countdown-beard-edition",
             "date": "2014-05-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         }

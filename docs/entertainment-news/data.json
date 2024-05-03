@@ -3,9 +3,9 @@
     "slug": "entertainment-news",
     "summary": {
         "count": 126,
-        "uploaded": 124,
-        "missing": 2,
-        "incomplete": 8,
+        "uploaded": 126,
+        "missing": 0,
+        "incomplete": 10,
         "removed": 0
     },
     "data": [
@@ -1175,7 +1175,7 @@
             "slug": "entertainment-news-2015-10",
             "date": "2015-07-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1265,7 +1265,7 @@
             "slug": "entertainment-news-2015",
             "date": "2015-06-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         }

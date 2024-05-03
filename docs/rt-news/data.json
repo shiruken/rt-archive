@@ -3,9 +3,9 @@
     "slug": "rt-news",
     "summary": {
         "count": 61,
-        "uploaded": 53,
-        "missing": 8,
-        "incomplete": 51,
+        "uploaded": 61,
+        "missing": 0,
+        "incomplete": 59,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "rt-news-rt-news-new-steam-controller-design-titanfall-pc-improved-by-xbox-one-a-big-rt-announcement",
             "date": "2014-03-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -25,7 +25,7 @@
             "slug": "rt-news-rt-news-first-gamerscore-millionaire-titanfall-dev-hunting-cheaters-lol-player-admits-match-fixing",
             "date": "2014-03-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -135,7 +135,7 @@
             "slug": "rt-news-rt-news-x1-titanfall-bundle-and-uk-price-drop-dayz-creator-stepping-down-no-samurai-assassins-creed",
             "date": "2014-02-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -205,7 +205,7 @@
             "slug": "rt-news-rt-news-titanfall-beta-sign-ups-open-xbox-update-delayed-batman-arkham-devs-ignore-bugs",
             "date": "2014-02-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -275,7 +275,7 @@
             "slug": "rt-news-rt-news-nintendos-bold-new-plan-halo-2-anniversary-leaked-halo-5-delayed",
             "date": "2014-01-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -495,7 +495,7 @@
             "slug": "rt-news-rt-news-holiday-gaming-in-gta-bl2-lol-dota-2-tf2-wow-ac-more",
             "date": "2013-12-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -515,7 +515,7 @@
             "slug": "rt-news-rt-news-star-citizen-breaks-its-own-record-mafia-creators-new-open-world-rpg-nintendo-takes-japan",
             "date": "2013-12-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -545,7 +545,7 @@
             "slug": "rt-news-rt-news-minecraft-gets-avengers-new-legend-of-zelda-spin-off-get-a-free-celebi-pokemon",
             "date": "2013-12-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

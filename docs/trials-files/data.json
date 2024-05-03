@@ -3,9 +3,9 @@
     "slug": "trials-files",
     "summary": {
         "count": 121,
-        "uploaded": 114,
-        "missing": 7,
-        "incomplete": 2,
+        "uploaded": 121,
+        "missing": 0,
+        "incomplete": 9,
         "removed": 0
     },
     "data": [
@@ -75,7 +75,7 @@
             "slug": "trials-files-2014-22",
             "date": "2014-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -85,7 +85,7 @@
             "slug": "trials-files-2014-16",
             "date": "2014-08-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -95,7 +95,7 @@
             "slug": "trials-files-2014-37",
             "date": "2014-07-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -105,7 +105,7 @@
             "slug": "trials-files-2014-33",
             "date": "2014-07-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -115,7 +115,7 @@
             "slug": "trials-files-2014-27",
             "date": "2014-07-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -635,7 +635,7 @@
             "slug": "trials-files-2011-49",
             "date": "2013-06-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -935,7 +935,7 @@
             "slug": "trials-files-2012-21",
             "date": "2012-11-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

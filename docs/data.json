@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42597,
-        "uploaded": 41569,
-        "missing": 1028,
-        "incomplete": 641,
+        "uploaded": 41989,
+        "missing": 608,
+        "incomplete": 1061,
         "removed": 2
     },
     "data": [
@@ -83,18 +83,18 @@
             "show": "Achievement HUNT",
             "slug": "achievement-hunt",
             "count": 95,
-            "uploaded": 85,
-            "missing": 10,
-            "incomplete": 0,
+            "uploaded": 95,
+            "missing": 0,
+            "incomplete": 10,
             "removed": 0
         },
         {
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1532,
-            "missing": 251,
-            "incomplete": 289,
+            "uploaded": 1537,
+            "missing": 246,
+            "incomplete": 294,
             "removed": 0
         },
         {
@@ -119,9 +119,9 @@
             "show": "Achievement Unlocked",
             "slug": "achievement-unlocked",
             "count": 924,
-            "uploaded": 454,
-            "missing": 470,
-            "incomplete": 168,
+            "uploaded": 633,
+            "missing": 291,
+            "incomplete": 347,
             "removed": 0
         },
         {
@@ -146,9 +146,9 @@
             "show": "AHWU",
             "slug": "ahwu",
             "count": 495,
-            "uploaded": 429,
-            "missing": 66,
-            "incomplete": 6,
+            "uploaded": 474,
+            "missing": 21,
+            "incomplete": 51,
             "removed": 0
         },
         {
@@ -587,9 +587,9 @@
             "show": "Countdown",
             "slug": "countdown",
             "count": 65,
-            "uploaded": 35,
-            "missing": 30,
-            "incomplete": 1,
+            "uploaded": 65,
+            "missing": 0,
+            "incomplete": 31,
             "removed": 0
         },
         {
@@ -884,9 +884,9 @@
             "show": "Easter Eggs",
             "slug": "easter-eggs",
             "count": 334,
-            "uploaded": 331,
-            "missing": 3,
-            "incomplete": 11,
+            "uploaded": 332,
+            "missing": 2,
+            "incomplete": 12,
             "removed": 0
         },
         {
@@ -920,9 +920,9 @@
             "show": "Entertainment News",
             "slug": "entertainment-news",
             "count": 126,
-            "uploaded": 124,
-            "missing": 2,
-            "incomplete": 8,
+            "uploaded": 126,
+            "missing": 0,
+            "incomplete": 10,
             "removed": 0
         },
         {
@@ -1226,9 +1226,9 @@
             "show": "Fails of the Weak",
             "slug": "fails-of-the-weak",
             "count": 295,
-            "uploaded": 267,
-            "missing": 28,
-            "incomplete": 0,
+            "uploaded": 294,
+            "missing": 1,
+            "incomplete": 27,
             "removed": 0
         },
         {
@@ -1280,9 +1280,9 @@
             "show": "Five Facts",
             "slug": "five-facts",
             "count": 181,
-            "uploaded": 180,
-            "missing": 1,
-            "incomplete": 1,
+            "uploaded": 181,
+            "missing": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -1379,18 +1379,18 @@
             "show": "Game Fails",
             "slug": "game-fails",
             "count": 72,
-            "uploaded": 40,
-            "missing": 32,
-            "incomplete": 0,
+            "uploaded": 72,
+            "missing": 0,
+            "incomplete": 32,
             "removed": 0
         },
         {
             "show": "Game News",
             "slug": "game-news",
             "count": 1211,
-            "uploaded": 1200,
-            "missing": 11,
-            "incomplete": 53,
+            "uploaded": 1211,
+            "missing": 0,
+            "incomplete": 64,
             "removed": 0
         },
         {
@@ -1415,9 +1415,9 @@
             "show": "Gameplay",
             "slug": "gameplay",
             "count": 1884,
-            "uploaded": 1883,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 1884,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1478,9 +1478,9 @@
             "show": "GO!",
             "slug": "go",
             "count": 104,
-            "uploaded": 103,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 104,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1568,9 +1568,9 @@
             "show": "Hard News",
             "slug": "hard-news",
             "count": 746,
-            "uploaded": 744,
-            "missing": 2,
-            "incomplete": 0,
+            "uploaded": 746,
+            "missing": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -1676,9 +1676,9 @@
             "show": "How To",
             "slug": "how-to",
             "count": 121,
-            "uploaded": 104,
-            "missing": 17,
-            "incomplete": 1,
+            "uploaded": 121,
+            "missing": 0,
+            "incomplete": 18,
             "removed": 0
         },
         {
@@ -2018,9 +2018,9 @@
             "show": "Lazer Team",
             "slug": "lazer-team",
             "count": 15,
-            "uploaded": 14,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 15,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2063,9 +2063,9 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2163,
-            "uploaded": 2155,
-            "missing": 8,
-            "incomplete": 0,
+            "uploaded": 2162,
+            "missing": 1,
+            "incomplete": 7,
             "removed": 0
         },
         {
@@ -2099,9 +2099,9 @@
             "show": "Let's Play Minecraft",
             "slug": "let-s-play-minecraft",
             "count": 519,
-            "uploaded": 518,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 519,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -2909,9 +2909,9 @@
             "show": "RT News",
             "slug": "rt-news",
             "count": 61,
-            "uploaded": 53,
-            "missing": 8,
-            "incomplete": 51,
+            "uploaded": 61,
+            "missing": 0,
+            "incomplete": 59,
             "removed": 0
         },
         {
@@ -2927,9 +2927,9 @@
             "show": "RT Recap",
             "slug": "rt-recap",
             "count": 24,
-            "uploaded": 15,
-            "missing": 9,
-            "incomplete": 11,
+            "uploaded": 22,
+            "missing": 2,
+            "incomplete": 18,
             "removed": 0
         },
         {
@@ -3494,18 +3494,18 @@
             "show": "The Patch",
             "slug": "the-patch",
             "count": 102,
-            "uploaded": 101,
-            "missing": 1,
-            "incomplete": 2,
+            "uploaded": 102,
+            "missing": 0,
+            "incomplete": 3,
             "removed": 0
         },
         {
             "show": "The Patch Game Club",
             "slug": "the-patch-game-club",
             "count": 42,
-            "uploaded": 31,
-            "missing": 11,
-            "incomplete": 1,
+            "uploaded": 42,
+            "missing": 0,
+            "incomplete": 12,
             "removed": 0
         },
         {
@@ -3539,9 +3539,9 @@
             "show": "The Slow Mo Guys",
             "slug": "the-slow-mo-guys",
             "count": 77,
-            "uploaded": 69,
-            "missing": 8,
-            "incomplete": 6,
+            "uploaded": 77,
+            "missing": 0,
+            "incomplete": 14,
             "removed": 0
         },
         {
@@ -3584,18 +3584,18 @@
             "show": "Things to Do In",
             "slug": "things-to-do-in",
             "count": 571,
-            "uploaded": 570,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 571,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
             "show": "This is...",
             "slug": "this-is",
             "count": 138,
-            "uploaded": 114,
-            "missing": 24,
-            "incomplete": 1,
+            "uploaded": 118,
+            "missing": 20,
+            "incomplete": 5,
             "removed": 0
         },
         {
@@ -3656,9 +3656,9 @@
             "show": "Trials Files",
             "slug": "trials-files",
             "count": 121,
-            "uploaded": 114,
-            "missing": 7,
-            "incomplete": 2,
+            "uploaded": 121,
+            "missing": 0,
+            "incomplete": 9,
             "removed": 0
         },
         {

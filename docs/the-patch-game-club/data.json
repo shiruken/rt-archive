@@ -3,9 +3,9 @@
     "slug": "the-patch-game-club",
     "summary": {
         "count": 42,
-        "uploaded": 31,
-        "missing": 11,
-        "incomplete": 1,
+        "uploaded": 42,
+        "missing": 0,
+        "incomplete": 12,
         "removed": 0
     },
     "data": [
@@ -315,7 +315,7 @@
             "slug": "the-patch-game-club-season-1-episode-18",
             "date": "2015-07-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -325,7 +325,7 @@
             "slug": "the-patch-game-club-season-1-this-war-of-mine-war-sucks",
             "date": "2015-07-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -335,7 +335,7 @@
             "slug": "the-patch-game-club-season-1-long-live-the-queen-elegance-grace-assassination",
             "date": "2015-06-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -345,7 +345,7 @@
             "slug": "the-patch-game-club-season-1-ori-and-the-blind-forest-cheers-tears-and-so-much-rage",
             "date": "2015-05-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -355,7 +355,7 @@
             "slug": "the-patch-game-club-season-1-gone-home-snoop-on-your-angsty-family",
             "date": "2015-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -375,7 +375,7 @@
             "slug": "the-patch-game-club-season-1-child-of-light-rpg-more-like-artpg",
             "date": "2015-05-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -385,7 +385,7 @@
             "slug": "the-patch-game-club-season-1-brothers-a-tale-of-perfect-brother-based-gameplay",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -395,7 +395,7 @@
             "slug": "the-patch-game-club-season-1-limbo-trial-by-grisly-death-for-kids",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -405,7 +405,7 @@
             "slug": "the-patch-game-club-season-1-the-cat-lady-the-most-disturbing-adventure-game-ever",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -415,7 +415,7 @@
             "slug": "the-patch-game-club-season-1-valiant-hearts-war-is-puzzling",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -425,7 +425,7 @@
             "slug": "the-patch-game-club-season-1-hatoful-boyfriend-pigeon-dating-sim-and-murder-mystery",
             "date": "2015-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         }

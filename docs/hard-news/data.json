@@ -3,9 +3,9 @@
     "slug": "hard-news",
     "summary": {
         "count": 746,
-        "uploaded": 744,
-        "missing": 2,
-        "incomplete": 0,
+        "uploaded": 746,
+        "missing": 0,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -2495,7 +2495,7 @@
             "slug": "hard-news-102313-titanfall-bravely-default-and-the-console-war",
             "date": "2013-10-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2815,7 +2815,7 @@
             "slug": "hard-news-090913-ps4-new-vita-and-vita-tv",
             "date": "2013-09-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
