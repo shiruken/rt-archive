@@ -3,9 +3,9 @@
     "slug": "rt-recap",
     "summary": {
         "count": 24,
-        "uploaded": 22,
-        "missing": 2,
-        "incomplete": 18,
+        "uploaded": 24,
+        "missing": 0,
+        "incomplete": 20,
         "removed": 0
     },
     "data": [
@@ -175,7 +175,7 @@
             "slug": "rt-recap-2012-rt-recap-week-of-oct-13th",
             "date": "2012-10-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -215,7 +215,7 @@
             "slug": "rt-recap-2012-week-of-august-17th",
             "date": "2012-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

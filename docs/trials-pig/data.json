@@ -3,9 +3,9 @@
     "slug": "trials-pig",
     "summary": {
         "count": 75,
-        "uploaded": 74,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 75,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -695,7 +695,7 @@
             "slug": "trials-pig-season-1-trials-pig-9",
             "date": "2012-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

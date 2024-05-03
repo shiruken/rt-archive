@@ -3,9 +3,9 @@
     "slug": "video-game-vault",
     "summary": {
         "count": 340,
-        "uploaded": 338,
-        "missing": 2,
-        "incomplete": 2,
+        "uploaded": 340,
+        "missing": 0,
+        "incomplete": 4,
         "removed": 0
     },
     "data": [
@@ -2035,7 +2035,7 @@
             "slug": "video-game-vault-conkers-bad-fur-day",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2655,7 +2655,7 @@
             "slug": "video-game-vault-mortal-kombat-iii",
             "date": "2011-08-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

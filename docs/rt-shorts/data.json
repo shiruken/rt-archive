@@ -3,9 +3,9 @@
     "slug": "rt-shorts",
     "summary": {
         "count": 239,
-        "uploaded": 237,
-        "missing": 2,
-        "incomplete": 2,
+        "uploaded": 239,
+        "missing": 0,
+        "incomplete": 4,
         "removed": 0
     },
     "data": [
@@ -1625,7 +1625,7 @@
             "slug": "rt-shorts-season-3-danger-zone",
             "date": "2011-08-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1645,7 +1645,7 @@
             "slug": "rt-shorts-season-3-google-vs-facebook",
             "date": "2011-07-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

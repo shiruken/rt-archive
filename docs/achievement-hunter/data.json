@@ -3,9 +3,9 @@
     "slug": "achievement-hunter",
     "summary": {
         "count": 1783,
-        "uploaded": 1537,
-        "missing": 246,
-        "incomplete": 294,
+        "uploaded": 1783,
+        "missing": 0,
+        "incomplete": 540,
         "removed": 0
     },
     "data": [
@@ -7465,7 +7465,7 @@
             "slug": "achievement-hunter-achievement-hunter-retro-active-timesplitters",
             "date": "2012-07-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7675,7 +7675,7 @@
             "slug": "achievement-hunter-achievement-hunter-ghost-recon-future-soldier-master-tactician-part-3",
             "date": "2012-06-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7725,7 +7725,7 @@
             "slug": "achievement-hunter-achievement-hunter-xbox-booth-walkthrough",
             "date": "2012-06-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7735,7 +7735,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-five-bioshock",
             "date": "2012-06-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7755,7 +7755,7 @@
             "slug": "achievement-hunter-achievement-hunter-go-medal-racer-go",
             "date": "2012-06-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7785,7 +7785,7 @@
             "slug": "achievement-hunter-achievement-hunter-grossest-toilets-in-gaming-best-of-the-rest",
             "date": "2012-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10105,7 +10105,7 @@
             "slug": "achievement-hunter-achievement-hunter-almost-flying",
             "date": "2011-11-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10195,7 +10195,7 @@
             "slug": "achievement-hunter-achievement-hunter-skulls-and-terminals-part-1",
             "date": "2011-11-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10275,7 +10275,7 @@
             "slug": "achievement-hunter-achievement-hunter-installation-04-overview",
             "date": "2011-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10285,7 +10285,7 @@
             "slug": "achievement-hunter-achievement-hunter-solitary-overview",
             "date": "2011-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10295,7 +10295,7 @@
             "slug": "achievement-hunter-achievement-hunter-kill-box",
             "date": "2011-11-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10325,7 +10325,7 @@
             "slug": "achievement-hunter-achievement-hunter-penance-overview",
             "date": "2011-11-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10335,7 +10335,7 @@
             "slug": "achievement-hunter-achievement-hunter-battle-canyon-overview",
             "date": "2011-11-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10345,7 +10345,7 @@
             "slug": "achievement-hunter-achievement-hunter-kissing-booth-snake-beater",
             "date": "2011-11-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10355,7 +10355,7 @@
             "slug": "achievement-hunter-achievement-hunter-for-whom-the-shell-tolls",
             "date": "2011-11-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10365,7 +10365,7 @@
             "slug": "achievement-hunter-achievement-hunter-flight-attendant",
             "date": "2011-11-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10375,7 +10375,7 @@
             "slug": "achievement-hunter-achievement-hunter-what-goes-up",
             "date": "2011-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10385,7 +10385,7 @@
             "slug": "achievement-hunter-achievement-hunter-jack-the-ripper-this-is-my-boomstick",
             "date": "2011-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10395,7 +10395,7 @@
             "slug": "achievement-hunter-achievement-hunter-bullet-dance-dance-commander",
             "date": "2011-11-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10425,7 +10425,7 @@
             "slug": "achievement-hunter-achievement-hunter-do-a-barrel-roll",
             "date": "2011-11-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10435,7 +10435,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-best-nba-team-of-all-time-rd-2-84-85-sixers-vs-85-86-celtics",
             "date": "2011-11-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10445,7 +10445,7 @@
             "slug": "achievement-hunter-achievement-hunter-untouchable",
             "date": "2011-11-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10465,7 +10465,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-best-nba-team-of-all-time-rd-1-86-87-lakers-vs-85-86-celtics",
             "date": "2011-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10475,7 +10475,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-missing-link-dlc-apex-predator-that-old-adage",
             "date": "2011-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10485,7 +10485,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-missing-link-dlc-backstage-pass-all-of-the-above",
             "date": "2011-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10495,7 +10495,7 @@
             "slug": "achievement-hunter-achievement-hunter-blackjack-subtle",
             "date": "2011-10-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10505,7 +10505,7 @@
             "slug": "achievement-hunter-achievement-hunter-spider-snagger-supreme-pt-3",
             "date": "2011-10-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10525,7 +10525,7 @@
             "slug": "achievement-hunter-achievement-hunter-adult-content-raw-emotion-mixed-messages",
             "date": "2011-10-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10535,7 +10535,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-best-nba-team-of-all-time-rd-1-71-72-lakers-vs-95-96-bulls",
             "date": "2011-10-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10545,7 +10545,7 @@
             "slug": "achievement-hunter-achievement-hunter-spider-snagger-supreme-pt-2",
             "date": "2011-10-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10555,7 +10555,7 @@
             "slug": "achievement-hunter-achievement-hunter-mark-of-the-assassin-dlc-chasing-the-game-the-take",
             "date": "2011-10-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10595,7 +10595,7 @@
             "slug": "achievement-hunter-achievement-hunter-photo-school-puking-rally-party-time",
             "date": "2011-10-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10605,7 +10605,7 @@
             "slug": "achievement-hunter-achievement-hunter-zoology-choke-hold-catch-this",
             "date": "2011-10-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10615,7 +10615,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-8-part-2",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10625,7 +10625,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-8-part-1",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10635,7 +10635,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-7-part-2",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10645,7 +10645,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-7-part-1",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10655,7 +10655,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-6-part-2",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10665,7 +10665,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-6-part-1",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10675,7 +10675,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-5-part-2",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10685,7 +10685,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-4-part-2",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10695,7 +10695,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-4-part-1",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10705,7 +10705,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-3-part-2",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10725,7 +10725,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-3-part-1",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10735,7 +10735,7 @@
             "slug": "achievement-hunter-achievement-hunter-saw-ii-collectibles-chapter-1",
             "date": "2011-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10745,7 +10745,7 @@
             "slug": "achievement-hunter-achievement-hunter-hungry-for-fame-paparazzi",
             "date": "2011-10-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10755,7 +10755,7 @@
             "slug": "achievement-hunter-achievement-hunter-hoarder-and-remember-the-fallen-act-five",
             "date": "2011-09-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10765,7 +10765,7 @@
             "slug": "achievement-hunter-achievement-hunter-hoarder-and-remember-the-fallen-act-four",
             "date": "2011-09-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10785,7 +10785,7 @@
             "slug": "achievement-hunter-achievement-hunter-hoarder-and-remember-the-fallen-act-three",
             "date": "2011-09-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10795,7 +10795,7 @@
             "slug": "achievement-hunter-achievement-hunter-librarian-of-macragge-part-2",
             "date": "2011-09-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10805,7 +10805,7 @@
             "slug": "achievement-hunter-achievement-hunter-hoarder-and-remember-the-fallen-act-two",
             "date": "2011-09-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10815,7 +10815,7 @@
             "slug": "achievement-hunter-achievement-hunter-ed-ecated",
             "date": "2011-09-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10825,7 +10825,7 @@
             "slug": "achievement-hunter-achievement-hunter-three-up-three-down-squeezed-in-there-throwing-smoke",
             "date": "2011-09-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10835,7 +10835,7 @@
             "slug": "achievement-hunter-achievement-hunter-hoarder-and-remember-the-fallen-act-one",
             "date": "2011-09-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10855,7 +10855,7 @@
             "slug": "achievement-hunter-achievement-hunter-brute-and-watcher",
             "date": "2011-09-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10865,7 +10865,7 @@
             "slug": "achievement-hunter-achievement-hunter-gesundheit-light-my-fire-oh-no-you-dont",
             "date": "2011-09-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10875,7 +10875,7 @@
             "slug": "achievement-hunter-achievement-hunter-librarian-of-macragge-part-1",
             "date": "2011-09-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10885,7 +10885,7 @@
             "slug": "achievement-hunter-achievement-hunter-doctorate-part-3",
             "date": "2011-09-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10895,7 +10895,7 @@
             "slug": "achievement-hunter-achievement-hunter-first-and-catch",
             "date": "2011-09-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10905,7 +10905,7 @@
             "slug": "achievement-hunter-achievement-hunter-zookeeper-and-slaybells",
             "date": "2011-09-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10925,7 +10925,7 @@
             "slug": "achievement-hunter-achievement-hunter-master-of-ball-slalom",
             "date": "2011-09-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10935,7 +10935,7 @@
             "slug": "achievement-hunter-achievement-hunter-grenadier-access-denied-cheap-shots",
             "date": "2011-09-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10955,7 +10955,7 @@
             "slug": "achievement-hunter-achievement-hunter-feeling-lucky-punk-chamber-full-of-death-short-out",
             "date": "2011-09-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10965,7 +10965,7 @@
             "slug": "achievement-hunter-achievement-hunter-i-have-the-power",
             "date": "2011-09-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10975,7 +10975,7 @@
             "slug": "achievement-hunter-achievement-hunter-doctorate-part-2",
             "date": "2011-09-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10985,7 +10985,7 @@
             "slug": "achievement-hunter-achievement-hunter-guardian-angel-the-fall-super-sleuth",
             "date": "2011-09-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -10995,7 +10995,7 @@
             "slug": "achievement-hunter-achievement-hunter-sploded-kick-it-and-you-are-all-mighty",
             "date": "2011-09-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11005,7 +11005,7 @@
             "slug": "achievement-hunter-achievement-hunter-doctorate-part-1",
             "date": "2011-09-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11015,7 +11015,7 @@
             "slug": "achievement-hunter-achievement-hunter-sentimental-value-and-the-take",
             "date": "2011-09-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11045,7 +11045,7 @@
             "slug": "achievement-hunter-achievement-hunter-robert-ford-multiboom-doom-the-professional",
             "date": "2011-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11055,7 +11055,7 @@
             "slug": "achievement-hunter-achievement-hunter-leon-washington-tim-tebow-michael-vick-awards",
             "date": "2011-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11075,7 +11075,7 @@
             "slug": "achievement-hunter-achievement-hunter-up-close-and-personal-hot-potato-hitman",
             "date": "2011-08-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11085,7 +11085,7 @@
             "slug": "achievement-hunter-achievement-hunter-im-not-afraid-of-watcher-3-and-4",
             "date": "2011-08-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11095,7 +11095,7 @@
             "slug": "achievement-hunter-achievement-hunter-unforeseen-consequence-the-desk-job",
             "date": "2011-08-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11115,7 +11115,7 @@
             "slug": "achievement-hunter-achievement-hunter-perks-in-spaaaaaace",
             "date": "2011-08-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11135,7 +11135,7 @@
             "slug": "achievement-hunter-achievement-hunter-counterstrike-artist-time-in-the-spotlight",
             "date": "2011-08-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11225,7 +11225,7 @@
             "slug": "achievement-hunter-achievement-hunter-freddy-krueger-fatalities",
             "date": "2011-08-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11255,7 +11255,7 @@
             "slug": "achievement-hunter-achievement-hunter-rain-fatalities",
             "date": "2011-07-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11265,7 +11265,7 @@
             "slug": "achievement-hunter-achievement-hunter-care-of-the-castle",
             "date": "2011-07-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11285,7 +11285,7 @@
             "slug": "achievement-hunter-achievement-hunter-kenshi-fatalities",
             "date": "2011-07-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11295,7 +11295,7 @@
             "slug": "achievement-hunter-achievement-hunter-assistance-is-futile-crash-proof",
             "date": "2011-07-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11315,7 +11315,7 @@
             "slug": "achievement-hunter-achievement-hunter-nobody-likes-a-whiner",
             "date": "2011-06-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11365,7 +11365,7 @@
             "slug": "achievement-hunter-achievement-hunter-klassic-fatalities",
             "date": "2011-06-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11375,7 +11375,7 @@
             "slug": "achievement-hunter-achievement-hunter-skarlet-fatalities",
             "date": "2011-06-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11385,7 +11385,7 @@
             "slug": "achievement-hunter-achievement-hunter-sex-and-the-shantys",
             "date": "2011-06-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11395,7 +11395,7 @@
             "slug": "achievement-hunter-achievement-hunter-eagle-eye",
             "date": "2011-06-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11405,7 +11405,7 @@
             "slug": "achievement-hunter-achievement-hunter-juiced-flagon-of-chuckles-substance-abuser",
             "date": "2011-06-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11425,7 +11425,7 @@
             "slug": "achievement-hunter-achievement-hunter-three-duke-chievements",
             "date": "2011-06-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11435,7 +11435,7 @@
             "slug": "achievement-hunter-achievement-hunter-man-of-the-shadows",
             "date": "2011-06-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11445,7 +11445,7 @@
             "slug": "achievement-hunter-achievement-hunter-then-and-now",
             "date": "2011-06-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11455,7 +11455,7 @@
             "slug": "achievement-hunter-achievement-hunter-thunder-flop-and-nothing-can-bring-me-down",
             "date": "2011-06-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11465,7 +11465,7 @@
             "slug": "achievement-hunter-achievement-hunter-turd-burglar-drawrings-sunday-black-sunday",
             "date": "2011-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11485,7 +11485,7 @@
             "slug": "achievement-hunter-achievement-hunter-bell-end-and-heart-attack",
             "date": "2011-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -11545,7 +11545,7 @@
             "slug": "achievement-hunter-achievement-hunter-everglades-collectibles",
             "date": "2011-05-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12835,7 +12835,7 @@
             "slug": "achievement-hunter-achievement-hunter-failure-breeds-success",
             "date": "2010-12-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12845,7 +12845,7 @@
             "slug": "achievement-hunter-achievement-hunter-go-ahead-and-jump",
             "date": "2010-12-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12855,7 +12855,7 @@
             "slug": "achievement-hunter-achievement-hunter-help",
             "date": "2010-12-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12875,7 +12875,7 @@
             "slug": "achievement-hunter-achievement-hunter-returning-the-favor-sith-kicker",
             "date": "2010-12-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12885,7 +12885,7 @@
             "slug": "achievement-hunter-achievement-hunter-endor-holocrons",
             "date": "2010-12-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12905,7 +12905,7 @@
             "slug": "achievement-hunter-achievement-hunter-share-the-joy-wet-in-the-vette",
             "date": "2010-12-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12915,7 +12915,7 @@
             "slug": "achievement-hunter-achievement-hunter-tarzan-frequent-flyer-thats-gotta-hurt",
             "date": "2010-12-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12925,7 +12925,7 @@
             "slug": "achievement-hunter-achievement-hunter-how-to-archaeology",
             "date": "2010-12-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12955,7 +12955,7 @@
             "slug": "achievement-hunter-achievement-hunter-gnome-invasion-part-four",
             "date": "2010-12-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12965,7 +12965,7 @@
             "slug": "achievement-hunter-achievement-hunter-gnome-invasion-part-three",
             "date": "2010-12-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12985,7 +12985,7 @@
             "slug": "achievement-hunter-achievement-hunter-fishing-in-halo-reach",
             "date": "2010-11-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -12995,7 +12995,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-10",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13005,7 +13005,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-9",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13015,7 +13015,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-8",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13035,7 +13035,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-6",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13045,7 +13045,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-5",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13065,7 +13065,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-3",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13075,7 +13075,7 @@
             "slug": "achievement-hunter-achievement-hunter-rift-solution-2",
             "date": "2010-11-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13105,7 +13105,7 @@
             "slug": "achievement-hunter-achievement-hunter-worlds-worst-street-performer",
             "date": "2010-11-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13135,7 +13135,7 @@
             "slug": "achievement-hunter-achievement-hunter-plumber",
             "date": "2010-11-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13145,7 +13145,7 @@
             "slug": "achievement-hunter-achievement-hunter-amen",
             "date": "2010-11-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13175,7 +13175,7 @@
             "slug": "achievement-hunter-achievement-hunter-gnome-invasion-part-one",
             "date": "2010-11-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13185,7 +13185,7 @@
             "slug": "achievement-hunter-achievement-hunter-criterion-visit",
             "date": "2010-11-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13195,7 +13195,7 @@
             "slug": "achievement-hunter-achievement-hunter-revelations-and-redemption-hidden-intel-levels-14-and-15",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13205,7 +13205,7 @@
             "slug": "achievement-hunter-achievement-hunter-payback-and-rebirth-hidden-intel-levels-12-and-13",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13215,7 +13215,7 @@
             "slug": "achievement-hunter-achievement-hunter-crash-site-and-wmd-hidden-intel-levels-10-and-11",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13235,7 +13235,7 @@
             "slug": "achievement-hunter-achievement-hunter-the-defector-and-numbers-hidden-intel-levels-6-and-7",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13245,7 +13245,7 @@
             "slug": "achievement-hunter-achievement-hunter-executive-order-and-s-o-g-hidden-intel-levels-4-and-5",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13255,7 +13255,7 @@
             "slug": "achievement-hunter-achievement-hunter-operation-40-and-vorkuta-hidden-intel-levels-1-and-2",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13265,7 +13265,7 @@
             "slug": "achievement-hunter-achievement-hunter-undead-treasure-hunter-challenge",
             "date": "2010-11-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13275,7 +13275,7 @@
             "slug": "achievement-hunter-achievement-hunter-chupathingy-and-fan-service",
             "date": "2010-11-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13285,7 +13285,7 @@
             "slug": "achievement-hunter-achievement-hunter-weathered-10-mm-pistol-glitch",
             "date": "2010-11-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13305,7 +13305,7 @@
             "slug": "achievement-hunter-achievement-hunter-kyo-benimaru-daimon-iori-mature-vice",
             "date": "2010-11-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13315,7 +13315,7 @@
             "slug": "achievement-hunter-achievement-hunter-mighty-blow",
             "date": "2010-11-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13325,7 +13325,7 @@
             "slug": "achievement-hunter-achievement-hunter-pelican-and-phantom",
             "date": "2010-11-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13335,7 +13335,7 @@
             "slug": "achievement-hunter-achievement-hunter-east-hare-egg",
             "date": "2010-11-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13345,7 +13345,7 @@
             "slug": "achievement-hunter-achievement-hunter-globe-trotter",
             "date": "2010-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13355,7 +13355,7 @@
             "slug": "achievement-hunter-achievement-hunter-i-am-the-key-master-part-two",
             "date": "2010-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13365,7 +13365,7 @@
             "slug": "achievement-hunter-achievement-hunter-strike-and-break-the-bank",
             "date": "2010-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13375,7 +13375,7 @@
             "slug": "achievement-hunter-achievement-hunter-valet-and-return-to-sender",
             "date": "2010-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13385,7 +13385,7 @@
             "slug": "achievement-hunter-achievement-hunter-guybrush-threepkiller",
             "date": "2010-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13395,7 +13395,7 @@
             "slug": "achievement-hunter-achievement-hunter-i-am-the-key-master-part-one",
             "date": "2010-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13405,7 +13405,7 @@
             "slug": "achievement-hunter-achievement-hunter-kamfetti-and-it-burns",
             "date": "2010-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13415,7 +13415,7 @@
             "slug": "achievement-hunter-achievement-hunter-stakross-medal-of-excellence",
             "date": "2010-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13425,7 +13425,7 @@
             "slug": "achievement-hunter-achievement-hunter-beer-poker-and-fallout-3",
             "date": "2010-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13445,7 +13445,7 @@
             "slug": "achievement-hunter-achievement-hunter-hidden-pangloss-statues-act-one",
             "date": "2010-10-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13465,7 +13465,7 @@
             "slug": "achievement-hunter-achievement-hunter-collectibles-act-3",
             "date": "2010-10-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13475,7 +13475,7 @@
             "slug": "achievement-hunter-achievement-hunter-collectibles-act-2-part-2",
             "date": "2010-10-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13505,7 +13505,7 @@
             "slug": "achievement-hunter-achievement-hunter-collectibles-act-2-part-1",
             "date": "2010-10-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13545,7 +13545,7 @@
             "slug": "achievement-hunter-achievement-hunter-kill-bill",
             "date": "2010-10-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13615,7 +13615,7 @@
             "slug": "achievement-hunter-achievement-hunter-spree-medals",
             "date": "2010-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13715,7 +13715,7 @@
             "slug": "achievement-hunter-achievement-hunter-hidden-datapads-1-9",
             "date": "2010-09-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13735,7 +13735,7 @@
             "slug": "achievement-hunter-achievement-hunter-keep-it-clean",
             "date": "2010-09-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13855,7 +13855,7 @@
             "slug": "achievement-hunter-achievement-hunter-get-rich-or-die-flyin",
             "date": "2010-08-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13865,7 +13865,7 @@
             "slug": "achievement-hunter-achievement-hunter-playboy-locations-chapters-6-and-7",
             "date": "2010-08-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13885,7 +13885,7 @@
             "slug": "achievement-hunter-achievement-hunter-playboy-locations-chapter-2-and-3",
             "date": "2010-08-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -13955,7 +13955,7 @@
             "slug": "achievement-hunter-achievement-hunter-seasoned-veteran",
             "date": "2010-08-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14095,7 +14095,7 @@
             "slug": "achievement-hunter-achievement-hunter-hold-the-line",
             "date": "2010-08-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14105,7 +14105,7 @@
             "slug": "achievement-hunter-achievement-hunter-after-dark-dlc",
             "date": "2010-08-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14135,7 +14135,7 @@
             "slug": "achievement-hunter-achievement-hunter-secret-eggs-1-5",
             "date": "2010-07-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14245,7 +14245,7 @@
             "slug": "achievement-hunter-achievement-hunter-invincible",
             "date": "2010-06-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14335,7 +14335,7 @@
             "slug": "achievement-hunter-achievement-hunter-sunrise-red-dead",
             "date": "2010-06-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14355,7 +14355,7 @@
             "slug": "achievement-hunter-achievement-hunter-heading-south-on-a-white-bronco",
             "date": "2010-06-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14375,7 +14375,7 @@
             "slug": "achievement-hunter-achievement-hunter-last-man-on-earth-dead-center-part-3",
             "date": "2010-06-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14415,7 +14415,7 @@
             "slug": "achievement-hunter-achievement-hunter-spot-monopolist-university",
             "date": "2010-06-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14455,7 +14455,7 @@
             "slug": "achievement-hunter-achievement-hunter-characters-and-cheats",
             "date": "2010-05-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14535,7 +14535,7 @@
             "slug": "achievement-hunter-achievement-hunter-frontiersman-part-2",
             "date": "2010-05-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14565,7 +14565,7 @@
             "slug": "achievement-hunter-achievement-hunter-zombie-mode",
             "date": "2010-05-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14585,7 +14585,7 @@
             "slug": "achievement-hunter-achievement-hunter-darkspawn-chronicles-dlc",
             "date": "2010-05-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14605,7 +14605,7 @@
             "slug": "achievement-hunter-achievement-hunter-strange-things-are-afoot",
             "date": "2010-05-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14735,7 +14735,7 @@
             "slug": "achievement-hunter-achievement-hunter-powerhouse-walkthrough",
             "date": "2010-04-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14755,7 +14755,7 @@
             "slug": "achievement-hunter-achievement-hunter-good-start-and-it-begins",
             "date": "2010-04-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14825,7 +14825,7 @@
             "slug": "achievement-hunter-2010",
             "date": "2010-04-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14845,7 +14845,7 @@
             "slug": "achievement-hunter-achievement-hunter-sherlock-part-3-market-station",
             "date": "2010-04-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14865,7 +14865,7 @@
             "slug": "achievement-hunter-achievement-hunter-metro-2033-sherlock-part-2-riga",
             "date": "2010-04-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14885,7 +14885,7 @@
             "slug": "achievement-hunter-achievement-hunter-sherlock-part-1-exhibition-station",
             "date": "2010-04-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14965,7 +14965,7 @@
             "slug": "achievement-hunter-achievement-hunter-special-preview",
             "date": "2010-03-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -14995,7 +14995,7 @@
             "slug": "achievement-hunter-achievement-hunter-firewalker-dlc-overview",
             "date": "2010-03-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15015,7 +15015,7 @@
             "slug": "achievement-hunter-achievement-hunter-souled-out",
             "date": "2010-03-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15055,7 +15055,7 @@
             "slug": "achievement-hunter-achievement-hunter-five-starring-the-chapter-5-boss-aster-protoflorian",
             "date": "2010-03-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15075,7 +15075,7 @@
             "slug": "achievement-hunter-achievement-hunter-hades-walkthrough",
             "date": "2010-03-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15145,7 +15145,7 @@
             "slug": "achievement-hunter-achievement-hunter-gold-finger",
             "date": "2010-03-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15195,7 +15195,7 @@
             "slug": "achievement-hunter-achievement-hunter-baby-master",
             "date": "2010-03-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15215,7 +15215,7 @@
             "slug": "achievement-hunter-achievement-hunter-negotiator",
             "date": "2010-03-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15245,7 +15245,7 @@
             "slug": "achievement-hunter-achievement-hunter-fbi-investigator",
             "date": "2010-02-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15255,7 +15255,7 @@
             "slug": "achievement-hunter-achievement-hunter-harsh-language-part-two-refinery",
             "date": "2010-02-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15285,7 +15285,7 @@
             "slug": "achievement-hunter-achievement-hunter-happy-birthday-and-interactive-drama",
             "date": "2010-02-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15325,7 +15325,7 @@
             "slug": "achievement-hunter-achievement-hunter-ferrari-dlc-walkthrough",
             "date": "2010-02-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15335,7 +15335,7 @@
             "slug": "achievement-hunter-achievement-hunter-on-site-preview",
             "date": "2010-02-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15385,7 +15385,7 @@
             "slug": "achievement-hunter-achievement-hunter-no-one-left-behind",
             "date": "2010-02-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15395,7 +15395,7 @@
             "slug": "achievement-hunter-achievement-hunter-rapture-historian-part-5-siren-alley",
             "date": "2010-02-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15405,7 +15405,7 @@
             "slug": "achievement-hunter-achievement-hunter-rapture-historian-part-3-ryan-amusements",
             "date": "2010-02-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15415,7 +15415,7 @@
             "slug": "achievement-hunter-achievement-hunter-rapture-historian-part-4-paupers-drop",
             "date": "2010-02-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15425,7 +15425,7 @@
             "slug": "achievement-hunter-achievement-hunter-bioshock-2-rapture-historian-16-34-ryan-amusements",
             "date": "2010-02-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15445,7 +15445,7 @@
             "slug": "achievement-hunter-achievement-hunter-rapture-historian-part-2-the-atlantic-express",
             "date": "2010-02-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15555,7 +15555,7 @@
             "slug": "achievement-hunter-achievement-hunter-sigurds-cradle-and-agent-walkthrough",
             "date": "2010-02-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15745,7 +15745,7 @@
             "slug": "achievement-hunter-achievement-hunter-open-air-parking",
             "date": "2010-01-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -15765,7 +15765,7 @@
             "slug": "achievement-hunter-achievement-hunter-tread-not-so-softly-higher-and-higher",
             "date": "2010-01-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16375,7 +16375,7 @@
             "slug": "achievement-hunter-achievement-hunter-never-truly-free-and-cost-of-the-truth",
             "date": "2009-10-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16445,7 +16445,7 @@
             "slug": "achievement-hunter-achievement-hunter-crash-course-sight-seeing",
             "date": "2009-10-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16465,7 +16465,7 @@
             "slug": "achievement-hunter-achievement-hunter-monkeys-21-30",
             "date": "2009-09-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16495,7 +16495,7 @@
             "slug": "achievement-hunter-achievement-hunter-monitor-tan-gold-digger-part-two",
             "date": "2009-09-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16505,7 +16505,7 @@
             "slug": "achievement-hunter-achievement-hunter-trialshd-full-throttle",
             "date": "2009-09-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16525,7 +16525,7 @@
             "slug": "achievement-hunter-achievement-hunter-trialshd-unyielding",
             "date": "2009-08-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16535,7 +16535,7 @@
             "slug": "achievement-hunter-achievement-hunter-trialshd-market-meltdown",
             "date": "2009-08-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16545,7 +16545,7 @@
             "slug": "achievement-hunter-achievement-hunter-trialshd-strike",
             "date": "2009-08-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16565,7 +16565,7 @@
             "slug": "achievement-hunter-achievement-hunter-shadow-complex-walkin-on-water",
             "date": "2009-08-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16575,7 +16575,7 @@
             "slug": "achievement-hunter-achievement-hunter-omaha-steaks-delicious-get-over-yourselves-lay-off-the-caffeine",
             "date": "2009-08-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16585,7 +16585,7 @@
             "slug": "achievement-hunter-achievement-hunter-alien-archivist-part-one",
             "date": "2009-08-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16625,7 +16625,7 @@
             "slug": "achievement-hunter-achievement-hunter-killer-in-pink-music-video-2-0",
             "date": "2009-06-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16635,7 +16635,7 @@
             "slug": "achievement-hunter-achievement-hunter-prototype-opening-cinematic",
             "date": "2009-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16665,7 +16665,7 @@
             "slug": "achievement-hunter-achievement-hunter-chaos-master-part-3-of-3",
             "date": "2009-05-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16675,7 +16675,7 @@
             "slug": "achievement-hunter-achievement-hunter-codwaw-raygun",
             "date": "2009-04-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16725,7 +16725,7 @@
             "slug": "achievement-hunter-achievement-hunter-executions-walkthrough",
             "date": "2009-04-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16735,7 +16735,7 @@
             "slug": "achievement-hunter-achievement-hunter-badge-of-honor-bonus-fireworks",
             "date": "2009-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16745,7 +16745,7 @@
             "slug": "achievement-hunter-achievement-hunter-badge-of-honor-part-4",
             "date": "2009-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16755,7 +16755,7 @@
             "slug": "achievement-hunter-achievement-hunter-badge-of-honor-part-3",
             "date": "2009-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16775,7 +16775,7 @@
             "slug": "achievement-hunter-achievement-hunter-badge-of-honor-part-1",
             "date": "2009-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16795,7 +16795,7 @@
             "slug": "achievement-hunter-achievement-hunter-crime-rings",
             "date": "2009-04-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16805,7 +16805,7 @@
             "slug": "achievement-hunter-achievement-hunter-three-for-thirty-five",
             "date": "2009-03-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16825,7 +16825,7 @@
             "slug": "achievement-hunter-achievement-hunter-four-for-twenty",
             "date": "2009-03-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16845,7 +16845,7 @@
             "slug": "achievement-hunter-achievement-hunter-zombie-chopper",
             "date": "2009-03-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16895,7 +16895,7 @@
             "slug": "achievement-hunter-achievement-hunter-bird-on-the-ground",
             "date": "2009-03-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16945,7 +16945,7 @@
             "slug": "achievement-hunter-achievement-hunter-ramblin-man-and-8th-hidden-skull",
             "date": "2009-03-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16975,7 +16975,7 @@
             "slug": "achievement-hunter-achievement-hunter-rhino-hugger-and-6th-hidden-skull",
             "date": "2009-03-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -16985,7 +16985,7 @@
             "slug": "achievement-hunter-achievement-hunter-endless-fun-and-hidden-skull",
             "date": "2009-02-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17015,7 +17015,7 @@
             "slug": "achievement-hunter-achievement-hunter-on-the-clock",
             "date": "2009-02-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17035,7 +17035,7 @@
             "slug": "achievement-hunter-achievement-hunter-mercs-2-balls-to-the-wall",
             "date": "2009-02-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17045,7 +17045,7 @@
             "slug": "achievement-hunter-achievement-hunter-killer-in-pink-music-video",
             "date": "2009-02-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17085,7 +17085,7 @@
             "slug": "achievement-hunter-achievement-hunter-lotr-conquest-you-have-my-bowaxe",
             "date": "2009-02-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17095,7 +17095,7 @@
             "slug": "achievement-hunter-achievement-hunter-prince-of-persia-improviser-sinking-to-new-depths",
             "date": "2009-01-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17105,7 +17105,7 @@
             "slug": "achievement-hunter-achievement-hunter-left-4-dead-untouchables",
             "date": "2009-01-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17125,7 +17125,7 @@
             "slug": "achievement-hunter-achievement-hunter-skate-2-the-architect-and-dethroned",
             "date": "2009-01-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17145,7 +17145,7 @@
             "slug": "achievement-hunter-achievement-hunter-skate-2-need-for-speed-and-juggling-chainsaws",
             "date": "2009-01-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17155,7 +17155,7 @@
             "slug": "achievement-hunter-achievement-hunter-skate-2-playing-nice-together",
             "date": "2009-01-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17165,7 +17165,7 @@
             "slug": "achievement-hunter-achievement-hunter-skate-2-sandbag",
             "date": "2009-01-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17175,7 +17175,7 @@
             "slug": "achievement-hunter-achievement-hunter-skate-2-graphically-extreme",
             "date": "2009-01-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17185,7 +17185,7 @@
             "slug": "achievement-hunter-achievement-hunter-geoffs-avatar",
             "date": "2009-01-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17195,7 +17195,7 @@
             "slug": "achievement-hunter-achievement-hunter-prince-of-persia-sword-master",
             "date": "2009-01-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17205,7 +17205,7 @@
             "slug": "achievement-hunter-achievement-hunter-scholar",
             "date": "2009-01-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17225,7 +17225,7 @@
             "slug": "achievement-hunter-achievement-hunter-hl2-keep-off-the-sand-osha-violation-targeted-advertising",
             "date": "2009-01-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17245,7 +17245,7 @@
             "slug": "achievement-hunter-achievement-hunter-zombie-genocidest",
             "date": "2009-01-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17265,7 +17265,7 @@
             "slug": "achievement-hunter-achievement-hunter-destructomatic-rex",
             "date": "2009-01-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17295,7 +17295,7 @@
             "slug": "achievement-hunter-achievement-hunter-community-video-little-rocket-man-long-version",
             "date": "2008-12-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17355,7 +17355,7 @@
             "slug": "achievement-hunter-achievement-hunter-fatality-walkthrough-jax-liu-kang-raiden-kano-baraka",
             "date": "2008-12-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17405,7 +17405,7 @@
             "slug": "achievement-hunter-achievement-hunter-community-video-1st-3-metal-pieces-and-bronze-detective-badge",
             "date": "2008-11-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17455,7 +17455,7 @@
             "slug": "achievement-hunter-achievement-hunter-nxe-preview-part-2-of-3",
             "date": "2008-11-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17535,7 +17535,7 @@
             "slug": "achievement-hunter-achievement-hunter-pack-rat-strikes-back",
             "date": "2008-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17555,7 +17555,7 @@
             "slug": "achievement-hunter-achievement-hunter-vidmaster-challenge-annual",
             "date": "2008-10-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17645,7 +17645,7 @@
             "slug": "achievement-hunter-achievement-hunter-holocron-walkthrough-level-6-imperial-kashyyyk",
             "date": "2008-09-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17695,7 +17695,7 @@
             "slug": "achievement-hunter-achievement-hunter-true-identity-walkthrough",
             "date": "2008-09-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -17725,7 +17725,7 @@
             "slug": "achievement-hunter-achievement-hunter-deadline-rebound-magpie-millionairewalkthrough",
             "date": "2008-08-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

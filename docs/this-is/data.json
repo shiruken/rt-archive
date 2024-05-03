@@ -3,9 +3,9 @@
     "slug": "this-is",
     "summary": {
         "count": 138,
-        "uploaded": 118,
-        "missing": 20,
-        "incomplete": 5,
+        "uploaded": 138,
+        "missing": 0,
+        "incomplete": 25,
         "removed": 0
     },
     "data": [
@@ -645,7 +645,7 @@
             "slug": "this-is-2012-45",
             "date": "2012-10-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -725,7 +725,7 @@
             "slug": "this-is-2012-34",
             "date": "2012-08-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -755,7 +755,7 @@
             "slug": "this-is-2012-6",
             "date": "2012-08-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -775,7 +775,7 @@
             "slug": "this-is-2012-80",
             "date": "2012-07-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -785,7 +785,7 @@
             "slug": "this-is-2012-79",
             "date": "2012-07-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -795,7 +795,7 @@
             "slug": "this-is-2012-35",
             "date": "2012-07-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -815,7 +815,7 @@
             "slug": "this-is-2012-76",
             "date": "2012-06-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -835,7 +835,7 @@
             "slug": "this-is-2012-10",
             "date": "2012-06-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -875,7 +875,7 @@
             "slug": "this-is-2012-75",
             "date": "2012-06-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -925,7 +925,7 @@
             "slug": "this-is-2012-47",
             "date": "2012-05-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -935,7 +935,7 @@
             "slug": "this-is-2012-73",
             "date": "2012-05-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -945,7 +945,7 @@
             "slug": "this-is-2012-37",
             "date": "2012-05-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -955,7 +955,7 @@
             "slug": "this-is-2012-25",
             "date": "2012-04-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -975,7 +975,7 @@
             "slug": "this-is-2012-9",
             "date": "2012-04-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -985,7 +985,7 @@
             "slug": "this-is-2012-5",
             "date": "2012-04-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -995,7 +995,7 @@
             "slug": "this-is-2012-3",
             "date": "2012-04-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1005,7 +1005,7 @@
             "slug": "this-is-2012-44",
             "date": "2012-03-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1045,7 +1045,7 @@
             "slug": "this-is-2012-19",
             "date": "2012-03-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1075,7 +1075,7 @@
             "slug": "this-is-2012-14",
             "date": "2012-03-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1085,7 +1085,7 @@
             "slug": "this-is-2012-70",
             "date": "2012-02-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

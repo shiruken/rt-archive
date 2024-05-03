@@ -3,9 +3,9 @@
     "slug": "achievement-horse",
     "summary": {
         "count": 143,
-        "uploaded": 137,
-        "missing": 6,
-        "incomplete": 0,
+        "uploaded": 143,
+        "missing": 0,
+        "incomplete": 6,
         "removed": 0
     },
     "data": [
@@ -865,7 +865,7 @@
             "slug": "achievement-horse-2012-31",
             "date": "2012-03-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -875,7 +875,7 @@
             "slug": "achievement-horse-2012-25",
             "date": "2012-03-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -885,7 +885,7 @@
             "slug": "achievement-horse-2012-7",
             "date": "2012-02-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -975,7 +975,7 @@
             "slug": "achievement-horse-2011-2",
             "date": "2011-12-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -985,7 +985,7 @@
             "slug": "achievement-horse-2011-5",
             "date": "2011-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1425,7 +1425,7 @@
             "slug": "achievement-horse-season-1-achievement-horse-2",
             "date": "2010-12-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

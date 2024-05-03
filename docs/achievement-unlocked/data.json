@@ -3,9 +3,9 @@
     "slug": "achievement-unlocked",
     "summary": {
         "count": 924,
-        "uploaded": 633,
-        "missing": 291,
-        "incomplete": 347,
+        "uploaded": 924,
+        "missing": 0,
+        "incomplete": 638,
         "removed": 0
     },
     "data": [
@@ -2465,7 +2465,7 @@
             "slug": "achievement-unlocked-season-1-killabunga-and-8-blow-guides",
             "date": "2013-01-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2505,7 +2505,7 @@
             "slug": "achievement-unlocked-season-1-the-good-stuff-guide",
             "date": "2012-12-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2915,7 +2915,7 @@
             "slug": "achievement-unlocked-season-1-lights-out-achievement-guide-1",
             "date": "2012-10-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2955,7 +2955,7 @@
             "slug": "achievement-unlocked-season-1-trollololol-achievement-guide",
             "date": "2012-10-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2975,7 +2975,7 @@
             "slug": "achievement-unlocked-season-1-king-of-the-world-achievement-guide",
             "date": "2012-10-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -2995,7 +2995,7 @@
             "slug": "achievement-unlocked-season-1-epic-slam-dunk-achievement-guide",
             "date": "2012-10-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3005,7 +3005,7 @@
             "slug": "achievement-unlocked-season-1-secret-ops-achievement-guide",
             "date": "2012-10-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3035,7 +3035,7 @@
             "slug": "achievement-unlocked-season-1-safe-driver-guide",
             "date": "2012-08-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3045,7 +3045,7 @@
             "slug": "achievement-unlocked-season-1-sharpshooter-guide",
             "date": "2012-08-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3055,7 +3055,7 @@
             "slug": "achievement-unlocked-season-1-infowlable-guide",
             "date": "2012-08-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3065,7 +3065,7 @@
             "slug": "achievement-unlocked-season-1-a-slap-in-the-face-guide",
             "date": "2012-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3075,7 +3075,7 @@
             "slug": "achievement-unlocked-season-1-deer-in-the-headlights-guide",
             "date": "2012-08-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3085,7 +3085,7 @@
             "slug": "achievement-unlocked-season-1-3-achievements-1",
             "date": "2012-06-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3095,7 +3095,7 @@
             "slug": "achievement-unlocked-season-1-deer-hunter-achievement-guide",
             "date": "2012-06-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3105,7 +3105,7 @@
             "slug": "achievement-unlocked-season-1-dr0n3d-achievement-guide",
             "date": "2012-06-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3115,7 +3115,7 @@
             "slug": "achievement-unlocked-season-1-legendary-harvester-third-eye-guides",
             "date": "2012-06-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3135,7 +3135,7 @@
             "slug": "achievement-unlocked-season-1-three-achievements-16",
             "date": "2012-05-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3145,7 +3145,7 @@
             "slug": "achievement-unlocked-season-1-diablo-3-last-stand-of-the-ancients-guide",
             "date": "2012-05-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3165,7 +3165,7 @@
             "slug": "achievement-unlocked-season-1-not-a-scratch-achievement-guide",
             "date": "2012-05-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3185,7 +3185,7 @@
             "slug": "achievement-unlocked-season-1-out-the-window-achievement-guide",
             "date": "2012-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3195,7 +3195,7 @@
             "slug": "achievement-unlocked-season-1-helipocalypse-achievement-guide",
             "date": "2012-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3205,7 +3205,7 @@
             "slug": "achievement-unlocked-season-1-when-pigs-fly-achievement-guide-1",
             "date": "2012-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3215,7 +3215,7 @@
             "slug": "achievement-unlocked-season-1-leader-of-the-pack-achievement-guide",
             "date": "2012-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3225,7 +3225,7 @@
             "slug": "achievement-unlocked-season-1-follow-your-nose-part-three-achievement-guide",
             "date": "2012-05-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3235,7 +3235,7 @@
             "slug": "achievement-unlocked-season-1-puppet-beat-chickens-achievement-guide",
             "date": "2012-05-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3245,7 +3245,7 @@
             "slug": "achievement-unlocked-season-1-follow-your-nose-part-ii-achievement-guide",
             "date": "2012-05-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3255,7 +3255,7 @@
             "slug": "achievement-unlocked-season-1-the-floor-is-lava-achievement-guide",
             "date": "2012-04-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3265,7 +3265,7 @@
             "slug": "achievement-unlocked-season-1-follow-your-nose-part-i-achievement-guide",
             "date": "2012-04-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3275,7 +3275,7 @@
             "slug": "achievement-unlocked-season-1-two-dlc-achievements",
             "date": "2012-04-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3285,7 +3285,7 @@
             "slug": "achievement-unlocked-season-1-hard-the-hard-way-achievement-guide",
             "date": "2012-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3295,7 +3295,7 @@
             "slug": "achievement-unlocked-season-1-loonie-lander-achievement-guide",
             "date": "2012-04-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3305,7 +3305,7 @@
             "slug": "achievement-unlocked-season-1-full-throttle-ii-achievement-guide",
             "date": "2012-04-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3315,7 +3315,7 @@
             "slug": "achievement-unlocked-season-1-nervous-twitch-achievement-guide",
             "date": "2012-04-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3335,7 +3335,7 @@
             "slug": "achievement-unlocked-season-1-grim-reaper-achievement-guide",
             "date": "2012-04-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3345,7 +3345,7 @@
             "slug": "achievement-unlocked-season-1-cold-cuts-3-star-guide-levels-2-11-to-2-20",
             "date": "2012-04-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3355,7 +3355,7 @@
             "slug": "achievement-unlocked-season-1-angry-birds-space-cold-cuts-3-star-guide-levels-2-1-to-2-10",
             "date": "2012-03-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3365,7 +3365,7 @@
             "slug": "achievement-unlocked-season-1-pig-bang-3-star-guide-levels-1-21-to-1-30",
             "date": "2012-03-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3375,7 +3375,7 @@
             "slug": "achievement-unlocked-season-1-pig-bang-3-star-guide-levels-1-11-to-1-20",
             "date": "2012-03-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3385,7 +3385,7 @@
             "slug": "achievement-unlocked-season-1-pig-bang-3-star-guide-levels-1-1-to-1-10",
             "date": "2012-03-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3395,7 +3395,7 @@
             "slug": "achievement-unlocked-season-1-skilled-negotiator-achievement-guide",
             "date": "2012-03-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3405,7 +3405,7 @@
             "slug": "achievement-unlocked-season-1-the-apple-theory-achievement-guide",
             "date": "2012-03-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3415,7 +3415,7 @@
             "slug": "achievement-unlocked-season-1-ice-to-see-you-achievement-guide",
             "date": "2012-02-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3425,7 +3425,7 @@
             "slug": "achievement-unlocked-season-1-tree-hugger-achievement-guide",
             "date": "2012-02-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3435,7 +3435,7 @@
             "slug": "achievement-unlocked-season-1-missile-command-achievement-guide",
             "date": "2012-02-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3445,7 +3445,7 @@
             "slug": "achievement-unlocked-season-1-split-splat-achievement-guide",
             "date": "2012-02-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3455,7 +3455,7 @@
             "slug": "achievement-unlocked-season-1-every-bullet-counts-achievement-guide",
             "date": "2012-02-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3465,7 +3465,7 @@
             "slug": "achievement-unlocked-season-1-warpath-achievement-guide",
             "date": "2012-02-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -3475,7 +3475,7 @@
             "slug": "achievement-unlocked-season-1-top-marks-achievement-guide",
             "date": "2012-02-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4275,7 +4275,7 @@
             "slug": "achievement-unlocked-season-1-spider-assassin-achievement-guide",
             "date": "2011-12-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4285,7 +4285,7 @@
             "slug": "achievement-unlocked-season-1-frenemies-guide",
             "date": "2011-12-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4305,7 +4305,7 @@
             "slug": "achievement-unlocked-season-1-breaking-quarantine-achievement-guide",
             "date": "2011-11-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4315,7 +4315,7 @@
             "slug": "achievement-unlocked-season-1-skill-master-guide",
             "date": "2011-11-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4325,7 +4325,7 @@
             "slug": "achievement-unlocked-season-1-all-according-to-plan-achievement-guide-haloce",
             "date": "2011-11-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4335,7 +4335,7 @@
             "slug": "achievement-unlocked-season-1-how-pedestrian-achievement-guide",
             "date": "2011-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4345,7 +4345,7 @@
             "slug": "achievement-unlocked-season-1-no-fly-zone-achievement-guide",
             "date": "2011-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4355,7 +4355,7 @@
             "slug": "achievement-unlocked-season-1-standing-stones-guide",
             "date": "2011-11-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4365,7 +4365,7 @@
             "slug": "achievement-unlocked-season-1-scout-leader-act-iii-achievement-guide",
             "date": "2011-11-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4375,7 +4375,7 @@
             "slug": "achievement-unlocked-season-1-show-off-achievement-guide",
             "date": "2011-11-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4385,7 +4385,7 @@
             "slug": "achievement-unlocked-season-1-bully-achievement-guide",
             "date": "2011-11-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4395,7 +4395,7 @@
             "slug": "achievement-unlocked-season-1-scout-leader-act-ii-achievement-guide",
             "date": "2011-11-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4405,7 +4405,7 @@
             "slug": "achievement-unlocked-season-1-secret-servers-achievement-guide",
             "date": "2011-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4415,7 +4415,7 @@
             "slug": "achievement-unlocked-season-1-scout-leader-act-i-achievement-guide",
             "date": "2011-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4435,7 +4435,7 @@
             "slug": "achievement-unlocked-season-1-car-lover-achievement-guide",
             "date": "2011-11-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4445,7 +4445,7 @@
             "slug": "achievement-unlocked-season-1-rocket-man-achievement-guide",
             "date": "2011-11-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4455,7 +4455,7 @@
             "slug": "achievement-unlocked-season-1-between-a-rock-and-a-hard-place-achievement-guide",
             "date": "2011-11-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4465,7 +4465,7 @@
             "slug": "achievement-unlocked-season-1-practice-makes-perfect-achievement-guide",
             "date": "2011-11-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4495,7 +4495,7 @@
             "slug": "achievement-unlocked-season-1-army-of-darkness-achievement-guide-battlefield3",
             "date": "2011-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4505,7 +4505,7 @@
             "slug": "achievement-unlocked-season-1-not-on-my-watch-achievement-guide",
             "date": "2011-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4515,7 +4515,7 @@
             "slug": "achievement-unlocked-season-1-you-can-be-my-wingman-anytime-achievement-guide",
             "date": "2011-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4525,7 +4525,7 @@
             "slug": "achievement-unlocked-season-1-scrap-metal-achievement-guide",
             "date": "2011-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4535,7 +4535,7 @@
             "slug": "achievement-unlocked-season-1-roadkill-achievement-guide",
             "date": "2011-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4545,7 +4545,7 @@
             "slug": "achievement-unlocked-season-1-involuntary-euthanasia-achievement-guide",
             "date": "2011-10-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4555,7 +4555,7 @@
             "slug": "achievement-unlocked-season-1-story-teller-achievement-guide",
             "date": "2011-10-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4565,7 +4565,7 @@
             "slug": "achievement-unlocked-season-1-50x-combo-achievement-guide",
             "date": "2011-10-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4575,7 +4575,7 @@
             "slug": "achievement-unlocked-season-1-hide-and-seek-achievement-guide",
             "date": "2011-10-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4585,7 +4585,7 @@
             "slug": "achievement-unlocked-season-1-pay-your-respects-achievement-guide",
             "date": "2011-10-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4595,7 +4595,7 @@
             "slug": "achievement-unlocked-season-1-more-achievements",
             "date": "2011-10-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4615,7 +4615,7 @@
             "slug": "achievement-unlocked-season-1-collectible-guide-part-8",
             "date": "2011-10-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4625,7 +4625,7 @@
             "slug": "achievement-unlocked-season-1-long-distance-relationship-this-is-my-rifle-achievement-guide",
             "date": "2011-10-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4635,7 +4635,7 @@
             "slug": "achievement-unlocked-season-1-u-mad-bro-achievement-guide",
             "date": "2011-10-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4645,7 +4645,7 @@
             "slug": "achievement-unlocked-season-1-mighty-marvel-booster-achievement-guide",
             "date": "2011-10-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4665,7 +4665,7 @@
             "slug": "achievement-unlocked-season-1-warhead-hunter-achievement-guide-pt-2",
             "date": "2011-09-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4675,7 +4675,7 @@
             "slug": "achievement-unlocked-season-1-warhead-hunter-achievement-guide-pt-1",
             "date": "2011-09-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4685,7 +4685,7 @@
             "slug": "achievement-unlocked-season-1-achievements-ahoy",
             "date": "2011-09-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4695,7 +4695,7 @@
             "slug": "achievement-unlocked-season-1-four-achievements",
             "date": "2011-09-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4705,7 +4705,7 @@
             "slug": "achievement-unlocked-season-1-master-of-foal-herding-achievement-guide",
             "date": "2011-09-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4715,7 +4715,7 @@
             "slug": "achievement-unlocked-season-1-bouncer-trophy-guide",
             "date": "2011-09-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4725,7 +4725,7 @@
             "slug": "achievement-unlocked-season-1-good-soul-achievement-guide",
             "date": "2011-09-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4735,7 +4735,7 @@
             "slug": "achievement-unlocked-season-1-horny-devil-achievement-guide",
             "date": "2011-09-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4745,7 +4745,7 @@
             "slug": "achievement-unlocked-season-1-big-bang-theory-achievement-guide",
             "date": "2011-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4755,7 +4755,7 @@
             "slug": "achievement-unlocked-season-1-one-giant-leap-ground-control-achievement-guide",
             "date": "2011-08-31",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4765,7 +4765,7 @@
             "slug": "achievement-unlocked-season-1-fully-armed-and-operational-achievement-guide",
             "date": "2011-08-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4785,7 +4785,7 @@
             "slug": "achievement-unlocked-season-1-close-call-achievement-guide",
             "date": "2011-08-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4865,7 +4865,7 @@
             "slug": "achievement-unlocked-season-1-complete-collection-guide-part-three",
             "date": "2011-07-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4885,7 +4885,7 @@
             "slug": "achievement-unlocked-season-1-complete-collection-guide-part-two",
             "date": "2011-07-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4895,7 +4895,7 @@
             "slug": "achievement-unlocked-season-1-yo-adrian-achievement-guide",
             "date": "2011-07-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4905,7 +4905,7 @@
             "slug": "achievement-unlocked-season-1-complete-collection-guide-part-one",
             "date": "2011-07-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4915,7 +4915,7 @@
             "slug": "achievement-unlocked-season-1-reefer-madness-dlc-achievements",
             "date": "2011-07-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4935,7 +4935,7 @@
             "slug": "achievement-unlocked-season-1-footy-foul-achievement-guide",
             "date": "2011-07-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4945,7 +4945,7 @@
             "slug": "achievement-unlocked-season-1-companion-barrel-achievement-guide",
             "date": "2011-07-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4955,7 +4955,7 @@
             "slug": "achievement-unlocked-season-1-doll-collector-achievement-guide",
             "date": "2011-07-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4965,7 +4965,7 @@
             "slug": "achievement-unlocked-season-1-pescaphobe-achievement-guide",
             "date": "2011-07-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -4995,7 +4995,7 @@
             "slug": "achievement-unlocked-season-1-party-animal-achievement-guide",
             "date": "2011-06-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5005,7 +5005,7 @@
             "slug": "achievement-unlocked-season-1-bucket-head-achievement",
             "date": "2011-06-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5025,7 +5025,7 @@
             "slug": "achievement-unlocked-season-1-bulletproof-windshield-achievement-guide",
             "date": "2011-06-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5055,7 +5055,7 @@
             "slug": "achievement-unlocked-season-1-librarian-achievement-guide",
             "date": "2011-06-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5065,7 +5065,7 @@
             "slug": "achievement-unlocked-season-1-give-my-regards-achievement-guide",
             "date": "2011-06-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5085,7 +5085,7 @@
             "slug": "achievement-unlocked-season-1-chauffeur-service-achievement-guide",
             "date": "2011-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5095,7 +5095,7 @@
             "slug": "achievement-unlocked-season-1-fakeloo-achievement-guide",
             "date": "2011-06-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5105,7 +5105,7 @@
             "slug": "achievement-unlocked-season-1-take-them-for-a-spin-trophy-guide",
             "date": "2011-06-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5115,7 +5115,7 @@
             "slug": "achievement-unlocked-season-1-a-good-looking-corpse-guide",
             "date": "2011-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5135,7 +5135,7 @@
             "slug": "achievement-unlocked-season-1-return-to-sender-trophy-guide",
             "date": "2011-06-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5145,7 +5145,7 @@
             "slug": "achievement-unlocked-season-1-shock-and-awe-trophy-guide",
             "date": "2011-06-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5155,7 +5155,7 @@
             "slug": "achievement-unlocked-season-1-mining-achievements",
             "date": "2011-06-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5165,7 +5165,7 @@
             "slug": "achievement-unlocked-season-1-discerning-taste-achievement-guide",
             "date": "2011-06-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5175,7 +5175,7 @@
             "slug": "achievement-unlocked-season-1-racing-for-pinks-achievement-guide",
             "date": "2011-06-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5195,7 +5195,7 @@
             "slug": "achievement-unlocked-season-1-the-moose-achievement-guide",
             "date": "2011-06-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5205,7 +5205,7 @@
             "slug": "achievement-unlocked-season-1-lead-foot-achievement-guide",
             "date": "2011-06-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5235,7 +5235,7 @@
             "slug": "achievement-unlocked-season-1-hollywoodland-achievement-guide-pt-5-hidden-film-canisters",
             "date": "2011-05-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5245,7 +5245,7 @@
             "slug": "achievement-unlocked-season-1-hollywoodland-achievement-guide-pt-4-hidden-film-canisters",
             "date": "2011-05-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5255,7 +5255,7 @@
             "slug": "achievement-unlocked-season-1-hollywoodland-achievement-guide-pt-3-hidden-film-canisters",
             "date": "2011-05-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5265,7 +5265,7 @@
             "slug": "achievement-unlocked-season-1-hollywoodland-achievement-guide-pt-2-hidden-film-canisters",
             "date": "2011-05-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5275,7 +5275,7 @@
             "slug": "achievement-unlocked-season-1-traffic-stop-achievement-guide",
             "date": "2011-05-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5285,7 +5285,7 @@
             "slug": "achievement-unlocked-season-1-hollywoodland-achievement-guide-pt-1-hidden-film-canisters",
             "date": "2011-05-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5295,7 +5295,7 @@
             "slug": "achievement-unlocked-season-1-keep-a-lid-on-achievement-guide",
             "date": "2011-05-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5315,7 +5315,7 @@
             "slug": "achievement-unlocked-season-1-the-shadow-achievement-guide",
             "date": "2011-05-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5325,7 +5325,7 @@
             "slug": "achievement-unlocked-season-1-stab-rite-achievement-guide",
             "date": "2011-05-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5335,7 +5335,7 @@
             "slug": "achievement-unlocked-season-1-sea-turtles-mate-achievement-guide",
             "date": "2011-05-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5345,7 +5345,7 @@
             "slug": "achievement-unlocked-season-1-not-so-hasty-achievement-guide",
             "date": "2011-05-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5365,7 +5365,7 @@
             "slug": "achievement-unlocked-season-1-wind-in-your-sails-achievement-guide",
             "date": "2011-05-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5375,7 +5375,7 @@
             "slug": "achievement-unlocked-season-1-did-everybody-see-that-achievement-guide",
             "date": "2011-05-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5385,7 +5385,7 @@
             "slug": "achievement-unlocked-season-1-what-do-you-want-most-achievement-guide",
             "date": "2011-05-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5395,7 +5395,7 @@
             "slug": "achievement-unlocked-season-1-here-there-be-monsters-achievement-guide",
             "date": "2011-05-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5425,7 +5425,7 @@
             "slug": "achievement-unlocked-season-1-try-wearing-a-corset-achievement-guide",
             "date": "2011-05-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5485,7 +5485,7 @@
             "slug": "achievement-unlocked-season-1-three-missable-achievements-spoilers",
             "date": "2011-04-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5495,7 +5495,7 @@
             "slug": "achievement-unlocked-season-1-portrait-of-a-lady-achievement-guide",
             "date": "2011-04-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5505,7 +5505,7 @@
             "slug": "achievement-unlocked-season-1-achievements-in-minecraft",
             "date": "2011-04-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5525,7 +5525,7 @@
             "slug": "achievement-unlocked-season-1-final-transmission-achievement-guide",
             "date": "2011-04-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5535,7 +5535,7 @@
             "slug": "achievement-unlocked-season-1-pturretdactyl-achievement-guide",
             "date": "2011-04-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5545,7 +5545,7 @@
             "slug": "achievement-unlocked-season-1-drop-box-achievement-guide",
             "date": "2011-04-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5565,7 +5565,7 @@
             "slug": "achievement-unlocked-season-1-stairway-to-heaven-achievement-guide",
             "date": "2011-04-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5585,7 +5585,7 @@
             "slug": "achievement-unlocked-season-1-historian-achievement-guide-part-four",
             "date": "2011-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5595,7 +5595,7 @@
             "slug": "achievement-unlocked-season-1-the-answer-achievement-guide",
             "date": "2011-04-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5605,7 +5605,7 @@
             "slug": "achievement-unlocked-season-1-david-rejected-achievement-guide",
             "date": "2011-04-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5615,7 +5615,7 @@
             "slug": "achievement-unlocked-season-1-historian-achievement-guide-part-three",
             "date": "2011-04-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5625,7 +5625,7 @@
             "slug": "achievement-unlocked-season-1-food-for-thought-achievement-guide",
             "date": "2011-03-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5635,7 +5635,7 @@
             "slug": "achievement-unlocked-season-1-historian-achievement-guide-part-two",
             "date": "2011-03-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5645,7 +5645,7 @@
             "slug": "achievement-unlocked-season-1-good-use-of-cover-achievement-guide",
             "date": "2011-03-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5655,7 +5655,7 @@
             "slug": "achievement-unlocked-season-1-xbox-live-labs-achievements-and-avatar-awards",
             "date": "2011-03-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5665,7 +5665,7 @@
             "slug": "achievement-unlocked-season-1-historian-achievement-guide-part-one",
             "date": "2011-03-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5675,7 +5675,7 @@
             "slug": "achievement-unlocked-season-1-give-him-the-stick-achievement-guide",
             "date": "2011-03-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5685,7 +5685,7 @@
             "slug": "achievement-unlocked-season-1-achievement-hunter-at-pax-east",
             "date": "2011-03-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5695,7 +5695,7 @@
             "slug": "achievement-unlocked-season-1-clowning-around-dlc-achievement-guide",
             "date": "2011-03-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5705,7 +5705,7 @@
             "slug": "achievement-unlocked-season-1-enchantment-overload-achievement-guide",
             "date": "2011-03-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5715,7 +5715,7 @@
             "slug": "achievement-unlocked-season-1-a-champion-emerges-achievement-guide",
             "date": "2011-03-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5725,7 +5725,7 @@
             "slug": "achievement-unlocked-season-1-the-awakening-achievement-guide",
             "date": "2011-03-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5735,7 +5735,7 @@
             "slug": "achievement-unlocked-season-1-turnabout-if-fair-play-achievement-guide",
             "date": "2011-03-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5745,7 +5745,7 @@
             "slug": "achievement-unlocked-season-1-blackmoore-stack-achievement-guide",
             "date": "2011-02-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5755,7 +5755,7 @@
             "slug": "achievement-unlocked-season-1-shadow-takedown-achievement-guide",
             "date": "2011-02-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5765,7 +5765,7 @@
             "slug": "achievement-unlocked-season-1-doll-antiquarian-achievement-guide",
             "date": "2011-02-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5775,7 +5775,7 @@
             "slug": "achievement-unlocked-season-1-doll-connoisseur-achievement-guide",
             "date": "2011-02-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5785,7 +5785,7 @@
             "slug": "achievement-unlocked-season-1-doll-fancier-achievement-guide",
             "date": "2011-02-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5805,7 +5805,7 @@
             "slug": "achievement-unlocked-season-1-doll-hobbyist-achievement-guide",
             "date": "2011-02-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5825,7 +5825,7 @@
             "slug": "achievement-unlocked-season-1-vehicular-slaughter-achievement-guide",
             "date": "2011-02-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5835,7 +5835,7 @@
             "slug": "achievement-unlocked-season-1-frag-master-achievement-guide",
             "date": "2011-01-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5845,7 +5845,7 @@
             "slug": "achievement-unlocked-season-1-double-whammy-achievement-guide",
             "date": "2011-01-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5915,7 +5915,7 @@
             "slug": "achievement-unlocked-season-1-electrically-charged-achievement-guide",
             "date": "2011-01-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5925,7 +5925,7 @@
             "slug": "achievement-unlocked-season-1-hopscotch-roadrunner-achievement-guide",
             "date": "2010-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5945,7 +5945,7 @@
             "slug": "achievement-unlocked-season-1-knight-jumps-chesty-achievement-guide",
             "date": "2010-12-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5955,7 +5955,7 @@
             "slug": "achievement-unlocked-season-1-3-bloody-achievements",
             "date": "2010-11-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5965,7 +5965,7 @@
             "slug": "achievement-unlocked-season-1-fly-like-an-eagle-achievement-guide",
             "date": "2010-11-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5985,7 +5985,7 @@
             "slug": "achievement-unlocked-season-1-tough-economy-achievement-guide",
             "date": "2010-11-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -5995,7 +5995,7 @@
             "slug": "achievement-unlocked-season-1-coronation-chicken-achievement-guide",
             "date": "2010-11-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6005,7 +6005,7 @@
             "slug": "achievement-unlocked-season-1-level-7-holocron-guide",
             "date": "2010-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6015,7 +6015,7 @@
             "slug": "achievement-unlocked-season-1-level-2-holocron-guide",
             "date": "2010-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6025,7 +6025,7 @@
             "slug": "achievement-unlocked-season-1-level-1-holocron-guide",
             "date": "2010-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6045,7 +6045,7 @@
             "slug": "achievement-unlocked-season-1-electric-slammeroo-achievement-guide-part-1",
             "date": "2010-10-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6055,7 +6055,7 @@
             "slug": "achievement-unlocked-season-1-the-commander-achievement-guide",
             "date": "2010-10-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6085,7 +6085,7 @@
             "slug": "achievement-unlocked-season-1-the-impossible-achievement-guide",
             "date": "2010-10-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6135,7 +6135,7 @@
             "slug": "achievement-unlocked-season-1-like-a-surgeon-achievement-guide",
             "date": "2010-10-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6295,7 +6295,7 @@
             "slug": "achievement-unlocked-season-1-if-they-came-to-hear-me-beg-achievement-guide",
             "date": "2010-09-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6365,7 +6365,7 @@
             "slug": "achievement-unlocked-season-1-garbage-collection-achievement-guide",
             "date": "2010-09-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6375,7 +6375,7 @@
             "slug": "achievement-unlocked-season-1-a-bigger-taste-achievement-guide",
             "date": "2010-09-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6425,7 +6425,7 @@
             "slug": "achievement-unlocked-season-1-4-passing-achievements",
             "date": "2010-08-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6455,7 +6455,7 @@
             "slug": "achievement-unlocked-season-1-4-more-madden-achievements",
             "date": "2010-08-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6675,7 +6675,7 @@
             "slug": "achievement-unlocked-season-1-your-lucky-day-achievement-guide-plus-4-others",
             "date": "2010-06-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6725,7 +6725,7 @@
             "slug": "achievement-unlocked-season-1-thinking-inside-the-box-achievement-guide",
             "date": "2010-05-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6735,7 +6735,7 @@
             "slug": "achievement-unlocked-season-1-stay-dry-plus-4-others-achievement-guide",
             "date": "2010-05-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6755,7 +6755,7 @@
             "slug": "achievement-unlocked-season-1-sound-and-fury-achievement-guide",
             "date": "2010-05-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6805,7 +6805,7 @@
             "slug": "achievement-unlocked-season-1-two-for-the-price-of-one-achievement-guide",
             "date": "2010-05-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6875,7 +6875,7 @@
             "slug": "achievement-unlocked-season-1-fore-achievement-guide",
             "date": "2010-04-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6935,7 +6935,7 @@
             "slug": "achievement-unlocked-season-1-mount-olympus-item-guide-part-3",
             "date": "2010-03-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -6965,7 +6965,7 @@
             "slug": "achievement-unlocked-season-1-desperate-escape-shoot-the-messenger-guide",
             "date": "2010-03-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7035,7 +7035,7 @@
             "slug": "achievement-unlocked-season-1-bioshock-2-5-achievements",
             "date": "2010-02-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7135,7 +7135,7 @@
             "slug": "achievement-unlocked-season-1-alfeim-2-guide",
             "date": "2010-01-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7245,7 +7245,7 @@
             "slug": "achievement-unlocked-season-1-serious-complex-guide",
             "date": "2009-12-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7375,7 +7375,7 @@
             "slug": "achievement-unlocked-season-1-violence-in-silence-guide",
             "date": "2009-12-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7415,7 +7415,7 @@
             "slug": "achievement-unlocked-season-1-septic-tank-head-honcho-achievement-guide",
             "date": "2009-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7425,7 +7425,7 @@
             "slug": "achievement-unlocked-season-1-gong-show-achievement-guide",
             "date": "2009-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7435,7 +7435,7 @@
             "slug": "achievement-unlocked-season-1-stache-whacker-achievement-guide",
             "date": "2009-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7515,7 +7515,7 @@
             "slug": "achievement-unlocked-season-1-the-harder-they-fall-guide",
             "date": "2009-11-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7555,7 +7555,7 @@
             "slug": "achievement-unlocked-season-1-driving-high-guide",
             "date": "2009-11-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7565,7 +7565,7 @@
             "slug": "achievement-unlocked-season-1-demon-and-lapper-guide",
             "date": "2009-11-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7605,7 +7605,7 @@
             "slug": "achievement-unlocked-season-1-bear-fight-guide",
             "date": "2009-11-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7635,7 +7635,7 @@
             "slug": "achievement-unlocked-season-1-azazel-guide-night-at-the-movies",
             "date": "2009-10-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7645,7 +7645,7 @@
             "slug": "achievement-unlocked-season-1-king-of-the-hill-guide",
             "date": "2009-10-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7665,7 +7665,7 @@
             "slug": "achievement-unlocked-season-1-riddler-trophy-guide-part-three",
             "date": "2009-10-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7685,7 +7685,7 @@
             "slug": "achievement-unlocked-season-1-crash-course-dlc-quick-power-guide",
             "date": "2009-09-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7755,7 +7755,7 @@
             "slug": "achievement-unlocked-season-1-both-tubes-achievement-guide",
             "date": "2009-09-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7795,7 +7795,7 @@
             "slug": "achievement-unlocked-season-1-collectibles-guide-part-one-prologue",
             "date": "2009-09-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7845,7 +7845,7 @@
             "slug": "achievement-unlocked-season-1-riddler-trophy-guide-part-one",
             "date": "2009-08-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7855,7 +7855,7 @@
             "slug": "achievement-unlocked-season-1-achievement-overview-battlefield1942",
             "date": "2009-07-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7865,7 +7865,7 @@
             "slug": "achievement-unlocked-season-1-level-seven-guide-w-artifacts-scans",
             "date": "2009-07-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7875,7 +7875,7 @@
             "slug": "achievement-unlocked-season-1-one-down-on-the-ground-achievement-guide",
             "date": "2009-07-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7925,7 +7925,7 @@
             "slug": "achievement-unlocked-season-1-but-the-kids-love-us-achievement-guide",
             "date": "2009-06-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7935,7 +7935,7 @@
             "slug": "achievement-unlocked-season-1-level-three-guide-w-artifacts-fountains-scans",
             "date": "2009-06-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7945,7 +7945,7 @@
             "slug": "achievement-unlocked-season-1-level-one-guide-w-artifacts-fountains-scans",
             "date": "2009-06-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7965,7 +7965,7 @@
             "slug": "achievement-unlocked-season-1-polymath-achievement-guide-part-one",
             "date": "2009-06-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7975,7 +7975,7 @@
             "slug": "achievement-unlocked-season-1-speed-bumps-achievement-guide",
             "date": "2009-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -7985,7 +7985,7 @@
             "slug": "achievement-unlocked-season-1-the-first-thread-evolutionary-step-and-crossing-the-t-achievement-guide",
             "date": "2009-06-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8005,7 +8005,7 @@
             "slug": "achievement-unlocked-season-1-x-men-origins-wolverine-ultimate-wolverine-achievement-guide",
             "date": "2009-05-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8015,7 +8015,7 @@
             "slug": "achievement-unlocked-season-1-x-men-origins-wolverine-stick-around-threading-the-needle-achievement-guide",
             "date": "2009-05-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8025,7 +8025,7 @@
             "slug": "achievement-unlocked-season-1-found-wow-the-cake-achievement-guide",
             "date": "2009-05-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8045,7 +8045,7 @@
             "slug": "achievement-unlocked-season-1-bad-blood-heart-stopper-masters-of-removal-guide",
             "date": "2009-04-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8055,7 +8055,7 @@
             "slug": "achievement-unlocked-season-1-head-cheese-meat-your-maker-feeling-punchy-draw-guide",
             "date": "2009-04-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8065,7 +8065,7 @@
             "slug": "achievement-unlocked-season-1-lead-aspirin-go-into-the-light-drive-by-egg-on-your-face-guide",
             "date": "2009-04-23",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8075,7 +8075,7 @@
             "slug": "achievement-unlocked-season-1-three-level-specific-achievements",
             "date": "2009-04-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8085,7 +8085,7 @@
             "slug": "achievement-unlocked-season-1-be-the-knife-fireworks-baptism-by-fire-guide",
             "date": "2009-04-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8105,7 +8105,7 @@
             "slug": "achievement-unlocked-season-1-11-achievements",
             "date": "2009-04-07",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8115,7 +8115,7 @@
             "slug": "achievement-unlocked-season-1-halo-3-5-more-mythic-achievements",
             "date": "2009-04-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8145,7 +8145,7 @@
             "slug": "achievement-unlocked-season-1-family-tree-achievements",
             "date": "2009-04-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8165,7 +8165,7 @@
             "slug": "achievement-unlocked-season-1-killer-achievements",
             "date": "2009-04-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8215,7 +8215,7 @@
             "slug": "achievement-unlocked-season-1-thinkin-about-my-doorbell-guide",
             "date": "2009-03-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8225,7 +8225,7 @@
             "slug": "achievement-unlocked-season-1-beaming-with-pride-achievement-guide",
             "date": "2009-03-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8245,7 +8245,7 @@
             "slug": "achievement-unlocked-season-1-handy-with-tools-achievement-guide",
             "date": "2009-03-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8255,7 +8255,7 @@
             "slug": "achievement-unlocked-season-1-untouchable-achievement-guide-3",
             "date": "2009-03-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8265,7 +8265,7 @@
             "slug": "achievement-unlocked-season-1-battened-down-the-hatches-guide",
             "date": "2009-03-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8275,7 +8275,7 @@
             "slug": "achievement-unlocked-season-1-the-procrastinator-achievement-guide",
             "date": "2009-03-11",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8285,7 +8285,7 @@
             "slug": "achievement-unlocked-season-1-sweet-naptime-achievement-guide",
             "date": "2009-03-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8295,7 +8295,7 @@
             "slug": "achievement-unlocked-season-1-tank-dropper-achievement",
             "date": "2009-03-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8315,7 +8315,7 @@
             "slug": "achievement-unlocked-season-1-pajamachievement-preview-3",
             "date": "2009-02-19",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8335,7 +8335,7 @@
             "slug": "achievement-unlocked-season-1-call-of-duty-4-your-show-sucks-guide",
             "date": "2009-02-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8345,7 +8345,7 @@
             "slug": "achievement-unlocked-season-1-lost-planet-tornado-and-volcano-achievement-guide",
             "date": "2009-02-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8355,7 +8355,7 @@
             "slug": "achievement-unlocked-season-1-fallout-3-mercenary-protector-reaver-guide",
             "date": "2009-01-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8365,7 +8365,7 @@
             "slug": "achievement-unlocked-season-1-achievement-hunt-prince-of-persia-death-of-a-warrior-king",
             "date": "2009-01-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8435,7 +8435,7 @@
             "slug": "achievement-unlocked-season-1-melee-is-best-deer-trainer-the-traitor-guide",
             "date": "2009-01-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8445,7 +8445,7 @@
             "slug": "achievement-unlocked-season-1-the-professional-and-gunslinger-achievement-guide",
             "date": "2009-01-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8455,7 +8455,7 @@
             "slug": "achievement-unlocked-season-1-community-video-head-for-heights-guide",
             "date": "2009-01-13",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8465,7 +8465,7 @@
             "slug": "achievement-unlocked-season-1-workhorse-achievement",
             "date": "2009-01-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8475,7 +8475,7 @@
             "slug": "achievement-unlocked-season-1-mercenaries-2-achievement-guide",
             "date": "2009-01-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8505,7 +8505,7 @@
             "slug": "achievement-unlocked-season-1-community-video-we-have-people-everywhere-guide",
             "date": "2008-12-30",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8515,7 +8515,7 @@
             "slug": "achievement-unlocked-season-1-community-video-the-duelist-guide",
             "date": "2008-12-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8525,7 +8525,7 @@
             "slug": "achievement-unlocked-season-1-extinction-event-guide",
             "date": "2008-12-26",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8565,7 +8565,7 @@
             "slug": "achievement-unlocked-season-1-community-video-big-drag-double-jump-guide",
             "date": "2008-12-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8575,7 +8575,7 @@
             "slug": "achievement-unlocked-season-1-community-video-bbq-beef-achievement-guide",
             "date": "2008-12-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8605,7 +8605,7 @@
             "slug": "achievement-unlocked-season-1-community-video-back-2-help-guide",
             "date": "2008-12-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8615,7 +8615,7 @@
             "slug": "achievement-unlocked-season-1-community-video-the-romantic-guide",
             "date": "2008-12-16",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8635,7 +8635,7 @@
             "slug": "achievement-unlocked-season-1-hunter-special-and-alchemist-special-guide",
             "date": "2008-12-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8645,7 +8645,7 @@
             "slug": "achievement-unlocked-season-1-get-jiggy-achievement-guide",
             "date": "2008-12-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8655,7 +8655,7 @@
             "slug": "achievement-unlocked-season-1-community-video-weapon-of-mass-destruction-achievement-guide",
             "date": "2008-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8665,7 +8665,7 @@
             "slug": "achievement-unlocked-season-1-community-video-the-companions-achievement-guide",
             "date": "2008-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8675,7 +8675,7 @@
             "slug": "achievement-unlocked-season-1-community-video-keep-off-the-sand-osha-violation-targeted-advertising-achievement-guide",
             "date": "2008-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8685,7 +8685,7 @@
             "slug": "achievement-unlocked-season-1-community-video-pound-of-flesh-achievement-guide",
             "date": "2008-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8695,7 +8695,7 @@
             "slug": "achievement-unlocked-season-1-on-the-clock-achievement-guide",
             "date": "2008-12-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8705,7 +8705,7 @@
             "slug": "achievement-unlocked-season-1-the-goth-achievement-guide",
             "date": "2008-12-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8755,7 +8755,7 @@
             "slug": "achievement-unlocked-season-1-community-video-cr0wnd-and-akimbo-assassin-achievement-guide",
             "date": "2008-12-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8815,7 +8815,7 @@
             "slug": "achievement-unlocked-season-1-community-video-the-party-animal-achievement-guide",
             "date": "2008-11-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8825,7 +8825,7 @@
             "slug": "achievement-unlocked-season-1-community-video-chapter-1-silver-and-bronze-bird-award-achievement-guide",
             "date": "2008-11-22",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8845,7 +8845,7 @@
             "slug": "achievement-unlocked-season-1-demolition-man-achievement-guide",
             "date": "2008-11-21",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8855,7 +8855,7 @@
             "slug": "achievement-unlocked-season-1-community-video-the-teaser-achievement",
             "date": "2008-11-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8875,7 +8875,7 @@
             "slug": "achievement-unlocked-season-1-community-video-gnoming-pack-rat-achievement-guide",
             "date": "2008-11-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8885,7 +8885,7 @@
             "slug": "achievement-unlocked-season-1-packrat-guide-part-2-of-4",
             "date": "2008-11-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8935,7 +8935,7 @@
             "slug": "achievement-unlocked-season-1-community-video-the-bigamist-achievement-guide",
             "date": "2008-11-12",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8965,7 +8965,7 @@
             "slug": "achievement-unlocked-season-1-community-video-roadkill-achievement-guide",
             "date": "2008-11-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8975,7 +8975,7 @@
             "slug": "achievement-unlocked-season-1-community-video-eight-jumper-achievements",
             "date": "2008-11-05",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -8985,7 +8985,7 @@
             "slug": "achievement-unlocked-season-1-four-awesome-fable-ii-achievements",
             "date": "2008-11-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9005,7 +9005,7 @@
             "slug": "achievement-unlocked-season-1-reluctant-hero-achievement-guide",
             "date": "2008-10-29",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9025,7 +9025,7 @@
             "slug": "achievement-unlocked-season-1-mindless-prey-plus-3-others-achievement-guide",
             "date": "2008-10-28",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9045,7 +9045,7 @@
             "slug": "achievement-unlocked-season-1-get-off-my-ship-slugger-achievement-guide",
             "date": "2008-10-27",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9065,7 +9065,7 @@
             "slug": "achievement-unlocked-season-1-exterminator-playing-catch-achievement-guide",
             "date": "2008-10-20",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9075,7 +9075,7 @@
             "slug": "achievement-unlocked-season-1-brute-force-achievement-guide",
             "date": "2008-10-15",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9085,7 +9085,7 @@
             "slug": "achievement-unlocked-season-1-ragdoll-check-achievement-guide",
             "date": "2008-10-10",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9095,7 +9095,7 @@
             "slug": "achievement-unlocked-season-1-armstrong-achievement-guide",
             "date": "2008-10-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9105,7 +9105,7 @@
             "slug": "achievement-unlocked-season-1-merchant-achievement-guide",
             "date": "2008-10-08",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9115,7 +9115,7 @@
             "slug": "achievement-unlocked-season-1-marksman-and-tool-time-achievement-guide",
             "date": "2008-10-06",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9135,7 +9135,7 @@
             "slug": "achievement-unlocked-season-1-overkill-steppin-razor-2-for-1-mongoose-mowdown-guide",
             "date": "2008-10-01",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9145,7 +9145,7 @@
             "slug": "achievement-unlocked-season-1-three-new-halo-3-achievements",
             "date": "2008-09-24",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9195,7 +9195,7 @@
             "slug": "achievement-unlocked-season-1-neophyte-hoarder-scout-clean-slate-guide",
             "date": "2008-09-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9225,7 +9225,7 @@
             "slug": "achievement-unlocked-season-1-millionaire-achievement-guide",
             "date": "2008-09-04",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9235,7 +9235,7 @@
             "slug": "achievement-unlocked-season-1-equal-skill-and-power-guide",
             "date": "2008-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -9245,7 +9245,7 @@
             "slug": "achievement-unlocked-season-1-waves-surf-phobia-unlocked-all-modes-millionaire-guide",
             "date": "2008-09-02",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         }

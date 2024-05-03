@@ -3,9 +3,9 @@
     "slug": "clip-of-the-week",
     "summary": {
         "count": 97,
-        "uploaded": 89,
-        "missing": 8,
-        "incomplete": 2,
+        "uploaded": 97,
+        "missing": 0,
+        "incomplete": 10,
         "removed": 0
     },
     "data": [
@@ -705,7 +705,7 @@
             "slug": "clip-of-the-week-screwattack-grand-prix",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -715,7 +715,7 @@
             "slug": "clip-of-the-week-voltron",
             "date": "2011-08-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -735,7 +735,7 @@
             "slug": "clip-of-the-week-need-more-firepower",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -745,7 +745,7 @@
             "slug": "clip-of-the-week-noob-dudes",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -795,7 +795,7 @@
             "slug": "clip-of-the-week-illegal-downloading",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -815,7 +815,7 @@
             "slug": "clip-of-the-week-virus-attack",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -835,7 +835,7 @@
             "slug": "clip-of-the-week-screwattack-for-president",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -845,7 +845,7 @@
             "slug": "clip-of-the-week-gametap-again",
             "date": "2011-08-17",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

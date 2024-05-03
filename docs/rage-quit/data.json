@@ -3,9 +3,9 @@
     "slug": "rage-quit",
     "summary": {
         "count": 204,
-        "uploaded": 202,
-        "missing": 2,
-        "incomplete": 0,
+        "uploaded": 204,
+        "missing": 0,
+        "incomplete": 2,
         "removed": 0
     },
     "data": [
@@ -1485,7 +1485,7 @@
             "slug": "rage-quit-2012-44",
             "date": "2012-02-09",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
@@ -1605,7 +1605,7 @@
             "slug": "rage-quit-2011-16",
             "date": "2011-11-18",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

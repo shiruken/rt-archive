@@ -3,9 +3,9 @@
     "slug": "captain-dynamic",
     "summary": {
         "count": 4,
-        "uploaded": 3,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 4,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "captain-dynamic-season-1-outtakes",
             "date": "2009-03-25",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },

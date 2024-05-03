@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42597,
-        "uploaded": 41989,
-        "missing": 608,
-        "incomplete": 1061,
+        "uploaded": 42597,
+        "missing": 0,
+        "incomplete": 1669,
         "removed": 2
     },
     "data": [
@@ -38,9 +38,9 @@
             "show": "A Look Back At",
             "slug": "a-look-back-at",
             "count": 25,
-            "uploaded": 24,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 25,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -74,9 +74,9 @@
             "show": "Achievement HORSE",
             "slug": "achievement-horse",
             "count": 143,
-            "uploaded": 137,
-            "missing": 6,
-            "incomplete": 0,
+            "uploaded": 143,
+            "missing": 0,
+            "incomplete": 6,
             "removed": 0
         },
         {
@@ -92,9 +92,9 @@
             "show": "Achievement Hunter",
             "slug": "achievement-hunter",
             "count": 1783,
-            "uploaded": 1537,
-            "missing": 246,
-            "incomplete": 294,
+            "uploaded": 1783,
+            "missing": 0,
+            "incomplete": 540,
             "removed": 0
         },
         {
@@ -119,9 +119,9 @@
             "show": "Achievement Unlocked",
             "slug": "achievement-unlocked",
             "count": 924,
-            "uploaded": 633,
-            "missing": 291,
-            "incomplete": 347,
+            "uploaded": 924,
+            "missing": 0,
+            "incomplete": 638,
             "removed": 0
         },
         {
@@ -146,9 +146,9 @@
             "show": "AHWU",
             "slug": "ahwu",
             "count": 495,
-            "uploaded": 474,
-            "missing": 21,
-            "incomplete": 51,
+            "uploaded": 495,
+            "missing": 0,
+            "incomplete": 72,
             "removed": 0
         },
         {
@@ -452,9 +452,9 @@
             "show": "Captain Dynamic",
             "slug": "captain-dynamic",
             "count": 4,
-            "uploaded": 3,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 4,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -866,9 +866,9 @@
             "show": "Drunk Tank",
             "slug": "drunk-tank",
             "count": 3,
-            "uploaded": 2,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 3,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -884,9 +884,9 @@
             "show": "Easter Eggs",
             "slug": "easter-eggs",
             "count": 334,
-            "uploaded": 332,
-            "missing": 2,
-            "incomplete": 12,
+            "uploaded": 334,
+            "missing": 0,
+            "incomplete": 14,
             "removed": 0
         },
         {
@@ -1226,9 +1226,9 @@
             "show": "Fails of the Weak",
             "slug": "fails-of-the-weak",
             "count": 295,
-            "uploaded": 294,
-            "missing": 1,
-            "incomplete": 27,
+            "uploaded": 295,
+            "missing": 0,
+            "incomplete": 28,
             "removed": 0
         },
         {
@@ -2063,9 +2063,9 @@
             "show": "Let's Play",
             "slug": "lets-play",
             "count": 2163,
-            "uploaded": 2162,
-            "missing": 1,
-            "incomplete": 7,
+            "uploaded": 2163,
+            "missing": 0,
+            "incomplete": 8,
             "removed": 0
         },
         {
@@ -2567,9 +2567,9 @@
             "show": "Rage Quit",
             "slug": "rage-quit",
             "count": 204,
-            "uploaded": 202,
-            "missing": 2,
-            "incomplete": 0,
+            "uploaded": 204,
+            "missing": 0,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -2927,18 +2927,18 @@
             "show": "RT Recap",
             "slug": "rt-recap",
             "count": 24,
-            "uploaded": 22,
-            "missing": 2,
-            "incomplete": 18,
+            "uploaded": 24,
+            "missing": 0,
+            "incomplete": 20,
             "removed": 0
         },
         {
             "show": "RT Shorts",
             "slug": "rt-shorts",
             "count": 239,
-            "uploaded": 237,
-            "missing": 2,
-            "incomplete": 2,
+            "uploaded": 239,
+            "missing": 0,
+            "incomplete": 4,
             "removed": 0
         },
         {
@@ -3134,9 +3134,9 @@
             "show": "ScrewAttack Shorts",
             "slug": "clip-of-the-week",
             "count": 97,
-            "uploaded": 89,
-            "missing": 8,
-            "incomplete": 2,
+            "uploaded": 97,
+            "missing": 0,
+            "incomplete": 10,
             "removed": 0
         },
         {
@@ -3593,9 +3593,9 @@
             "show": "This is...",
             "slug": "this-is",
             "count": 138,
-            "uploaded": 118,
-            "missing": 20,
-            "incomplete": 5,
+            "uploaded": 138,
+            "missing": 0,
+            "incomplete": 25,
             "removed": 0
         },
         {
@@ -3665,9 +3665,9 @@
             "show": "Trials Pig",
             "slug": "trials-pig",
             "count": 75,
-            "uploaded": 74,
-            "missing": 1,
-            "incomplete": 0,
+            "uploaded": 75,
+            "missing": 0,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -3773,9 +3773,9 @@
             "show": "Video Game Vault",
             "slug": "video-game-vault",
             "count": 340,
-            "uploaded": 338,
-            "missing": 2,
-            "incomplete": 2,
+            "uploaded": 340,
+            "missing": 0,
+            "incomplete": 4,
             "removed": 0
         },
         {

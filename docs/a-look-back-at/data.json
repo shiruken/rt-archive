@@ -3,9 +3,9 @@
     "slug": "a-look-back-at",
     "summary": {
         "count": 25,
-        "uploaded": 24,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 25,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -45,7 +45,7 @@
             "slug": "a-look-back-at-season-1-a-look-back-at-sneak-king",
             "date": "2012-06-14",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
