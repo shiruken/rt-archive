@@ -1,21 +1,4 @@
 {
-    "count": 2,
-    "data": [
-        {
-            "title": "RWBY: 10 Years Later",
-            "slug": "rwby-rwby-beyond-rwby-10-years-later",
-            "date": "2024-05-03",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
-            "title": "The Grimm Campaign: The Last Roll",
-            "slug": "rwby-the-grimm-campaign-season-3-the-grimm-campaign-the-last-roll",
-            "date": "2024-05-03",
-            "is_first": false,
-            "show": "RWBY: The Grimm Campaign",
-            "show_slug": "rwby-the-grimm-campaign"
-        }
-    ]
+    "count": 0,
+    "data": []
 }

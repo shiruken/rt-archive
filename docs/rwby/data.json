@@ -3,9 +3,9 @@
     "slug": "rwby",
     "summary": {
         "count": 170,
-        "uploaded": 169,
-        "missing": 1,
-        "incomplete": 0,
+        "uploaded": 170,
+        "missing": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -15,7 +15,7 @@
             "slug": "rwby-rwby-beyond-rwby-10-years-later",
             "date": "2024-05-03",
             "is_first": false,
-            "is_uploaded": false,
+            "is_uploaded": true,
             "is_complete_upload": false,
             "is_removed": false
         },
