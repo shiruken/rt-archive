@@ -2,13 +2,23 @@
     "show": "RWBY: The Grimm Campaign",
     "slug": "rwby-the-grimm-campaign",
     "summary": {
-        "count": 24,
+        "count": 25,
         "uploaded": 24,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The Grimm Campaign: The Last Roll",
+            "id": "52862",
+            "slug": "rwby-the-grimm-campaign-season-3-the-grimm-campaign-the-last-roll",
+            "date": "2024-05-03",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "RWBY: The Grimm Campaign (RTX)",
             "id": "44562",

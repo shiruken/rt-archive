@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42597,
+        "count": 42599,
         "uploaded": 42597,
-        "missing": 0,
+        "missing": 2,
         "incomplete": 1668,
         "removed": 2
     },
@@ -3007,9 +3007,9 @@
         {
             "show": "RWBY",
             "slug": "rwby",
-            "count": 169,
+            "count": 170,
             "uploaded": 169,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -3070,9 +3070,9 @@
         {
             "show": "RWBY: The Grimm Campaign",
             "slug": "rwby-the-grimm-campaign",
-            "count": 24,
+            "count": 25,
             "uploaded": 24,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
