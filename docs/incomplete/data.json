@@ -1,5 +1,5 @@
 {
-    "count": 1667,
+    "count": 1657,
     "data": [
         {
             "id": "50262",
@@ -293,15 +293,6 @@
             "id": "8632",
             "title": "Battlefield 5 Next Year?",
             "slug": "game-news-2015-65",
-            "date": "2015-07-31",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8633",
-            "title": "Minecraft DOWNGRADED?! (That Dual Wield Though...)",
-            "slug": "game-news-2015-64",
             "date": "2015-07-31",
             "is_first": false,
             "show": "Game News",
@@ -2106,15 +2097,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "18803",
-            "title": "Rooster Teeth Movie Fundraising Campaign on IndieGogo",
-            "slug": "rt-life-2014-4",
-            "date": "2014-06-06",
-            "is_first": false,
-            "show": "RT Life",
-            "show_slug": "rt-life"
         },
         {
             "id": "13188",
@@ -14816,15 +14798,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "24744",
-            "title": "Holocron Walkthrough Level 3 \"Felucia\"",
-            "slug": "achievement-hunter-achievement-hunter-holocron-walkthrough-level-3-felucia",
-            "date": "2008-09-24",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25883",
             "title": "World Tour: Stage 1 Achievement Guide",
             "slug": "achievement-unlocked-season-1-world-tour-stage-1-achievement-guide",
@@ -14834,54 +14807,9 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25726",
-            "title": "Flawless Event + Three other Achievements",
-            "slug": "achievement-unlocked-season-1-flawless-event-three-other-achievements",
-            "date": "2008-09-22",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25406",
-            "title": "Frenzy / Sith Frenzy Walkthrough",
-            "slug": "achievement-hunter-achievement-hunter-frenzy-sith-frenzy-walkthrough",
-            "date": "2008-09-19",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25737",
-            "title": "Gone Clubbing / Long Shot Guide",
-            "slug": "achievement-unlocked-season-1-gone-clubbing-long-shot-guide",
-            "date": "2008-09-15",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25811",
-            "title": "Phoenix Achievement Guide",
-            "slug": "achievement-unlocked-season-1-phoenix-achievement-guide",
-            "date": "2008-09-11",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25796",
             "title": "Neophyte, Hoarder, Scout, Clean Slate Guide",
             "slug": "achievement-unlocked-season-1-neophyte-hoarder-scout-clean-slate-guide",
-            "date": "2008-09-09",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25862",
-            "title": "Threader Achievement Guide",
-            "slug": "achievement-unlocked-season-1-threader-achievement-guide",
             "date": "2008-09-09",
             "is_first": false,
             "show": "Achievement Unlocked",
@@ -14922,24 +14850,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25500",
-            "title": "Pacifism: Wax On /  Wax Off / Slalom / Millionaire",
-            "slug": "achievement-hunter-achievement-hunter-pacifism-wax-on-wax-off-slalom-millionaire",
-            "date": "2008-08-29",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25450",
-            "title": "King: Treaty / Millionaire",
-            "slug": "achievement-hunter-achievement-hunter-king-treaty-millionaire",
-            "date": "2008-08-28",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25374",
