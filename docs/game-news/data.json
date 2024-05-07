@@ -5,7 +5,7 @@
         "count": 1211,
         "uploaded": 1211,
         "missing": 0,
-        "incomplete": 62,
+        "incomplete": 53,
         "removed": 0
     },
     "data": [
@@ -11496,7 +11496,7 @@
             "date": "2015-08-21",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11526,7 +11526,7 @@
             "date": "2015-08-14",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11656,7 +11656,7 @@
             "date": "2015-07-28",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11696,7 +11696,7 @@
             "date": "2015-07-21",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11716,7 +11716,7 @@
             "date": "2015-07-14",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11816,7 +11816,7 @@
             "date": "2015-06-23",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -11976,7 +11976,7 @@
             "date": "2015-05-19",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12106,7 +12106,7 @@
             "date": "2015-05-08",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -12116,7 +12116,7 @@
             "date": "2015-05-07",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         }
     ]

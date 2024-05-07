@@ -1,9 +1,9 @@
 {
     "summary": {
         "count": 42601,
-        "uploaded": 42599,
-        "missing": 2,
-        "incomplete": 1657,
+        "uploaded": 42601,
+        "missing": 0,
+        "incomplete": 1624,
         "removed": 2
     },
     "data": [
@@ -94,7 +94,7 @@
             "count": 1783,
             "uploaded": 1783,
             "missing": 0,
-            "incomplete": 536,
+            "incomplete": 533,
             "removed": 0
         },
         {
@@ -589,7 +589,7 @@
             "count": 65,
             "uploaded": 65,
             "missing": 0,
-            "incomplete": 31,
+            "incomplete": 30,
             "removed": 0
         },
         {
@@ -922,7 +922,7 @@
             "count": 126,
             "uploaded": 126,
             "missing": 0,
-            "incomplete": 10,
+            "incomplete": 5,
             "removed": 0
         },
         {
@@ -1199,8 +1199,8 @@
             "show": "Face Jam",
             "slug": "face-jam",
             "count": 233,
-            "uploaded": 232,
-            "missing": 1,
+            "uploaded": 233,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -1390,7 +1390,7 @@
             "count": 1211,
             "uploaded": 1211,
             "missing": 0,
-            "incomplete": 62,
+            "incomplete": 53,
             "removed": 0
         },
         {
@@ -2911,7 +2911,7 @@
             "count": 61,
             "uploaded": 61,
             "missing": 0,
-            "incomplete": 59,
+            "incomplete": 49,
             "removed": 0
         },
         {
@@ -2938,7 +2938,7 @@
             "count": 239,
             "uploaded": 239,
             "missing": 0,
-            "incomplete": 3,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -3215,8 +3215,8 @@
             "show": "So...Alright",
             "slug": "so-alright",
             "count": 37,
-            "uploaded": 36,
-            "missing": 1,
+            "uploaded": 37,
+            "missing": 0,
             "incomplete": 0,
             "removed": 0
         },
@@ -3541,7 +3541,7 @@
             "count": 77,
             "uploaded": 77,
             "missing": 0,
-            "incomplete": 14,
+            "incomplete": 10,
             "removed": 0
         },
         {

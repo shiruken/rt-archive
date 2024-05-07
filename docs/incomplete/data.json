@@ -1,5 +1,5 @@
 {
-    "count": 1657,
+    "count": 1624,
     "data": [
         {
             "id": "50262",
@@ -173,15 +173,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8639",
-            "title": "Is Nintendo's New Console All Digital?",
-            "slug": "game-news-2015-83",
-            "date": "2015-08-21",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "8616",
             "title": "Destiny's Upcoming Changes",
             "slug": "game-news-2015-81",
@@ -195,15 +186,6 @@
             "title": "Rocket League BEATS Minecraft?",
             "slug": "game-news-2015-80",
             "date": "2015-08-15",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8619",
-            "title": "Star Wars Battlefront: NO ONE Wants a Campaign?!",
-            "slug": "game-news-2015-78",
-            "date": "2015-08-14",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -308,24 +290,6 @@
             "show_slug": "entertainment-news"
         },
         {
-            "id": "8010",
-            "title": "Who's Watching My Little Pony Porn?",
-            "slug": "entertainment-news-2015-9",
-            "date": "2015-07-30",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
-            "id": "8635",
-            "title": "Street Fighter V Beta Fail",
-            "slug": "game-news-2015-62",
-            "date": "2015-07-28",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "22801",
             "title": "Joel and Adam Stream Terraria - Part 2",
             "slug": "achievement-hunter-season-1-episode-2097",
@@ -353,15 +317,6 @@
             "show_slug": "the-patch-game-club"
         },
         {
-            "id": "8011",
-            "title": "Hulk Hogan BANNED for Racist Rant!",
-            "slug": "entertainment-news-2015-8",
-            "date": "2015-07-24",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
             "id": "8641",
             "title": "Should Video Game Vixens Be Heavier?",
             "slug": "game-news-2015-59",
@@ -369,15 +324,6 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
-        },
-        {
-            "id": "22802",
-            "title": "Want to play Black Ops III with Achievement Hunter... for charity?",
-            "slug": "achievement-hunter-season-1-episode-2096",
-            "date": "2015-07-23",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "8638",
@@ -407,46 +353,10 @@
             "show_slug": "the-patch"
         },
         {
-            "id": "8012",
-            "title": "Space Jam 2 Happening?!",
-            "slug": "entertainment-news-2015-7",
-            "date": "2015-07-23",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
-            "id": "8643",
-            "title": "Xbox Owes Us Money?!",
-            "slug": "game-news-2015-56",
-            "date": "2015-07-21",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8013",
-            "title": "It's Hand Job Day",
-            "slug": "entertainment-news-2015-6",
-            "date": "2015-07-20",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
             "id": "8663",
             "title": "Fallout Shelter Makes BANK",
             "slug": "game-news-2015-54",
             "date": "2015-07-17",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8699",
-            "title": "Too Much Five Nights at Freddy's?!",
-            "slug": "game-news-2015-53",
-            "date": "2015-07-14",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -497,15 +407,6 @@
             "show_slug": "the-patch-game-club"
         },
         {
-            "id": "8017",
-            "title": "Creepypasta: The TV SHOW?!",
-            "slug": "entertainment-news-2015-4",
-            "date": "2015-07-02",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
             "id": "8693",
             "title": "The Last of Us 2 CONFIRMED?",
             "slug": "game-news-2015-49",
@@ -540,15 +441,6 @@
             "is_first": false,
             "show": "How To",
             "show_slug": "how-to"
-        },
-        {
-            "id": "22807",
-            "title": "Achievement Hunter Important Announcement",
-            "slug": "achievement-hunter-achievement-hunter-achievement-hunter-important-announcement",
-            "date": "2015-06-30",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "8016",
@@ -600,15 +492,6 @@
             "title": "DRIVECLUB Finally Coming for PS+ Members",
             "slug": "game-news-2015-43",
             "date": "2015-06-24",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8686",
-            "title": "Batman: Arkham Knight Broken on PC?!",
-            "slug": "game-news-2015-42",
-            "date": "2015-06-23",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -884,33 +767,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8665",
-            "title": "Sega Admits Their Mobile Games Suck",
-            "slug": "game-news-2015-19",
-            "date": "2015-05-19",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "11591",
-            "title": "Barenaked Ladies - \"Say What You Want\" (Official Music Video)",
-            "slug": "rt-shorts-season-6-barenaked-ladies-say-what-you-want-official-music-video",
-            "date": "2015-05-19",
-            "is_first": false,
-            "show": "RT Shorts",
-            "show_slug": "rt-shorts"
-        },
-        {
-            "id": "14990",
-            "title": "Top 5 Lego Games",
-            "slug": "countdown-2015-18",
-            "date": "2015-05-18",
-            "is_first": false,
-            "show": "Countdown",
-            "show_slug": "countdown"
-        },
-        {
             "id": "8661",
             "title": "Xbox One BEATS PS4 in April?",
             "slug": "game-news-2015-17",
@@ -992,15 +848,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "15929",
-            "title": "Lighting a Candle Without Touching It",
-            "slug": "the-slow-mo-guys-season-1-lighting-a-candle-without-touching-it",
-            "date": "2015-05-13",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
-        },
-        {
             "id": "8651",
             "title": "The Witcher 3: Is It Good?",
             "slug": "game-news-2015-9",
@@ -1055,15 +902,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8647",
-            "title": "Nintendo Theme Park: Best Idea EVER?!",
-            "slug": "game-news-2015-2",
-            "date": "2015-05-08",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "11496",
             "title": "Don't Starve Together: So Many Other Ways to Die Too",
             "slug": "the-patch-game-club-season-1-dont-starve-together-so-many-other-ways-to-die-too",
@@ -1071,15 +909,6 @@
             "is_first": false,
             "show": "The Patch Game Club",
             "show_slug": "the-patch-game-club"
-        },
-        {
-            "id": "8644",
-            "title": "Mortal Kombat X Deletes ALL Save Games!",
-            "slug": "game-news-2015",
-            "date": "2015-05-07",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "20063",
@@ -1577,15 +1406,6 @@
             "show_slug": "fails-of-the-weak"
         },
         {
-            "id": "15933",
-            "title": "Tiny Plasma Cutter in Slow Motion",
-            "slug": "the-slow-mo-guys-season-1-tiny-plasma-cutter-in-slow-motion",
-            "date": "2014-12-10",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
-        },
-        {
             "id": "15027",
             "title": "Top 10 Third Person Open World Game Series",
             "slug": "countdown-season-1-countdown-top-10-third-person-open-world-game-series",
@@ -1701,15 +1521,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "15934",
-            "title": "Non-Newtonian Fluid in Slow Motion",
-            "slug": "the-slow-mo-guys-season-1-non-newtonian-fluid-in-slow-motion",
-            "date": "2014-11-06",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
         },
         {
             "id": "13125",
@@ -1872,15 +1683,6 @@
             "is_first": false,
             "show": "Trials Files",
             "show_slug": "trials-files"
-        },
-        {
-            "id": "15935",
-            "title": "Catching a Bullet with a Watermelon",
-            "slug": "the-slow-mo-guys-season-1-catching-a-bullet-with-a-watermelon",
-            "date": "2014-08-22",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
         },
         {
             "id": "15030",
@@ -2549,15 +2351,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "15312",
-            "title": "The Witcher 3 Delayed + Xbox Live Unstable + Hearthstone Officially Launches",
-            "slug": "rt-news-rt-news-the-witcher-3-delayed-xbox-live-unstable-hearthstone-officially-launches",
-            "date": "2014-03-11",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15314",
             "title": "Titanfall Live Action Collaboration + New Tales From the Borderlands Details",
             "slug": "rt-news-rt-news-titanfall-live-action-collaboration-new-tales-from-the-borderlands-details",
@@ -2630,15 +2423,6 @@
             "show_slug": "achievement-hunt"
         },
         {
-            "id": "15318",
-            "title": "Batman Arkham Knight Announced + Dishonored 2 Teased + PS4 Passes 6 Million",
-            "slug": "rt-news-rt-news-batman-arkham-knight-announced-dishonored-2-teased-ps4-passes-6-million",
-            "date": "2014-03-05",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15319",
             "title": "BioWare on Next-Gen Mass Effect + Xbox Live for iOS/Android + Twitch Beats Pokemon",
             "slug": "rt-news-rt-news-bioware-on-next-gen-mass-effect-xbox-live-for-iosandroid-twitch-beats-pokemon",
@@ -2666,33 +2450,6 @@
             "show_slug": "game-fails"
         },
         {
-            "id": "15321",
-            "title": "BioShock Infinite's Non-Lethal Challenge + Cloud Backups For PC Games + 65 New Xbox Indie Devs",
-            "slug": "rt-news-rt-news-bioshock-infinites-non-lethal-challenge-cloud-backups-for-pc-games-65-new-xbox-indie-devs",
-            "date": "2014-02-28",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15322",
-            "title": "TV Star's GTA V Lawsuit + Minecraft Passes 100 Million Users + Molyneux Blasts Fable III",
-            "slug": "rt-news-rt-news-tv-stars-gta-v-lawsuit-minecraft-passes-100-million-users-molyneux-blasts-fable-iii",
-            "date": "2014-02-27",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15323",
-            "title": "South Park Game Censored + Xbox One Gets Twitch Next Month + King Abandons Candy TM",
-            "slug": "rt-news-rt-news-south-park-game-censored-xbox-one-gets-twitch-next-month-king-abandons-candy-tm",
-            "date": "2014-02-26",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15324",
             "title": "X1 Titanfall Bundle & UK Price Drop + DayZ Creator Stepping Down + No Samurai Assassin's Creed",
             "slug": "rt-news-rt-news-x1-titanfall-bundle-and-uk-price-drop-dayz-creator-stepping-down-no-samurai-assassins-creed",
@@ -2706,24 +2463,6 @@
             "title": "New Tony Hawk Game + No PvZ: Garden Warfare Microtransactions + PS4 Sold Out For Months",
             "slug": "rt-news-rt-news-new-tony-hawk-game-no-pvz-garden-warfare-microtransactions-ps4-sold-out-for-months",
             "date": "2014-02-21",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15326",
-            "title": "Steam Region Locks Games Retroactively + Interactive Daylight Scares + Xbox Update Preview",
-            "slug": "rt-news-rt-news-steam-region-locks-games-retroactively-interactive-daylight-scares-xbox-update-preview",
-            "date": "2014-02-20",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15327",
-            "title": "Mini Games Coming To Minecraft + DOOM Beta With Wolfenstein + Final Fantasy Not Ready For PC",
-            "slug": "rt-news-rt-news-mini-games-coming-to-minecraft-doom-beta-with-wolfenstein-final-fantasy-not-ready-for-pc",
-            "date": "2014-02-19",
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
@@ -2801,24 +2540,6 @@
             "show_slug": "rt-news"
         },
         {
-            "id": "15333",
-            "title": "Sonic Boom Announced + Xbox 360 Titanfall Delayed + Flappy Bird Makes $50K/Day",
-            "slug": "rt-news-rt-news-sonic-boom-announced-xbox-360-titanfall-delayed-flappy-bird-makes-50kday",
-            "date": "2014-02-07",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15334",
-            "title": "Major Updates For Xbox One + Pokemon Bank Back for US + Burial At Sea 2 Dated",
-            "slug": "rt-news-rt-news-major-updates-for-xbox-one-pokemon-bank-back-for-us-burial-at-sea-2-dated",
-            "date": "2014-02-06",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "17899",
             "title": "Achievement HUNT #15",
             "slug": "achievement-hunt-2014-3",
@@ -2826,15 +2547,6 @@
             "is_first": false,
             "show": "Achievement HUNT",
             "show_slug": "achievement-hunt"
-        },
-        {
-            "id": "15335",
-            "title": "Pokemon Bank Is Back...In Europe + Thief Is Gold + Burial at Sea Ep 2 Is 6 Hours",
-            "slug": "rt-news-rt-news-pokemon-bank-is-back-in-europe-thief-is-gold-burial-at-sea-ep-2-is-6-hours",
-            "date": "2014-02-05",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "15336",
@@ -2871,15 +2583,6 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
-        },
-        {
-            "id": "22738",
-            "title": "Loadout Launch Trailer by Rooster Teeth",
-            "slug": "achievement-hunter-2014",
-            "date": "2014-01-29",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "13241",

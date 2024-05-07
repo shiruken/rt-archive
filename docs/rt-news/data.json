@@ -5,7 +5,7 @@
         "count": 61,
         "uploaded": 61,
         "missing": 0,
-        "incomplete": 59,
+        "incomplete": 49,
         "removed": 0
     },
     "data": [
@@ -46,7 +46,7 @@
             "date": "2014-03-11",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -86,7 +86,7 @@
             "date": "2014-03-05",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -106,7 +106,7 @@
             "date": "2014-02-28",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -116,7 +116,7 @@
             "date": "2014-02-27",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -126,7 +126,7 @@
             "date": "2014-02-26",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -156,7 +156,7 @@
             "date": "2014-02-20",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -166,7 +166,7 @@
             "date": "2014-02-19",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -226,7 +226,7 @@
             "date": "2014-02-07",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -236,7 +236,7 @@
             "date": "2014-02-06",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -246,7 +246,7 @@
             "date": "2014-02-05",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
