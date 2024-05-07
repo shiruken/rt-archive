@@ -1,5 +1,5 @@
 {
-    "count": 1015,
+    "count": 970,
     "data": [
         {
             "id": "50262",
@@ -8309,15 +8309,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25410",
-            "title": "Gears of War 2: A Parting Gift",
-            "slug": "achievement-hunter-achievement-hunter-gears-of-war-2-a-parting-gift",
-            "date": "2009-01-09",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25437",
             "title": "HL2 Keep off the Sand, OSHA Violation, Targeted Advertising",
             "slug": "achievement-hunter-achievement-hunter-hl2-keep-off-the-sand-osha-violation-targeted-advertising",
@@ -8489,105 +8480,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25700",
-            "title": "Cr0wnd Achievement Guide",
-            "slug": "achievement-unlocked-season-1-cr0wnd-achievement-guide",
-            "date": "2008-12-04",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25518",
-            "title": "Prologue: Speed Run",
-            "slug": "achievement-hunter-achievement-hunter-prologue-speed-run",
-            "date": "2008-12-04",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25674",
-            "title": "Community Video: Cr0wnd and Akimbo Assassin Achievement Guide",
-            "slug": "achievement-unlocked-season-1-community-video-cr0wnd-and-akimbo-assassin-achievement-guide",
-            "date": "2008-12-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25684",
-            "title": "Community Video: Kick a FG for over 50 yards Guide",
-            "slug": "achievement-unlocked-season-1-community-video-kick-a-fg-for-over-50-yards-guide",
-            "date": "2008-12-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25675",
-            "title": "Community Video: Daredevil Guide Part 1 (of 5)",
-            "slug": "achievement-unlocked-season-1-community-video-daredevil-guide-part-1-of-5",
-            "date": "2008-12-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25395",
-            "title": "Fatality Walkthrough: Jax, Liu Kang, Raiden, Kano, Baraka",
-            "slug": "achievement-hunter-achievement-hunter-fatality-walkthrough-jax-liu-kang-raiden-kano-baraka",
-            "date": "2008-12-01",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25393",
-            "title": "Fatality Walkthrough: Batman, Superman, Catwoman, The Flash, The Joker",
-            "slug": "achievement-hunter-achievement-hunter-fatality-walkthrough-batman-superman-catwoman-the-flash-the-joker",
-            "date": "2008-11-27",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25873",
-            "title": "Velvet Rope Achievement Guide",
-            "slug": "achievement-unlocked-season-1-velvet-rope-achievement-guide",
-            "date": "2008-11-27",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25396",
-            "title": "Fatality Walkthrough: Scoprion, Sub-Zero, Kitana, Shang Tsung, Sonya Blade",
-            "slug": "achievement-hunter-achievement-hunter-fatality-walkthrough-scoprion-sub-zero-kitana-shang-tsung-sonya-blade",
-            "date": "2008-11-25",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25824",
-            "title": "Reality Star Achievement Guide",
-            "slug": "achievement-unlocked-season-1-reality-star-achievement-guide",
-            "date": "2008-11-25",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25503",
-            "title": "Packrat Walkthrough Part 4 of 4",
-            "slug": "achievement-hunter-achievement-hunter-packrat-walkthrough-part-4-of-4",
-            "date": "2008-11-25",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25692",
             "title": "Community Video: The Party Animal Achievement Guide",
             "slug": "achievement-unlocked-season-1-community-video-the-party-animal-achievement-guide",
@@ -8597,46 +8489,10 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25357",
-            "title": "Community Video: 1st 3 Metal Pieces and Bronze Detective Badge",
-            "slug": "achievement-hunter-achievement-hunter-community-video-1st-3-metal-pieces-and-bronze-detective-badge",
-            "date": "2008-11-24",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25673",
             "title": "Community Video: Chapter 1 Silver and Bronze Bird Award Achievement Guide",
             "slug": "achievement-unlocked-season-1-community-video-chapter-1-silver-and-bronze-bird-award-achievement-guide",
             "date": "2008-11-22",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25685",
-            "title": "Community Video: King of QUB3D Achievement",
-            "slug": "achievement-unlocked-season-1-community-video-king-of-qub3d-achievement",
-            "date": "2008-11-21",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25502",
-            "title": "Packrat Walkthrough Part 3 of 4",
-            "slug": "achievement-hunter-achievement-hunter-packrat-walkthrough-part-3-of-4",
-            "date": "2008-11-21",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25705",
-            "title": "Demolition Man Achievement Guide",
-            "slug": "achievement-unlocked-season-1-demolition-man-achievement-guide",
-            "date": "2008-11-21",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -8651,51 +8507,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25670",
-            "title": "Community Video: Bag Lady Achievement",
-            "slug": "achievement-unlocked-season-1-community-video-bag-lady-achievement",
-            "date": "2008-11-20",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25681",
-            "title": "Community Video: Gnoming, Pack Rat Achievement Guide",
-            "slug": "achievement-unlocked-season-1-community-video-gnoming-pack-rat-achievement-guide",
-            "date": "2008-11-20",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25807",
-            "title": "Packrat Guide Part 2 of 4",
-            "slug": "achievement-unlocked-season-1-packrat-guide-part-2-of-4",
-            "date": "2008-11-20",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25869",
-            "title": "Trickster Achievement Guide",
-            "slug": "achievement-unlocked-season-1-trickster-achievement-guide",
-            "date": "2008-11-20",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25806",
-            "title": "Packrat Guide Part 1 of 4",
-            "slug": "achievement-unlocked-season-1-packrat-guide-part-1-of-4",
-            "date": "2008-11-19",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25711",
             "title": "Do Not Talk About It Achievement Guide",
             "slug": "achievement-unlocked-season-1-do-not-talk-about-it-achievement-guide",
@@ -8703,15 +8514,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25429",
-            "title": "Hidden Collectibles, Act Five",
-            "slug": "achievement-hunter-achievement-hunter-hidden-collectibles-act-five",
-            "date": "2008-11-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25489",
@@ -8732,15 +8534,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25680",
-            "title": "Community Video: Five Secret Achievements",
-            "slug": "achievement-unlocked-season-1-community-video-five-secret-achievements",
-            "date": "2008-11-12",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25688",
             "title": "Community Video: The Bigamist Achievement Guide",
             "slug": "achievement-unlocked-season-1-community-video-the-bigamist-achievement-guide",
@@ -8748,15 +8541,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25432",
-            "title": "Hidden Collectibles, Act Three",
-            "slug": "achievement-hunter-achievement-hunter-hidden-collectibles-act-three",
-            "date": "2008-11-12",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25433",
@@ -8777,36 +8561,9 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25739",
-            "title": "Green as Grass Achievement Guide",
-            "slug": "achievement-unlocked-season-1-green-as-grass-achievement-guide",
-            "date": "2008-11-07",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25679",
-            "title": "Community Video: Feat of a Hundred Slashes Achievement Guide",
-            "slug": "achievement-unlocked-season-1-community-video-feat-of-a-hundred-slashes-achievement-guide",
-            "date": "2008-11-05",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25687",
             "title": "Community Video: Roadkill Achievement Guide",
             "slug": "achievement-unlocked-season-1-community-video-roadkill-achievement-guide",
-            "date": "2008-11-05",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25678",
-            "title": "Community Video: Eight Jumper Achievements",
-            "slug": "achievement-unlocked-season-1-community-video-eight-jumper-achievements",
             "date": "2008-11-05",
             "is_first": false,
             "show": "Achievement Unlocked",
@@ -8831,51 +8588,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25363",
-            "title": "Community Video: Marathon Man",
-            "slug": "achievement-hunter-achievement-hunter-community-video-marathon-man",
-            "date": "2008-10-30",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24665",
-            "title": "Can't Nobody Hold You Down",
-            "slug": "achievement-hunter-achievement-hunter-cant-nobody-hold-you-down",
-            "date": "2008-10-30",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25827",
-            "title": "Reluctant Hero Achievement Guide",
-            "slug": "achievement-unlocked-season-1-reluctant-hero-achievement-guide",
-            "date": "2008-10-29",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25761",
-            "title": "Lab Assistant Achievement Guide",
-            "slug": "achievement-unlocked-season-1-lab-assistant-achievement-guide",
-            "date": "2008-10-29",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25501",
-            "title": "Pack Rat Strikes Back",
-            "slug": "achievement-hunter-achievement-hunter-pack-rat-strikes-back",
-            "date": "2008-10-28",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25789",
             "title": "Mindless Prey plus 3 others Achievement Guide",
             "slug": "achievement-unlocked-season-1-mindless-prey-plus-3-others-achievement-guide",
@@ -8898,24 +8610,6 @@
             "title": "Get Off My Ship! / Slugger Achievement Guide",
             "slug": "achievement-unlocked-season-1-get-off-my-ship-slugger-achievement-guide",
             "date": "2008-10-27",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25616",
-            "title": "Vidmaster Challenge: Annual",
-            "slug": "achievement-hunter-achievement-hunter-vidmaster-challenge-annual",
-            "date": "2008-10-24",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25820",
-            "title": "Pure: Unlocked Stage 3 Achievement Guide",
-            "slug": "achievement-unlocked-season-1-pure-unlocked-stage-3-achievement-guide",
-            "date": "2008-10-21",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -8975,51 +8669,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25658",
-            "title": "Bossk, Impaled, Sith Lord Frenzy Achievement Guide",
-            "slug": "achievement-unlocked-season-1-bossk-impaled-sith-lord-frenzy-achievement-guide",
-            "date": "2008-10-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25805",
-            "title": "Overkill, Steppin Razor, 2 for 1, Mongoose Mowdown Guide",
-            "slug": "achievement-unlocked-season-1-overkill-steppin-razor-2-for-1-mongoose-mowdown-guide",
-            "date": "2008-10-01",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "24740",
-            "title": "Holocron Walkthrough Level 6 \"Imperial Kashyyyk\"",
-            "slug": "achievement-hunter-achievement-hunter-holocron-walkthrough-level-6-imperial-kashyyyk",
-            "date": "2008-09-26",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24738",
-            "title": "Holocron Walkthrough Levels 4 and 5 \"Empirical and Cloud City\"",
-            "slug": "achievement-hunter-achievement-hunter-holocron-walkthrough-levels-4-and-5-empirical-and-cloud-city",
-            "date": "2008-09-25",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24772",
-            "title": "Three new Halo 3 Achievements",
-            "slug": "achievement-unlocked-season-1-three-new-halo-3-achievements",
-            "date": "2008-09-24",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25883",
             "title": "World Tour: Stage 1 Achievement Guide",
             "slug": "achievement-unlocked-season-1-world-tour-stage-1-achievement-guide",
@@ -9047,42 +8696,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25612",
-            "title": "True Identity Walkthrough",
-            "slug": "achievement-hunter-achievement-hunter-true-identity-walkthrough",
-            "date": "2008-09-03",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25717",
-            "title": "Equal Skill and Power Guide",
-            "slug": "achievement-unlocked-season-1-equal-skill-and-power-guide",
-            "date": "2008-09-02",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25877",
-            "title": "Waves: Surf / Phobia / Unlocked All Modes / Millionaire Guide",
-            "slug": "achievement-unlocked-season-1-waves-surf-phobia-unlocked-all-modes-millionaire-guide",
-            "date": "2008-09-02",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25374",
-            "title": "Deadline: Rebound / Magpie / MillionaireWalkthrough",
-            "slug": "achievement-hunter-achievement-hunter-deadline-rebound-magpie-millionairewalkthrough",
-            "date": "2008-08-26",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "1398-bonus",
             "title": "Exception Speech - Strangerhood Studios #6",
             "slug": "the-strangerhood-season-1-strangerhood-studios-6",
@@ -9092,28 +8705,10 @@
             "show_slug": "the-strangerhood"
         },
         {
-            "id": "1397-bonus",
-            "title": "Reinventing The Wagon Wheel - Strangerhood Studios #5",
-            "slug": "the-strangerhood-season-1-strangerhood-studios-5",
-            "date": "2005-09-08",
-            "is_first": false,
-            "show": "The Strangerhood",
-            "show_slug": "the-strangerhood"
-        },
-        {
             "id": "1395-bonus",
             "title": "Punk 'Til I Puke - Strangerhood Studios #3",
             "slug": "the-strangerhood-season-1-strangerhood-studios-3",
             "date": "2005-08-01",
-            "is_first": false,
-            "show": "The Strangerhood",
-            "show_slug": "the-strangerhood"
-        },
-        {
-            "id": "1394-bonus",
-            "title": "Statistically Speaking - Strangerhood Studios #2",
-            "slug": "the-strangerhood-season-1-strangerhood-studios-2",
-            "date": "2005-07-13",
             "is_first": false,
             "show": "The Strangerhood",
             "show_slug": "the-strangerhood"
