@@ -3,7 +3,7 @@
         "count": 42601,
         "uploaded": 42601,
         "missing": 0,
-        "incomplete": 1607,
+        "incomplete": 1542,
         "removed": 2
     },
     "data": [
@@ -94,7 +94,7 @@
             "count": 1783,
             "uploaded": 1783,
             "missing": 0,
-            "incomplete": 533,
+            "incomplete": 531,
             "removed": 0
         },
         {
@@ -121,7 +121,7 @@
             "count": 924,
             "uploaded": 924,
             "missing": 0,
-            "incomplete": 634,
+            "incomplete": 633,
             "removed": 0
         },
         {
@@ -148,7 +148,7 @@
             "count": 495,
             "uploaded": 495,
             "missing": 0,
-            "incomplete": 72,
+            "incomplete": 69,
             "removed": 0
         },
         {
@@ -922,7 +922,7 @@
             "count": 126,
             "uploaded": 126,
             "missing": 0,
-            "incomplete": 3,
+            "incomplete": 2,
             "removed": 0
         },
         {
@@ -1282,7 +1282,7 @@
             "count": 181,
             "uploaded": 181,
             "missing": 0,
-            "incomplete": 2,
+            "incomplete": 1,
             "removed": 0
         },
         {
@@ -1381,7 +1381,7 @@
             "count": 72,
             "uploaded": 72,
             "missing": 0,
-            "incomplete": 32,
+            "incomplete": 13,
             "removed": 0
         },
         {
@@ -1390,7 +1390,7 @@
             "count": 1211,
             "uploaded": 1211,
             "missing": 0,
-            "incomplete": 41,
+            "incomplete": 27,
             "removed": 0
         },
         {
@@ -1417,7 +1417,7 @@
             "count": 1884,
             "uploaded": 1884,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1480,7 +1480,7 @@
             "count": 104,
             "uploaded": 104,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1678,7 +1678,7 @@
             "count": 121,
             "uploaded": 121,
             "missing": 0,
-            "incomplete": 18,
+            "incomplete": 17,
             "removed": 0
         },
         {
@@ -2020,7 +2020,7 @@
             "count": 15,
             "uploaded": 15,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -2911,7 +2911,7 @@
             "count": 61,
             "uploaded": 61,
             "missing": 0,
-            "incomplete": 49,
+            "incomplete": 35,
             "removed": 0
         },
         {
@@ -3541,7 +3541,7 @@
             "count": 77,
             "uploaded": 77,
             "missing": 0,
-            "incomplete": 9,
+            "incomplete": 3,
             "removed": 0
         },
         {

@@ -5,7 +5,7 @@
         "count": 495,
         "uploaded": 495,
         "missing": 0,
-        "incomplete": 72,
+        "incomplete": 69,
         "removed": 0
     },
     "data": [
@@ -3136,7 +3136,7 @@
             "date": "2015-06-16",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3146,7 +3146,7 @@
             "date": "2015-06-08",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -3566,7 +3566,7 @@
             "date": "2013-09-30",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
