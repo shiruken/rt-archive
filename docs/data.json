@@ -3,7 +3,7 @@
         "count": 42601,
         "uploaded": 42601,
         "missing": 0,
-        "incomplete": 1482,
+        "incomplete": 1216,
         "removed": 2
     },
     "data": [
@@ -94,7 +94,7 @@
             "count": 1783,
             "uploaded": 1783,
             "missing": 0,
-            "incomplete": 522,
+            "incomplete": 347,
             "removed": 0
         },
         {
@@ -121,7 +121,7 @@
             "count": 924,
             "uploaded": 924,
             "missing": 0,
-            "incomplete": 621,
+            "incomplete": 540,
             "removed": 0
         },
         {
@@ -148,7 +148,7 @@
             "count": 495,
             "uploaded": 495,
             "missing": 0,
-            "incomplete": 66,
+            "incomplete": 64,
             "removed": 0
         },
         {
@@ -886,7 +886,7 @@
             "count": 334,
             "uploaded": 334,
             "missing": 0,
-            "incomplete": 10,
+            "incomplete": 2,
             "removed": 0
         },
         {
