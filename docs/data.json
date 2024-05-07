@@ -3,7 +3,7 @@
         "count": 42601,
         "uploaded": 42601,
         "missing": 0,
-        "incomplete": 1624,
+        "incomplete": 1607,
         "removed": 2
     },
     "data": [
@@ -922,7 +922,7 @@
             "count": 126,
             "uploaded": 126,
             "missing": 0,
-            "incomplete": 5,
+            "incomplete": 3,
             "removed": 0
         },
         {
@@ -1354,7 +1354,7 @@
             "count": 449,
             "uploaded": 449,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1390,7 +1390,7 @@
             "count": 1211,
             "uploaded": 1211,
             "missing": 0,
-            "incomplete": 53,
+            "incomplete": 41,
             "removed": 0
         },
         {
@@ -2380,7 +2380,7 @@
             "count": 407,
             "uploaded": 407,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -3541,7 +3541,7 @@
             "count": 77,
             "uploaded": 77,
             "missing": 0,
-            "incomplete": 10,
+            "incomplete": 9,
             "removed": 0
         },
         {

@@ -1,5 +1,5 @@
 {
-    "count": 1624,
+    "count": 1607,
     "data": [
         {
             "id": "50262",
@@ -36,15 +36,6 @@
             "is_first": false,
             "show": "PS I Love You XOXO",
             "show_slug": "ps-i-love-you-xoxo"
-        },
-        {
-            "id": "38651",
-            "title": "I\u2019m Deep In The Awful - Off Topic - #235",
-            "slug": "off-topic-2020-235",
-            "date": "2020-05-30",
-            "is_first": false,
-            "show": "Off Topic",
-            "show_slug": "off-topic-the-achievement-hunter-podcast"
         },
         {
             "id": "36648",
@@ -128,15 +119,6 @@
             "show_slug": "last-call"
         },
         {
-            "id": "11234",
-            "title": "FUNHAUS GOING BROKE? no. - Dude Soup Podcast #117",
-            "slug": "dude-soup-2017-dude-soup-podcast-117",
-            "date": "2017-04-11",
-            "is_first": false,
-            "show": "Funhaus Podcast",
-            "show_slug": "funhaus-podcast"
-        },
-        {
             "id": "9266",
             "title": "We Have No Lives? - #136",
             "slug": "the-patch-2015-patch-136",
@@ -164,24 +146,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8614",
-            "title": "Men Threaten Violence Over Pok?mon",
-            "slug": "game-news-2015-85",
-            "date": "2015-08-25",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8616",
-            "title": "Destiny's Upcoming Changes",
-            "slug": "game-news-2015-81",
-            "date": "2015-08-20",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "8617",
             "title": "Rocket League BEATS Minecraft?",
             "slug": "game-news-2015-80",
@@ -191,55 +155,10 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8650",
-            "title": "New eSports Drug Rules Still Pot Friendly?",
-            "slug": "game-news-2015-77",
-            "date": "2015-08-12",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8622",
-            "title": "Will Halo 5 Be Lame?!",
-            "slug": "game-news-2015-75",
-            "date": "2015-08-11",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "8625",
             "title": "Is WoW Getting Desperate?",
             "slug": "game-news-2015-73",
             "date": "2015-08-06",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8626",
-            "title": "Steam Game SCAM?!",
-            "slug": "game-news-2015-72",
-            "date": "2015-08-06",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8627",
-            "title": "$1,000 Bounty for Mario Glitch?!",
-            "slug": "game-news-2015-71",
-            "date": "2015-08-06",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8628",
-            "title": "Gamescom the NEW E3?!",
-            "slug": "game-news-2015-70",
-            "date": "2015-08-04",
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
@@ -261,33 +180,6 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
-        },
-        {
-            "id": "8631",
-            "title": "Konami a Prison Camp?",
-            "slug": "game-news-2015-67",
-            "date": "2015-08-03",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8632",
-            "title": "Battlefield 5 Next Year?",
-            "slug": "game-news-2015-65",
-            "date": "2015-07-31",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8009",
-            "title": "Five Nights at Freddy's Movie Details",
-            "slug": "entertainment-news-2015-10",
-            "date": "2015-07-30",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
         },
         {
             "id": "22801",
@@ -326,24 +218,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8638",
-            "title": "Five Nights at Freddy's 4 Release SURPRISE!",
-            "slug": "game-news-2015-58",
-            "date": "2015-07-23",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "18144",
-            "title": "6ft Man in 6ft Giant Water Balloon",
-            "slug": "the-slow-mo-guys-season-1-episode-43",
-            "date": "2015-07-23",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
-        },
-        {
             "id": "9296",
             "title": "The Patch #114",
             "slug": "the-patch-2015-22",
@@ -353,15 +227,6 @@
             "show_slug": "the-patch"
         },
         {
-            "id": "8663",
-            "title": "Fallout Shelter Makes BANK",
-            "slug": "game-news-2015-54",
-            "date": "2015-07-17",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "8698",
             "title": "Metal Gear Solid OVER?!",
             "slug": "game-news-2015-51",
@@ -369,15 +234,6 @@
             "is_first": false,
             "show": "Game News",
             "show_slug": "game-news"
-        },
-        {
-            "id": "8018",
-            "title": "HAN Goes SOLO in New Star Wars Movie!",
-            "slug": "entertainment-news-2015-5",
-            "date": "2015-07-08",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
         },
         {
             "id": "8696",
@@ -450,15 +306,6 @@
             "is_first": false,
             "show": "Entertainment News",
             "show_slug": "entertainment-news"
-        },
-        {
-            "id": "8692",
-            "title": "Star Wars 1313 LIVES?",
-            "slug": "game-news-2015-46",
-            "date": "2015-06-29",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "14980",

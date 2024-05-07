@@ -5,7 +5,7 @@
         "count": 407,
         "uploaded": 407,
         "missing": 0,
-        "incomplete": 1,
+        "incomplete": 0,
         "removed": 0
     },
     "data": [
@@ -1706,7 +1706,7 @@
             "date": "2020-05-30",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
