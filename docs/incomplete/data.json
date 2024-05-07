@@ -1,5 +1,5 @@
 {
-    "count": 1542,
+    "count": 1482,
     "data": [
         {
             "id": "50262",
@@ -2702,15 +2702,6 @@
             "show_slug": "hard-news"
         },
         {
-            "id": "19247",
-            "title": "Recap for the Week of August 26th, 2013",
-            "slug": "game-fails-2013-16",
-            "date": "2013-09-06",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
             "id": "13288",
             "title": "Call of Duty: Black Ops 2 - Master of Disguise Guide",
             "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-master-of-disguise-guide",
@@ -2765,24 +2756,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "19250",
-            "title": "Best Fails of July 2013",
-            "slug": "game-fails-2013-32",
-            "date": "2013-08-02",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
-            "id": "23347",
-            "title": "Best of: Early Days of Gamefails",
-            "slug": "game-fails-2013-26",
-            "date": "2013-07-26",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
             "id": "13290",
             "title": "Call of Duty: Black Ops 2 - Awaken the Gazebo Guide",
             "slug": "achievement-unlocked-season-1-call-of-duty-black-ops-2-awaken-the-gazebo-guide",
@@ -2799,15 +2772,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "22370",
-            "title": "Week #171",
-            "slug": "ahwu-2013-37",
-            "date": "2013-07-22",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
         },
         {
             "id": "13292",
@@ -2873,33 +2837,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "19251",
-            "title": "Best Fails of June 2013",
-            "slug": "game-fails-2013-18",
-            "date": "2013-07-05",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
-            "id": "20528",
-            "title": "Week #169",
-            "slug": "ahwu-2013-27",
-            "date": "2013-07-01",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
-        },
-        {
-            "id": "22008",
-            "title": "Best of: Top 5 Crushed",
-            "slug": "game-fails-2013-17",
-            "date": "2013-06-28",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
             "id": "23377",
             "title": "Week #168",
             "slug": "ahwu-2013-16",
@@ -2916,33 +2853,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "19252",
-            "title": "Best Of Nailed It!",
-            "slug": "game-fails-2013-6",
-            "date": "2013-06-14",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
-            "id": "16266",
-            "title": "Trials Files #60",
-            "slug": "trials-files-2011-49",
-            "date": "2013-06-11",
-            "is_first": false,
-            "show": "Trials Files",
-            "show_slug": "trials-files"
-        },
-        {
-            "id": "19256",
-            "title": "Best Bring the Pain",
-            "slug": "game-fails-2013-24",
-            "date": "2013-05-31",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
         },
         {
             "id": "13351",
@@ -2963,15 +2873,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "19257",
-            "title": "Best Shots to the Head",
-            "slug": "game-fails-2013-21",
-            "date": "2013-05-24",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
             "id": "20533",
             "title": "Week #164",
             "slug": "ahwu-2013-22",
@@ -2981,24 +2882,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "22159",
-            "title": "Best Accidental Wins",
-            "slug": "game-fails-2013-14",
-            "date": "2013-05-17",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
-            "id": "19258",
-            "title": "Best fails of April 2013",
-            "slug": "game-fails-2013-13",
-            "date": "2013-05-15",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
             "id": "20532",
             "title": "Week #163",
             "slug": "ahwu-2013-17",
@@ -3006,15 +2889,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "17774",
-            "title": "Grand Theft Auto IV Part 1",
-            "slug": "lets-play-2013-74",
-            "date": "2013-05-13",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "id": "20534",
@@ -3087,15 +2961,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "19261",
-            "title": "Best of Free Vasectomys",
-            "slug": "game-fails-2013-25",
-            "date": "2013-04-19",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
         },
         {
             "id": "13407",
@@ -3186,33 +3051,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "20541",
-            "title": "Week #156",
-            "slug": "ahwu-2013-6",
-            "date": "2013-03-25",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
-        },
-        {
-            "id": "19262",
-            "title": "Return of the surprise commentaries",
-            "slug": "game-fails-2013-7",
-            "date": "2013-03-23",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
-        },
-        {
-            "id": "22017",
-            "title": "Best fails of February 2013",
-            "slug": "game-fails-2013-27",
-            "date": "2013-03-12",
-            "is_first": false,
-            "show": "Game Fails",
-            "show_slug": "game-fails"
         },
         {
             "id": "13496",
@@ -3350,15 +3188,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "17840",
-            "title": "Minecraft Zombie Apocalypse",
-            "slug": "lets-play-2013-185",
-            "date": "2013-02-11",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
-        },
-        {
             "id": "13613",
             "title": "Space Ace Achievement Guide",
             "slug": "achievement-unlocked-season-1-space-ace-achievement-guide",
@@ -3411,15 +3240,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "16196",
-            "title": "RT Recap - Week of February 3rd",
-            "slug": "rt-recap-2013-rt-recap-week-of-february-3rd",
-            "date": "2013-02-03",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
         },
         {
             "id": "20549",
@@ -3494,15 +3314,6 @@
             "show_slug": "rt-recap"
         },
         {
-            "id": "13737",
-            "title": "Tour of Achievement City",
-            "slug": "achievement-unlocked-season-1-tour-of-achievement-city",
-            "date": "2013-01-09",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "13748",
             "title": "8-bit Hydrant Overflow and Dance Player, Dance! Guides",
             "slug": "achievement-unlocked-season-1-8-bit-hydrant-overflow-and-dance-player-dance-guides",
@@ -3519,15 +3330,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "16199",
-            "title": "RT Recap - Week of January 6th",
-            "slug": "rt-recap-2013-rt-recap-week-of-january-6th",
-            "date": "2013-01-06",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
         },
         {
             "id": "13760",
@@ -3566,15 +3368,6 @@
             "show_slug": "rt-recap"
         },
         {
-            "id": "16200",
-            "title": "RT Recap - Week of December 23rd",
-            "slug": "rt-recap-2012-rt-recap-week-of-december-23rd",
-            "date": "2012-12-23",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "13773",
             "title": "Never Say Stop Achievement Guide",
             "slug": "achievement-unlocked-season-1-never-say-stop-achievement-guide",
@@ -3593,15 +3386,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "16202",
-            "title": "RT Recap - Week of December 16th",
-            "slug": "rt-recap-2012-rt-recap-week-of-december-16th",
-            "date": "2012-12-17",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "20555",
             "title": "Week #142",
             "slug": "ahwu-2012-36",
@@ -3609,24 +3393,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "16203",
-            "title": "RT Recap - Week of December 8th",
-            "slug": "rt-recap-2012-rt-recap-week-of-december-8th",
-            "date": "2012-12-07",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
-            "id": "13890",
-            "title": "Bite Your Finger Guide",
-            "slug": "achievement-unlocked-season-1-bite-your-finger-guide",
-            "date": "2012-12-05",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "13843",
@@ -3692,15 +3458,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "11839",
-            "title": "RvB Easter Egg Number 5",
-            "slug": "easter-eggs-2012-21",
-            "date": "2012-12-03",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "13866",
             "title": "Improper Use Achievement Guide",
             "slug": "achievement-unlocked-season-1-improper-use-achievement-guide",
@@ -3764,15 +3521,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "18466",
-            "title": "Trials Evolution: Trials Files #32",
-            "slug": "trials-files-2012-4",
-            "date": "2012-11-27",
-            "is_first": false,
-            "show": "Trials Files",
-            "show_slug": "trials-files"
-        },
-        {
             "id": "20558",
             "title": "Week #140",
             "slug": "ahwu-2012-6",
@@ -3816,15 +3564,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "16204",
-            "title": "RT Recap - Week of November 17th",
-            "slug": "rt-recap-2012-rt-recap-week-of-november-17th",
-            "date": "2012-11-17",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
         },
         {
             "id": "13878",
@@ -3899,15 +3638,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "18233",
-            "title": "RT Recap - Week of November 10th",
-            "slug": "rt-recap-2012-rt-recap-week-of-november-10th",
-            "date": "2012-11-10",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "13901",
             "title": "Halo 4: Give Him the Stick - Achievement Guide",
             "slug": "achievement-unlocked-season-1-halo-4-give-him-the-stick-achievement-guide",
@@ -3962,15 +3692,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "13927",
-            "title": "Halo 4: Bros to the Close - Achievement Guide",
-            "slug": "achievement-unlocked-season-1-halo-4-bros-to-the-close-achievement-guide",
-            "date": "2012-11-07",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "13928",
             "title": "Halo 4: Midnight Launch - Achievement Guide",
             "slug": "achievement-unlocked-season-1-halo-4-midnight-launch-achievement-guide",
@@ -3987,15 +3708,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "16289",
-            "title": "Trials Evolution: Trials Files #29",
-            "slug": "trials-files-2012-21",
-            "date": "2012-11-06",
-            "is_first": false,
-            "show": "Trials Files",
-            "show_slug": "trials-files"
         },
         {
             "id": "13941",
@@ -4019,15 +3731,6 @@
             "id": "13946",
             "title": "Hell Money Achievement Guide",
             "slug": "achievement-unlocked-season-1-hell-money-achievement-guide",
-            "date": "2012-10-31",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "13947",
-            "title": "Release the Kraken! Guide",
-            "slug": "achievement-unlocked-season-1-release-the-kraken-guide",
             "date": "2012-10-31",
             "is_first": false,
             "show": "Achievement Unlocked",
@@ -4196,15 +3899,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "16207",
-            "title": "RT Recap - Week of Oct. 6th",
-            "slug": "rt-recap-2012-rt-recap-week-of-oct-6th",
-            "date": "2012-10-06",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "16208",
             "title": "Week of September 28th",
             "slug": "rt-recap-2012-week-of-september-28th",
@@ -4221,15 +3915,6 @@
             "is_first": false,
             "show": "This is...",
             "show_slug": "this-is"
-        },
-        {
-            "id": "16209",
-            "title": "Week of September 21st",
-            "slug": "rt-recap-2012-week-of-september-21st",
-            "date": "2012-09-22",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
         },
         {
             "id": "14089",
@@ -4304,15 +3989,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "18235",
-            "title": "Week of August 17th",
-            "slug": "rt-recap-2012-week-of-august-17th",
-            "date": "2012-08-17",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "14139",
             "title": "A Slap in the Face Guide",
             "slug": "achievement-unlocked-season-1-a-slap-in-the-face-guide",
@@ -4335,15 +4011,6 @@
             "title": "Week of August 10th",
             "slug": "rt-recap-2012-week-of-august-10th",
             "date": "2012-08-10",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
-            "id": "16210",
-            "title": "Week of August 3rd",
-            "slug": "rt-recap-2012-week-of-august-3rd",
-            "date": "2012-08-04",
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
@@ -4419,42 +4086,6 @@
             "is_first": false,
             "show": "This is...",
             "show_slug": "this-is"
-        },
-        {
-            "id": "22229",
-            "title": "Intel Operative Part 3",
-            "slug": "achievement-hunter-achievement-hunter-intel-operative-part-3",
-            "date": "2012-07-03",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "16302",
-            "title": "Trials Evolution - Trials Files #11",
-            "slug": "trials-files-2012-17",
-            "date": "2012-07-03",
-            "is_first": false,
-            "show": "Trials Files",
-            "show_slug": "trials-files"
-        },
-        {
-            "id": "22230",
-            "title": "Retro: Active - Timesplitters",
-            "slug": "achievement-hunter-achievement-hunter-retro-active-timesplitters",
-            "date": "2012-07-03",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "23513",
-            "title": "Intel Operative Part 2",
-            "slug": "achievement-hunter-achievement-hunter-intel-operative-part-2",
-            "date": "2012-07-02",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "20578",
@@ -4637,15 +4268,6 @@
             "show_slug": "a-look-back-at"
         },
         {
-            "id": "22270",
-            "title": "Grossest Toilets in Gaming: Best Of The Rest",
-            "slug": "achievement-hunter-achievement-hunter-grossest-toilets-in-gaming-best-of-the-rest",
-            "date": "2012-06-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "20582",
             "title": "Week #116",
             "slug": "ahwu-2012-40",
@@ -4686,15 +4308,6 @@
             "title": "Three Achievements",
             "slug": "achievement-unlocked-season-1-three-achievements-16",
             "date": "2012-05-28",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "14314",
-            "title": "Diablo 3 - Last Stand of the Ancients Guide",
-            "slug": "achievement-unlocked-season-1-diablo-3-last-stand-of-the-ancients-guide",
-            "date": "2012-05-23",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -4893,15 +4506,6 @@
             "title": "Nervous Twitch Achievement Guide",
             "slug": "achievement-unlocked-season-1-nervous-twitch-achievement-guide",
             "date": "2012-04-19",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "14432",
-            "title": "Grim Reaper Achievement Guide",
-            "slug": "achievement-unlocked-season-1-grim-reaper-achievement-guide",
-            "date": "2012-04-18",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -5204,15 +4808,6 @@
             "show_slug": "lets-play"
         },
         {
-            "id": "12060",
-            "title": "Bag and Drag Veteran Guide",
-            "slug": "achievement-unlocked-season-1-bag-and-drag-veteran-guide",
-            "date": "2011-12-23",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "19924",
             "title": "Achievement HORSE #54",
             "slug": "achievement-horse-2011-2",
@@ -5235,15 +4830,6 @@
             "title": "Frenemies Guide",
             "slug": "achievement-unlocked-season-1-frenemies-guide",
             "date": "2011-12-07",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "12102",
-            "title": "Hunter Killer Veteran Guide",
-            "slug": "achievement-unlocked-season-1-hunter-killer-veteran-guide",
-            "date": "2011-12-06",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -5382,51 +4968,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "11973",
-            "title": "Samantha Easter Egg",
-            "slug": "easter-eggs-2011-24",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
-            "id": "12136",
-            "title": "Scout Leader Act II Achievement Guide",
-            "slug": "achievement-unlocked-season-1-scout-leader-act-ii-achievement-guide",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "23491",
-            "title": "Danger Close",
-            "slug": "achievement-hunter-achievement-hunter-danger-close",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "21638",
-            "title": "Ralph Called, Problem Solved, Series Over",
-            "slug": "achievement-hunter-achievement-hunter-ralph-called-problem-solved-series-over",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "11974",
-            "title": "Teddy Bear Easter Egg",
-            "slug": "easter-eggs-2011-20",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
         },
         {
             "id": "21640",
@@ -5859,24 +5400,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25300",
-            "title": "Sawed Off Chicken Easter Egg",
-            "slug": "easter-eggs-2011-39",
-            "date": "2011-10-07",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
-            "id": "25175",
-            "title": "Musicium Achievement Guide",
-            "slug": "achievement-unlocked-season-1-musicium-achievement-guide",
-            "date": "2011-10-06",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "24987",
@@ -6401,15 +5924,6 @@
             "show_slug": "video-game-vault"
         },
         {
-            "id": "46736",
-            "title": "Clip of the Week - Voltron",
-            "slug": "clip-of-the-week-voltron",
-            "date": "2011-08-18",
-            "is_first": false,
-            "show": "ScrewAttack Shorts",
-            "show_slug": "clip-of-the-week"
-        },
-        {
             "id": "4306",
             "title": "Video Game Vault - Conker's Bad Fur Day",
             "slug": "video-game-vault-conkers-bad-fur-day",
@@ -6498,15 +6012,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "4226",
-            "title": "Video Game Vault - Mortal Kombat III",
-            "slug": "video-game-vault-mortal-kombat-iii",
-            "date": "2011-08-15",
-            "is_first": false,
-            "show": "Video Game Vault",
-            "show_slug": "video-game-vault"
         },
         {
             "id": "4686",
@@ -6608,15 +6113,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "24891",
-            "title": "Game Fails",
-            "slug": "achievement-hunter-achievement-hunter-game-fails",
-            "date": "2011-07-08",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "24925",
             "title": "Kenshi Fatalities",
             "slug": "achievement-hunter-achievement-hunter-kenshi-fatalities",
@@ -6642,15 +6138,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "24835",
-            "title": "Assistance is Futile, Crash Proof",
-            "slug": "achievement-hunter-achievement-hunter-assistance-is-futile-crash-proof",
-            "date": "2011-07-05",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25183",
@@ -6806,36 +6293,9 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25174",
-            "title": "Mountaineer Trophy Guide",
-            "slug": "achievement-unlocked-season-1-mountaineer-trophy-guide",
-            "date": "2011-06-14",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25027",
             "title": "Turd Burglar, Drawrings, Sunday, Black Sunday",
             "slug": "achievement-hunter-achievement-hunter-turd-burglar-drawrings-sunday-black-sunday",
-            "date": "2011-06-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25072",
-            "title": "Chauffeur Service Achievement Guide",
-            "slug": "achievement-unlocked-season-1-chauffeur-service-achievement-guide",
-            "date": "2011-06-14",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "24847",
-            "title": "Chronicler Part 1",
-            "slug": "achievement-hunter-achievement-hunter-chronicler-part-1",
             "date": "2011-06-14",
             "is_first": false,
             "show": "Achievement Hunter",
