@@ -1,8 +1,8 @@
 {
     "summary": {
-        "count": 42599,
+        "count": 42601,
         "uploaded": 42599,
-        "missing": 0,
+        "missing": 2,
         "incomplete": 1657,
         "removed": 2
     },
@@ -1198,9 +1198,9 @@
         {
             "show": "Face Jam",
             "slug": "face-jam",
-            "count": 232,
+            "count": 233,
             "uploaded": 232,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },
@@ -3214,9 +3214,9 @@
         {
             "show": "So...Alright",
             "slug": "so-alright",
-            "count": 36,
+            "count": 37,
             "uploaded": 36,
-            "missing": 0,
+            "missing": 1,
             "incomplete": 0,
             "removed": 0
         },

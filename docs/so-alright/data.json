@@ -2,13 +2,23 @@
     "show": "So...Alright",
     "slug": "so-alright",
     "summary": {
-        "count": 36,
+        "count": 37,
         "uploaded": 36,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "So Anyways",
+            "id": "52865",
+            "slug": "so-alright-2024-5-7",
+            "date": "2024-05-07",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Rub Some Dirt On It",
             "id": "52854",
