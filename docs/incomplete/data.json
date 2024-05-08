@@ -1,5 +1,5 @@
 {
-    "count": 918,
+    "count": 901,
     "data": [
         {
             "id": "50262",
@@ -6941,15 +6941,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25534",
-            "title": "Russian Embassy - Rooftop",
-            "slug": "achievement-hunter-achievement-hunter-russian-embassy-rooftop",
-            "date": "2010-04-22",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25388",
             "title": "Final Fantasy XIII - Enki / Enlil Boss Fight",
             "slug": "achievement-hunter-achievement-hunter-enki-enlil-boss-fight",
@@ -7013,15 +7004,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25867",
-            "title": "Titan Nebula Guide and Agent Walkthrough",
-            "slug": "achievement-unlocked-season-1-titan-nebula-guide-and-agent-walkthrough",
-            "date": "2010-02-02",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25582",
             "title": "Spec Ops - Echo - Wetwork",
             "slug": "achievement-hunter-achievement-hunter-spec-ops-echo-wetwork",
@@ -7031,37 +7013,10 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25576",
-            "title": "Spec Ops - Delta - Estate Takedown",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-delta-estate-takedown",
-            "date": "2010-01-22",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25575",
-            "title": "Spec Ops - Delta - Acceptable Losses",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-delta-acceptable-losses",
-            "date": "2010-01-22",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25579",
             "title": "Spec Ops - Delta - Wreckage",
             "slug": "achievement-hunter-achievement-hunter-spec-ops-delta-wreckage",
             "date": "2010-01-22",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24686",
-            "title": "Spec Ops - Charlie - Snatch & Grab",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-charlie-snatch-and-grab",
-            "date": "2010-01-18",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
@@ -7085,15 +7040,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25573",
-            "title": "Spec Ops - Charlie - Hidden",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-charlie-hidden",
-            "date": "2010-01-04",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "24685",
             "title": "Spec Ops - Charlie - Breach & Clear",
             "slug": "achievement-hunter-achievement-hunter-spec-ops-charlie-breach-and-clear",
@@ -7112,15 +7058,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25716",
-            "title": "Eiffel Tower Achievements",
-            "slug": "achievement-unlocked-season-1-eiffel-tower-achievements",
-            "date": "2009-12-11",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25652",
             "title": "Beat the Rush Achievement Guide",
             "slug": "achievement-unlocked-season-1-beat-the-rush-achievement-guide",
@@ -7130,37 +7067,10 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25571",
-            "title": "Spec Ops - Bravo - Overwatch",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-bravo-overwatch",
-            "date": "2009-12-01",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25381",
             "title": "Drowning Doom Units",
             "slug": "achievement-hunter-achievement-hunter-drowning-doom-units",
             "date": "2009-11-25",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25563",
-            "title": "Spec Ops - Alpha - O Cristo Redentor",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-alpha-o-cristo-redentor",
-            "date": "2009-11-17",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25564",
-            "title": "Spec Ops - Alpha - Sniper Fi",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-alpha-sniper-fi",
-            "date": "2009-11-17",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
@@ -7175,28 +7085,10 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25386",
-            "title": "Enemy Intel - Act 3, Part 1",
-            "slug": "achievement-hunter-achievement-hunter-enemy-intel-act-3-part-1",
-            "date": "2009-11-11",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25385",
             "title": "Enemy Intel - Act 2, Part 2",
             "slug": "achievement-hunter-achievement-hunter-enemy-intel-act-2-part-2",
             "date": "2009-11-10",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24684",
-            "title": "12 Days of Pandora, You're on a Boat, Speedy McSpeederson",
-            "slug": "achievement-hunter-achievement-hunter-12-days-of-pandora-youre-on-a-boat-speedy-mcspeederson",
-            "date": "2009-11-06",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
@@ -7227,15 +7119,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25798",
-            "title": "Nine Achievements",
-            "slug": "achievement-unlocked-season-1-nine-achievements",
-            "date": "2009-08-31",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "25611",
@@ -7274,28 +7157,10 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25322",
-            "title": "Alien Archivist Part One",
-            "slug": "achievement-hunter-achievement-hunter-alien-archivist-part-one",
-            "date": "2009-08-11",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "24681",
             "title": "\"Killer In Pink\" music video, 2.0",
             "slug": "achievement-hunter-achievement-hunter-killer-in-pink-music-video-2-0",
             "date": "2009-06-22",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25519",
-            "title": "Prototype: Opening Cinematic",
-            "slug": "achievement-hunter-achievement-hunter-prototype-opening-cinematic",
-            "date": "2009-06-10",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
@@ -7436,28 +7301,10 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25724",
-            "title": "Fallout 3 Mill Worker (68-80) Achievement Walkthrough",
-            "slug": "achievement-unlocked-season-1-fallout-3-mill-worker-68-80-achievement-walkthrough",
-            "date": "2009-04-02",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25725",
             "title": "Family Tree Achievements",
             "slug": "achievement-unlocked-season-1-family-tree-achievements",
             "date": "2009-04-02",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25787",
-            "title": "Mill Worker (43-68) Achievement Walkthrough",
-            "slug": "achievement-unlocked-season-1-mill-worker-43-68-achievement-walkthrough",
-            "date": "2009-04-01",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"

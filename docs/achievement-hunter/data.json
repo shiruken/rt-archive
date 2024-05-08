@@ -5,7 +5,7 @@
         "count": 1783,
         "uploaded": 1783,
         "missing": 0,
-        "incomplete": 212,
+        "incomplete": 200,
         "removed": 0
     },
     "data": [
@@ -14786,7 +14786,7 @@
             "date": "2010-04-22",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15616,7 +15616,7 @@
             "date": "2010-01-22",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15626,7 +15626,7 @@
             "date": "2010-01-22",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15666,7 +15666,7 @@
             "date": "2010-01-18",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15806,7 +15806,7 @@
             "date": "2010-01-04",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -15966,7 +15966,7 @@
             "date": "2009-12-01",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -16146,7 +16146,7 @@
             "date": "2009-11-17",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -16156,7 +16156,7 @@
             "date": "2009-11-17",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -16196,7 +16196,7 @@
             "date": "2009-11-11",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -16276,7 +16276,7 @@
             "date": "2009-11-06",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -16586,7 +16586,7 @@
             "date": "2009-08-11",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
@@ -16636,7 +16636,7 @@
             "date": "2009-06-10",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
