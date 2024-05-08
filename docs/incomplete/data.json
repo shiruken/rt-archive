@@ -1,5 +1,5 @@
 {
-    "count": 888,
+    "count": 884,
     "data": [
         {
             "id": "50262",
@@ -3350,15 +3350,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "16205",
-            "title": "RT Recap - Week of Oct. 21st",
-            "slug": "rt-recap-2012-rt-recap-week-of-oct-21st",
-            "date": "2012-10-19",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "13975",
             "title": "Two missable Achievements",
             "slug": "achievement-unlocked-season-1-two-missable-achievements",
@@ -3609,15 +3600,6 @@
             "is_first": false,
             "show": "This is...",
             "show_slug": "this-is"
-        },
-        {
-            "id": "20578",
-            "title": "Week #119",
-            "slug": "ahwu-2012-23",
-            "date": "2012-07-02",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
         },
         {
             "id": "19398",
@@ -4421,15 +4403,6 @@
             "show_slug": "rage-quit"
         },
         {
-            "id": "21626",
-            "title": "Almost Flying",
-            "slug": "achievement-hunter-achievement-hunter-almost-flying",
-            "date": "2011-11-17",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "12131",
             "title": "Standing Stones Guide",
             "slug": "achievement-unlocked-season-1-standing-stones-guide",
@@ -4464,15 +4437,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "21636",
-            "title": "Breakneck Overview",
-            "slug": "achievement-hunter-achievement-hunter-breakneck-overview",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "21640",
