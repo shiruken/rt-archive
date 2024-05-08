@@ -2,13 +2,23 @@
     "show": "F**KFACE",
     "slug": "f-kface",
     "summary": {
-        "count": 265,
+        "count": 266,
         "uploaded": 265,
-        "missing": 0,
+        "missing": 1,
         "incomplete": 0,
         "removed": 0
     },
     "data": [
+        {
+            "title": "The Last Episode of F**kface // Firing Squad [206]",
+            "id": "52866",
+            "slug": "f-kface-season-6-5-8",
+            "date": "2024-05-08",
+            "is_first": false,
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": false
+        },
         {
             "title": "Bean or Bark // Sea of Thieves Hack [205]",
             "id": "52858",
