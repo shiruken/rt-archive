@@ -1,5 +1,5 @@
 {
-    "count": 896,
+    "count": 895,
     "data": [
         {
             "id": "50262",
@@ -162,15 +162,6 @@
             "is_first": false,
             "show": "The Patch Game Club",
             "show_slug": "the-patch-game-club"
-        },
-        {
-            "id": "8641",
-            "title": "Should Video Game Vixens Be Heavier?",
-            "slug": "game-news-2015-59",
-            "date": "2015-07-24",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "9296",
