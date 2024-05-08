@@ -1,5 +1,5 @@
 {
-    "count": 922,
+    "count": 918,
     "data": [
         {
             "id": "50262",
@@ -6401,15 +6401,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25310",
-            "title": "Zombie Music Easter Egg",
-            "slug": "easter-eggs-2011-64",
-            "date": "2011-01-10",
-            "is_first": false,
-            "show": "Easter Eggs",
-            "show_slug": "easter-eggs"
-        },
-        {
             "id": "25104",
             "title": "Electrically Charged Achievement Guide",
             "slug": "achievement-unlocked-season-1-electrically-charged-achievement-guide",
@@ -6507,15 +6498,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25274",
-            "title": "Week #40",
-            "slug": "ahwu-2010-42",
-            "date": "2010-12-06",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
         },
         {
             "id": "25153",
@@ -6912,24 +6894,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25165",
-            "title": "Madden Moments Achievement Guide",
-            "slug": "achievement-unlocked-season-1-madden-moments-achievement-guide",
-            "date": "2010-10-22",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25223",
-            "title": "Tastes Like Chicken Psychopath Guide",
-            "slug": "achievement-unlocked-season-1-tastes-like-chicken-psychopath-guide",
-            "date": "2010-10-12",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "25123",

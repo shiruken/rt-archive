@@ -13,7 +13,7 @@ https://shiruken.github.io/rt-archive/
 * Rooster Teeth Videos: 42,598
 * Items on Internet Archive: 42,600 (100.00%)
 * Items Missing from Internet Archive: 2 (0.00%)
-* Incomplete Items on Internet Archive: 922
+* Incomplete Items on Internet Archive: 918
 * Items Removed from Internet Archive: 2
 
 ## Rooster Teeth API
