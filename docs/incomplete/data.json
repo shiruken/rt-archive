@@ -1,5 +1,5 @@
 {
-    "count": 863,
+    "count": 861,
     "data": [
         {
             "id": "50262",
@@ -6833,15 +6833,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25638",
-            "title": "Adrenaline Junkie Guide",
-            "slug": "achievement-unlocked-season-1-adrenaline-junkie-guide-gtaiv",
-            "date": "2009-11-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25608",
             "title": "TrialsHD: Full Throttle",
             "slug": "achievement-hunter-achievement-hunter-trialshd-full-throttle",
@@ -7632,15 +7623,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25511",
-            "title": "Power Surrrge!",
-            "slug": "achievement-hunter-achievement-hunter-power-surrrge",
-            "date": "2008-10-27",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25735",
