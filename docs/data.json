@@ -1,9 +1,9 @@
 {
     "summary": {
-        "count": 42601,
-        "uploaded": 42601,
+        "count": 42598,
+        "uploaded": 42598,
         "missing": 0,
-        "incomplete": 970,
+        "incomplete": 927,
         "removed": 2
     },
     "data": [
@@ -148,7 +148,7 @@
             "count": 495,
             "uploaded": 495,
             "missing": 0,
-            "incomplete": 64,
+            "incomplete": 63,
             "removed": 0
         },
         {
@@ -922,7 +922,7 @@
             "count": 126,
             "uploaded": 126,
             "missing": 0,
-            "incomplete": 2,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1282,7 +1282,7 @@
             "count": 181,
             "uploaded": 181,
             "missing": 0,
-            "incomplete": 1,
+            "incomplete": 0,
             "removed": 0
         },
         {
@@ -1390,7 +1390,7 @@
             "count": 1211,
             "uploaded": 1211,
             "missing": 0,
-            "incomplete": 27,
+            "incomplete": 13,
             "removed": 0
         },
         {
@@ -1585,8 +1585,8 @@
         {
             "show": "Hardcore Tabletop",
             "slug": "hardcore-tabletop",
-            "count": 19,
-            "uploaded": 19,
+            "count": 17,
+            "uploaded": 17,
             "missing": 0,
             "incomplete": 0,
             "removed": 0
@@ -2065,7 +2065,7 @@
             "count": 2163,
             "uploaded": 2163,
             "missing": 0,
-            "incomplete": 6,
+            "incomplete": 5,
             "removed": 0
         },
         {
@@ -2512,8 +2512,8 @@
         {
             "show": "Pilot Program",
             "slug": "pilot-program",
-            "count": 11,
-            "uploaded": 11,
+            "count": 10,
+            "uploaded": 10,
             "missing": 0,
             "incomplete": 0,
             "removed": 0
@@ -2911,7 +2911,7 @@
             "count": 61,
             "uploaded": 61,
             "missing": 0,
-            "incomplete": 35,
+            "incomplete": 14,
             "removed": 0
         },
         {
@@ -2929,7 +2929,7 @@
             "count": 24,
             "uploaded": 24,
             "missing": 0,
-            "incomplete": 9,
+            "incomplete": 7,
             "removed": 0
         },
         {
@@ -3595,7 +3595,7 @@
             "count": 138,
             "uploaded": 138,
             "missing": 0,
-            "incomplete": 25,
+            "incomplete": 24,
             "removed": 0
         },
         {

@@ -2,8 +2,8 @@
     "show": "Hardcore Tabletop",
     "slug": "hardcore-tabletop",
     "summary": {
-        "count": 19,
-        "uploaded": 19,
+        "count": 17,
+        "uploaded": 17,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
@@ -20,31 +20,11 @@
             "is_removed": false
         },
         {
-            "title": "Carboys for Life",
-            "id": "1353-bonus",
-            "slug": "hardcore-tabletop-carboys-for-life",
-            "date": "2019-05-21",
-            "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
-        },
-        {
             "title": "Crass Capitalism",
             "id": "33077",
             "slug": "hardcore-tabletop-world-series-6",
             "date": "2019-05-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
-        },
-        {
-            "title": "The Greenroom",
-            "id": "1351-bonus",
-            "slug": "hardcore-tabletop-the-greenroom",
-            "date": "2019-05-14",
-            "is_first": false,
             "is_uploaded": true,
             "is_complete_upload": true,
             "is_removed": false

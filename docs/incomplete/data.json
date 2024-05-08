@@ -1,5 +1,5 @@
 {
-    "count": 970,
+    "count": 927,
     "data": [
         {
             "id": "50262",
@@ -146,42 +146,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8617",
-            "title": "Rocket League BEATS Minecraft?",
-            "slug": "game-news-2015-80",
-            "date": "2015-08-15",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8625",
-            "title": "Is WoW Getting Desperate?",
-            "slug": "game-news-2015-73",
-            "date": "2015-08-06",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8629",
-            "title": "Destiny's Dinklebot REPLACED?!",
-            "slug": "game-news-2015-69",
-            "date": "2015-08-04",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8630",
-            "title": "Twitch Streamer FAKES Swatting",
-            "slug": "game-news-2015-68",
-            "date": "2015-08-03",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "8637",
             "title": "Half-Life 3 Will Never Release, Here's Why",
             "slug": "game-news-2015-60",
@@ -218,24 +182,6 @@
             "show_slug": "the-patch"
         },
         {
-            "id": "8698",
-            "title": "Metal Gear Solid OVER?!",
-            "slug": "game-news-2015-51",
-            "date": "2015-07-13",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8696",
-            "title": "Superman Game LEAKED? Not Yet.",
-            "slug": "game-news-2015-50",
-            "date": "2015-07-06",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "22164",
             "title": "Volume 250",
             "slug": "fails-of-the-weak-2015-13",
@@ -252,24 +198,6 @@
             "is_first": false,
             "show": "The Patch Game Club",
             "show_slug": "the-patch-game-club"
-        },
-        {
-            "id": "8693",
-            "title": "The Last of Us 2 CONFIRMED?",
-            "slug": "game-news-2015-49",
-            "date": "2015-07-01",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8695",
-            "title": "New Fallout 4 Character",
-            "slug": "game-news-2015-47",
-            "date": "2015-07-01",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "11378",
@@ -335,15 +263,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8015",
-            "title": "Uwe Boll Goes Postal",
-            "slug": "entertainment-news-2015-2",
-            "date": "2015-06-09",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
             "id": "14984",
             "title": "Top 5 - Dinosaur Games",
             "slug": "countdown-2015-26",
@@ -351,24 +270,6 @@
             "is_first": false,
             "show": "Countdown",
             "show_slug": "countdown"
-        },
-        {
-            "id": "8014",
-            "title": "Han NOT So Solo?!",
-            "slug": "entertainment-news-2015",
-            "date": "2015-06-05",
-            "is_first": false,
-            "show": "Entertainment News",
-            "show_slug": "entertainment-news"
-        },
-        {
-            "id": "8679",
-            "title": "How to Get a Steam Controller Before Release",
-            "slug": "game-news-2015-34",
-            "date": "2015-06-04",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "20059",
@@ -443,15 +344,6 @@
             "show_slug": "game-news"
         },
         {
-            "id": "8669",
-            "title": "Rockstar SUES GTA Movie?",
-            "slug": "game-news-2015-24",
-            "date": "2015-05-22",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "14989",
             "title": "Top 5 Ground Pounds in Video Games",
             "slug": "countdown-2015-21",
@@ -479,15 +371,6 @@
             "show_slug": "fails-of-the-weak"
         },
         {
-            "id": "8667",
-            "title": "H1Z1 Cheaters Publicly Shamed",
-            "slug": "game-news-2015-21",
-            "date": "2015-05-20",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "11495",
             "title": "Gone Home: Snoop on Your Angsty Family!",
             "slug": "the-patch-game-club-season-1-gone-home-snoop-on-your-angsty-family",
@@ -497,27 +380,9 @@
             "show_slug": "the-patch-game-club"
         },
         {
-            "id": "8657",
-            "title": "Can E3 Save Nintendo?",
-            "slug": "game-news-2015-16",
-            "date": "2015-05-14",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "8659",
             "title": "Gears of War HD Leaks",
             "slug": "game-news-2015-14",
-            "date": "2015-05-14",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8660",
-            "title": "GTA 5 PC Mods Install MALWARE?!",
-            "slug": "game-news-2015-13",
             "date": "2015-05-14",
             "is_first": false,
             "show": "Game News",
@@ -536,15 +401,6 @@
             "id": "8654",
             "title": "PlayStation 4 HACKED?",
             "slug": "game-news-2015-12",
-            "date": "2015-05-13",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
-            "id": "8655",
-            "title": "The Games that OWN YouTube",
-            "slug": "game-news-2015-11",
             "date": "2015-05-13",
             "is_first": false,
             "show": "Game News",
@@ -1865,15 +1721,6 @@
             "show_slug": "rt-news"
         },
         {
-            "id": "15311",
-            "title": "First Gamerscore Millionaire + Titanfall Dev Hunting Cheaters + LoL Player Admits Match Fixing",
-            "slug": "rt-news-rt-news-first-gamerscore-millionaire-titanfall-dev-hunting-cheaters-lol-player-admits-match-fixing",
-            "date": "2014-03-13",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15559",
             "title": "Achievement HUNT #20",
             "slug": "achievement-hunt-2014-34",
@@ -1901,15 +1748,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "15315",
-            "title": "No Titanfall for South Africa + The Last Of Us Movie Revealed + Watch Dogs Multiplayer Details",
-            "slug": "rt-news-rt-news-no-titanfall-for-south-africa-the-last-of-us-movie-revealed-watch-dogs-multiplayer-details",
-            "date": "2014-03-07",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "17587",
             "title": "Oculus Rift: Outlast Part 3 with Joel and Adam",
             "slug": "lets-play-2014-195",
@@ -1926,15 +1764,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "15317",
-            "title": "MGS V Too Big To Finish? + Uncharted Writer Leaves Naughty Dog + Xbox One Updated",
-            "slug": "rt-news-rt-news-mgs-v-too-big-to-finish-uncharted-writer-leaves-naughty-dog-xbox-one-updated",
-            "date": "2014-03-05",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "18217",
@@ -1959,15 +1788,6 @@
             "title": "X1 Titanfall Bundle & UK Price Drop + DayZ Creator Stepping Down + No Samurai Assassin's Creed",
             "slug": "rt-news-rt-news-x1-titanfall-bundle-and-uk-price-drop-dayz-creator-stepping-down-no-samurai-assassins-creed",
             "date": "2014-02-25",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15325",
-            "title": "New Tony Hawk Game + No PvZ: Garden Warfare Microtransactions + PS4 Sold Out For Months",
-            "slug": "rt-news-rt-news-new-tony-hawk-game-no-pvz-garden-warfare-microtransactions-ps4-sold-out-for-months",
-            "date": "2014-02-21",
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
@@ -2027,28 +1847,10 @@
             "show_slug": "achievement-hunt"
         },
         {
-            "id": "15336",
-            "title": "Ubisoft Loses Watch Dogs Trademark + Sonic For Next Gen + Minecraft Passes 35 Million",
-            "slug": "rt-news-rt-news-ubisoft-loses-watch-dogs-trademark-sonic-for-next-gen-minecraft-passes-35-million",
-            "date": "2014-02-04",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "17728",
             "title": "Cheaper Xbox One Coming + No Co-op for Shadow of Mordor + Killer Instinct Punishes Quitters",
             "slug": "rt-news-rt-news-cheaper-xbox-one-coming-no-co-op-for-shadow-of-mordor-killer-instinct-punishes-quitters",
             "date": "2014-02-01",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15337",
-            "title": "Nintendo's Bold New Plan + Halo 2 Anniversary Leaked + Halo 5 Delayed",
-            "slug": "rt-news-rt-news-nintendos-bold-new-plan-halo-2-anniversary-leaked-halo-5-delayed",
-            "date": "2014-01-31",
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
@@ -2081,15 +1883,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "15340",
-            "title": "Possible PS Vita Slim Release + Kingdom Come Kickstarted + DICE Teases Star Wars Battlefront",
-            "slug": "rt-news-rt-news-possible-ps-vita-slim-release-kingdom-come-kickstarted-dice-teases-star-wars-battlefront",
-            "date": "2014-01-24",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "17729",
             "title": "First Shadow of Mordor Gameplay + Tomb Raider Framerate Differences + ESO's Star-Studded Cast",
             "slug": "rt-news-rt-news-first-shadow-of-mordor-gameplay-tomb-raider-framerate-differences-esos-star-studded-cast",
@@ -2106,24 +1899,6 @@
             "is_first": false,
             "show": "Achievement HUNT",
             "show_slug": "achievement-hunt"
-        },
-        {
-            "id": "17730",
-            "title": "Nintendo's Next Hardware Rumored + Hearthstone Hits Open Beta + Candy Crush vs Banner Saga",
-            "slug": "rt-news-rt-news-nintendos-next-hardware-rumored-hearthstone-hits-open-beta-candy-crush-vs-banner-saga",
-            "date": "2014-01-22",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15342",
-            "title": "More Evidence of GTA V for PC + PS4 Error Deleting Game Progress + Secret Xbox One Marketing",
-            "slug": "rt-news-rt-news-more-evidence-of-gta-v-for-pc-ps4-error-deleting-game-progress-secret-xbox-one-marketing",
-            "date": "2014-01-21",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "15343",
@@ -2162,15 +1937,6 @@
             "show_slug": "rt-news"
         },
         {
-            "id": "15347",
-            "title": "COD Ghosts Gets Onslaught + Steam Virtual Reality Support + DayZ Sells 1 Million",
-            "slug": "rt-news-rt-news-cod-ghosts-gets-onslaught-steam-virtual-reality-support-dayz-sells-1-million",
-            "date": "2014-01-14",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "20503",
             "title": "Week #196",
             "slug": "ahwu-2014-19",
@@ -2189,15 +1955,6 @@
             "show_slug": "rt-news"
         },
         {
-            "id": "15349",
-            "title": "Xbox One Social Feature Update + X1 Twitch Months Away + 343 Art Director Steps Down",
-            "slug": "rt-news-rt-news-xbox-one-social-feature-update-x1-twitch-months-away-343-art-director-steps-down",
-            "date": "2014-01-09",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15566",
             "title": "Achievement HUNT #11",
             "slug": "achievement-hunt-2014-12",
@@ -2205,51 +1962,6 @@
             "is_first": false,
             "show": "Achievement HUNT",
             "show_slug": "achievement-hunt"
-        },
-        {
-            "id": "17744",
-            "title": "China Unbans Consoles + Titanfall's 12 Player Max + New Assassin's Creed Content",
-            "slug": "rt-news-rt-news-china-unbans-consoles-titanfalls-12-player-max-new-assassins-creed-content",
-            "date": "2014-01-08",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15843",
-            "title": "Batman: Arkham Asylum",
-            "slug": "five-facts-2014-14",
-            "date": "2014-01-07",
-            "is_first": false,
-            "show": "Five Facts",
-            "show_slug": "five-facts"
-        },
-        {
-            "id": "15351",
-            "title": "Xbox One Passes 3 Million + Steam Machines Detailed + Become ESO's Emperor",
-            "slug": "rt-news-rt-news-xbox-one-passes-3-million-steam-machines-detailed-become-esos-emperor",
-            "date": "2014-01-06",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "17755",
-            "title": "Marvel Games Pulled From Digital Stores + FTL's New Aliens + Steam Sale Doubles Dev's Income",
-            "slug": "rt-news-rt-news-marvel-games-pulled-from-digital-stores-ftls-new-aliens-steam-sale-doubles-devs-income",
-            "date": "2014-01-02",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "17756",
-            "title": "Freeze DLC for Arkham Origins Teased + Warframe On Xbox One? + Game Server Cyber Attacks",
-            "slug": "rt-news-rt-news-freeze-dlc-for-arkham-origins-teased-warframe-on-xbox-one-game-server-cyber-attacks",
-            "date": "2013-12-31",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "13247",
@@ -2270,15 +1982,6 @@
             "show_slug": "rt-news"
         },
         {
-            "id": "15355",
-            "title": "Holiday Gaming in GTA + BL2 + LoL + Dota 2 + TF2 + WOW + AC + More",
-            "slug": "rt-news-rt-news-holiday-gaming-in-gta-bl2-lol-dota-2-tf2-wow-ac-more",
-            "date": "2013-12-26",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "20506",
             "title": "Week #193",
             "slug": "ahwu-2013-4",
@@ -2286,33 +1989,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "15358",
-            "title": "Next Mass Effect Is Playable + Dragon Age Inquisition Dev Update + Hearthstone Beta Delayed",
-            "slug": "rt-news-rt-news-next-mass-effect-is-playable-dragon-age-inquisition-dev-update-hearthstone-beta-delayed",
-            "date": "2013-12-21",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15359",
-            "title": "Steam Sale Highlights + EA Lawsuit For SEC Violations + Revengeance PC Dated",
-            "slug": "rt-news-rt-news-steam-sale-highlights-ea-lawsuit-for-sec-violations-revengeance-pc-dated",
-            "date": "2013-12-20",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15360",
-            "title": "New Star Wars Game Announced + Dota 2 Opens Up + DayZ Alpha At 150,000",
-            "slug": "rt-news-rt-news-new-star-wars-game-announced-dota-2-opens-up-dayz-alpha-at-150000",
-            "date": "2013-12-18",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "17758",
@@ -2333,24 +2009,6 @@
             "show_slug": "ahwu"
         },
         {
-            "id": "17763",
-            "title": "PS4 Expands To 48 Countries + Dead Rising 3 DLC + 38 Studios Properties Auctioned",
-            "slug": "rt-news-rt-news-ps4-expands-to-48-countries-dead-rising-3-dlc-38-studios-properties-auctioned",
-            "date": "2013-12-14",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
-            "id": "15361",
-            "title": "SteamOS Available Friday + Maybe Fallout 4 (Again) + Fable Anniversary Dated",
-            "slug": "rt-news-rt-news-steamos-available-friday-maybe-fallout-4-again-fable-anniversary-dated",
-            "date": "2013-12-13",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15362",
             "title": "EA Under Investigation Over BF4 + Xbox One Sells 2 Million + Elder Scrolls Online Release Date",
             "slug": "rt-news-rt-news-ea-under-investigation-over-bf4-xbox-one-sells-2-million-elder-scrolls-online-release-date",
@@ -2358,15 +2016,6 @@
             "is_first": false,
             "show": "RT News",
             "show_slug": "rt-news"
-        },
-        {
-            "id": "17632",
-            "title": "3D Ultra MiniGolf Adventures Episode 5",
-            "slug": "lets-play-2013-188",
-            "date": "2013-12-05",
-            "is_first": false,
-            "show": "Let's Play",
-            "show_slug": "lets-play"
         },
         {
             "id": "15366",
@@ -2808,15 +2457,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "20526",
-            "title": "Week #170",
-            "slug": "ahwu-2013-33",
-            "date": "2013-07-15",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
         },
         {
             "id": "13331",
@@ -3287,15 +2927,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "18210",
-            "title": "RT Recap - Week of January 20th",
-            "slug": "rt-recap-2013-rt-recap-week-of-january-20th",
-            "date": "2013-01-20",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
-        },
-        {
             "id": "13721",
             "title": "Achievement Raceway Tour - Minecraft Community Map",
             "slug": "achievement-unlocked-season-1-achievement-raceway-tour-minecraft-community-map",
@@ -3465,15 +3096,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "18211",
-            "title": "RT Recap - Week of December 1st",
-            "slug": "rt-recap-2012-rt-recap-week-of-december-1st",
-            "date": "2012-12-01",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
         },
         {
             "id": "13867",
@@ -3807,15 +3429,6 @@
             "is_first": false,
             "show": "RT Recap",
             "show_slug": "rt-recap"
-        },
-        {
-            "id": "19359",
-            "title": "Mine & Mercy is the Mark",
-            "slug": "this-is-2012-107",
-            "date": "2012-10-19",
-            "is_first": false,
-            "show": "This is...",
-            "show_slug": "this-is"
         },
         {
             "id": "13975",

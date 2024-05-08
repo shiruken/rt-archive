@@ -5,7 +5,7 @@
         "count": 495,
         "uploaded": 495,
         "missing": 0,
-        "incomplete": 64,
+        "incomplete": 63,
         "removed": 0
     },
     "data": [
@@ -3656,7 +3656,7 @@
             "date": "2013-07-15",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": false,
+            "is_complete_upload": true,
             "is_removed": false
         },
         {
