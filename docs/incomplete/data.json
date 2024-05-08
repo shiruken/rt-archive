@@ -1,5 +1,5 @@
 {
-    "count": 880,
+    "count": 874,
     "data": [
         {
             "id": "50262",
@@ -326,15 +326,6 @@
             "show_slug": "fails-of-the-weak"
         },
         {
-            "id": "8672",
-            "title": "Rare Amiibo Stolen in Heist",
-            "slug": "game-news-2015-26",
-            "date": "2015-05-27",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
-        },
-        {
             "id": "14989",
             "title": "Top 5 Ground Pounds in Video Games",
             "slug": "countdown-2015-21",
@@ -342,15 +333,6 @@
             "is_first": false,
             "show": "Countdown",
             "show_slug": "countdown"
-        },
-        {
-            "id": "8668",
-            "title": "AMD Accuses Nvidia of Witcher 3 Sabotage",
-            "slug": "game-news-2015-23",
-            "date": "2015-05-21",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "20061",
@@ -1127,15 +1109,6 @@
             "show_slug": "countdown"
         },
         {
-            "id": "17907",
-            "title": "Imploding Drum",
-            "slug": "the-slow-mo-guys-season-1-imploding-drum",
-            "date": "2014-09-11",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
-        },
-        {
             "id": "15025",
             "title": "Top 10 Female Protagonists",
             "slug": "countdown-season-1-countdown-top-10-female-protagonists",
@@ -1865,15 +1838,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "17729",
-            "title": "First Shadow of Mordor Gameplay + Tomb Raider Framerate Differences + ESO's Star-Studded Cast",
-            "slug": "rt-news-rt-news-first-shadow-of-mordor-gameplay-tomb-raider-framerate-differences-esos-star-studded-cast",
-            "date": "2014-01-23",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15564",
             "title": "Achievement HUNT #13",
             "slug": "achievement-hunt-2014-24",
@@ -1883,15 +1847,6 @@
             "show_slug": "achievement-hunt"
         },
         {
-            "id": "15345",
-            "title": "Steam Up 10M In 3 Months + Steam Controller Ditches Touch Screen + Get In The Titanfall Alpha",
-            "slug": "rt-news-rt-news-steam-up-10m-in-3-months-steam-controller-ditches-touch-screen-get-in-the-titanfall-alpha",
-            "date": "2014-01-16",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
-        },
-        {
             "id": "15565",
             "title": "Achievement HUNT #12",
             "slug": "achievement-hunt-2014-18",
@@ -1899,15 +1854,6 @@
             "is_first": false,
             "show": "Achievement HUNT",
             "show_slug": "achievement-hunt"
-        },
-        {
-            "id": "15346",
-            "title": "Rockstar Takes Down GTA Online + Starbound To Wipe Characters + LoL's New Player Features",
-            "slug": "rt-news-rt-news-rockstar-takes-down-gta-online-starbound-to-wipe-characters-lols-new-player-features",
-            "date": "2014-01-15",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "20503",
