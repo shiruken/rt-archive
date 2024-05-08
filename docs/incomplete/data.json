@@ -1,5 +1,5 @@
 {
-    "count": 927,
+    "count": 922,
     "data": [
         {
             "id": "50262",
@@ -3440,15 +3440,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "13997",
-            "title": "Trollololol Achievement Guide",
-            "slug": "achievement-unlocked-season-1-trollololol-achievement-guide",
-            "date": "2012-10-17",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "14131",
             "title": "King of the World Achievement Guide",
             "slug": "achievement-unlocked-season-1-king-of-the-world-achievement-guide",
@@ -3618,15 +3609,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "18237",
-            "title": "Week of August 10th",
-            "slug": "rt-recap-2012-week-of-august-10th",
-            "date": "2012-08-10",
-            "is_first": false,
-            "show": "RT Recap",
-            "show_slug": "rt-recap"
         },
         {
             "id": "19385",
@@ -4556,24 +4538,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "21635",
-            "title": "Skulls & Terminals Part 1",
-            "slug": "achievement-hunter-achievement-hunter-skulls-and-terminals-part-1",
-            "date": "2011-11-15",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "20611",
-            "title": "Week #88",
-            "slug": "ahwu-2011-13",
-            "date": "2011-11-14",
-            "is_first": false,
-            "show": "AHWU",
-            "show_slug": "ahwu"
-        },
-        {
             "id": "21636",
             "title": "Breakneck Overview",
             "slug": "achievement-hunter-achievement-hunter-breakneck-overview",
@@ -4946,15 +4910,6 @@
             "id": "24945",
             "title": "Mark of the Assassin DLC - Chasing the Game, The Take",
             "slug": "achievement-hunter-achievement-hunter-mark-of-the-assassin-dlc-chasing-the-game-the-take",
-            "date": "2011-10-13",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "24845",
-            "title": "Camera Crazy, Out with the Old, Tiger Tamer",
-            "slug": "achievement-hunter-achievement-hunter-camera-crazy-out-with-the-old-tiger-tamer",
             "date": "2011-10-13",
             "is_first": false,
             "show": "Achievement Hunter",
