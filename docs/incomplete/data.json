@@ -1,5 +1,5 @@
 {
-    "count": 867,
+    "count": 863,
     "data": [
         {
             "id": "50262",
@@ -288,15 +288,6 @@
             "is_first": false,
             "show": "How To",
             "show_slug": "how-to"
-        },
-        {
-            "id": "8675",
-            "title": "LEGO Worlds a Minecraft KILLER?",
-            "slug": "game-news-2015-30",
-            "date": "2015-06-01",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "14986",
@@ -666,15 +657,6 @@
             "is_first": false,
             "show": "Fails of the Weak",
             "show_slug": "fails-of-the-weak"
-        },
-        {
-            "id": "15932",
-            "title": "Convertible Aerodynamics at 1000fps - The Slow Mo Guys",
-            "slug": "the-slow-mo-guys-season-1-convertible-aerodynamics-at-1000fps-the-slow-mo-guys",
-            "date": "2015-03-19",
-            "is_first": false,
-            "show": "The Slow Mo Guys",
-            "show_slug": "the-slow-mo-guys"
         },
         {
             "id": "15001",
@@ -6806,15 +6788,6 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25582",
-            "title": "Spec Ops - Echo - Wetwork",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-echo-wetwork",
-            "date": "2010-01-26",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25579",
             "title": "Spec Ops - Delta - Wreckage",
             "slug": "achievement-hunter-achievement-hunter-spec-ops-delta-wreckage",
@@ -6855,15 +6828,6 @@
             "title": "Drowning Doom Units",
             "slug": "achievement-hunter-achievement-hunter-drowning-doom-units",
             "date": "2009-11-25",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25387",
-            "title": "Enemy Intel - Act 3, Part 2",
-            "slug": "achievement-hunter-achievement-hunter-enemy-intel-act-3-part-2",
-            "date": "2009-11-11",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
