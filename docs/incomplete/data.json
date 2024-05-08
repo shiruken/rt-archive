@@ -1,5 +1,5 @@
 {
-    "count": 883,
+    "count": 880,
     "data": [
         {
             "id": "50262",
@@ -6968,28 +6968,10 @@
             "show_slug": "achievement-hunter"
         },
         {
-            "id": "25385",
-            "title": "Enemy Intel - Act 2, Part 2",
-            "slug": "achievement-hunter-achievement-hunter-enemy-intel-act-2-part-2",
-            "date": "2009-11-10",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25638",
             "title": "Adrenaline Junkie Guide",
             "slug": "achievement-unlocked-season-1-adrenaline-junkie-guide-gtaiv",
             "date": "2009-11-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25651",
-            "title": "Bear Fight Guide",
-            "slug": "achievement-unlocked-season-1-bear-fight-guide",
-            "date": "2009-11-02",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -7341,15 +7323,6 @@
             "title": "Endless Fun & Hidden Skull",
             "slug": "achievement-hunter-achievement-hunter-endless-fun-and-hidden-skull",
             "date": "2009-02-27",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25373",
-            "title": "Cupcake",
-            "slug": "achievement-hunter-achievement-hunter-cupcake",
-            "date": "2009-02-20",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
