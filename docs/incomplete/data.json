@@ -1,5 +1,5 @@
 {
-    "count": 901,
+    "count": 896,
     "data": [
         {
             "id": "50262",
@@ -7319,15 +7319,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25786",
-            "title": "Mill Worker (21-43) Achievement Walkthrough",
-            "slug": "achievement-unlocked-season-1-mill-worker-21-43-achievement-walkthrough",
-            "date": "2009-03-31",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
             "id": "25600",
             "title": "Three for Thirty Five",
             "slug": "achievement-hunter-achievement-hunter-three-for-thirty-five",
@@ -7344,15 +7335,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25785",
-            "title": "Mill Worker (0-21) Achievement Walkthrough",
-            "slug": "achievement-unlocked-season-1-mill-worker-0-21-achievement-walkthrough",
-            "date": "2009-03-30",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "25628",
@@ -7499,15 +7481,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "25497",
-            "title": "On The Clock",
-            "slug": "achievement-hunter-achievement-hunter-on-the-clock",
-            "date": "2009-02-17",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "25449",
             "title": "Killer in Pink - Music Video",
             "slug": "achievement-hunter-achievement-hunter-killer-in-pink-music-video",
@@ -7539,15 +7512,6 @@
             "title": "Lost Planet: Tornado and Volcano Achievement Guide",
             "slug": "achievement-unlocked-season-1-lost-planet-tornado-and-volcano-achievement-guide",
             "date": "2009-02-03",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25723",
-            "title": "Fallout 3: Mercenary, Protector, Reaver Guide",
-            "slug": "achievement-unlocked-season-1-fallout-3-mercenary-protector-reaver-guide",
-            "date": "2009-01-30",
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
@@ -7893,15 +7857,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25489",
-            "title": "NXE Preview Part 2 of 3",
-            "slug": "achievement-hunter-achievement-hunter-nxe-preview-part-2-of-3",
-            "date": "2008-11-14",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25430",
