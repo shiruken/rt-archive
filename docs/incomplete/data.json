@@ -1,5 +1,5 @@
 {
-    "count": 856,
+    "count": 854,
     "data": [
         {
             "id": "50262",
@@ -1746,15 +1746,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "17725",
-            "title": "Koopalings & Mario Kart 8 Release Date + New 3DS Pokemon Game + Xbox One Controller Changes",
-            "slug": "rt-news-rt-news-koopalings-and-mario-kart-8-release-date-new-3ds-pokemon-game-xbox-one-controller-changes",
-            "date": "2014-02-13",
-            "is_first": false,
-            "show": "RT News",
-            "show_slug": "rt-news"
         },
         {
             "id": "15562",
@@ -6777,15 +6768,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25652",
-            "title": "Beat the Rush Achievement Guide",
-            "slug": "achievement-unlocked-season-1-beat-the-rush-achievement-guide",
-            "date": "2009-12-04",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "25381",
