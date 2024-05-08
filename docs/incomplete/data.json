@@ -1,5 +1,5 @@
 {
-    "count": 861,
+    "count": 857,
     "data": [
         {
             "id": "50262",
@@ -270,15 +270,6 @@
             "is_first": false,
             "show": "Fails of the Weak",
             "show_slug": "fails-of-the-weak"
-        },
-        {
-            "id": "8677",
-            "title": "Fallout 4: Best Game EVER?! Yes.",
-            "slug": "game-news-2015-33",
-            "date": "2015-06-03",
-            "is_first": false,
-            "show": "Game News",
-            "show_slug": "game-news"
         },
         {
             "id": "11383",
@@ -6698,15 +6689,6 @@
             "show_slug": "achievement-unlocked"
         },
         {
-            "id": "24958",
-            "title": "Old Spice Swagger Pick 6, Old Spice Swagger Return, Very Special Teams",
-            "slug": "achievement-hunter-achievement-hunter-old-spice-swagger-pick-6-old-spice-swagger-return-very-special-teams",
-            "date": "2010-09-01",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
             "id": "24860",
             "title": "Dragon Age: Origins - Darkspawn Chronicles DLC",
             "slug": "achievement-hunter-achievement-hunter-darkspawn-chronicles-dlc",
@@ -6783,15 +6765,6 @@
             "title": "Dante's Inferno - Limbo Item Walkthrough",
             "slug": "achievement-hunter-achievement-hunter-limbo-item-walkthrough",
             "date": "2010-02-08",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25579",
-            "title": "Spec Ops - Delta - Wreckage",
-            "slug": "achievement-hunter-achievement-hunter-spec-ops-delta-wreckage",
-            "date": "2010-01-22",
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
@@ -7560,15 +7533,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25430",
-            "title": "Hidden Collectibles, Act Four",
-            "slug": "achievement-hunter-achievement-hunter-hidden-collectibles-act-four-gears",
-            "date": "2008-11-13",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25688",
