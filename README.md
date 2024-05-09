@@ -52,6 +52,72 @@ This endpoint lists every channel published on the Rooster Teeth website.
 * Original: https://svod-be.roosterteeth.com/api/v1/channels
 * Mirror: https://archive.org/download/roosterteeth-api/api/v1/channels.json
 
+## Rooster Teeth API Images
+
+Comprehensive mirror of the images referenced in the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api-images). The archived images can be accessed by swapping the original domain name with the Internet Archive download URL:
+
+`cdn.roosterteeth.com` → `archive.org/download/roosterteeth-api-images`
+
+* Original: https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/9a671db3-c156-4085-9629-428a81ce26e7/original/1634598688.jpg
+* Mirror: https://archive.org/download/roosterteeth-api-images/image/upload/t_l/f_auto/3/9a671db3-c156-4085-9629-428a81ce26e7/original/1634598688.jpg
+
+A small number of images (12) were stored using a bare AWS domain. These should be mapped with:
+
+`s3.amazonaws.com/dev.cdn.roosterteeth.com` → `archive.org/download/roosterteeth-api-images/image`
+
+* Original: https://s3.amazonaws.com/dev.cdn.roosterteeth.com/uploads/images/71044483-a611-4bbf-8c67-724ea09c1f05/original/ep11690.jpg
+* Mirror: https://archive.org/download/roosterteeth-api-images/image/uploads/images/71044483-a611-4bbf-8c67-724ea09c1f05/original/ep11690.jpg
+
+There were 2,720,688 image urls referenced by the Rooster Teeth API of which 181,180 were unique. There were 40 broken image links (HTTP Error 404) that could not be archived. They are listed below:
+
+<details>
+  <summary>Broken URLs</summary>
+
+  ```bash
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/4bc2aac0-9528-4111-a876-ada9c0efdfa6/original/24363-1437848352684-mirror%27s_edge_catalyst.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/4bc2aac0-9528-4111-a876-ada9c0efdfa6/original/24363-1437848352684-mirror%27s_edge_catalyst.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/4bc2aac0-9528-4111-a876-ada9c0efdfa6/original/24363-1437848352684-mirror%27s_edge_catalyst.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/4bc2aac0-9528-4111-a876-ada9c0efdfa6/original/24363-1437848352684-mirror%27s_edge_catalyst.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/3b5e7ff2-440a-4416-8cab-30aad0919d40/original/DBZ_Earth%27s_Special_Forces.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/3b5e7ff2-440a-4416-8cab-30aad0919d40/original/DBZ_Earth%27s_Special_Forces.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/3b5e7ff2-440a-4416-8cab-30aad0919d40/original/DBZ_Earth%27s_Special_Forces.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/3b5e7ff2-440a-4416-8cab-30aad0919d40/original/DBZ_Earth%27s_Special_Forces.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/87749a8f-b5c2-4f1c-b9ed-f9cac2908e1b/original/Reggie-Fils-Aime%27s-ABC-Interview.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/87749a8f-b5c2-4f1c-b9ed-f9cac2908e1b/original/Reggie-Fils-Aime%27s-ABC-Interview.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/87749a8f-b5c2-4f1c-b9ed-f9cac2908e1b/original/Reggie-Fils-Aime%27s-ABC-Interview.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/87749a8f-b5c2-4f1c-b9ed-f9cac2908e1b/original/Reggie-Fils-Aime%27s-ABC-Interview.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/f9da9a7d-8725-43a3-b007-18d17520f2ae/original/Whomp%27Em.gif
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/f9da9a7d-8725-43a3-b007-18d17520f2ae/original/Whomp%27Em.gif
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/f9da9a7d-8725-43a3-b007-18d17520f2ae/original/Whomp%27Em.gif
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/f9da9a7d-8725-43a3-b007-18d17520f2ae/original/Whomp%27Em.gif
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/40e55b47-a5b0-4ac6-bf84-e07f227cb07f/original/Ghosts_%27N_Goblins_-_NES_-_Title.png
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/40e55b47-a5b0-4ac6-bf84-e07f227cb07f/original/Ghosts_%27N_Goblins_-_NES_-_Title.png
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/40e55b47-a5b0-4ac6-bf84-e07f227cb07f/original/Ghosts_%27N_Goblins_-_NES_-_Title.png
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/40e55b47-a5b0-4ac6-bf84-e07f227cb07f/original/Ghosts_%27N_Goblins_-_NES_-_Title.png
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/3be9bf4a-686d-4402-aa76-b43eb1a3e3d8/original/03+Sonic+The+Hedgehog+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/3be9bf4a-686d-4402-aa76-b43eb1a3e3d8/original/03+Sonic+The+Hedgehog+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/3be9bf4a-686d-4402-aa76-b43eb1a3e3d8/original/03+Sonic+The+Hedgehog+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/3be9bf4a-686d-4402-aa76-b43eb1a3e3d8/original/03+Sonic+The+Hedgehog+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/d3ad1342-7a92-482f-b23a-cc6c23911553/original/01+Sonic+The+Hedgehog+1.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/d3ad1342-7a92-482f-b23a-cc6c23911553/original/01+Sonic+The+Hedgehog+1.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/d3ad1342-7a92-482f-b23a-cc6c23911553/original/01+Sonic+The+Hedgehog+1.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/d3ad1342-7a92-482f-b23a-cc6c23911553/original/01+Sonic+The+Hedgehog+1.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/13003ad2-3bb3-41f4-9897-6779feefcae2/original/Battleship+(U)+[!]+0.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/13003ad2-3bb3-41f4-9897-6779feefcae2/original/Battleship+(U)+[!]+0.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/13003ad2-3bb3-41f4-9897-6779feefcae2/original/Battleship+(U)+[!]+0.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/13003ad2-3bb3-41f4-9897-6779feefcae2/original/Battleship+(U)+[!]+0.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/9269b55a-af01-4102-af80-16e97aded6d5/original/Track+and+Field+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/9269b55a-af01-4102-af80-16e97aded6d5/original/Track+and+Field+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/9269b55a-af01-4102-af80-16e97aded6d5/original/Track+and+Field+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/9269b55a-af01-4102-af80-16e97aded6d5/original/Track+and+Field+2.jpg
+  https://cdn.roosterteeth.com/image/upload/t_t/f_auto/2/uploads/images/76fd2fe3-ed5b-4ab3-bbca-6f32b480a8e1/original/600full-chip-%27n-dale-rescue-rangers-screenshot.jpg
+  https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/2/uploads/images/76fd2fe3-ed5b-4ab3-bbca-6f32b480a8e1/original/600full-chip-%27n-dale-rescue-rangers-screenshot.jpg
+  https://cdn.roosterteeth.com/image/upload/t_m/f_auto/2/uploads/images/76fd2fe3-ed5b-4ab3-bbca-6f32b480a8e1/original/600full-chip-%27n-dale-rescue-rangers-screenshot.jpg
+  https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/76fd2fe3-ed5b-4ab3-bbca-6f32b480a8e1/original/600full-chip-%27n-dale-rescue-rangers-screenshot.jpg
+  ```
+  
+</details>
+
 ## Derived Files
 
 Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
