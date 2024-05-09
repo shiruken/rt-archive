@@ -1,0 +1,536 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "id": 1353,
+            "type": "bonus_feature",
+            "attributes": {
+                "title": "Carboys for Life",
+                "slug": "hardcore-tabletop-carboys-for-life",
+                "rating": null,
+                "caption": "Watch what happens with the eliminated players behind the scenes while the fight for the Hardcore Tabletop championship rages on.",
+                "number": 4,
+                "sort_number": 4,
+                "description": "Watch what happens with the eliminated players behind the scenes while the fight for the Hardcore Tabletop championship rages on.",
+                "display_title": "Carboys for Life",
+                "length": 1821,
+                "advert_config": "",
+                "advertising": true,
+                "ad_timestamps": "0.00,455.25,910.50,1365.75",
+                "public_golive_at": "2019-05-21T19:00:00.000Z",
+                "sponsor_golive_at": "2019-05-21T19:00:00.000Z",
+                "member_golive_at": "2019-05-21T19:00:00.000Z",
+                "original_air_date": "2019-05-21T19:00:00.000Z",
+                "channel_id": "2cb2a70c-be50-46f5-93d7-84a1baabb4f7",
+                "channel_slug": "achievement-hunter",
+                "parent_content_id": "f8955194-8a83-4f54-be73-89045298c681",
+                "parent_content_type": "Show",
+                "parent_content_slug": "hardcore-tabletop",
+                "parent_content_title": "Hardcore Tabletop",
+                "show_id": "f8955194-8a83-4f54-be73-89045298c681",
+                "is_sponsors_only": false,
+                "member_tier_i": -1,
+                "is_live": true,
+                "is_schedulable": true,
+                "downloadable": true,
+                "blacklisted_countries": [],
+                "trending_score": 1.0,
+                "credits_start_at": null
+            },
+            "links": {
+                "self": "/api/v1/watch/hardcore-tabletop-carboys-for-life",
+                "channel": "/api/v1/channels/achievement-hunter",
+                "parent_content": "/api/v1/shows/hardcore-tabletop",
+                "products": "/api/v1/shows/hardcore-tabletop/products?channel_id=achievement-hunter",
+                "videos": "/api/v1/watch/hardcore-tabletop-carboys-for-life/videos",
+                "next": "/api/v1/bonus_features/hardcore-tabletop-carboys-for-life/next"
+            },
+            "uuid": "f156d3dc-377a-4823-92d1-d393b982cfca",
+            "included": {
+                "images": [
+                    {
+                        "id": 144788,
+                        "type": "bonus_feature_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/abe18804-760c-445d-96b7-eb0e3e177740/original/1558453288.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/abe18804-760c-445d-96b7-eb0e3e177740/original/1558453288.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/abe18804-760c-445d-96b7-eb0e3e177740/original/1558453288.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/abe18804-760c-445d-96b7-eb0e3e177740/original/1558453288.jpg",
+                            "orientation": "wide",
+                            "image_type": "profile"
+                        },
+                        "uuid": "abe18804-760c-445d-96b7-eb0e3e177740",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234742,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "orientation": "wide",
+                            "image_type": "cover"
+                        },
+                        "uuid": "4c9896b1-de4a-4197-9641-1d1e4804f293",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234743,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "orientation": "wide",
+                            "image_type": "poster"
+                        },
+                        "uuid": "00c2964c-431c-43c3-8446-5b43893beefb",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234744,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "orientation": "wide",
+                            "image_type": "profile"
+                        },
+                        "uuid": "c185be87-aa8e-4abf-af2b-06691879bb3e",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234745,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "orientation": "wide",
+                            "image_type": "mobile_hero"
+                        },
+                        "uuid": "c3467af8-be60-4c36-8473-9038da47af9b",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234746,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "orientation": "wide",
+                            "image_type": "logo"
+                        },
+                        "uuid": "106e1a00-4fa5-4902-88f7-a5404a927439",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234747,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "orientation": "wide",
+                            "image_type": "title_card"
+                        },
+                        "uuid": "f2312d9c-b596-41dc-9008-76a5a5fde428",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234748,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "orientation": "wide",
+                            "image_type": "hero"
+                        },
+                        "uuid": "dcf2340d-e45a-49f0-a56c-b34d5c8eae81",
+                        "links": {},
+                        "included": {}
+                    }
+                ]
+            },
+            "canonical_links": {
+                "self": "/watch/hardcore-tabletop-carboys-for-life",
+                "show": "/series/hardcore-tabletop"
+            }
+        },
+        {
+            "id": 1351,
+            "type": "bonus_feature",
+            "attributes": {
+                "title": "The Greenroom",
+                "slug": "hardcore-tabletop-the-greenroom",
+                "rating": null,
+                "caption": "Once eliminated, players are sent to the greenroom to watch the rest of the battle for Hardcore Champion play out before them.",
+                "number": 3,
+                "sort_number": 3,
+                "description": "Once eliminated, players are sent to the greenroom to watch the rest of the battle for Hardcore Champion play out before them.",
+                "display_title": "The Greenroom",
+                "length": 821,
+                "advert_config": "",
+                "advertising": true,
+                "ad_timestamps": "0.00",
+                "public_golive_at": "2019-05-14T19:00:00.000Z",
+                "sponsor_golive_at": "2019-05-14T19:00:00.000Z",
+                "member_golive_at": "2019-05-14T19:00:00.000Z",
+                "original_air_date": "2019-05-14T19:00:00.000Z",
+                "channel_id": "2cb2a70c-be50-46f5-93d7-84a1baabb4f7",
+                "channel_slug": "achievement-hunter",
+                "parent_content_id": "f8955194-8a83-4f54-be73-89045298c681",
+                "parent_content_type": "Show",
+                "parent_content_slug": "hardcore-tabletop",
+                "parent_content_title": "Hardcore Tabletop",
+                "show_id": "f8955194-8a83-4f54-be73-89045298c681",
+                "is_sponsors_only": false,
+                "member_tier_i": -1,
+                "is_live": true,
+                "is_schedulable": true,
+                "downloadable": true,
+                "blacklisted_countries": [],
+                "trending_score": 1.0,
+                "credits_start_at": null
+            },
+            "links": {
+                "self": "/api/v1/watch/hardcore-tabletop-the-greenroom",
+                "channel": "/api/v1/channels/achievement-hunter",
+                "parent_content": "/api/v1/shows/hardcore-tabletop",
+                "products": "/api/v1/shows/hardcore-tabletop/products?channel_id=achievement-hunter",
+                "videos": "/api/v1/watch/hardcore-tabletop-the-greenroom/videos",
+                "next": "/api/v1/bonus_features/hardcore-tabletop-the-greenroom/next"
+            },
+            "uuid": "f76e36f8-f388-40bd-9b7e-c03e3b33d48a",
+            "included": {
+                "images": [
+                    {
+                        "id": 144787,
+                        "type": "bonus_feature_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/bf7ec03f-8c41-4f8e-b9e7-ef99cf1e4ca4/original/1557867078.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/bf7ec03f-8c41-4f8e-b9e7-ef99cf1e4ca4/original/1557867078.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/bf7ec03f-8c41-4f8e-b9e7-ef99cf1e4ca4/original/1557867078.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/bf7ec03f-8c41-4f8e-b9e7-ef99cf1e4ca4/original/1557867078.jpg",
+                            "orientation": "wide",
+                            "image_type": "profile"
+                        },
+                        "uuid": "bf7ec03f-8c41-4f8e-b9e7-ef99cf1e4ca4",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234742,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/4c9896b1-de4a-4197-9641-1d1e4804f293/original/1553700939.jpg",
+                            "orientation": "wide",
+                            "image_type": "cover"
+                        },
+                        "uuid": "4c9896b1-de4a-4197-9641-1d1e4804f293",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234743,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/00c2964c-431c-43c3-8446-5b43893beefb/original/1553700940.jpg",
+                            "orientation": "wide",
+                            "image_type": "poster"
+                        },
+                        "uuid": "00c2964c-431c-43c3-8446-5b43893beefb",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234744,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/c185be87-aa8e-4abf-af2b-06691879bb3e/original/1553700940.jpg",
+                            "orientation": "wide",
+                            "image_type": "profile"
+                        },
+                        "uuid": "c185be87-aa8e-4abf-af2b-06691879bb3e",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234745,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/c3467af8-be60-4c36-8473-9038da47af9b/original/1553700941.jpg",
+                            "orientation": "wide",
+                            "image_type": "mobile_hero"
+                        },
+                        "uuid": "c3467af8-be60-4c36-8473-9038da47af9b",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234746,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/106e1a00-4fa5-4902-88f7-a5404a927439/original/1553700941.png",
+                            "orientation": "wide",
+                            "image_type": "logo"
+                        },
+                        "uuid": "106e1a00-4fa5-4902-88f7-a5404a927439",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234747,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/f2312d9c-b596-41dc-9008-76a5a5fde428/original/1553700941.jpg",
+                            "orientation": "wide",
+                            "image_type": "title_card"
+                        },
+                        "uuid": "f2312d9c-b596-41dc-9008-76a5a5fde428",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 234748,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/dcf2340d-e45a-49f0-a56c-b34d5c8eae81/original/1553700941.jpg",
+                            "orientation": "wide",
+                            "image_type": "hero"
+                        },
+                        "uuid": "dcf2340d-e45a-49f0-a56c-b34d5c8eae81",
+                        "links": {},
+                        "included": {}
+                    }
+                ]
+            },
+            "canonical_links": {
+                "self": "/watch/hardcore-tabletop-the-greenroom",
+                "show": "/series/hardcore-tabletop"
+            }
+        },
+        {
+            "id": 26827,
+            "type": "episode",
+            "attributes": {
+                "title": "BRANDED - Episode 101: Infancy Stages",
+                "slug": "pilot-program-2018-branded-episode-101-infancy-stages",
+                "rating": null,
+                "caption": "When late-bloomer Clark Dougan finally lands a job at a small digital ad agency, he soon realizes that his quirky co-workers might not be as competent as they project...",
+                "number": 1,
+                "description": "When late-bloomer Clark Dougan finally lands a job at a small digital ad agency, he soon realizes that his quirky co-workers might not be as competent as they project...",
+                "display_title": "BRANDED - Episode 101: Infancy Stages",
+                "length": 1392,
+                "advert_config": "",
+                "advertising": true,
+                "ad_timestamps": "0.00,464.00,928.00",
+                "public_golive_at": "2018-05-10T16:00:00.000Z",
+                "sponsor_golive_at": "2018-05-10T16:00:00.000Z",
+                "member_golive_at": "2018-05-10T16:00:00.000Z",
+                "original_air_date": "2018-05-10T16:00:00.000Z",
+                "channel_id": "92b6bb21-91d2-4b1b-bf95-3268fa0d9939",
+                "channel_slug": "rooster-teeth",
+                "season_id": "50cb05e2-317c-4700-94c4-fee988d8f4a8",
+                "season_slug": "pilot-program-2018",
+                "season_number": 2,
+                "show_title": "Pilot Program",
+                "show_id": "ff92f35d-464d-11e7-a302-065410f210c4",
+                "show_slug": "pilot-program",
+                "is_sponsors_only": true,
+                "member_tier_i": 1,
+                "sort_number": 20001,
+                "genres": [],
+                "is_live": true,
+                "is_schedulable": true,
+                "season_order": "desc",
+                "episode_order": "desc",
+                "downloadable": true,
+                "blacklisted_countries": [],
+                "upsell_next": false,
+                "trending_score": 1.0,
+                "time_boost": 18.051016,
+                "credits_start_at": null,
+                "trending_carousel": null
+            },
+            "links": {
+                "self": "/api/v1/watch/pilot-program-2018-branded-episode-101-infancy-stages",
+                "show": "/api/v1/shows/pilot-program",
+                "related_shows": "/api/v1/shows/pilot-program/related",
+                "channel": "/api/v1/channels/rooster-teeth",
+                "season": "/api/v1/seasons/pilot-program-2018",
+                "next": "/api/v1/episodes/pilot-program-2018-branded-episode-101-infancy-stages/next",
+                "videos": "/api/v1/watch/pilot-program-2018-branded-episode-101-infancy-stages/videos",
+                "products": "/api/v1/shows/pilot-program/products?channel_id=rooster-teeth"
+            },
+            "uuid": "b80631b3-d450-4c5a-873b-86a038ed0e25",
+            "included": {
+                "images": [
+                    {
+                        "id": 155382,
+                        "type": "episode_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/f9674870-ea12-4a26-9d2a-55b8f3e67148.jpg/original/brandedthumb.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/f9674870-ea12-4a26-9d2a-55b8f3e67148.jpg/original/brandedthumb.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/f9674870-ea12-4a26-9d2a-55b8f3e67148.jpg/original/brandedthumb.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/f9674870-ea12-4a26-9d2a-55b8f3e67148.jpg/original/brandedthumb.jpg",
+                            "orientation": "wide",
+                            "image_type": "profile"
+                        },
+                        "uuid": "41f6ad9b-39e4-4757-ac17-ab1bf20698bf",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113029,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/86ba27f0-b410-43ae-9439-fe1ccdf74e9f.jpg/original/PilotProgramHero1.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/86ba27f0-b410-43ae-9439-fe1ccdf74e9f.jpg/original/PilotProgramHero1.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/86ba27f0-b410-43ae-9439-fe1ccdf74e9f.jpg/original/PilotProgramHero1.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/86ba27f0-b410-43ae-9439-fe1ccdf74e9f.jpg/original/PilotProgramHero1.jpg",
+                            "orientation": "wide",
+                            "image_type": "cover"
+                        },
+                        "uuid": "88b97db9-350d-4257-b1f6-39e5ca9a532d",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113030,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/5a602f4f-d4ea-4198-8d17-e1e7daaa558c.jpg/original/PilotProgramPortraitNoLogo.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/5a602f4f-d4ea-4198-8d17-e1e7daaa558c.jpg/original/PilotProgramPortraitNoLogo.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/5a602f4f-d4ea-4198-8d17-e1e7daaa558c.jpg/original/PilotProgramPortraitNoLogo.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/5a602f4f-d4ea-4198-8d17-e1e7daaa558c.jpg/original/PilotProgramPortraitNoLogo.jpg",
+                            "orientation": "wide",
+                            "image_type": "poster"
+                        },
+                        "uuid": "8b2e9c66-e515-49d9-a33c-290fc73d7c52",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113031,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/25ad7d69-d9df-408f-88bb-8393b67c540b.jpg/original/PilotProgramSquare.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/25ad7d69-d9df-408f-88bb-8393b67c540b.jpg/original/PilotProgramSquare.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/25ad7d69-d9df-408f-88bb-8393b67c540b.jpg/original/PilotProgramSquare.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/25ad7d69-d9df-408f-88bb-8393b67c540b.jpg/original/PilotProgramSquare.jpg",
+                            "orientation": "wide",
+                            "image_type": "profile"
+                        },
+                        "uuid": "5e81a565-be5f-43ae-aceb-c23ab6d751f5",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113032,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/1fbc6d9c-4de8-4ace-8b2c-9225dccee2e2.png/original/PilotProgramLogo.png",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/1fbc6d9c-4de8-4ace-8b2c-9225dccee2e2.png/original/PilotProgramLogo.png",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/1fbc6d9c-4de8-4ace-8b2c-9225dccee2e2.png/original/PilotProgramLogo.png",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/1fbc6d9c-4de8-4ace-8b2c-9225dccee2e2.png/original/PilotProgramLogo.png",
+                            "orientation": "wide",
+                            "image_type": "logo"
+                        },
+                        "uuid": "d6750792-ce05-44f4-8476-d99769183a07",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113033,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/015e3fc4-5d8d-4a38-ad69-d861799d2995.jpg/original/PilotProgramTitleCard.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/015e3fc4-5d8d-4a38-ad69-d861799d2995.jpg/original/PilotProgramTitleCard.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/015e3fc4-5d8d-4a38-ad69-d861799d2995.jpg/original/PilotProgramTitleCard.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/015e3fc4-5d8d-4a38-ad69-d861799d2995.jpg/original/PilotProgramTitleCard.jpg",
+                            "orientation": "wide",
+                            "image_type": "title_card"
+                        },
+                        "uuid": "a8113d5b-e80c-4054-95d1-08778914404b",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113034,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/6b9a6358-cce0-4ba6-a75a-9d09214e0b7e.jpg/original/murderroomherov3.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/6b9a6358-cce0-4ba6-a75a-9d09214e0b7e.jpg/original/murderroomherov3.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/6b9a6358-cce0-4ba6-a75a-9d09214e0b7e.jpg/original/murderroomherov3.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/6b9a6358-cce0-4ba6-a75a-9d09214e0b7e.jpg/original/murderroomherov3.jpg",
+                            "orientation": "wide",
+                            "image_type": "hero"
+                        },
+                        "uuid": "ae133142-b5b2-47fc-bd3b-ffb247e19246",
+                        "links": {},
+                        "included": {}
+                    },
+                    {
+                        "id": 113035,
+                        "type": "show_image",
+                        "attributes": {
+                            "thumb": "https://cdn.roosterteeth.com/image/upload/t_t/f_auto/3/19d9f0be-dd9d-4755-917b-d32697062e54.jpg/original/murderroommobileherov2.jpg",
+                            "small": "https://cdn.roosterteeth.com/image/upload/t_sm/f_auto/3/19d9f0be-dd9d-4755-917b-d32697062e54.jpg/original/murderroommobileherov2.jpg",
+                            "medium": "https://cdn.roosterteeth.com/image/upload/t_m/f_auto/3/19d9f0be-dd9d-4755-917b-d32697062e54.jpg/original/murderroommobileherov2.jpg",
+                            "large": "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/3/19d9f0be-dd9d-4755-917b-d32697062e54.jpg/original/murderroommobileherov2.jpg",
+                            "orientation": "wide",
+                            "image_type": "mobile_hero"
+                        },
+                        "uuid": "2cbc4eed-69f3-4dd2-b0bf-e803a37be731",
+                        "links": {},
+                        "included": {}
+                    }
+                ]
+            },
+            "canonical_links": {
+                "self": "/watch/pilot-program-2018-branded-episode-101-infancy-stages",
+                "show": "/series/pilot-program"
+            }
+        }
+    ]
+}

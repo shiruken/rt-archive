@@ -36,7 +36,7 @@ def update_watch():
             show_slug = item['attributes']['show_slug']
 
         # Manual identifier override
-        # For items that clashed with existing Internet Archive ploads
+        # For items that clashed with existing Internet Archive uploads
         if identifier == "roosterteeth-2":
             identifier += "-alt"
 
@@ -137,6 +137,17 @@ def get_endpoint(url, sort_by_attribute='original_air_date'):
                 items.append(item)
 
         page += 1
+
+    # Re-inject content that was removed from the API
+    # `data/removed.json`` is manually curated
+    if "/watch" in url:
+        with open("data/removed.json", "r") as fp:
+            data = json.load(fp)
+
+        for item in data['data']:
+            if item['uuid'] not in items_added:
+                items_added.add(item['uuid'])
+                items.append(item)
 
     # Sort by specified attribute + ID to guarantee consistent order.
     # API results are sorted by recency, which causes items with
