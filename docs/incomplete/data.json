@@ -1,5 +1,5 @@
 {
-    "count": 854,
+    "count": 853,
     "data": [
         {
             "id": "50262",
@@ -6696,15 +6696,6 @@
             "is_first": false,
             "show": "Achievement Hunter",
             "show_slug": "achievement-hunter"
-        },
-        {
-            "id": "25708",
-            "title": "Desperate Escape - Shoot the Messenger Guide",
-            "slug": "achievement-unlocked-season-1-desperate-escape-shoot-the-messenger-guide",
-            "date": "2010-03-04",
-            "is_first": false,
-            "show": "Achievement Unlocked",
-            "show_slug": "achievement-unlocked"
         },
         {
             "id": "25416",
