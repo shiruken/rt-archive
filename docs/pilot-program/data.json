@@ -2,8 +2,8 @@
     "show": "Pilot Program",
     "slug": "pilot-program",
     "summary": {
-        "count": 10,
-        "uploaded": 10,
+        "count": 11,
+        "uploaded": 11,
         "missing": 0,
         "incomplete": 0,
         "removed": 0
@@ -34,6 +34,16 @@
             "id": "26879",
             "slug": "pilot-program-2018-gorq",
             "date": "2018-05-15",
+            "is_first": true,
+            "is_uploaded": true,
+            "is_complete_upload": true,
+            "is_removed": false
+        },
+        {
+            "title": "BRANDED - Episode 101: Infancy Stages",
+            "id": "26827",
+            "slug": "pilot-program-2018-branded-episode-101-infancy-stages",
+            "date": "2018-05-10",
             "is_first": true,
             "is_uploaded": true,
             "is_complete_upload": true,
