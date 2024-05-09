@@ -1,5 +1,5 @@
 {
-    "count": 853,
+    "count": 852,
     "data": [
         {
             "id": "50262",
@@ -459,15 +459,6 @@
             "is_first": false,
             "show": "Countdown",
             "show_slug": "countdown"
-        },
-        {
-            "id": "23396",
-            "title": "Game Fails Rap - Game Failed",
-            "slug": "achievement-hunter-achievement-hunter-game-fails-rap-game-failed",
-            "date": "2015-04-24",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "11498",
