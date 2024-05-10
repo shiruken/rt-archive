@@ -1,5 +1,5 @@
 {
-    "count": 852,
+    "count": 851,
     "data": [
         {
             "id": "52856",
@@ -3255,15 +3255,6 @@
             "title": "Dishonored",
             "slug": "this-is-2012-49",
             "date": "2012-10-11",
-            "is_first": false,
-            "show": "This is...",
-            "show_slug": "this-is"
-        },
-        {
-            "id": "19586",
-            "title": "Fable: The Journey",
-            "slug": "this-is-2012-45",
-            "date": "2012-10-10",
             "is_first": false,
             "show": "This is...",
             "show_slug": "this-is"
