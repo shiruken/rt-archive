@@ -1,5 +1,5 @@
 {
-    "count": 851,
+    "count": 850,
     "data": [
         {
             "id": "52856",
@@ -3312,15 +3312,6 @@
             "is_first": false,
             "show": "AHWU",
             "show_slug": "ahwu"
-        },
-        {
-            "id": "19378",
-            "title": "Skyrim: Hearthfire",
-            "slug": "this-is-2012-48",
-            "date": "2012-09-07",
-            "is_first": false,
-            "show": "This is...",
-            "show_slug": "this-is"
         },
         {
             "id": "20571",
