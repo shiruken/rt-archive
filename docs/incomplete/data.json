@@ -1,5 +1,5 @@
 {
-    "count": 849,
+    "count": 848,
     "data": [
         {
             "id": "50262",
@@ -6867,15 +6867,6 @@
             "is_first": false,
             "show": "Achievement Unlocked",
             "show_slug": "achievement-unlocked"
-        },
-        {
-            "id": "25591",
-            "title": "SuperStar: Part Twosies",
-            "slug": "achievement-hunter-achievement-hunter-superstar-part-twosies",
-            "date": "2009-04-10",
-            "is_first": false,
-            "show": "Achievement Hunter",
-            "show_slug": "achievement-hunter"
         },
         {
             "id": "25390",
