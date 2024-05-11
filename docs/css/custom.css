@@ -1,6 +1,12 @@
 .hidden {
     display: none;
 }
+#rtarchive {
+    height: 74px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
 header a {
     text-decoration: none;
 }

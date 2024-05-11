@@ -8,6 +8,8 @@ Track the progress of the ongoing effort to mirror the Rooster Teeth website to 
 
 https://shiruken.github.io/rt-archive/
 
+Browse the [RT Archive](https://rtarchive.org/)
+
 ### Metrics
 
 * Rooster Teeth Videos: 42,603
