@@ -11,9 +11,7 @@ from string import Template
 def identify_missing_incomplete():
     """Identify missing and incomplete Rooster Teeth videos from the Internet Archive
     - Missing video URLs: `data/missing.txt`
-    - Incomplete Upload URLs (`data/incomplete.csv`)
-      - Rooster Teeth URLs only: `data/incomplete_rt.txt`
-      - Internet Archive URLs only: `data/incomplete_archive.txt`
+    - Incomplete Upload URLs: `data/incomplete.csv`
     """
     url = "https://archive.org/services/search/v1/scrape"
     query = {
@@ -69,18 +67,19 @@ def identify_missing_incomplete():
     print(f"Identified {len(archive_items):,} items from the Internet Archive Scrape API across {count:,} requests")
     print(f"Total Size: {total_size} bytes")
 
-    with open("data/archive_urls.txt", "r") as fp:
-        archive_ids = [line.rstrip().replace("https://archive.org/details/", "") for line in fp]
-
-    with open("data/rt_urls.txt", "r") as fp:
-        rt_urls = [line.rstrip() for line in fp]
+    urls = {}
+    with open("data/urls.csv", "r") as fp:
+        reader = csv.reader(fp)
+        next(reader)  # Skip header
+        for row in reader:
+            urls[row[0].replace("https://archive.org/details/", "")] = row[1]
 
     archive_items = set(archive_items)
-    missing = [x for x in archive_ids if x not in archive_items]
+    missing = [x for x in urls.keys() if x not in archive_items]
     print(f"Found {len(missing):,} items missing from Internet Archive")
     with open("data/missing.txt", "w") as fp:
         for item in missing:
-            fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
+            fp.write(f"{urls[item]}\n")
 
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
     with open("data/incomplete_urls.csv", "w") as fp:
@@ -89,20 +88,14 @@ def identify_missing_incomplete():
         for item in incomplete:
             writer.writerow([
                 f"https://archive.org/details/{item}",
-                f"{rt_urls[archive_ids.index(item)]}"
+                f"{urls[item]}"
             ])
-    with open("data/incomplete_rt_urls.txt", "w") as fp:
-        for item in incomplete:
-            fp.write(f"{rt_urls[archive_ids.index(item)]}\n")
-    with open("data/incomplete_archive_urls.txt", "w") as fp:
-        for item in incomplete:
-            fp.write(f"https://archive.org/details/{item}\n")
 
     # Update README metrics
     with open("README.md", "r") as fp:
         readme = fp.read()
-    readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items):,} ({len(archive_items) / len(rt_urls):.2%})", readme)
-    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing):,} ({len(missing) / len(rt_urls):.2%})", readme)
+    readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items):,} ({len(archive_items) / len(urls):.2%})", readme)
+    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing):,} ({len(missing) / len(urls):.2%})", readme)
     readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d,]+)", f"{len(incomplete):,}", readme)
     with open("README.md", "w") as f:
         f.write(readme)

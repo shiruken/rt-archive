@@ -11,20 +11,20 @@ def identify_dark():
     with open("data/missing.txt", "r") as fp:
         missing = [line.rstrip() for line in fp]
 
-    with open("data/archive_urls.txt", "r") as fp:
-        archive_urls = [line.rstrip() for line in fp]
-
-    with open("data/rt_urls.txt", "r") as fp:
-        rt_urls = [line.rstrip() for line in fp]
+    urls = {}
+    with open("data/urls.csv", "r") as fp:
+        reader = csv.reader(fp)
+        next(reader)  # Skip header
+        for row in reader:
+            urls[row[1]] = row[0].replace("https://archive.org/details/", "")
 
     dark = []
     for rt_url in missing:
-        index = rt_urls.index(rt_url)
-        archive_url = archive_urls[index]
-        identifier = archive_url.replace("https://archive.org/details/", "")
+        identifier = urls[rt_url]
         item = get_item(identifier)
         if item.exists:
             if item.is_dark:
+                archive_url = f"https://archive.org/details/{identifier}"
                 print(f"{archive_url} is dark ({rt_url})")
                 dark.append([archive_url, rt_url])
 

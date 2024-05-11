@@ -10,11 +10,9 @@ from pathlib import Path
 def update_watch():
     """Mirror the Rooster Teeth API /watch endpoint
     - Generates listings for:
-      - Internet Archive URL <-> Rooster Teeth URL Mapping (`data/urls.csv`)
-        - Rooster Teeth URLs only (`data/rt_urls.txt`)
-        - Internet Archive URLs only (`data/archive_urls.txt`)
-      - Show Title <-> Show Slug mapping (`data/shows.csv`)
-    - Writes intermediary file for RT Archival Checklist (`data/.temp.csv`)
+      - Internet Archive URL <-> Rooster Teeth URL Mapping: `data/urls.csv`
+      - Show Title <-> Show Slug mapping: `data/shows.csv`
+    - Intermediary file for tracker website and RT Archival Checklist: `data/.temp.csv`
     """
     url = "https://svod-be.roosterteeth.com/api/v1/watch"
     items = get_endpoint(url)
@@ -65,12 +63,6 @@ def update_watch():
         writer = csv.writer(fp)
         writer.writerow(['archive_url', 'rt_url'])
         writer.writerows(url_map.items())
-
-    with open("data/rt_urls.txt", "w") as fp:
-        print(*url_map.values(), sep="\n", file=fp)
-
-    with open("data/archive_urls.txt", "w") as fp:
-        print(*url_map.keys(), sep="\n", file=fp)
 
     with open("data/shows.csv", "w") as fp:
         writer = csv.writer(fp)
@@ -139,7 +131,7 @@ def get_endpoint(url, sort_by_attribute='original_air_date'):
         page += 1
 
     # Re-inject content that was removed from the API
-    # `data/removed.json`` is manually curated
+    # `data/removed.json` is manually curated
     if "/watch" in url:
         with open("data/removed.json", "r") as fp:
             data = json.load(fp)
