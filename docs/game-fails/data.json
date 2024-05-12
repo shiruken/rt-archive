@@ -5,7 +5,7 @@
         "count": 72,
         "uploaded": 72,
         "missing": 0,
-        "incomplete": 0,
+        "incomplete": 32,
         "removed": 0
     },
     "data": [
@@ -86,7 +86,7 @@
             "date": "2014-05-23",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -96,7 +96,7 @@
             "date": "2014-05-16",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -106,7 +106,7 @@
             "date": "2014-05-10",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -146,7 +146,7 @@
             "date": "2014-04-11",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -156,7 +156,7 @@
             "date": "2014-04-04",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -206,7 +206,7 @@
             "date": "2014-02-28",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -256,7 +256,7 @@
             "date": "2014-01-24",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -276,7 +276,7 @@
             "date": "2014-01-10",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -296,7 +296,7 @@
             "date": "2013-12-20",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -306,7 +306,7 @@
             "date": "2013-12-13",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -316,7 +316,7 @@
             "date": "2013-12-06",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -326,7 +326,7 @@
             "date": "2013-11-22",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -336,7 +336,7 @@
             "date": "2013-11-15",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -346,7 +346,7 @@
             "date": "2013-11-08",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -356,7 +356,7 @@
             "date": "2013-11-01",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -366,7 +366,7 @@
             "date": "2013-10-25",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -376,7 +376,7 @@
             "date": "2013-10-18",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -386,7 +386,7 @@
             "date": "2013-10-11",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -406,7 +406,7 @@
             "date": "2013-09-13",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -416,7 +416,7 @@
             "date": "2013-09-06",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -436,7 +436,7 @@
             "date": "2013-08-02",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -446,7 +446,7 @@
             "date": "2013-07-26",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -456,7 +456,7 @@
             "date": "2013-07-05",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -466,7 +466,7 @@
             "date": "2013-06-28",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -476,7 +476,7 @@
             "date": "2013-06-14",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -496,7 +496,7 @@
             "date": "2013-05-31",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -506,7 +506,7 @@
             "date": "2013-05-24",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -516,7 +516,7 @@
             "date": "2013-05-17",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -526,7 +526,7 @@
             "date": "2013-05-15",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -546,7 +546,7 @@
             "date": "2013-04-19",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -566,7 +566,7 @@
             "date": "2013-03-23",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {
@@ -576,7 +576,7 @@
             "date": "2013-03-12",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {

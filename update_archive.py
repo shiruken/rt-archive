@@ -16,7 +16,7 @@ def identify_missing_incomplete():
     url = "https://archive.org/services/search/v1/scrape"
     query = {
         'q': 'scanner:"Roosterteeth Website Mirror"',
-        'fields': 'identifier,addeddate,item_size,format',
+        'fields': 'identifier,addeddate,item_size,format,incomplete',
         'count': 10000
     }
 
@@ -53,6 +53,8 @@ def identify_missing_incomplete():
                         "roosterteeth-4277", "roosterteeth-4411", "roosterteeth-4412",
                         "roosterteeth-4433", "roosterteeth-4444",
                     ]
+                ) or (
+                    'incomplete' in item and item['incomplete'] == "True"
                 ):
                     incomplete.append(item['identifier'])
 
