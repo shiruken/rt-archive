@@ -70,7 +70,7 @@ A small number of images (12) were stored using a bare AWS domain. These should 
 * Original: https://s3.amazonaws.com/dev.cdn.roosterteeth.com/uploads/images/71044483-a611-4bbf-8c67-724ea09c1f05/original/ep11690.jpg
 * Mirror: https://archive.org/download/roosterteeth-api-images/image/uploads/images/71044483-a611-4bbf-8c67-724ea09c1f05/original/ep11690.jpg
 
-There were 2,720,912 image urls referenced by the Rooster Teeth API of which 181,196 were unique. There were 40 broken image links (HTTP Error 404) that could not be archived. They are listed below:
+There were 2,720,944 image urls referenced by the Rooster Teeth API of which 181,228 were unique. There were 40 broken image links (HTTP Error 404) that could not be archived. They are listed below:
 
 <details>
   <summary>Broken URLs</summary>
