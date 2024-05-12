@@ -33,7 +33,8 @@ def identify_missing_incomplete():
             if (
                 "roosterteeth-" in item["identifier"] and
                 "roosterteeth-test" not in item["identifier"] and
-                "-bonus-bonus" not in item["identifier"]
+                "-bonus-bonus" not in item["identifier"] and
+                "roosterteeth-52750" not in item['identifier']  # Bad upload
             ):
                 archive_items.append(item["identifier"])
 
@@ -94,8 +95,8 @@ def identify_missing_incomplete():
     # Update README metrics
     with open("README.md", "r") as fp:
         readme = fp.read()
-    readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items):,} ({len(archive_items) / len(urls):.2%})", readme)
-    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing):,} ({len(missing) / len(urls):.2%})", readme)
+    readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items):,} ({len(archive_items) / len(urls):.3%})", readme)
+    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing):,} ({len(missing) / len(urls):.3%})", readme)
     readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d,]+)", f"{len(incomplete):,}", readme)
     with open("README.md", "w") as f:
         f.write(readme)
