@@ -1,3 +1,5 @@
 .direnv/*
 api/*
+image/*
 .DS_Store
+fetch_images_broken.txt
