@@ -5,7 +5,7 @@
         "count": 56,
         "uploaded": 56,
         "missing": 0,
-        "incomplete": 0,
+        "incomplete": 1,
         "removed": 0
     },
     "data": [
@@ -16,7 +16,7 @@
             "date": "2022-01-22",
             "is_first": false,
             "is_uploaded": true,
-            "is_complete_upload": true,
+            "is_complete_upload": false,
             "is_removed": false
         },
         {

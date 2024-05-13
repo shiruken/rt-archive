@@ -20,8 +20,8 @@ def identify_missing_incomplete():
         'count': 10000
     }
 
-    archive_items = []
-    incomplete = []
+    archive_items = set()
+    incomplete = set()
     total_size = 0
 
     count = 1
@@ -36,7 +36,7 @@ def identify_missing_incomplete():
                 "-bonus-bonus" not in item["identifier"] and
                 "roosterteeth-52750" not in item['identifier']  # Bad upload
             ):
-                archive_items.append(item["identifier"])
+                archive_items.add(item["identifier"])
 
                 if not (
                     item['item_size'] > 1e6 and
@@ -56,7 +56,7 @@ def identify_missing_incomplete():
                 ) or (
                     'incomplete' in item and item['incomplete'] == "True"
                 ):
-                    incomplete.append(item['identifier'])
+                    incomplete.add(item['identifier'])
 
             total_size += item['item_size']
 
@@ -77,18 +77,23 @@ def identify_missing_incomplete():
         for row in reader:
             urls[row[0].replace("https://archive.org/details/", "")] = row[1]
 
-    archive_items = set(archive_items)
     missing = [x for x in urls.keys() if x not in archive_items]
     print(f"Found {len(missing):,} items missing from Internet Archive")
     with open("data/missing.txt", "w") as fp:
         for item in missing:
             fp.write(f"{urls[item]}\n")
 
+    # Mark manually-identified uploads with partial videos as incomplete
+    # Listing sourced from RT Archival Checklist
+    with open("data/partial_videos.txt", "r") as fp:
+        for line in fp.readlines():
+            incomplete.add(line.rstrip())
+
     print(f"Found {len(incomplete):,} incomplete items on Internet Archive")
     with open("data/incomplete_urls.csv", "w") as fp:
         writer = csv.writer(fp)
         writer.writerow(['archive_url', 'rt_url'])
-        for item in incomplete:
+        for item in sorted(incomplete):
             writer.writerow([
                 f"https://archive.org/details/{item}",
                 f"{urls[item]}"
