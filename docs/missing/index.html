@@ -36,7 +36,7 @@
         </div>
     </header>
     <div class="w3-auto hidden">
-        <div class="w3-panel w3-leftbar w3-border-deep-orange">
+        <div id="message" class="w3-panel w3-leftbar w3-border-deep-orange">
             <p>Rooster Teeth videos that have not been uploaded to Internet Archive</p>
         </div>
         <input class="w3-input w3-border w3-padding w3-margin-bottom w3-half" type="text" placeholder="Filter by Title, Show, or Air Date" id="search" onkeyup="search()">
@@ -54,9 +54,9 @@
             <tbody></tbody>
         </table>
         <div class="w3-section w3-padding">
-            <a href="missing.csv" target="_blank" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="missing.csv">Download list of all missing videos</a>
+            <a href="missing.csv" target="_blank" id="download" class="w3-hover-text-red" data-umami-event="outbound-link-click" data-umami-event-link="missing.csv">Download list of all missing videos</a>
         </div>
-        <div class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
+        <div id="definitions" class="w3-panel w3-border w3-light-grey w3-round-large w3-small">
             <h6>Definitions</h6>
             <ul>
                 <li><b>FIRST:</b> Exclusive content for Rooster Teeth FIRST subscribers</li>
@@ -133,6 +133,20 @@
             Array.from(elements).forEach(element => {
                 element.classList.remove("hidden");
             });
+
+            // Alternate messaging if there are no missing videos
+            if (data.length == 0) {
+                document.getElementById("search").classList.add("hidden");
+                document.getElementById("table_missing").classList.add("hidden");
+                document.getElementById("download").classList.add("hidden");
+                document.getElementById("definitions").classList.add("hidden");
+                const message = document.getElementById("message");
+                message.querySelector("p").textContent = "All Rooster Teeth videos have been uploaded to Internet Archive";
+                const image = document.createElement("img");
+                image.src = "../images/burnie.gif";
+                image.alt = "Burnie Burns dancing GIF";
+                message.after(image);
+            }
         }
 
         function search() {
