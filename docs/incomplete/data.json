@@ -1,5 +1,5 @@
 {
-    "count": 1674,
+    "count": 1676,
     "data": [
         {
             "id": "50262",
@@ -182,6 +182,15 @@
             "show_slug": "funhaus-podcast"
         },
         {
+            "id": "15158",
+            "title": "Sponsor Play - The Evil Within Pt.2",
+            "slug": "rt-sponsor-cut-2016-sponsor-play-the-evil-within-pt-2",
+            "date": "2016-01-08",
+            "is_first": true,
+            "show": "RT Sponsor Cut",
+            "show_slug": "rt-sponsor-cut"
+        },
+        {
             "id": "9266",
             "title": "We Have No Lives? - #136",
             "slug": "the-patch-2015-patch-136",
@@ -198,6 +207,15 @@
             "is_first": false,
             "show": "The Patch",
             "show_slug": "the-patch"
+        },
+        {
+            "id": "26287",
+            "title": "Sponsor Play: Halo 2 Pt. 13",
+            "slug": "rt-sponsor-cut-season-2-sponsor-play-halo-2-pt-13",
+            "date": "2015-10-16",
+            "is_first": true,
+            "show": "RT Sponsor Cut",
+            "show_slug": "rt-sponsor-cut"
         },
         {
             "id": "8608",
