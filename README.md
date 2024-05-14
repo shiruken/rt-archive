@@ -1,4 +1,4 @@
-[![Update Rooster Teeth Data](https://github.com/shiruken/rt-archive/actions/workflows/update_rt.yml/badge.svg)](https://github.com/shiruken/rt-archive/actions/workflows/update_rt.yml) [![Update Internet Archive Data](https://github.com/shiruken/rt-archive/actions/workflows/update_archive.yml/badge.svg)](https://github.com/shiruken/rt-archive/actions/workflows/update_archive.yml) [![Identify Dark Uploads](https://github.com/shiruken/rt-archive/actions/workflows/update_archive_dark.yml/badge.svg)](https://github.com/shiruken/rt-archive/actions/workflows/update_archive_dark.yml)
+[![Update Rooster Teeth Data](https://github.com/shiruken/rt-archive/actions/workflows/update_rt.yml/badge.svg)](https://github.com/shiruken/rt-archive/actions/workflows/update_rt.yml) [![Update Internet Archive Data](https://github.com/shiruken/rt-archive/actions/workflows/update_archive.yml/badge.svg)](https://github.com/shiruken/rt-archive/actions/workflows/update_archive.yml)
 
 # Rooster Teeth Archive
 
@@ -22,7 +22,7 @@ Browse the [RT Archive](https://rtarchive.org/)
 
 Comprehensive mirror of the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api). The pages of each endpoint are condensed to a single JSON file for easy download.
 
-*Updated every 4 hours on the hour*
+*Updated every 4 hours*
 
 ### `/watch`
 
@@ -125,17 +125,14 @@ There were 2,720,944 image urls referenced by the Rooster Teeth API of which 181
 
 Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
 
-*Updated every hour at minute 30*
-
-* [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive (includes 'dark' uploads)
-* [`incomplete_urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete_urls.csv): Internet Archive and corresponding Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive
-
-*Updated every 4 hours on the hour*
+*Updated every 4 hours*
 
 * [`urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/urls.csv): Mapping between Internet Archive URLs and Rooster Teeth URLs for every video
 * [`shows.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/shows.csv): Mapping between show titles and URL slugs
+
+*Updated hourly*
+
+* [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive (includes 'dark' uploads)
+* [`incomplete.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete.csv): Internet Archive and corresponding Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive
+* [`dark.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.csv): URLs for every upload *removed* (i.e. made dark) by Internet Archive
 * [`checklist.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/checklist.csv): Data formatted for the [RT Archival Checklist](https://docs.google.com/spreadsheets/d/17Vqd_xYLh-xma_nw_TkeFexzQ2sZ4uEntibiZB8KlRI/preview)
-
-*Updated daily at 00:45*
-
-* [`dark.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/dark.csv): URLs for every upload *removed* (i.e. made dark) by Internet Archive.
