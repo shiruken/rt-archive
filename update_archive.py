@@ -124,10 +124,11 @@ def process():
     # Update README metrics
     with open("README.md", "r") as fp:
         readme = fp.read()
-    readme = re.sub(r"(?<=\* Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items):,} ({len(archive_items) / len(urls):.3%})", readme)
-    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing):,} ({len(missing) / len(urls):.3%})", readme)
-    readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d,]+)", f"{len(incomplete):,}", readme)
-    readme = re.sub(r"(?<=\* Items Removed from Internet Archive: )([\d,]+)", f"{len(dark):,}", readme)
+    readme = re.sub(r"(?<=\* Items Uploaded to Internet Archive: )([\d, \(.\%\)]+)", f"{len(archive_items) + len(dark):,} ({(len(archive_items) + len(dark)) / len(urls):.3%})", readme)
+    readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing) - len(dark):,} ({(len(missing) - len(dark)) / len(urls):.3%})", readme)
+    readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(incomplete):,} ({len(incomplete) / len(urls):.3%})", readme)
+    readme = re.sub(r"(?<=\* Items Removed from Internet Archive: )([\d, \(.\%\)]+)", f"{len(dark):,} ({len(dark) / len(urls):.3%})", readme)
+    readme = re.sub(r"(?<=\* Overall Archive Availability: )([\d.\%]+)", f"{(len(missing) + len(incomplete)) / len(urls):.3%}", readme)
     with open("README.md", "w") as f:
         f.write(readme)
 

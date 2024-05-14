@@ -13,10 +13,11 @@ Browse the [RT Archive](https://rtarchive.org/)
 ### Metrics
 
 * Rooster Teeth Videos: 42,603
-* Items on Internet Archive: 42,601 (99.995%)
-* Items Missing from Internet Archive: 2 (0.005%)
-* Incomplete Items on Internet Archive: 1,676
-* Items Removed from Internet Archive: 2
+* Items Uploaded to Internet Archive: 42,603 (100.000%)
+* Items Missing from Internet Archive: 0 (0.000%)
+* Incomplete Items on Internet Archive: 1,676 (3.934%)
+* Items Removed from Internet Archive: 2 (0.005%)
+* Overall Archive Availability: 3.939%
 
 ## Rooster Teeth API
 
