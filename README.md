@@ -23,8 +23,6 @@ Browse the [RT Archive](https://rtarchive.org/)
 
 Comprehensive mirror of the Rooster Teeth API [stored on Internet Archive](https://archive.org/details/roosterteeth-api). The pages of each endpoint are condensed to a single JSON file for easy download.
 
-*Updated every 4 hours*
-
 ### `/watch`
 
 This endpoint lists every video published on the Rooster Teeth website, *including* bonus content.
@@ -125,8 +123,6 @@ There were 2,720,944 image urls referenced by the Rooster Teeth API of which 181
 ## Derived Files
 
 Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Predominantly for use with the [`rooster`](https://github.com/i3p9/rooster) archival script.
-
-*Updated every 4 hours*
 
 * [`urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/urls.csv): Mapping between Internet Archive URLs and Rooster Teeth URLs for every video
 * [`shows.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/shows.csv): Mapping between show titles and URL slugs
