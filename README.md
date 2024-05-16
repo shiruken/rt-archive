@@ -127,7 +127,7 @@ Listings derived from the Rooster Teeth API and Internet Archive Scrape API. Pre
 * [`urls.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/urls.csv): Mapping between Internet Archive URLs and Rooster Teeth URLs for every video
 * [`shows.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/shows.csv): Mapping between show titles and URL slugs
 
-*Updated hourly*
+*Updated daily*
 
 * [`missing.txt`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/missing.txt): Rooster Teeth URLs for every video *missing* from Internet Archive (includes 'dark' uploads)
 * [`incomplete.csv`](https://raw.githubusercontent.com/shiruken/rt-archive/main/data/incomplete.csv): Internet Archive and corresponding Rooster Teeth URLs for every video with an *incomplete* upload to Internet Archive
