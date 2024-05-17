@@ -15,9 +15,9 @@ Browse the [RT Archive](https://rtarchive.org/)
 * Rooster Teeth Videos: 42,603
 * Items Uploaded to Internet Archive: 42,603 (100.000%)
 * Items Missing from Internet Archive: 0 (0.000%)
-* Incomplete Items on Internet Archive: 1,675 (3.932%)
+* Incomplete Items on Internet Archive: 1,674 (3.929%)
 * Items Removed from Internet Archive: 2 (0.005%)
-* Overall Archive Availability: 3.936%
+* Overall Archive Availability: 3.934%
 
 ## Rooster Teeth API
 
