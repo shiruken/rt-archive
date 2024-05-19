@@ -6,7 +6,7 @@
         "uploaded": 82,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 2
     },
     "data": [
         {
@@ -35,9 +35,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e44",
             "date": "2024-04-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Can I Get a Vitness? - C02 - Ep 44",
@@ -45,9 +45,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e44",
             "date": "2024-04-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Fengpik and Choose - C02 - Ep 43",
