@@ -1,6 +1,24 @@
 {
-    "count": 4,
+    "count": 207,
     "data": [
+        {
+            "id": "52842",
+            "title": "[Second Wind] Eddie, Set, Go! - C02 - Ep 45",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e45",
+            "date": "2024-04-30",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52841",
+            "title": "Eddie, Set, Go! - C02 - Ep 45",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e45",
+            "date": "2024-04-30",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
         {
             "id": "52840",
             "title": "[Second Wind] Can I Get a Vitness? - C02 - Ep 44",
@@ -20,6 +38,1401 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
+            "id": "52820",
+            "title": "[Second Wind] Fengpik and Choose - C02 - Ep 43",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e43",
+            "date": "2024-04-16",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52819",
+            "title": "Fengpik and Choose - C02 - Ep 43",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e43",
+            "date": "2024-04-16",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52795",
+            "title": "[Second Wind] This Sferatu Be Good - C02 - Ep 42",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02-e42",
+            "date": "2024-04-09",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52794",
+            "title": "This Sferatu Be Good - C02 - Ep 42",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-tftsd-c2-e42",
+            "date": "2024-04-09",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52777",
+            "title": "[Second Wind] Countess Your Blessings - C02 - Ep 41",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e41",
+            "date": "2024-04-02",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52776",
+            "title": "Countess Your Blessings - C02 - Ep 41",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e41",
+            "date": "2024-04-02",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52743",
+            "title": "[Second Wind] Klawstred Way To The Top - C02 - Ep40",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-3-20-second-wind",
+            "date": "2024-03-26",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52742",
+            "title": "Klawstred Way To The Top - C02 - Ep 40",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-3-20",
+            "date": "2024-03-26",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52710",
+            "title": "[Second Wind] Tooth and Klawstred - C02 - Ep 39",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-3-18",
+            "date": "2024-03-19",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52709",
+            "title": "Tooth and Klawstred - C02 - Ep 39",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-3-18",
+            "date": "2024-03-19",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52674",
+            "title": "[Second Wind] Right Off the Batler - C02 - Ep 38",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-right-off-the-batler-c02-ep-38",
+            "date": "2024-03-12",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52673",
+            "title": "Right Off the Batler - C02 - Ep 38",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-right-off-the-batler-c02-ep-38",
+            "date": "2024-03-12",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52647",
+            "title": "[Second Wind] Make Heads or Taelzadok",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-c02e37",
+            "date": "2024-03-05",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52646",
+            "title": "Make Heads or Taelzadok - C02 - Ep 37",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-c02e37",
+            "date": "2024-03-05",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52608",
+            "title": "[Second Wind] Speak Truth to Tower - C02 - Ep 36",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-vengeance-in-vainia-second-wind-36",
+            "date": "2024-02-27",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52607",
+            "title": "Speak Truth to Tower - C02 - Ep 36",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-vengeance-in-vainia-36",
+            "date": "2024-02-27",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52548",
+            "title": "[Second Wind] Velcome to Vainia - C02 - Ep 35",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-second-wind-35",
+            "date": "2024-02-20",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52547",
+            "title": "Velcome to Vainia - C02 - Ep 35",
+            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-35",
+            "date": "2024-02-20",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52525",
+            "title": "[Second Wind] Painful Passing & Parsing Parcels - C02 - Ep 34",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-34",
+            "date": "2024-02-13",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52524",
+            "title": "Painful Passing & Parsing Parcels - C02 - Ep 34",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-34",
+            "date": "2024-02-13",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52155",
+            "title": "Stinky Dragon Shorts Compilation 10",
+            "slug": "stinky-dragon-shorts-shorts-10",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52154",
+            "title": "Stinky Dragon Shorts Compilation 09",
+            "slug": "stinky-dragon-shorts-shorts-9",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52153",
+            "title": "Stinky Dragon Shorts Compilation 08",
+            "slug": "stinky-dragon-shorts-shorts-8",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52152",
+            "title": "Stinky Dragon Shorts Compilation 07",
+            "slug": "stinky-dragon-shorts-shorts-7",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52151",
+            "title": "Stinky Dragon Shorts Compilation 06",
+            "slug": "stinky-dragon-shorts-shorts-6",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52150",
+            "title": "Stinky Dragon Shorts Compilation 05",
+            "slug": "stinky-dragon-shorts-shorts-5",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52149",
+            "title": "Stinky Dragon Shorts Compilation 04",
+            "slug": "stinky-dragon-shorts-shorts-4",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52148",
+            "title": "Stinky Dragon Shorts Compilation 03",
+            "slug": "stinky-dragon-shorts-shorts-3",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52147",
+            "title": "Stinky Dragon Shorts Compilation 02",
+            "slug": "stinky-dragon-shorts-shorts-2",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52146",
+            "title": "Stinky Dragon Shorts Compilation 01",
+            "slug": "stinky-dragon-shorts-shorts-1",
+            "date": "2024-02-08",
+            "is_first": false,
+            "show": "Stinky Dragon Shorts",
+            "show_slug": "stinky-dragon-shorts"
+        },
+        {
+            "id": "52480",
+            "title": "[Second Wind] Between the Tales- C02 - Ep 33.5",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-33-5",
+            "date": "2024-02-06",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52479",
+            "title": "Between the Tales- C02 - Ep 33.5",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-33-5-f7819412-ef57-4172-8edc-fbf68fe5b7dc",
+            "date": "2024-02-06",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52447",
+            "title": "Tales from the Stinky Dragon 8 Hour D&D Live Stream",
+            "slug": "mini-series-live-streams-stinkuary",
+            "date": "2024-01-30",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "52445",
+            "title": "[Second Wind] All Your Hags in One Basket - C02 - Ep 33",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-33-5",
+            "date": "2024-01-30",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52444",
+            "title": "All Your Hags in One Basket - C02 - Ep 33",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-33",
+            "date": "2024-01-30",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52345",
+            "title": "[Second Wind] In Case You Alchemist It  - C02 - Ep 32",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-32",
+            "date": "2024-01-23",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52344",
+            "title": "In Case You Alchemist It  - C02 - Ep 32",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-32",
+            "date": "2024-01-23",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52343",
+            "title": "[Second Wind] Astralian Arrival - C02 - Ep 31",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-31",
+            "date": "2024-01-16",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52342",
+            "title": "Astralian Arrival - C02 - Ep 31",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-30-36b4cb1e-9fc5-45b6-b740-e67c1109372c",
+            "date": "2024-01-16",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52331",
+            "title": "[Second Wind] Hollow Be Thy Name - C02 - Ep 30",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-30",
+            "date": "2024-01-09",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52330",
+            "title": "Hollow Be Thy Name - C02 - Ep 30",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-30",
+            "date": "2024-01-09",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52078",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 8",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-8",
+            "date": "2024-01-05",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52253",
+            "title": "[Second Wind] Whole Hag of Tricks - C02 - Ep 29",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-29",
+            "date": "2024-01-02",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52252",
+            "title": "Whole Hag of Tricks - C02 - Ep 29",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-29",
+            "date": "2024-01-02",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52076",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 7",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-7",
+            "date": "2023-12-28",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52077",
+            "title": "The Infinight Rescue Mission | Episode 8",
+            "slug": "stinky-dragon-adventures-season-1-episode-8",
+            "date": "2023-12-28",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52251",
+            "title": "[Second Wind] Rest in Priest- C02 - Ep 28",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-passe-in-perrish-28",
+            "date": "2023-12-26",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52250",
+            "title": "Rest in Priest- C02 - Ep 28",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-passe-in-perrish-28",
+            "date": "2023-12-26",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "1557-bonus",
+            "title": "Merry Stinkmas 2023!",
+            "slug": "mini-series-december-first-stream",
+            "date": "2023-12-22",
+            "is_first": true,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "52074",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 6",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-6",
+            "date": "2023-12-21",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52075",
+            "title": "The One-Armed Archer | Episode 7",
+            "slug": "stinky-dragon-adventures-season-1-episode-7",
+            "date": "2023-12-21",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52231",
+            "title": "[Second Wind] - The Quick and the Undead - C02 - Ep 27",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-27",
+            "date": "2023-12-19",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52230",
+            "title": "The Quick and the Undead - C02 - Ep 27",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-27",
+            "date": "2023-12-19",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52072",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 5",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-5",
+            "date": "2023-12-14",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52073",
+            "title": "Flowers for Gum Gum | Episode 6",
+            "slug": "stinky-dragon-adventures-season-1-episode-6",
+            "date": "2023-12-14",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52189",
+            "title": "[Second Wind] Cart Before The Horseman - C02 - Ep 26",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-26",
+            "date": "2023-12-12",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52188",
+            "title": "Cart Before The Horseman - C02 - Ep 26",
+            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-26",
+            "date": "2023-12-12",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52070",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 4",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-4",
+            "date": "2023-12-07",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52071",
+            "title": "Mudd\u2019s Catastrophe | Episode 5",
+            "slug": "stinky-dragon-adventures-season-1-episode-5",
+            "date": "2023-12-07",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52142",
+            "title": "[Second Wind] Between The Tales - C02 - Ep 25.5",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-25-5",
+            "date": "2023-12-05",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52068",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 3",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-3",
+            "date": "2023-11-30",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52069",
+            "title": "The New Heroes in Town | Episode 4",
+            "slug": "stinky-dragon-adventures-season-1-episode-4",
+            "date": "2023-11-30",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "1552-bonus",
+            "title": "Stinky Baldur's Gate Part 2",
+            "slug": "mini-series-baldur-s-gate-110623",
+            "date": "2023-11-29",
+            "is_first": true,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "1551-bonus",
+            "title": "Stinky Baldur's Gate Part 1",
+            "slug": "mini-series-stinky-dragon-plays-baldur-s-gate-episode-1",
+            "date": "2023-11-29",
+            "is_first": true,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "52066",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 2",
+            "slug": "stinky-dragon-adventures-season-1-smtm-episode-2",
+            "date": "2023-11-23",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52067",
+            "title": "Orphan Uprising | Episode 3",
+            "slug": "stinky-dragon-adventures-season-1-episode-3",
+            "date": "2023-11-23",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "52031",
+            "title": "Tales from the Stinky Dragon - Extra Life 2023",
+            "slug": "extra-life-2023-segment-7",
+            "date": "2023-11-22",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "52057",
+            "title": "[Second Wind] Break The Moold - C02 - Ep 24",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-24",
+            "date": "2023-11-21",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52056",
+            "title": "Break The Moold - C02 - Ep 24",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-24",
+            "date": "2023-11-21",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52023",
+            "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 1",
+            "slug": "stinky-dragon-adventures-season-1-sda-commentary-1",
+            "date": "2023-11-17",
+            "is_first": true,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "51995",
+            "title": "The Horrors of Catawampus | Episode 2",
+            "slug": "stinky-dragon-adventures-season-1-the-horrors-of-catawampus",
+            "date": "2023-11-16",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "51985",
+            "title": "[Second Wind] The Plunder Of Underglobula - C02 - Ep 23",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-c2e23",
+            "date": "2023-11-14",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51984",
+            "title": "The Plunder Of Underglobula - C02 - Ep 23",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-c2e23",
+            "date": "2023-11-14",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51944",
+            "title": "Who Will Be The Next Infinight Intern? | Episode 1",
+            "slug": "stinky-dragon-adventures-season-1-episode-1",
+            "date": "2023-11-09",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "51926",
+            "title": "[Second Wind] Infinight Infirms Pt. 3",
+            "slug": "infinights-arc-9-infinight-infirms-sw-infinight-infirms-pt-3",
+            "date": "2023-11-07",
+            "is_first": true,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "51925",
+            "title": "Infinight Infirms Pt 3",
+            "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-3",
+            "date": "2023-11-07",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "51904",
+            "title": "Stinky Dragon Adventures - Teaser Trailer",
+            "slug": "stinky-dragon-adventures-season-1-teaser-trailer",
+            "date": "2023-11-02",
+            "is_first": false,
+            "show": "Stinky Dragon Adventures",
+            "show_slug": "stinky-dragon-adventures"
+        },
+        {
+            "id": "51846",
+            "title": "[Second Wind] Infinight Infirms Pt. 2",
+            "slug": "infinights-arc-9-infinight-infirms-second-wind-infinight-infirms-pt-2",
+            "date": "2023-10-31",
+            "is_first": true,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "51845",
+            "title": "Infinight Infirms Pt. 2",
+            "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-2",
+            "date": "2023-10-31",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "51829",
+            "title": "[Second Wind] Infinight Infirms Pt. 1",
+            "slug": "infinights-arc-9-infinight-infirms-second-wind-infinight-infirms-pt-1",
+            "date": "2023-10-24",
+            "is_first": true,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "51828",
+            "title": "Infinight Infirms Pt. 1",
+            "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-1",
+            "date": "2023-10-24",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "51766",
+            "title": "[Second Wind] RTX 2023 Apparition of the Aria!",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-rtx-2023-apparition-of-the-aria",
+            "date": "2023-10-17",
+            "is_first": true,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "51664",
+            "title": "[Second Wind] Swept Under The Slug - C02 - Ep 21",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-sw-21",
+            "date": "2023-10-03",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51625",
+            "title": "[Second Wind] Blrrble Grrble Glrrb - C02 - Ep 20",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-stinky-dragon-20",
+            "date": "2023-09-26",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51583",
+            "title": "[Second Wind] Karcasuuk Coup - Between the Tales - C02 Ep 19.5",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-19-5",
+            "date": "2023-09-19",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51582",
+            "title": "Karcasuuk Coup - Between the Tales - C02 Ep 19.5",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-tftsd-19-5",
+            "date": "2023-09-19",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51471",
+            "title": "[Second Wind] ...DAGR! - C02 - Ep 18",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-c2-e18",
+            "date": "2023-09-05",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51477",
+            "title": "...Delightful Assassins, Grifters, and Rogues! - C02 - Ep 18",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-c2e18",
+            "date": "2023-09-05",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51428",
+            "title": "Cloak and... - C02 - Ep 17",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-8-29-full-episode",
+            "date": "2023-08-29",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51405",
+            "title": "A Long Tome Coming - C02 - Ep 16",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-c2-e016",
+            "date": "2023-08-22",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51372",
+            "title": "Red Letter Day - C02 - Ep 15",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-tftsd-c2-ep15",
+            "date": "2023-08-15",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51306",
+            "title": "Mummy's the Word - C02 Ep 13",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-8-1",
+            "date": "2023-08-01",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51227",
+            "title": "Make the Ghost of a Situation - Ep 12",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-7-18",
+            "date": "2023-07-18",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51179",
+            "title": "Smell the Fresh Snare - Ep 10",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-7-4",
+            "date": "2023-07-04",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51092",
+            "title": "Gone with the Windmill - Ep. 8",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-c2-e8",
+            "date": "2023-06-20",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51061",
+            "title": "Nuts and Vultz - Ep. 7",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-6-13",
+            "date": "2023-06-13",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51015",
+            "title": "Between the Tales",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-6-6",
+            "date": "2023-06-06",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50938",
+            "title": "Parliament to Be - Ep. 5",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-5-23",
+            "date": "2023-05-23",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50902",
+            "title": "Give It the Old College Spy - Ep. 4",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-5-16",
+            "date": "2023-05-16",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50868",
+            "title": "Worst Chase Scenario - Ep. 3",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-5-9",
+            "date": "2023-05-09",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50825",
+            "title": "Once Upon a Crime - Ep. 2",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-5-2",
+            "date": "2023-05-02",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50779",
+            "title": "The Arrest Is History - Ep. 1",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-tftsd-c2-ep001",
+            "date": "2023-04-25",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50599",
+            "title": "A Good Heist is Key - Ep. 2",
+            "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-episode-2",
+            "date": "2023-03-28",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "50561",
+            "title": "Will They Choose To Save The World? - Ep. 1",
+            "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-3-21",
+            "date": "2023-03-21",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "50513",
+            "title": "Between The Tales: The Infinight Campaign",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd87",
+            "date": "2023-03-14",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50478",
+            "title": "The Infinale Part 2 - Ep. 86",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd86",
+            "date": "2023-03-07",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50436",
+            "title": "The Infinale Part 1 - Ep. 85",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd85",
+            "date": "2023-02-28",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50373",
+            "title": "Ethereal Plan of Action - Ep. 84",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd-84",
+            "date": "2023-02-21",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50337",
+            "title": "Infinights vs. Tetragogues - Ep. 83",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd83",
+            "date": "2023-02-14",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50285",
+            "title": "Brink of Disaster - Ep. 82",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd-82",
+            "date": "2023-02-07",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50233",
+            "title": "Here Today, Gone to Morrow - Ep. 81",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd81",
+            "date": "2023-01-31",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50191",
+            "title": "Fruits Of Lae-Bahoor - Ep. 80",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd80",
+            "date": "2023-01-24",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50155",
+            "title": "Who\u2019s Your Daddy? - Ep. 79",
+            "slug": "tales-from-the-stinky-dragon-arc-8-tftsd-79",
+            "date": "2023-01-17",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50099",
+            "title": "Between The Tales",
+            "slug": "tales-from-the-stinky-dragon-arc-7-stinky-dragon-78_5",
+            "date": "2023-01-10",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50070",
+            "title": "The Quarterling Vs. The Shaddo Queen - Ep. 78",
+            "slug": "tales-from-the-stinky-dragon-arc-7-78",
+            "date": "2023-01-03",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50055",
+            "title": "Half And Halfling - Ep. 77",
+            "slug": "tales-from-the-stinky-dragon-arc-7-stinky-dragon-77",
+            "date": "2022-12-27",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "50002",
+            "title": "With Barted Breath - Ep. 76",
+            "slug": "tales-from-the-stinky-dragon-arc-7-tftsd-76",
+            "date": "2022-12-20",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49949",
+            "title": "Curmudgeons & Dragons - Ep. 75",
+            "slug": "tales-from-the-stinky-dragon-arc-7-tftsd-75",
+            "date": "2022-12-13",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49902",
+            "title": "Win, Lose, or Shaddrow - Ep. 74",
+            "slug": "tales-from-the-stinky-dragon-arc-7-tftsd-74",
+            "date": "2022-12-06",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49849",
+            "title": "Naval-Gazing - Ep. 73",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd73",
+            "date": "2022-11-29",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49815",
+            "title": "Young at Bart - Ep. 72",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd72",
+            "date": "2022-11-22",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49767",
+            "title": "TFTSD LIVE @ RTX 2022",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd-rtx-2022-episode",
+            "date": "2022-11-15",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "49716",
+            "title": "Between The Tales",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd-71_5",
+            "date": "2022-11-08",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49658",
+            "title": "His Name Is - Ep. 71",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-11-1",
+            "date": "2022-11-01",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49613",
+            "title": "Slujj the Monopol-Ooze - Ep. 70",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-10-25",
+            "date": "2022-10-25",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49574",
+            "title": "Great Balls Of Briar - Ep. 69",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd69",
+            "date": "2022-10-18",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49526",
+            "title": "Ignorance is Amphibellis - Ep. 68",
+            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd68",
+            "date": "2022-10-11",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49463",
+            "title": "Algerock And Roll - Ep. 67",
+            "slug": "tales-from-the-stinky-dragon-2022-tftsd67",
+            "date": "2022-10-04",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49366",
+            "title": "Moorbane Than Meets the Eye - Ep. 66",
+            "slug": "tales-from-the-stinky-dragon-2022-9-27",
+            "date": "2022-09-27",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49340",
+            "title": "Slime Spree - Ep. 65",
+            "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-65",
+            "date": "2022-09-20",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49264",
+            "title": "Own Flesh & Mudd - Ep. 64",
+            "slug": "tales-from-the-stinky-dragon-2022-tftsd64",
+            "date": "2022-09-13",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49212",
+            "title": "Between The Tales",
+            "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-63-5",
+            "date": "2022-09-06",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49153",
+            "title": "Flats Lady Sings - Ep. 63",
+            "slug": "tales-from-the-stinky-dragon-2022-63",
+            "date": "2022-08-30",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49093",
+            "title": "Quadron Vs. Kyborg - Ep. 62",
+            "slug": "tales-from-the-stinky-dragon-2022-62",
+            "date": "2022-08-23",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "49035",
+            "title": "No Arm, No Foul - Ep. 61",
+            "slug": "tales-from-the-stinky-dragon-2022-61",
+            "date": "2022-08-16",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48985",
+            "title": "Cards On The Tabul - Ep. 60",
+            "slug": "tales-from-the-stinky-dragon-2022-60",
+            "date": "2022-08-09",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48920",
+            "title": "Load Off One\u2019s Chest - Ep. 59",
+            "slug": "tales-from-the-stinky-dragon-2022-59",
+            "date": "2022-08-02",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48859",
+            "title": "You Shall Not Pyous Pass - Ep. 58",
+            "slug": "tales-from-the-stinky-dragon-2022-58",
+            "date": "2022-07-26",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48788",
+            "title": "May the Source Be With You - Ep. 57",
+            "slug": "tales-from-the-stinky-dragon-2022-57",
+            "date": "2022-07-19",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48724",
+            "title": "Stinky Dragon Side Quest: Honey Heist 2022",
+            "slug": "tales-from-the-stinky-dragon-2022-7-12",
+            "date": "2022-07-12",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48651",
+            "title": "Magic Box Down - Ep. 56",
+            "slug": "tales-from-the-stinky-dragon-2022-episode-56",
+            "date": "2022-07-05",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48592",
+            "title": "Deja-Kydelius - Ep. 55",
+            "slug": "tales-from-the-stinky-dragon-2022-55",
+            "date": "2022-06-28",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48504",
+            "title": "Into the Melding Pot - Ep. 54",
+            "slug": "tales-from-the-stinky-dragon-2022-armageddon-ep-54-into-the-melding-pot",
+            "date": "2022-06-21",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48439",
+            "title": "Come What Mayor - Ep. 53",
+            "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-53",
+            "date": "2022-06-14",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48371",
+            "title": "Between The Tales",
+            "slug": "tales-from-the-stinky-dragon-2022-52-5",
+            "date": "2022-06-07",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48279",
+            "title": "End of An Internship - Ep. 52",
+            "slug": "tales-from-the-stinky-dragon-2022-52",
+            "date": "2022-05-31",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48238",
+            "title": "A Breath of Fresh Lair - Ep. 51",
+            "slug": "tales-from-the-stinky-dragon-2022-51",
+            "date": "2022-05-24",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48167",
+            "title": "Mine-Boggling - Ep. 50",
+            "slug": "tales-from-the-stinky-dragon-2022-50",
+            "date": "2022-05-17",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48100",
+            "title": "Raining on Grisleve\u2019s Parade - Ep. 49",
+            "slug": "tales-from-the-stinky-dragon-2022-ep-49",
+            "date": "2022-05-10",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "48036",
+            "title": "Cloaker and Dagger - Ep. 48",
+            "slug": "tales-from-the-stinky-dragon-2022-48",
+            "date": "2022-05-03",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47976",
+            "title": "Ziggu-Rat Race - Ep. 47",
+            "slug": "tales-from-the-stinky-dragon-2022-47",
+            "date": "2022-04-26",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47916",
+            "title": "Strife Aquatic - Ep. 46",
+            "slug": "tales-from-the-stinky-dragon-2022-46",
+            "date": "2022-04-19",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47862",
+            "title": "Swarm and Fuzzy - Ep. 45",
+            "slug": "tales-from-the-stinky-dragon-2022-45",
+            "date": "2022-04-12",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47797",
+            "title": "As Wood As It Gets - Ep. 44",
+            "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-44",
+            "date": "2022-04-05",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47731",
+            "title": "Pines and Needles - Ep. 43",
+            "slug": "tales-from-the-stinky-dragon-2022-stink-dragon-43",
+            "date": "2022-03-29",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
             "id": "47608",
             "title": "The Grand Guignol",
             "slug": "gen-lock-season-2-5",
@@ -27,6 +1440,420 @@
             "is_first": true,
             "show": "gen:LOCK",
             "show_slug": "gen-lock"
+        },
+        {
+            "id": "47601",
+            "title": "The Internights! - Ep. 42",
+            "slug": "tales-from-the-stinky-dragon-2022-42",
+            "date": "2022-03-22",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47540",
+            "title": "Down Dreamery Lane - Ep. 41",
+            "slug": "tales-from-the-stinky-dragon-2022-41",
+            "date": "2022-03-15",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47462",
+            "title": "It\u2019s a Trap! - Ep. 40",
+            "slug": "tales-from-the-stinky-dragon-2022-40",
+            "date": "2022-03-08",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "47359",
+            "title": "Fortune Favors the Boulderay - Ep. 39",
+            "slug": "tales-from-the-stinky-dragon-2022-3-1",
+            "date": "2022-03-01",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46878",
+            "title": "Marrrge and in Charge - Ep. 38",
+            "slug": "tales-from-the-stinky-dragon-2022-38",
+            "date": "2022-02-22",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46794",
+            "title": "Between The Tales",
+            "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-37-5",
+            "date": "2022-02-15",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46719",
+            "title": "Revenge of the Wraith - Ep. 37",
+            "slug": "tales-from-the-stinky-dragon-2022-37",
+            "date": "2022-02-08",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46646",
+            "title": "Royal Battle Royale - Ep. 36",
+            "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-36",
+            "date": "2022-02-01",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46578",
+            "title": "Simply Divine - Ep. 35",
+            "slug": "tales-from-the-stinky-dragon-2022-35",
+            "date": "2022-01-25",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46511",
+            "title": "The Prestidigitation Party - Ep. 34",
+            "slug": "tales-from-the-stinky-dragon-2022-1-18",
+            "date": "2022-01-18",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46464",
+            "title": "Tales From The Stinky Dragon LIVE at RTX 2021",
+            "slug": "tales-from-the-stinky-dragon-2022-34",
+            "date": "2022-01-11",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "46411",
+            "title": "Snobeist Brawl - Ep. 33",
+            "slug": "tales-from-the-stinky-dragon-2022-33",
+            "date": "2022-01-04",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46396",
+            "title": "Prison Breaks and Prizes - Ep. 32",
+            "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-32",
+            "date": "2021-12-28",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46339",
+            "title": "Nail \u2019em, Jail \u2019em, Pale \u2019em - Ep. 31",
+            "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-31",
+            "date": "2021-12-21",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46243",
+            "title": "A Spectril Analysis - Ep. 30",
+            "slug": "tales-from-the-stinky-dragon-2021-30",
+            "date": "2021-12-14",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46161",
+            "title": "Adrift Ethereal Fanta-Seas - Ep. 29",
+            "slug": "tales-from-the-stinky-dragon-2021-12-7",
+            "date": "2021-12-07",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46084",
+            "title": "Brumafume Bedroom Brawl - Ep. 28",
+            "slug": "tales-from-the-stinky-dragon-2021-28",
+            "date": "2021-11-30",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "46010",
+            "title": "Something Smells Fishy - Ep. 27",
+            "slug": "tales-from-the-stinky-dragon-2021-27",
+            "date": "2021-11-23",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45922",
+            "title": "Bearly Mist Opportunity - Ep. 26",
+            "slug": "tales-from-the-stinky-dragon-2021-26",
+            "date": "2021-11-16",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45841",
+            "title": "Cave of Blunders - Ep. 25",
+            "slug": "tales-from-the-stinky-dragon-2021-25",
+            "date": "2021-11-09",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45760",
+            "title": "3 Weeks Later... - Ep. 24",
+            "slug": "tales-from-the-stinky-dragon-2021-11-2",
+            "date": "2021-11-02",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45684",
+            "title": "Between the Tales",
+            "slug": "tales-from-the-stinky-dragon-2021-10-26-21",
+            "date": "2021-10-26",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45602",
+            "title": "Slique\u2019s Symphonic Showdown - Ep. 23",
+            "slug": "tales-from-the-stinky-dragon-2021-23",
+            "date": "2021-10-19",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45525",
+            "title": "Eleventh Hour at the Tower - Ep. 22",
+            "slug": "tales-from-the-stinky-dragon-2021-22",
+            "date": "2021-10-12",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45447",
+            "title": "Run-of-the-Mill Heist - Ep. 21",
+            "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-21",
+            "date": "2021-10-05",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45365",
+            "title": "Hugh Better Watch Out - Ep. 20",
+            "slug": "tales-from-the-stinky-dragon-2021-9-28",
+            "date": "2021-09-28",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45290",
+            "title": "Up River Without a Skill - Ep. 19",
+            "slug": "tales-from-the-stinky-dragon-2021-19",
+            "date": "2021-09-21",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45208",
+            "title": "Hasta La Vista, Baby-T - Ep. 18",
+            "slug": "tales-from-the-stinky-dragon-2021-18",
+            "date": "2021-09-14",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45122",
+            "title": "Knock Knock, Guess Hugh! - Ep. 17",
+            "slug": "tales-from-the-stinky-dragon-2021-17",
+            "date": "2021-09-07",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "45054",
+            "title": "The Clashing of Kings - Ep. 16",
+            "slug": "tales-from-the-stinky-dragon-2021-16",
+            "date": "2021-08-31",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44985",
+            "title": "Came in like a T-Wrecking Ball - Ep. 15",
+            "slug": "tales-from-the-stinky-dragon-2021-15",
+            "date": "2021-08-24",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44910",
+            "title": "Strike While the Eironhoff is Hot - Ep. 14",
+            "slug": "tales-from-the-stinky-dragon-2021-14",
+            "date": "2021-08-17",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44787",
+            "title": "A Fine Howie Do You Do - Ep. 13",
+            "slug": "tales-from-the-stinky-dragon-2021-13",
+            "date": "2021-08-10",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44718",
+            "title": "A Brinkle in Time - Ep. 12",
+            "slug": "tales-from-the-stinky-dragon-2021-8-3",
+            "date": "2021-08-03",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44644",
+            "title": "Double Euphardy - Ep. 11",
+            "slug": "tales-from-the-stinky-dragon-2021-7-27",
+            "date": "2021-07-27",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44550",
+            "title": "Fortunes, Forests & Faith Pt. 2 - Ep. 10",
+            "slug": "tales-from-the-stinky-dragon-2021-7-19",
+            "date": "2021-07-20",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44447",
+            "title": "Fortunes, Forests & Faith Pt. 1 - Ep. 9",
+            "slug": "tales-from-the-stinky-dragon-2021-7-13",
+            "date": "2021-07-13",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44280",
+            "title": "Between the Tales",
+            "slug": "tales-from-the-stinky-dragon-2021-6-29",
+            "date": "2021-06-29",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44214",
+            "title": "Pyous Pass Pt. 3 - Ep. 8",
+            "slug": "tales-from-the-stinky-dragon-2021-6-22",
+            "date": "2021-06-22",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44117",
+            "title": "Pyous Pass Pt. 2 - Ep. 7",
+            "slug": "tales-from-the-stinky-dragon-2021-6-15",
+            "date": "2021-06-15",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "44003",
+            "title": "Pyous Pass Pt. 1 - Ep. 6",
+            "slug": "tales-from-the-stinky-dragon-2021-6",
+            "date": "2021-06-08",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "43928",
+            "title": "Taverns, Tomes, & Training - Ep. 5",
+            "slug": "tales-from-the-stinky-dragon-2021-5",
+            "date": "2021-06-01",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "43835",
+            "title": "The Search for Dr. Ahem Pt. 3 - Ep. 4",
+            "slug": "tales-from-the-stinky-dragon-2021-4",
+            "date": "2021-05-25",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "43745",
+            "title": "The Search for Dr. Ahem Pt. 2 - Ep. 3",
+            "slug": "tales-from-the-stinky-dragon-2021-3",
+            "date": "2021-05-18",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "43658",
+            "title": "The Search for Dr. Ahem Pt. 1 - Ep. 2",
+            "slug": "tales-from-the-stinky-dragon-2021-2",
+            "date": "2021-05-11",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "43576",
+            "title": "Welcome to Boulderay - Ep. 1",
+            "slug": "tales-from-the-stinky-dragon-2021-1",
+            "date": "2021-05-04",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
         },
         {
             "id": "39008",

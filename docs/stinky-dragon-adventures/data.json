@@ -6,7 +6,7 @@
         "uploaded": 17,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 17
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-8",
             "date": "2024-01-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 7",
@@ -25,9 +25,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-7",
             "date": "2023-12-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Infinight Rescue Mission | Episode 8",
@@ -35,9 +35,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-8",
             "date": "2023-12-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 6",
@@ -45,9 +45,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-6",
             "date": "2023-12-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The One-Armed Archer | Episode 7",
@@ -55,9 +55,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-7",
             "date": "2023-12-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 5",
@@ -65,9 +65,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-5",
             "date": "2023-12-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Flowers for Gum Gum | Episode 6",
@@ -75,9 +75,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-6",
             "date": "2023-12-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 4",
@@ -85,9 +85,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-4",
             "date": "2023-12-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mudd\u2019s Catastrophe | Episode 5",
@@ -95,9 +95,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-5",
             "date": "2023-12-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 3",
@@ -105,9 +105,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-3",
             "date": "2023-11-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The New Heroes in Town | Episode 4",
@@ -115,9 +115,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-4",
             "date": "2023-11-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 2",
@@ -125,9 +125,9 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-2",
             "date": "2023-11-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Orphan Uprising | Episode 3",
@@ -135,9 +135,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-3",
             "date": "2023-11-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 1",
@@ -145,9 +145,9 @@
             "slug": "stinky-dragon-adventures-season-1-sda-commentary-1",
             "date": "2023-11-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Horrors of Catawampus | Episode 2",
@@ -155,9 +155,9 @@
             "slug": "stinky-dragon-adventures-season-1-the-horrors-of-catawampus",
             "date": "2023-11-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Who Will Be The Next Infinight Intern? | Episode 1",
@@ -165,9 +165,9 @@
             "slug": "stinky-dragon-adventures-season-1-episode-1",
             "date": "2023-11-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Adventures - Teaser Trailer",
@@ -175,9 +175,9 @@
             "slug": "stinky-dragon-adventures-season-1-teaser-trailer",
             "date": "2023-11-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

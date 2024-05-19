@@ -6,7 +6,7 @@
         "uploaded": 102,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 101
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "infinights-arc-9-infinight-infirms-sw-infinight-infirms-pt-3",
             "date": "2023-11-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Infinight Infirms Pt 3",
@@ -25,9 +25,9 @@
             "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-3",
             "date": "2023-11-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Infinight Infirms Pt. 2",
@@ -35,9 +35,9 @@
             "slug": "infinights-arc-9-infinight-infirms-second-wind-infinight-infirms-pt-2",
             "date": "2023-10-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Infinight Infirms Pt. 2",
@@ -45,9 +45,9 @@
             "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-2",
             "date": "2023-10-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Infinight Infirms Pt. 1",
@@ -55,9 +55,9 @@
             "slug": "infinights-arc-9-infinight-infirms-second-wind-infinight-infirms-pt-1",
             "date": "2023-10-24",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Infinight Infirms Pt. 1",
@@ -65,9 +65,9 @@
             "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-1",
             "date": "2023-10-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between The Tales: The Infinight Campaign",
@@ -75,9 +75,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd87",
             "date": "2023-03-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Infinale Part 2 - Ep. 86",
@@ -85,9 +85,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd86",
             "date": "2023-03-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Infinale Part 1 - Ep. 85",
@@ -95,9 +95,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd85",
             "date": "2023-02-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ethereal Plan of Action - Ep. 84",
@@ -105,9 +105,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd-84",
             "date": "2023-02-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Infinights vs. Tetragogues - Ep. 83",
@@ -115,9 +115,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd83",
             "date": "2023-02-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Brink of Disaster - Ep. 82",
@@ -125,9 +125,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd-82",
             "date": "2023-02-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Here Today, Gone to Morrow - Ep. 81",
@@ -135,9 +135,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd81",
             "date": "2023-01-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fruits Of Lae-Bahoor - Ep. 80",
@@ -145,9 +145,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd80",
             "date": "2023-01-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Who\u2019s Your Daddy? - Ep. 79",
@@ -155,9 +155,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-8-tftsd-79",
             "date": "2023-01-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between The Tales",
@@ -165,9 +165,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-7-stinky-dragon-78_5",
             "date": "2023-01-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Quarterling Vs. The Shaddo Queen - Ep. 78",
@@ -175,9 +175,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-7-78",
             "date": "2023-01-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Half And Halfling - Ep. 77",
@@ -185,9 +185,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-7-stinky-dragon-77",
             "date": "2022-12-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "With Barted Breath - Ep. 76",
@@ -195,9 +195,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-7-tftsd-76",
             "date": "2022-12-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Curmudgeons & Dragons - Ep. 75",
@@ -205,9 +205,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-7-tftsd-75",
             "date": "2022-12-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Win, Lose, or Shaddrow - Ep. 74",
@@ -215,9 +215,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-7-tftsd-74",
             "date": "2022-12-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Naval-Gazing - Ep. 73",
@@ -225,9 +225,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd73",
             "date": "2022-11-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Young at Bart - Ep. 72",
@@ -235,9 +235,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd72",
             "date": "2022-11-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between The Tales",
@@ -245,9 +245,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd-71_5",
             "date": "2022-11-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "His Name Is - Ep. 71",
@@ -255,9 +255,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-11-1",
             "date": "2022-11-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Slujj the Monopol-Ooze - Ep. 70",
@@ -265,9 +265,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-10-25",
             "date": "2022-10-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Great Balls Of Briar - Ep. 69",
@@ -275,9 +275,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd69",
             "date": "2022-10-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ignorance is Amphibellis - Ep. 68",
@@ -285,9 +285,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd68",
             "date": "2022-10-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Algerock And Roll - Ep. 67",
@@ -295,9 +295,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-tftsd67",
             "date": "2022-10-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Moorbane Than Meets the Eye - Ep. 66",
@@ -305,9 +305,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-9-27",
             "date": "2022-09-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Slime Spree - Ep. 65",
@@ -315,9 +315,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-65",
             "date": "2022-09-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Own Flesh & Mudd - Ep. 64",
@@ -325,9 +325,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-tftsd64",
             "date": "2022-09-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between The Tales",
@@ -335,9 +335,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-63-5",
             "date": "2022-09-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Flats Lady Sings - Ep. 63",
@@ -345,9 +345,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-63",
             "date": "2022-08-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Quadron Vs. Kyborg - Ep. 62",
@@ -355,9 +355,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-62",
             "date": "2022-08-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "No Arm, No Foul - Ep. 61",
@@ -365,9 +365,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-61",
             "date": "2022-08-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cards On The Tabul - Ep. 60",
@@ -375,9 +375,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-60",
             "date": "2022-08-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Load Off One\u2019s Chest - Ep. 59",
@@ -385,9 +385,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-59",
             "date": "2022-08-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "You Shall Not Pyous Pass - Ep. 58",
@@ -395,9 +395,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-58",
             "date": "2022-07-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "May the Source Be With You - Ep. 57",
@@ -405,9 +405,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-57",
             "date": "2022-07-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Side Quest: Honey Heist 2022",
@@ -415,9 +415,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-7-12",
             "date": "2022-07-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Magic Box Down - Ep. 56",
@@ -425,9 +425,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-episode-56",
             "date": "2022-07-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Deja-Kydelius - Ep. 55",
@@ -435,9 +435,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-55",
             "date": "2022-06-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Into the Melding Pot - Ep. 54",
@@ -445,9 +445,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-armageddon-ep-54-into-the-melding-pot",
             "date": "2022-06-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Come What Mayor - Ep. 53",
@@ -455,9 +455,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-53",
             "date": "2022-06-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between The Tales",
@@ -465,9 +465,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-52-5",
             "date": "2022-06-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "End of An Internship - Ep. 52",
@@ -475,9 +475,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-52",
             "date": "2022-05-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Breath of Fresh Lair - Ep. 51",
@@ -485,9 +485,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-51",
             "date": "2022-05-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mine-Boggling - Ep. 50",
@@ -495,9 +495,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-50",
             "date": "2022-05-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Raining on Grisleve\u2019s Parade - Ep. 49",
@@ -505,9 +505,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-ep-49",
             "date": "2022-05-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cloaker and Dagger - Ep. 48",
@@ -515,9 +515,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-48",
             "date": "2022-05-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ziggu-Rat Race - Ep. 47",
@@ -525,9 +525,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-47",
             "date": "2022-04-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Strife Aquatic - Ep. 46",
@@ -535,9 +535,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-46",
             "date": "2022-04-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Swarm and Fuzzy - Ep. 45",
@@ -545,9 +545,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-45",
             "date": "2022-04-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "As Wood As It Gets - Ep. 44",
@@ -555,9 +555,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-44",
             "date": "2022-04-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pines and Needles - Ep. 43",
@@ -565,9 +565,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stink-dragon-43",
             "date": "2022-03-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Internights! - Ep. 42",
@@ -575,9 +575,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-42",
             "date": "2022-03-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Down Dreamery Lane - Ep. 41",
@@ -585,9 +585,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-41",
             "date": "2022-03-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "It\u2019s a Trap! - Ep. 40",
@@ -595,9 +595,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-40",
             "date": "2022-03-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fortune Favors the Boulderay - Ep. 39",
@@ -605,9 +605,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-3-1",
             "date": "2022-03-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Marrrge and in Charge - Ep. 38",
@@ -615,9 +615,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-38",
             "date": "2022-02-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between The Tales",
@@ -625,9 +625,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-37-5",
             "date": "2022-02-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Revenge of the Wraith - Ep. 37",
@@ -635,9 +635,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-37",
             "date": "2022-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Royal Battle Royale - Ep. 36",
@@ -645,9 +645,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-36",
             "date": "2022-02-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Simply Divine - Ep. 35",
@@ -655,9 +655,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-35",
             "date": "2022-01-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Prestidigitation Party - Ep. 34",
@@ -665,9 +665,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-1-18",
             "date": "2022-01-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Snobeist Brawl - Ep. 33",
@@ -675,9 +675,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-33",
             "date": "2022-01-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Prison Breaks and Prizes - Ep. 32",
@@ -685,9 +685,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-32",
             "date": "2021-12-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Nail \u2019em, Jail \u2019em, Pale \u2019em - Ep. 31",
@@ -695,9 +695,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-31",
             "date": "2021-12-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Spectril Analysis - Ep. 30",
@@ -705,9 +705,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-30",
             "date": "2021-12-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Adrift Ethereal Fanta-Seas - Ep. 29",
@@ -715,9 +715,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-12-7",
             "date": "2021-12-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Brumafume Bedroom Brawl - Ep. 28",
@@ -725,9 +725,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-28",
             "date": "2021-11-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Something Smells Fishy - Ep. 27",
@@ -735,9 +735,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-27",
             "date": "2021-11-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bearly Mist Opportunity - Ep. 26",
@@ -745,9 +745,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-26",
             "date": "2021-11-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cave of Blunders - Ep. 25",
@@ -755,9 +755,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-25",
             "date": "2021-11-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "3 Weeks Later... - Ep. 24",
@@ -765,9 +765,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-11-2",
             "date": "2021-11-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between the Tales",
@@ -775,9 +775,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-10-26-21",
             "date": "2021-10-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Slique\u2019s Symphonic Showdown - Ep. 23",
@@ -785,9 +785,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-23",
             "date": "2021-10-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Eleventh Hour at the Tower - Ep. 22",
@@ -795,9 +795,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-22",
             "date": "2021-10-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Run-of-the-Mill Heist - Ep. 21",
@@ -805,9 +805,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-21",
             "date": "2021-10-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hugh Better Watch Out - Ep. 20",
@@ -815,9 +815,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-9-28",
             "date": "2021-09-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Up River Without a Skill - Ep. 19",
@@ -825,9 +825,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-19",
             "date": "2021-09-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hasta La Vista, Baby-T - Ep. 18",
@@ -835,9 +835,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-18",
             "date": "2021-09-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Knock Knock, Guess Hugh! - Ep. 17",
@@ -845,9 +845,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-17",
             "date": "2021-09-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Clashing of Kings - Ep. 16",
@@ -855,9 +855,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-16",
             "date": "2021-08-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Came in like a T-Wrecking Ball - Ep. 15",
@@ -865,9 +865,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-15",
             "date": "2021-08-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Strike While the Eironhoff is Hot - Ep. 14",
@@ -875,9 +875,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-14",
             "date": "2021-08-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Fine Howie Do You Do - Ep. 13",
@@ -885,9 +885,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-13",
             "date": "2021-08-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Brinkle in Time - Ep. 12",
@@ -895,9 +895,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-8-3",
             "date": "2021-08-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Double Euphardy - Ep. 11",
@@ -905,9 +905,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-7-27",
             "date": "2021-07-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fortunes, Forests & Faith Pt. 2 - Ep. 10",
@@ -915,9 +915,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-7-19",
             "date": "2021-07-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fortunes, Forests & Faith Pt. 1 - Ep. 9",
@@ -925,9 +925,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-7-13",
             "date": "2021-07-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between the Tales",
@@ -935,9 +935,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-6-29",
             "date": "2021-06-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pyous Pass Pt. 3 - Ep. 8",
@@ -945,9 +945,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-6-22",
             "date": "2021-06-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pyous Pass Pt. 2 - Ep. 7",
@@ -955,9 +955,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-6-15",
             "date": "2021-06-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pyous Pass Pt. 1 - Ep. 6",
@@ -965,9 +965,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-6",
             "date": "2021-06-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Taverns, Tomes, & Training - Ep. 5",
@@ -975,9 +975,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-5",
             "date": "2021-06-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Search for Dr. Ahem Pt. 3 - Ep. 4",
@@ -985,9 +985,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-4",
             "date": "2021-05-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Search for Dr. Ahem Pt. 2 - Ep. 3",
@@ -995,9 +995,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-3",
             "date": "2021-05-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Search for Dr. Ahem Pt. 1 - Ep. 2",
@@ -1005,9 +1005,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-2",
             "date": "2021-05-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Welcome to Boulderay - Ep. 1",
@@ -1015,9 +1015,9 @@
             "slug": "tales-from-the-stinky-dragon-2021-1",
             "date": "2021-05-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Introducing Tales from the Stinky Dragon",

@@ -6,7 +6,7 @@
         "uploaded": 10,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 10
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "stinky-dragon-shorts-shorts-10",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 09",
@@ -25,9 +25,9 @@
             "slug": "stinky-dragon-shorts-shorts-9",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 08",
@@ -35,9 +35,9 @@
             "slug": "stinky-dragon-shorts-shorts-8",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 07",
@@ -45,9 +45,9 @@
             "slug": "stinky-dragon-shorts-shorts-7",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 06",
@@ -55,9 +55,9 @@
             "slug": "stinky-dragon-shorts-shorts-6",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 05",
@@ -65,9 +65,9 @@
             "slug": "stinky-dragon-shorts-shorts-5",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 04",
@@ -75,9 +75,9 @@
             "slug": "stinky-dragon-shorts-shorts-4",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 03",
@@ -85,9 +85,9 @@
             "slug": "stinky-dragon-shorts-shorts-3",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 02",
@@ -95,9 +95,9 @@
             "slug": "stinky-dragon-shorts-shorts-2",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Shorts Compilation 01",
@@ -105,9 +105,9 @@
             "slug": "stinky-dragon-shorts-shorts-1",
             "date": "2024-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

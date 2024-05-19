@@ -6,7 +6,7 @@
         "uploaded": 15,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 10
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "mini-series-live-streams-stinkuary",
             "date": "2024-01-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Merry Stinkmas 2023!",
@@ -25,9 +25,9 @@
             "slug": "mini-series-december-first-stream",
             "date": "2023-12-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Baldur's Gate Part 2",
@@ -35,9 +35,9 @@
             "slug": "mini-series-baldur-s-gate-110623",
             "date": "2023-11-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Baldur's Gate Part 1",
@@ -45,9 +45,9 @@
             "slug": "mini-series-stinky-dragon-plays-baldur-s-gate-episode-1",
             "date": "2023-11-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Tales from the Stinky Dragon - Extra Life 2023",
@@ -55,9 +55,9 @@
             "slug": "extra-life-2023-segment-7",
             "date": "2023-11-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] RTX 2023 Apparition of the Aria!",
@@ -65,9 +65,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-rtx-2023-apparition-of-the-aria",
             "date": "2023-10-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[RTX 2023 LIVE] Apparition of the Aria!",
@@ -115,9 +115,9 @@
             "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-episode-2",
             "date": "2023-03-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Will They Choose To Save The World? - Ep. 1",
@@ -125,9 +125,9 @@
             "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-3-21",
             "date": "2023-03-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "TFTSD LIVE @ RTX 2022",
@@ -135,9 +135,9 @@
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd-rtx-2022-episode",
             "date": "2022-11-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stinky Dragon Side Quests - Honey Heist 2022",
@@ -155,9 +155,9 @@
             "slug": "tales-from-the-stinky-dragon-2022-34",
             "date": "2022-01-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }
