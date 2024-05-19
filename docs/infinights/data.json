@@ -6,7 +6,7 @@
         "uploaded": 102,
         "missing": 0,
         "incomplete": 0,
-        "removed": 101
+        "removed": 102
     },
     "data": [
         {
@@ -1025,9 +1025,9 @@
             "slug": "tales-from-the-stinky-dragon-trailer",
             "date": "2021-04-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

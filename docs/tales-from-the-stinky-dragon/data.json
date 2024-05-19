@@ -6,7 +6,7 @@
         "uploaded": 82,
         "missing": 0,
         "incomplete": 0,
-        "removed": 67
+        "removed": 82
     },
     "data": [
         {
@@ -445,9 +445,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-25-5",
             "date": "2023-12-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Secrets And Summonings - C02 - Ep 25",
@@ -455,9 +455,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-25",
             "date": "2023-11-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Secrets And Summonings - C02 - Ep 25",
@@ -465,9 +465,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-25",
             "date": "2023-11-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Break The Moold - C02 - Ep 24",
@@ -515,9 +515,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-tftsd-c02-e22",
             "date": "2023-10-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Honest Maze Work - C02 - Ep 22",
@@ -525,9 +525,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-tftsd-c02-e22",
             "date": "2023-10-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Swept Under The Slug - C02 - Ep 21",
@@ -545,9 +545,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-swept-under-the-slug",
             "date": "2023-10-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Blrrble Grrble Glrrb - C02 - Ep 20",
@@ -565,9 +565,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-stinky-dragon-20",
             "date": "2023-09-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Karcasuuk Coup - Between the Tales - C02 Ep 19.5",
@@ -595,9 +595,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-ffeb5699-50f9-45d4-b62a-8829a1bff44c",
             "date": "2023-09-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sphoenix From The Ashes - C02 - Ep 19",
@@ -605,9 +605,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-c2e19",
             "date": "2023-09-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "[Second Wind] ...DAGR! - C02 - Ep 18",
@@ -635,9 +635,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind",
             "date": "2023-08-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cloak and... - C02 - Ep 17",
@@ -675,9 +675,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-tftsd-c2-ep014",
             "date": "2023-08-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mummy's the Word - C02 Ep 13",
@@ -695,9 +695,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-tftsdc2-12-5",
             "date": "2023-07-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Make the Ghost of a Situation - Ep 12",
@@ -715,9 +715,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-c2-ep-11",
             "date": "2023-07-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Smell the Fresh Snare - Ep 10",
@@ -735,9 +735,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-6-27",
             "date": "2023-06-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Gone with the Windmill - Ep. 8",
@@ -775,9 +775,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-c2-ep006",
             "date": "2023-05-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Parliament to Be - Ep. 5",

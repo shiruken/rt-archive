@@ -6,7 +6,7 @@
         "uploaded": 15,
         "missing": 0,
         "incomplete": 0,
-        "removed": 10
+        "removed": 15
     },
     "data": [
         {
@@ -75,9 +75,9 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-rtx-2023-apparition-of-the-aria",
             "date": "2023-10-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Chosen One Ends It - Ep. 5",
@@ -85,9 +85,9 @@
             "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-4-18",
             "date": "2023-04-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Race to the End - Ep. 4",
@@ -95,9 +95,9 @@
             "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-tco-episode-4",
             "date": "2023-04-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Rock and A Hard Place - Ep. 3",
@@ -105,9 +105,9 @@
             "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-tco-episode-3",
             "date": "2023-04-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Good Heist is Key - Ep. 2",
@@ -145,9 +145,9 @@
             "slug": "tales-from-the-stinky-dragon-stinky-dragon-side-quests-honey-heist-2022",
             "date": "2022-04-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Tales From The Stinky Dragon LIVE at RTX 2021",

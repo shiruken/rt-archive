@@ -1,5 +1,5 @@
 {
-    "count": 207,
+    "count": 228,
     "data": [
         {
             "id": "52842",
@@ -578,6 +578,15 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
+            "id": "52141",
+            "title": "Between The Tales - C02 - Ep 25.5",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-25-5",
+            "date": "2023-12-05",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
             "id": "52068",
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 3",
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-3",
@@ -612,6 +621,24 @@
             "is_first": true,
             "show": "Mini-Series",
             "show_slug": "mini-series"
+        },
+        {
+            "id": "52059",
+            "title": "[Second Wind] Secrets And Summonings - C02 - Ep 25",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-25",
+            "date": "2023-11-28",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "52058",
+            "title": "Secrets And Summonings - C02 - Ep 25",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-25",
+            "date": "2023-11-28",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
         },
         {
             "id": "52066",
@@ -776,6 +803,33 @@
             "show_slug": "mini-series"
         },
         {
+            "id": "51765",
+            "title": "[RTX 2023 LIVE] Apparition of the Aria!",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-rtx-2023-apparition-of-the-aria",
+            "date": "2023-10-17",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "51717",
+            "title": "[Second Wind] Honest Maze Work - C02 - Ep 22",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-tftsd-c02-e22",
+            "date": "2023-10-10",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51716",
+            "title": "Honest Maze Work - C02 - Ep 22",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-tftsd-c02-e22",
+            "date": "2023-10-10",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
             "id": "51664",
             "title": "[Second Wind] Swept Under The Slug - C02 - Ep 21",
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-sw-21",
@@ -785,11 +839,29 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
+            "id": "51669",
+            "title": "Swept Under The Slug - C02 - Ep 21",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-swept-under-the-slug",
+            "date": "2023-10-03",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
             "id": "51625",
             "title": "[Second Wind] Blrrble Grrble Glrrb - C02 - Ep 20",
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-stinky-dragon-20",
             "date": "2023-09-26",
             "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51624",
+            "title": "Blrrble Grrble Glrrb - C02 - Ep 20",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-stinky-dragon-20",
+            "date": "2023-09-26",
+            "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
         },
@@ -812,6 +884,24 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
+            "id": "51535",
+            "title": "[Second Wind] Sphoenix From The Ashes - C02 - Ep 19",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-ffeb5699-50f9-45d4-b62a-8829a1bff44c",
+            "date": "2023-09-12",
+            "is_first": true,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51529",
+            "title": "Sphoenix From The Ashes - C02 - Ep 19",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-c2e19",
+            "date": "2023-09-12",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
             "id": "51471",
             "title": "[Second Wind] ...DAGR! - C02 - Ep 18",
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-c2-e18",
@@ -826,6 +916,15 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-c2e18",
             "date": "2023-09-05",
             "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51429",
+            "title": "[Second Wind] Cloak and... - C02 - Ep 17",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind",
+            "date": "2023-08-29",
+            "is_first": true,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
         },
@@ -857,10 +956,28 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
+            "id": "51338",
+            "title": "Bazaar Turn of Events - C02 - Ep 14",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-tftsd-c2-ep014",
+            "date": "2023-08-08",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
             "id": "51306",
             "title": "Mummy's the Word - C02 Ep 13",
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-8-1",
             "date": "2023-08-01",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51274",
+            "title": "Between the Tales - C02 Ep 12.5",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-tftsdc2-12-5",
+            "date": "2023-07-25",
             "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
@@ -875,10 +992,28 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
+            "id": "51206",
+            "title": "Days Dragonne By - Ep 11",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-c2-ep-11",
+            "date": "2023-07-11",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
             "id": "51179",
             "title": "Smell the Fresh Snare - Ep 10",
             "slug": "tales-from-the-stinky-dragon-campaign-2-7-4",
             "date": "2023-07-04",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "51141",
+            "title": "Tug-O-Worg - Ep 9",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-6-27",
+            "date": "2023-06-27",
             "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
@@ -906,6 +1041,15 @@
             "title": "Between the Tales",
             "slug": "tales-from-the-stinky-dragon-campaign-2-6-6",
             "date": "2023-06-06",
+            "is_first": false,
+            "show": "Tales from the Stinky Dragon",
+            "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50969",
+            "title": "Alchemist the Mark - Ep. 6",
+            "slug": "tales-from-the-stinky-dragon-campaign-2-c2-ep006",
+            "date": "2023-05-30",
             "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
@@ -954,6 +1098,33 @@
             "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
+        },
+        {
+            "id": "50741",
+            "title": "The Chosen One Ends It - Ep. 5",
+            "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-4-18",
+            "date": "2023-04-18",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "50701",
+            "title": "A Race to the End - Ep. 4",
+            "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-tco-episode-4",
+            "date": "2023-04-11",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
+            "id": "50659",
+            "title": "A Rock and A Hard Place - Ep. 3",
+            "slug": "tales-from-the-stinky-dragon-the-chosen-one-s-tco-episode-3",
+            "date": "2023-04-04",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
         },
         {
             "id": "50599",
@@ -1406,6 +1577,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "1487-bonus",
+            "title": "Stinky Dragon Side Quests - Honey Heist 2022",
+            "slug": "tales-from-the-stinky-dragon-stinky-dragon-side-quests-honey-heist-2022",
+            "date": "2022-04-15",
+            "is_first": false,
+            "show": "Mini-Series",
+            "show_slug": "mini-series"
+        },
+        {
             "id": "47862",
             "title": "Swarm and Fuzzy - Ep. 45",
             "slug": "tales-from-the-stinky-dragon-2022-45",
@@ -1851,6 +2031,15 @@
             "title": "Welcome to Boulderay - Ep. 1",
             "slug": "tales-from-the-stinky-dragon-2021-1",
             "date": "2021-05-04",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
+        },
+        {
+            "id": "43386",
+            "title": "Introducing Tales from the Stinky Dragon",
+            "slug": "tales-from-the-stinky-dragon-trailer",
+            "date": "2021-04-20",
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
