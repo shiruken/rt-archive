@@ -1,5 +1,5 @@
 {
-    "count": 228,
+    "count": 230,
     "data": [
         {
             "id": "52842",
@@ -1361,6 +1361,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49443",
+            "title": "This is Beacon (Dub)",
+            "slug": "rwby-ice-queendom-season-1-2",
+            "date": "2022-10-02",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49366",
             "title": "Moorbane Than Meets the Eye - Ep. 66",
             "slug": "tales-from-the-stinky-dragon-2022-9-27",
@@ -1467,6 +1476,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "48688",
+            "title": "This is Beacon (Sub)",
+            "slug": "rwby-ice-queendom-season-1-ep-2",
+            "date": "2022-07-10",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
         },
         {
             "id": "48651",

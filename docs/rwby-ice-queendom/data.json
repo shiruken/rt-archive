@@ -6,7 +6,7 @@
         "uploaded": 24,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 2
     },
     "data": [
         {
@@ -115,9 +115,9 @@
             "slug": "rwby-ice-queendom-season-1-2",
             "date": "2022-10-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Red, White, Black, Yellow (Dub)",
@@ -235,9 +235,9 @@
             "slug": "rwby-ice-queendom-season-1-ep-2",
             "date": "2022-07-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Red, White, Black, Yellow (Sub)",
