@@ -6,7 +6,7 @@
         "uploaded": 27,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 9
     },
     "data": [
         {
@@ -65,9 +65,9 @@
             "slug": "crwby-behind-the-episode-2-building-argus",
             "date": "2018-12-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Wonderful World of Merch",
@@ -75,9 +75,9 @@
             "slug": "crwby-behind-the-episode-2-the-wonderful-world-of-merch",
             "date": "2018-12-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Apathy Follows",
@@ -125,9 +125,9 @@
             "slug": "crwby-behind-the-episode-2-magic-of-character-creation",
             "date": "2018-11-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Among the Crowds",
@@ -145,9 +145,9 @@
             "slug": "crwby-behind-the-episode-1-fanfare",
             "date": "2018-01-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "No Technical Difficulties",
@@ -155,9 +155,9 @@
             "slug": "crwby-behind-the-episode-1-no-technical-difficulties",
             "date": "2018-01-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Pen and The Sword",
@@ -165,9 +165,9 @@
             "slug": "crwby-behind-the-episode-1-the-pen-and-the-sword",
             "date": "2018-01-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Drawing Inspiration",
@@ -175,9 +175,9 @@
             "slug": "crwby-behind-the-episode-1-drawing-inspiration",
             "date": "2017-12-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The One Two Punch",
@@ -195,9 +195,9 @@
             "slug": "crwby-behind-the-episode-1-can-you-hear-me-now",
             "date": "2017-12-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Complete Package",
@@ -265,9 +265,9 @@
             "slug": "c-r-w-b-y-behind-the-episode-1-2",
             "date": "2017-10-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Start",

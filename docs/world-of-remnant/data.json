@@ -6,7 +6,7 @@
         "uploaded": 16,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 6
     },
     "data": [
         {
@@ -25,9 +25,9 @@
             "slug": "rwby-bonus-36",
             "date": "2016-12-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Faunus",
@@ -55,9 +55,9 @@
             "slug": "rwby-bonus-33",
             "date": "2016-10-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Atlas",
@@ -75,9 +75,9 @@
             "slug": "rwby-bonus-31",
             "date": "2016-10-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vale",
@@ -95,9 +95,9 @@
             "slug": "rwby-bonus-29",
             "date": "2016-01-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cross Continental Transmit System",
@@ -125,9 +125,9 @@
             "slug": "rwby-bonus-26",
             "date": "2015-10-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Aura",
@@ -155,9 +155,9 @@
             "slug": "rwby-bonus-24",
             "date": "2014-09-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dust",

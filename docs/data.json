@@ -4,7 +4,7 @@
         "uploaded": 42603,
         "missing": 0,
         "incomplete": 1674,
-        "removed": 230
+        "removed": 369
     },
     "data": [
         {
@@ -644,7 +644,7 @@
             "uploaded": 27,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 9
         },
         {
             "show": "Cult Podcast",
@@ -3011,7 +3011,7 @@
             "uploaded": 170,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 55
         },
         {
             "show": "RWBY Chibi",
@@ -3020,7 +3020,7 @@
             "uploaded": 67,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 25
         },
         {
             "show": "RWBY Complete",
@@ -3029,7 +3029,7 @@
             "uploaded": 8,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 1
         },
         {
             "show": "RWBY Rewind",
@@ -3038,7 +3038,7 @@
             "uploaded": 25,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 9
         },
         {
             "show": "RWBY VTubing",
@@ -3056,7 +3056,7 @@
             "uploaded": 7,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 4
         },
         {
             "show": "RWBY: Ice Queendom",
@@ -3065,7 +3065,7 @@
             "uploaded": 24,
             "missing": 0,
             "incomplete": 0,
-            "removed": 2
+            "removed": 14
         },
         {
             "show": "RWBY: The Grimm Campaign",
@@ -3074,7 +3074,7 @@
             "uploaded": 25,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 12
         },
         {
             "show": "RWBY: World of Remnant",
@@ -3083,7 +3083,7 @@
             "uploaded": 16,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 6
         },
         {
             "show": "Schooled",
@@ -3371,7 +3371,7 @@
             "uploaded": 9,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 6
         },
         {
             "show": "Tech and Science News",

@@ -6,7 +6,7 @@
         "uploaded": 7,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 4
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "rwby-fairy-tales-season-1-6",
             "date": "2021-12-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Girl In The Tower",
@@ -25,9 +25,9 @@
             "slug": "rwby-fairy-tales-season-1-5",
             "date": "2021-11-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Indecisive King",
@@ -35,9 +35,9 @@
             "slug": "rwby-fairy-tales-season-1-4",
             "date": "2021-11-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Shallow Sea",
@@ -55,9 +55,9 @@
             "slug": "rwby-fairy-tales-season-1-2",
             "date": "2021-11-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Grimm Child",

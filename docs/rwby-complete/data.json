@@ -6,7 +6,7 @@
         "uploaded": 8,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 1
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "rwby-complete-volume-5-part-2",
             "date": "2019-10-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5 - Part 1",

@@ -6,7 +6,7 @@
         "uploaded": 24,
         "missing": 0,
         "incomplete": 0,
-        "removed": 2
+        "removed": 14
     },
     "data": [
         {
@@ -25,9 +25,9 @@
             "slug": "rwby-ice-queendom-season-1-11-dub",
             "date": "2022-12-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mirror of Darkness (Dub)",
@@ -45,9 +45,9 @@
             "slug": "rwby-ice-queendom-season-1-9-dub",
             "date": "2022-11-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Where You Belong (Dub)",
@@ -75,9 +75,9 @@
             "slug": "rwby-ice-queendom-season-1-21",
             "date": "2022-10-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Awaken in a Dream (Dub)",
@@ -95,9 +95,9 @@
             "slug": "rwby-ice-queendom-season-1-14",
             "date": "2022-10-16",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Nightmare Comes (Dub)",
@@ -105,9 +105,9 @@
             "slug": "rwby-ice-queendom-season-1-dub-3",
             "date": "2022-10-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "This is Beacon (Dub)",
@@ -125,9 +125,9 @@
             "slug": "rwby-ice-queendom-season-1-ice-queendom-episode-1-dub",
             "date": "2022-09-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Best Day Ever (Sub)",
@@ -145,9 +145,9 @@
             "slug": "rwby-ice-queendom-season-1-11",
             "date": "2022-09-11",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mirror of Darkness (Sub)",
@@ -155,9 +155,9 @@
             "slug": "rwby-ice-queendom-season-1-10",
             "date": "2022-09-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "My Dream, Your Dream (Sub)",
@@ -165,9 +165,9 @@
             "slug": "rwby-ice-queendom-season-1-9",
             "date": "2022-08-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Where You Belong (Sub)",
@@ -175,9 +175,9 @@
             "slug": "rwby-ice-queendom-season-1-8",
             "date": "2022-08-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dreams Come Rued (Sub)",
@@ -215,9 +215,9 @@
             "slug": "rwby-ice-queendom-season-1-4",
             "date": "2022-07-24",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Nightmare Comes (Sub)",
@@ -225,9 +225,9 @@
             "slug": "rwby-ice-queendom-season-1-3",
             "date": "2022-07-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "This is Beacon (Sub)",

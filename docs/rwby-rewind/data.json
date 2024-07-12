@@ -6,7 +6,7 @@
         "uploaded": 25,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 9
     },
     "data": [
         {
@@ -25,9 +25,9 @@
             "slug": "rwby-rewind-2-10",
             "date": "2019-01-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Shipping RWBY with Captain Yssa - #9",
@@ -35,9 +35,9 @@
             "slug": "rwby-rewind-2-9",
             "date": "2019-01-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Justifying Jaune's Anger - #8",
@@ -75,9 +75,9 @@
             "slug": "rwby-rewind-2-rwby-remixed-5",
             "date": "2018-11-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Mind(s) of Ozpin - #4",
@@ -85,9 +85,9 @@
             "slug": "rwby-rewind-2-4",
             "date": "2018-11-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Lore Keeper - #3",
@@ -95,9 +95,9 @@
             "slug": "rwby-rewind-rwby-lore-keeper-3",
             "date": "2018-11-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Exploring Cut Concepts - #2",
@@ -135,9 +135,9 @@
             "slug": "rwby-rewind-1-all-the-answers-13",
             "date": "2018-01-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Plot Twist Central - #12",
@@ -225,9 +225,9 @@
             "slug": "rwby-rewind-1-4-erh56",
             "date": "2017-11-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Sounds of RWBY - #3",
@@ -245,9 +245,9 @@
             "slug": "rwby-rewind-1-2",
             "date": "2017-10-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ruby Rose Rewinds With Us - #1",
@@ -255,9 +255,9 @@
             "slug": "rwby-rewind-1-1-g3goig3",
             "date": "2017-10-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

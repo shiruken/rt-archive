@@ -1,5 +1,5 @@
 {
-    "count": 230,
+    "count": 369,
     "data": [
         {
             "id": "52842",
@@ -1280,6 +1280,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49656",
+            "title": "Light in Shadows (Dub)",
+            "slug": "rwby-ice-queendom-season-1-11-dub",
+            "date": "2022-12-04",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49849",
             "title": "Naval-Gazing - Ep. 73",
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd73",
@@ -1296,6 +1305,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "49654",
+            "title": "My Dream, Your Dream (Dub)",
+            "slug": "rwby-ice-queendom-season-1-9-dub",
+            "date": "2022-11-20",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
         },
         {
             "id": "49767",
@@ -1325,6 +1343,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49628",
+            "title": "Do You Have a Plan? (Dub)",
+            "slug": "rwby-ice-queendom-season-1-21",
+            "date": "2022-10-30",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49613",
             "title": "Slujj the Monopol-Ooze - Ep. 70",
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-10-25",
@@ -1343,6 +1370,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49561",
+            "title": "Ice Queendom (Dub)",
+            "slug": "rwby-ice-queendom-season-1-14",
+            "date": "2022-10-16",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49526",
             "title": "Ignorance is Amphibellis - Ep. 68",
             "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-tftsd68",
@@ -1350,6 +1386,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "49504",
+            "title": "A Nightmare Comes (Dub)",
+            "slug": "rwby-ice-queendom-season-1-dub-3",
+            "date": "2022-10-09",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
         },
         {
             "id": "49463",
@@ -1379,6 +1424,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49404",
+            "title": "Red, White, Black, Yellow (Dub)",
+            "slug": "rwby-ice-queendom-season-1-ice-queendom-episode-1-dub",
+            "date": "2022-09-25",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49340",
             "title": "Slime Spree - Ep. 65",
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-65",
@@ -1397,6 +1451,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49146",
+            "title": "Light in Shadows (Sub)",
+            "slug": "rwby-ice-queendom-season-1-11",
+            "date": "2022-09-11",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49212",
             "title": "Between The Tales",
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-63-5",
@@ -1404,6 +1467,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "49145",
+            "title": "Mirror of Darkness (Sub)",
+            "slug": "rwby-ice-queendom-season-1-10",
+            "date": "2022-09-04",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
         },
         {
             "id": "49153",
@@ -1415,6 +1487,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "49144",
+            "title": "My Dream, Your Dream (Sub)",
+            "slug": "rwby-ice-queendom-season-1-9",
+            "date": "2022-08-28",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "49093",
             "title": "Quadron Vs. Kyborg - Ep. 62",
             "slug": "tales-from-the-stinky-dragon-2022-62",
@@ -1422,6 +1503,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "48959",
+            "title": "Where You Belong (Sub)",
+            "slug": "rwby-ice-queendom-season-1-8",
+            "date": "2022-08-21",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
         },
         {
             "id": "49035",
@@ -1460,6 +1550,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "48821",
+            "title": "Ice Queendom (Sub)",
+            "slug": "rwby-ice-queendom-season-1-4",
+            "date": "2022-07-24",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
+        },
+        {
             "id": "48788",
             "title": "May the Source Be With You - Ep. 57",
             "slug": "tales-from-the-stinky-dragon-2022-57",
@@ -1467,6 +1566,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "48784",
+            "title": "A Nightmare Comes (Sub)",
+            "slug": "rwby-ice-queendom-season-1-3",
+            "date": "2022-07-17",
+            "is_first": true,
+            "show": "RWBY: Ice Queendom",
+            "show_slug": "rwby-ice-queendom"
         },
         {
             "id": "48724",
@@ -1494,6 +1602,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "1493-bonus",
+            "title": "RWBY Volume 9 Chapter 1 Clip",
+            "slug": "rwby-rwby-9-clip",
+            "date": "2022-07-01",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "48566",
+            "title": "Ice Queendom Special",
+            "slug": "talk-crwby-to-me-season-2-ice-queendom-special",
+            "date": "2022-06-29",
+            "is_first": false,
+            "show": "Talk CRWBY to Me",
+            "show_slug": "talk-crwby-to-me"
         },
         {
             "id": "48592",
@@ -1784,6 +1910,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "46133",
+            "title": "The Warrior In The Woods",
+            "slug": "rwby-fairy-tales-season-1-6",
+            "date": "2021-12-04",
+            "is_first": false,
+            "show": "RWBY: Fairy Tales",
+            "show_slug": "rwby-fairy-tales"
+        },
+        {
             "id": "46084",
             "title": "Brumafume Bedroom Brawl - Ep. 28",
             "slug": "tales-from-the-stinky-dragon-2021-28",
@@ -1793,6 +1928,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "46036",
+            "title": "The Girl In The Tower",
+            "slug": "rwby-fairy-tales-season-1-5",
+            "date": "2021-11-27",
+            "is_first": false,
+            "show": "RWBY: Fairy Tales",
+            "show_slug": "rwby-fairy-tales"
+        },
+        {
             "id": "46010",
             "title": "Something Smells Fishy - Ep. 27",
             "slug": "tales-from-the-stinky-dragon-2021-27",
@@ -1800,6 +1944,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45980",
+            "title": "The Indecisive King",
+            "slug": "rwby-fairy-tales-season-1-4",
+            "date": "2021-11-20",
+            "is_first": false,
+            "show": "RWBY: Fairy Tales",
+            "show_slug": "rwby-fairy-tales"
         },
         {
             "id": "45922",
@@ -1818,6 +1971,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45824",
+            "title": "The Hunter's Children",
+            "slug": "rwby-fairy-tales-season-1-2",
+            "date": "2021-11-06",
+            "is_first": false,
+            "show": "RWBY: Fairy Tales",
+            "show_slug": "rwby-fairy-tales"
         },
         {
             "id": "45760",
@@ -1955,6 +2117,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "44562",
+            "title": "RWBY: The Grimm Campaign (RTX)",
+            "slug": "rwby-the-grimm-campaign-season-2-rtx",
+            "date": "2021-07-21",
+            "is_first": false,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
             "id": "44550",
             "title": "Fortunes, Forests & Faith Pt. 2 - Ep. 10",
             "slug": "tales-from-the-stinky-dragon-2021-7-19",
@@ -2027,6 +2198,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "43817",
+            "title": "When Life Gives You Lemons",
+            "slug": "rwby-the-grimm-campaign-season-2-14",
+            "date": "2021-05-24",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
             "id": "43745",
             "title": "The Search for Dr. Ahem Pt. 2 - Ep. 3",
             "slug": "tales-from-the-stinky-dragon-2021-3",
@@ -2034,6 +2214,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "43730",
+            "title": "Pykes Tykes!",
+            "slug": "rwby-the-grimm-campaign-season-2-13",
+            "date": "2021-05-17",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
         },
         {
             "id": "43658",
@@ -2054,6 +2243,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "43463",
+            "title": "In Search of Taupe",
+            "slug": "rwby-the-grimm-campaign-season-2-4-26",
+            "date": "2021-04-26",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
             "id": "43386",
             "title": "Introducing Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon-trailer",
@@ -2063,6 +2261,177 @@
             "show_slug": "infinights"
         },
         {
+            "id": "43273",
+            "title": "The Fast and the Furriest",
+            "slug": "rwby-the-grimm-campaign-season-2-8",
+            "date": "2021-04-12",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "43169",
+            "title": "A Rebellious Reunion",
+            "slug": "rwby-the-grimm-campaign-season-2-7",
+            "date": "2021-04-05",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "43056",
+            "title": "The Final Word",
+            "slug": "rwby-volume-8-14",
+            "date": "2021-03-27",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "42825",
+            "title": "Evident Evidence",
+            "slug": "rwby-the-grimm-campaign-season-2-4",
+            "date": "2021-03-15",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "42834",
+            "title": "Creation",
+            "slug": "rwby-volume-8-12",
+            "date": "2021-03-13",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "42622",
+            "title": "Out of the Woods, Into the Fire!",
+            "slug": "rwby-the-grimm-campaign-season-2-2",
+            "date": "2021-03-01",
+            "is_first": true,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "1454-bonus",
+            "title": "RWBY Recap Episode 5 - Volumes 7 & 8",
+            "slug": "rwby-recap-episode-5",
+            "date": "2021-02-27",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1450-bonus",
+            "title": "RWBY Recap Episode 3 - Volumes 4 & 5",
+            "slug": "rwby-rwby-recap-episode-3",
+            "date": "2021-02-13",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "42378",
+            "title": "Dark",
+            "slug": "rwby-volume-8-8",
+            "date": "2021-02-06",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1447-bonus",
+            "title": "Thank You for 100 Episodes of RWBY!",
+            "slug": "rwby-100-episodes",
+            "date": "2021-01-31",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1446-bonus",
+            "title": "RWBY Recap Episode 1 - Volumes 1 & 2",
+            "slug": "rwby-rwby-recap-episode-1-volumes-1-2",
+            "date": "2021-01-30",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "41289",
+            "title": "Strings",
+            "slug": "rwby-volume-8-3",
+            "date": "2020-11-21",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1437-bonus",
+            "title": "V8:E1 Watch Party + Q&A",
+            "slug": "rwby-rwby-watch-party",
+            "date": "2020-11-18",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "40595",
+            "title": "Razing The Stakes",
+            "slug": "rwby-the-grimm-campaign-season-1-9",
+            "date": "2020-10-10",
+            "is_first": false,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "40245",
+            "title": "A Rocky Start",
+            "slug": "rwby-the-grimm-campaign-season-1-5",
+            "date": "2020-09-12",
+            "is_first": false,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "40032",
+            "title": "Where There's Smoke...",
+            "slug": "rwby-the-grimm-campaign-season-1-3",
+            "date": "2020-08-29",
+            "is_first": false,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "39931",
+            "title": "Action Time!",
+            "slug": "rwby-the-grimm-campaign-season-1-2",
+            "date": "2020-08-22",
+            "is_first": false,
+            "show": "RWBY: The Grimm Campaign",
+            "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "39291",
+            "title": "Always Take Notes / The Rock Would Be Great On Me",
+            "slug": "talk-crwby-to-me-season-1-8",
+            "date": "2020-07-11",
+            "is_first": true,
+            "show": "Talk CRWBY to Me",
+            "show_slug": "talk-crwby-to-me"
+        },
+        {
+            "id": "39086",
+            "title": "RWBY Gets Edited",
+            "slug": "talk-crwby-to-me-1-6",
+            "date": "2020-06-27",
+            "is_first": true,
+            "show": "Talk CRWBY to Me",
+            "show_slug": "talk-crwby-to-me"
+        },
+        {
             "id": "39008",
             "title": "DONKEY PATROL",
             "slug": "doom-patrol-2020-ep-2",
@@ -2070,6 +2439,888 @@
             "is_first": false,
             "show": "Doom Patrol",
             "show_slug": "doom-patrol"
+        },
+        {
+            "id": "38858",
+            "title": "It All Starts with Boards",
+            "slug": "talk-crwby-to-me-1-4",
+            "date": "2020-06-13",
+            "is_first": true,
+            "show": "Talk CRWBY to Me",
+            "show_slug": "talk-crwby-to-me"
+        },
+        {
+            "id": "38742",
+            "title": "50 shades of RWBY",
+            "slug": "talk-crwby-to-me-1-3",
+            "date": "2020-06-06",
+            "is_first": true,
+            "show": "Talk CRWBY to Me",
+            "show_slug": "talk-crwby-to-me"
+        },
+        {
+            "id": "38649",
+            "title": "Bringing Remnant to Life",
+            "slug": "talk-crwby-to-me-1-2",
+            "date": "2020-05-30",
+            "is_first": true,
+            "show": "Talk CRWBY to Me",
+            "show_slug": "talk-crwby-to-me"
+        },
+        {
+            "id": "36073",
+            "title": "Worst Case Scenario",
+            "slug": "rwby-volume-7-7",
+            "date": "2019-12-14",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "35775",
+            "title": "A Night Off",
+            "slug": "rwby-volume-7-6",
+            "date": "2019-12-07",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "35774",
+            "title": "Sparks",
+            "slug": "rwby-volume-7-5",
+            "date": "2019-11-30",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "35773",
+            "title": "Pomp and Circumstance",
+            "slug": "rwby-volume-7-4",
+            "date": "2019-11-23",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "35651",
+            "title": "A New Approach",
+            "slug": "rwby-volume-7-2",
+            "date": "2019-11-09",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "35478",
+            "title": "Volume 5 - Part 2",
+            "slug": "rwby-complete-volume-5-part-2",
+            "date": "2019-10-25",
+            "is_first": false,
+            "show": "RWBY Complete",
+            "show_slug": "rwby-complete"
+        },
+        {
+            "id": "30250",
+            "title": "Seeing Red",
+            "slug": "rwby-volume-6-12",
+            "date": "2019-01-19",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "30197",
+            "title": "Barbara and the RWBY Bumblebees - #10",
+            "slug": "rwby-rewind-2-10",
+            "date": "2019-01-15",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "30131",
+            "title": "Shipping RWBY with Captain Yssa - #9",
+            "slug": "rwby-rewind-2-9",
+            "date": "2019-01-08",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "30062",
+            "title": "Lost",
+            "slug": "rwby-volume-6-9",
+            "date": "2018-12-29",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "29992",
+            "title": "Building Argus",
+            "slug": "crwby-behind-the-episode-2-building-argus",
+            "date": "2018-12-20",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "29851",
+            "title": "The Wonderful World of Merch",
+            "slug": "crwby-behind-the-episode-2-the-wonderful-world-of-merch",
+            "date": "2018-12-13",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "29760",
+            "title": "The Grimm Reaper",
+            "slug": "rwby-volume-6-7",
+            "date": "2018-12-08",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "29549",
+            "title": "RWBY Remixed - #5",
+            "slug": "rwby-rewind-2-rwby-remixed-5",
+            "date": "2018-11-27",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "29480",
+            "title": "The Mind(s) of Ozpin - #4",
+            "slug": "rwby-rewind-2-4",
+            "date": "2018-11-20",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "29367",
+            "title": "RWBY Lore Keeper - #3",
+            "slug": "rwby-rewind-rwby-lore-keeper-3",
+            "date": "2018-11-13",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "29301",
+            "title": "The Magic of Character Creation",
+            "slug": "crwby-behind-the-episode-2-magic-of-character-creation",
+            "date": "2018-11-08",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "1308-bonus",
+            "title": "RWBY Volume 6 Intro",
+            "slug": "rwby-rwby-6-intro",
+            "date": "2018-10-27",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1304-bonus",
+            "title": "RWBY Volume 6 Trailer",
+            "slug": "trailers-season-1-rwby-volume-6-trailer",
+            "date": "2018-10-16",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1270-bonus",
+            "title": "Behind the Scenes: Motion Capture",
+            "slug": "rwby-chibi-chibi-bts",
+            "date": "2018-08-25",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "1268-bonus",
+            "title": "Volume 6 Adam Character Short",
+            "slug": "rwby-adam-short",
+            "date": "2018-08-17",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "28169",
+            "title": "Play With Penny",
+            "slug": "rwby-chibi-season-3-episode-15",
+            "date": "2018-08-11",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "27744",
+            "title": "In The Clutches of Evil",
+            "slug": "rwby-chibi-season-3-episode-11",
+            "date": "2018-07-14",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "25949",
+            "title": "Episode 8 - Kids vs Adults vs Pups",
+            "slug": "rwby-chibi-season-3-episode-8",
+            "date": "2018-03-17",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "24644",
+            "title": "Episode 7 - Mysterious Red Button",
+            "slug": "rwby-chibi-season-3-episode-7",
+            "date": "2018-03-10",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "23917",
+            "title": "Episode 2 - Evil Interview",
+            "slug": "rwby-chibi-season-3-eha0sf",
+            "date": "2018-02-03",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "23786",
+            "title": "Volume 5, Chapter 14: Haven's Fate",
+            "slug": "rwby-volume-5-14vvs8sd",
+            "date": "2018-01-20",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "23759",
+            "title": "Fanfare",
+            "slug": "crwby-behind-the-episode-1-fanfare",
+            "date": "2018-01-20",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "23731",
+            "title": "All The Answers - #13",
+            "slug": "rwby-rewind-1-all-the-answers-13",
+            "date": "2018-01-17",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "23662",
+            "title": "No Technical Difficulties",
+            "slug": "crwby-behind-the-episode-1-no-technical-difficulties",
+            "date": "2018-01-13",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "23575",
+            "title": "The Pen and The Sword",
+            "slug": "crwby-behind-the-episode-1-the-pen-and-the-sword",
+            "date": "2018-01-06",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "15965",
+            "title": "Volume 5, Chapter 11: The More the Merrier",
+            "slug": "rwby-volume-5-11oipiow45",
+            "date": "2017-12-30",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "860",
+            "title": "Drawing Inspiration",
+            "slug": "crwby-behind-the-episode-1-drawing-inspiration",
+            "date": "2017-12-30",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "862",
+            "title": "Can You Hear Me Now?",
+            "slug": "crwby-behind-the-episode-1-can-you-hear-me-now",
+            "date": "2017-12-09",
+            "is_first": false,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "15968",
+            "title": "Volume 5, Chapter 8: Alone Together",
+            "slug": "rwby-volume-5-8uoizl8es",
+            "date": "2017-12-02",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "15969",
+            "title": "Volume 5, Chapter 7: Rest and Resolutions",
+            "slug": "rwby-volume-5-7yihbbskhw98etu2",
+            "date": "2017-11-25",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "15970",
+            "title": "Volume 5, Chapter 6: Known by its Song",
+            "slug": "rwby-volume-5-6ulihl23hns988",
+            "date": "2017-11-18",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "15971",
+            "title": "Volume 5, Chapter 5: Necessary Sacrifice",
+            "slug": "rwby-volume-5-5-qoiljjj32e",
+            "date": "2017-11-11",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "878",
+            "title": "Making RWBY Fights Tight - #4",
+            "slug": "rwby-rewind-1-4-erh56",
+            "date": "2017-11-08",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "15972",
+            "title": "Volume 5, Chapter 4: Lighting the Fire",
+            "slug": "rwby-volume-5-4-odeihrl",
+            "date": "2017-11-04",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "880",
+            "title": "Animating the Action - #2",
+            "slug": "rwby-rewind-1-2",
+            "date": "2017-10-25",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "869",
+            "title": "Anima Skies Fight",
+            "slug": "c-r-w-b-y-behind-the-episode-1-2",
+            "date": "2017-10-21",
+            "is_first": true,
+            "show": "CRWBY: Behind the Episode",
+            "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "881",
+            "title": "Ruby Rose Rewinds With Us - #1",
+            "slug": "rwby-rewind-1-1-g3goig3",
+            "date": "2017-10-18",
+            "is_first": false,
+            "show": "RWBY Rewind",
+            "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "110-bonus",
+            "title": "Volume 5: Intro",
+            "slug": "rwby-bonus-22",
+            "date": "2017-10-17",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "33-bonus",
+            "title": "Volume 5 Yang Character Short",
+            "slug": "rwby-bonus-21",
+            "date": "2017-10-14",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "2920",
+            "title": "Episode 22 - Battle of the Bands",
+            "slug": "rwby-chibi-season-2-episode-22-vj389jb",
+            "date": "2017-10-07",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2922",
+            "title": "Episode 20 - Monsters of Rock",
+            "slug": "rwby-chibi-season-2-episode-20-vjigo3",
+            "date": "2017-09-23",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2925",
+            "title": "Episode 17 - The Mystery Bunch",
+            "slug": "rwby-chibi-season-2-episode-17-geig3kg",
+            "date": "2017-09-02",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2926",
+            "title": "Episode 16 - Neptune Noir",
+            "slug": "rwby-chibi-season-2-episode-16-gh3g3h",
+            "date": "2017-08-26",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2928",
+            "title": "Episode 14 - Cannonball!",
+            "slug": "rwby-chibi-season-2-episode-14-f4ug4gh",
+            "date": "2017-08-12",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2929",
+            "title": "Episode 13 - Parent Teacher Conference",
+            "slug": "rwby-chibi-season-2-episode-13-ghu4gh",
+            "date": "2017-08-05",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2932",
+            "title": "Episode 11 - Movie Night",
+            "slug": "rwby-chibi-season-2-episode-11-gerhg3t5",
+            "date": "2017-07-22",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "34-bonus",
+            "title": "Volume 5 Weiss Character Short - Premieres Oct 14",
+            "slug": "rwby-bonus-20",
+            "date": "2017-07-17",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "2936",
+            "title": "Episode 7 - Must Be Nice",
+            "slug": "rwby-chibi-season-2-7-ajif73h",
+            "date": "2017-06-24",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2935",
+            "title": "Episode 6 - Super Besties",
+            "slug": "rwby-chibi-season-2-6-sfi93jg",
+            "date": "2017-06-17",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2939",
+            "title": "Episode 3 - Magic Show",
+            "slug": "rwby-chibi-season-2-3-a9jtih8",
+            "date": "2017-05-27",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2941",
+            "title": "Episode 1 - Director Ozpin",
+            "slug": "rwby-chibi-season-2-1-fhs8yg",
+            "date": "2017-05-13",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "15977",
+            "title": "Volume 4, Chapter 9: Two Steps Forward, Two Steps Back",
+            "slug": "rwby-volume-4-volume-4-episode-9-fd5jl9",
+            "date": "2017-01-07",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "40424",
+            "title": "Schnee Dust Company",
+            "slug": "rwby-bonus-36",
+            "date": "2016-12-17",
+            "is_first": false,
+            "show": "RWBY: World of Remnant",
+            "show_slug": "world-of-remnant"
+        },
+        {
+            "id": "18359",
+            "title": "Volume 4, Chapter 5: Menagerie",
+            "slug": "rwby-volume-4-volume-4-episode-5-jhf568",
+            "date": "2016-12-03",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "15980",
+            "title": "Volume 4, Chapter 4: Family",
+            "slug": "rwby-volume-4-volume-4-episode-4-0-f788s",
+            "date": "2016-11-19",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "40421",
+            "title": "Vacuo",
+            "slug": "rwby-bonus-33",
+            "date": "2016-10-20",
+            "is_first": false,
+            "show": "RWBY: World of Remnant",
+            "show_slug": "world-of-remnant"
+        },
+        {
+            "id": "40419",
+            "title": "Mistral",
+            "slug": "rwby-bonus-31",
+            "date": "2016-10-18",
+            "is_first": false,
+            "show": "RWBY: World of Remnant",
+            "show_slug": "world-of-remnant"
+        },
+        {
+            "id": "35-bonus",
+            "title": "Volume 4 Character Short",
+            "slug": "rwby-bonus-17",
+            "date": "2016-10-03",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "2944",
+            "title": "Episode 22 - Security Woes",
+            "slug": "rwby-chibi-season-1-episode-22",
+            "date": "2016-10-01",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2945",
+            "title": "Episode 21 - Cinder Who?",
+            "slug": "rwby-chibi-season-1-episode-21",
+            "date": "2016-09-24",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2947",
+            "title": "Episode 19 - Pillow Fight",
+            "slug": "rwby-chibi-season-1-episode-19",
+            "date": "2016-09-10",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2951",
+            "title": "Episode 15 - Neptune's Phobia",
+            "slug": "rwby-chibi-season-1-episode-15",
+            "date": "2016-08-13",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2952",
+            "title": "Episode 14 - Big Vacation",
+            "slug": "rwby-chibi-season-1-episode-14",
+            "date": "2016-08-06",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2954",
+            "title": "Episode 12 - Little Red Riding Hood",
+            "slug": "rwby-chibi-season-1-episode-12",
+            "date": "2016-07-23",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2957",
+            "title": "Episode 9 - Ren Plays Tag",
+            "slug": "rwby-chibi-season-1-episode-9",
+            "date": "2016-07-02",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2958",
+            "title": "Episode 8 - Magnetic Personality",
+            "slug": "rwby-chibi-season-1-episode-8",
+            "date": "2016-06-25",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "40-bonus",
+            "title": "Vol 3 DVD/Blu-Ray Extras \u2013 Let's Make a Show: The Legacy of RWBY Clip",
+            "slug": "rwby-bonus-8",
+            "date": "2016-05-05",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "115-bonus",
+            "title": "Vol 3 Blu-Ray Extras \u2013 No Heroes in the End Clip",
+            "slug": "rwby-bonus-7",
+            "date": "2016-05-04",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "18154",
+            "title": "Volume 3, Chapter 12: End of the Beginning",
+            "slug": "rwby-season-3-volume-3-chapter-12-end-of-the-beginning",
+            "date": "2016-02-13",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "15986",
+            "title": "Volume 3, Chapter 10: Battle of Beacon",
+            "slug": "rwby-season-3-volume-3-chapter-10",
+            "date": "2016-01-30",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "40433",
+            "title": "The Four Maidens",
+            "slug": "rwby-bonus-29",
+            "date": "2016-01-23",
+            "is_first": false,
+            "show": "RWBY: World of Remnant",
+            "show_slug": "world-of-remnant"
+        },
+        {
+            "id": "17940",
+            "title": "Volume 3, Chapter 4: Lessons Learned",
+            "slug": "rwby-season-3-volume-3-chapter-4-lessons-learned",
+            "date": "2015-11-28",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "17949",
+            "title": "Volume 3, Chapter 3: It's Brawl in the Family",
+            "slug": "rwby-season-3-chapter-3",
+            "date": "2015-11-14",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16000",
+            "title": "Volume 3, Chapter 1: Round One",
+            "slug": "rwby-season-3-chapter-1",
+            "date": "2015-10-24",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "40429",
+            "title": "Vytal Festival Tournament",
+            "slug": "rwby-bonus-26",
+            "date": "2015-10-09",
+            "is_first": false,
+            "show": "RWBY: World of Remnant",
+            "show_slug": "world-of-remnant"
+        },
+        {
+            "id": "112-bonus",
+            "title": "Volume 2: Soundtrack Trailer",
+            "slug": "rwby-bonus-15",
+            "date": "2014-12-23",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16002",
+            "title": "Chapter 11: No Brakes",
+            "slug": "rwby-season-2-rwby-volume-2-chapter-11",
+            "date": "2014-10-23",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "18156",
+            "title": "Chapter 10: Mountain Glenn",
+            "slug": "rwby-season-2-rwby-volume-2-chapter-10",
+            "date": "2014-10-09",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16003",
+            "title": "Chapter 9: Search and Destroy",
+            "slug": "rwby-season-2-rwby-volume-2-chapter-9",
+            "date": "2014-10-02",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "40431",
+            "title": "Kingdoms",
+            "slug": "rwby-bonus-24",
+            "date": "2014-09-18",
+            "is_first": false,
+            "show": "RWBY: World of Remnant",
+            "show_slug": "world-of-remnant"
+        },
+        {
+            "id": "18178",
+            "title": "Chapter 5: Extracurricular",
+            "slug": "rwby-season-2-rwby-volume-2-chapter-5",
+            "date": "2014-08-28",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "113-bonus",
+            "title": "Volume 2: Production Diary 4",
+            "slug": "rwby-bonus-14",
+            "date": "2014-06-12",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "41-bonus",
+            "title": "Volume 2: Production Diary 3",
+            "slug": "rwby-bonus-13",
+            "date": "2014-05-08",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16013",
+            "title": "Chapter 14: Forever Fall, Pt. 2",
+            "slug": "rwby-season-1-episode-14",
+            "date": "2013-10-17",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16014",
+            "title": "Chapter 13: Forever Fall",
+            "slug": "rwby-season-1-episode-13",
+            "date": "2013-10-10",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16019",
+            "title": "Chapter 8: Players and Pieces",
+            "slug": "rwby-season-1-episode-8",
+            "date": "2013-09-05",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16022",
+            "title": "Chapter 3: The Shining Beacon, Pt.2",
+            "slug": "rwby-season-1-episode-3",
+            "date": "2013-08-01",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "16024",
+            "title": "Chapter 1: Ruby Rose",
+            "slug": "rwby-season-1-episode-1",
+            "date": "2013-07-18",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "1365-bonus",
+            "title": "\"Red\" Trailer",
+            "slug": "rwby-season-1-red-trailer",
+            "date": "2012-11-07",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
         }
     ]
 }

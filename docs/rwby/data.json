@@ -6,7 +6,7 @@
         "uploaded": 170,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 55
     },
     "data": [
         {
@@ -175,9 +175,9 @@
             "slug": "rwby-rwby-9-clip",
             "date": "2022-07-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY: Volume 9 - Official Teaser",
@@ -205,9 +205,9 @@
             "slug": "rwby-volume-8-14",
             "date": "2021-03-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Worthy",
@@ -225,9 +225,9 @@
             "slug": "rwby-volume-8-12",
             "date": "2021-03-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Risk",
@@ -255,9 +255,9 @@
             "slug": "rwby-recap-episode-5",
             "date": "2021-02-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Recap Episode 4 - Volume 6",
@@ -285,9 +285,9 @@
             "slug": "rwby-rwby-recap-episode-3",
             "date": "2021-02-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dark",
@@ -295,9 +295,9 @@
             "slug": "rwby-volume-8-8",
             "date": "2021-02-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Recap Episode 2 - Volume 3",
@@ -315,9 +315,9 @@
             "slug": "rwby-100-episodes",
             "date": "2021-01-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Recap Episode 1 - Volumes 1 & 2",
@@ -325,9 +325,9 @@
             "slug": "rwby-rwby-recap-episode-1-volumes-1-2",
             "date": "2021-01-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Volume 8 Midseason Trailer",
@@ -385,9 +385,9 @@
             "slug": "rwby-volume-8-3",
             "date": "2020-11-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "V8:E1 Watch Party + Q&A",
@@ -395,9 +395,9 @@
             "slug": "rwby-rwby-watch-party",
             "date": "2020-11-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Refuge",
@@ -515,9 +515,9 @@
             "slug": "rwby-volume-7-7",
             "date": "2019-12-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Night Off",
@@ -525,9 +525,9 @@
             "slug": "rwby-volume-7-6",
             "date": "2019-12-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sparks",
@@ -535,9 +535,9 @@
             "slug": "rwby-volume-7-5",
             "date": "2019-11-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pomp and Circumstance",
@@ -545,9 +545,9 @@
             "slug": "rwby-volume-7-4",
             "date": "2019-11-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ace Operatives",
@@ -575,9 +575,9 @@
             "slug": "rwby-volume-7-2",
             "date": "2019-11-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Greatest Kingdom",
@@ -625,9 +625,9 @@
             "slug": "rwby-volume-6-12",
             "date": "2019-01-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Lady in the Shoe",
@@ -655,9 +655,9 @@
             "slug": "rwby-volume-6-9",
             "date": "2018-12-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dead End",
@@ -675,9 +675,9 @@
             "slug": "rwby-volume-6-7",
             "date": "2018-12-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Alone in the Woods",
@@ -735,9 +735,9 @@
             "slug": "rwby-rwby-6-intro",
             "date": "2018-10-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Argus Limited",
@@ -755,9 +755,9 @@
             "slug": "trailers-season-1-rwby-volume-6-trailer",
             "date": "2018-10-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Volume 6: Only On RoosterTeeth.com",
@@ -775,9 +775,9 @@
             "slug": "rwby-adam-short",
             "date": "2018-08-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 14: Haven's Fate",
@@ -785,9 +785,9 @@
             "slug": "rwby-volume-5-14vvs8sd",
             "date": "2018-01-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 13: Downfall",
@@ -815,9 +815,9 @@
             "slug": "rwby-volume-5-11oipiow45",
             "date": "2017-12-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 10: True Colors",
@@ -845,9 +845,9 @@
             "slug": "rwby-volume-5-8uoizl8es",
             "date": "2017-12-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 7: Rest and Resolutions",
@@ -855,9 +855,9 @@
             "slug": "rwby-volume-5-7yihbbskhw98etu2",
             "date": "2017-11-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 6: Known by its Song",
@@ -865,9 +865,9 @@
             "slug": "rwby-volume-5-6ulihl23hns988",
             "date": "2017-11-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 5: Necessary Sacrifice",
@@ -875,9 +875,9 @@
             "slug": "rwby-volume-5-5-qoiljjj32e",
             "date": "2017-11-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 4: Lighting the Fire",
@@ -885,9 +885,9 @@
             "slug": "rwby-volume-5-4-odeihrl",
             "date": "2017-11-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 3: Unforeseen Complications",
@@ -915,9 +915,9 @@
             "slug": "rwby-bonus-22",
             "date": "2017-10-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5, Chapter 1: Welcome to Haven",
@@ -935,9 +935,9 @@
             "slug": "rwby-bonus-21",
             "date": "2017-10-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 5 Trailer",
@@ -985,9 +985,9 @@
             "slug": "rwby-bonus-20",
             "date": "2017-07-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 4, Chapter 12: No Safe Haven",
@@ -1025,9 +1025,9 @@
             "slug": "rwby-volume-4-volume-4-episode-9-fd5jl9",
             "date": "2017-01-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 4, Chapter 8: A Much Needed Talk",
@@ -1065,9 +1065,9 @@
             "slug": "rwby-volume-4-volume-4-episode-5-jhf568",
             "date": "2016-12-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 4, Chapter 4: Family",
@@ -1075,9 +1075,9 @@
             "slug": "rwby-volume-4-volume-4-episode-4-0-f788s",
             "date": "2016-11-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 4, Chapter 3: Of Runaways and Stowaways",
@@ -1125,9 +1125,9 @@
             "slug": "rwby-bonus-17",
             "date": "2016-10-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Volume 2 Coming to Theaters - Tickets Now Available!",
@@ -1145,9 +1145,9 @@
             "slug": "rwby-bonus-8",
             "date": "2016-05-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vol 3 Blu-Ray Extras \u2013 No Heroes in the End Clip",
@@ -1155,9 +1155,9 @@
             "slug": "rwby-bonus-7",
             "date": "2016-05-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Volume 1 Coming to Theaters \u2013 Get Tickets Now!",
@@ -1175,9 +1175,9 @@
             "slug": "rwby-season-3-volume-3-chapter-12-end-of-the-beginning",
             "date": "2016-02-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 3, Chapter 11: Heroes and Monsters",
@@ -1195,9 +1195,9 @@
             "slug": "rwby-season-3-volume-3-chapter-10",
             "date": "2016-01-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 3 Chapter 9: PvP",
@@ -1255,9 +1255,9 @@
             "slug": "rwby-season-3-volume-3-chapter-4-lessons-learned",
             "date": "2015-11-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 3, Chapter 3: It's Brawl in the Family",
@@ -1265,9 +1265,9 @@
             "slug": "rwby-season-3-chapter-3",
             "date": "2015-11-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 3, Chapter 2: New Challengers...",
@@ -1285,9 +1285,9 @@
             "slug": "rwby-season-3-chapter-1",
             "date": "2015-10-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Volume 3 Trailer",
@@ -1315,9 +1315,9 @@
             "slug": "rwby-bonus-15",
             "date": "2014-12-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 12: Breach",
@@ -1335,9 +1335,9 @@
             "slug": "rwby-season-2-rwby-volume-2-chapter-11",
             "date": "2014-10-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 10: Mountain Glenn",
@@ -1345,9 +1345,9 @@
             "slug": "rwby-season-2-rwby-volume-2-chapter-10",
             "date": "2014-10-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 9: Search and Destroy",
@@ -1355,9 +1355,9 @@
             "slug": "rwby-season-2-rwby-volume-2-chapter-9",
             "date": "2014-10-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 8: Field Trip",
@@ -1395,9 +1395,9 @@
             "slug": "rwby-season-2-rwby-volume-2-chapter-5",
             "date": "2014-08-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 4: Painting the Town...",
@@ -1445,9 +1445,9 @@
             "slug": "rwby-bonus-14",
             "date": "2014-06-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 1: Opening Titles Animation",
@@ -1475,9 +1475,9 @@
             "slug": "rwby-bonus-13",
             "date": "2014-05-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 2: Production Diary 2",
@@ -1525,9 +1525,9 @@
             "slug": "rwby-season-1-episode-14",
             "date": "2013-10-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 13: Forever Fall",
@@ -1535,9 +1535,9 @@
             "slug": "rwby-season-1-episode-13",
             "date": "2013-10-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 12: Jaunedice, Pt. 2",
@@ -1585,9 +1585,9 @@
             "slug": "rwby-season-1-episode-8",
             "date": "2013-09-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 7: The Emerald Forest, Pt. 2",
@@ -1645,9 +1645,9 @@
             "slug": "rwby-season-1-episode-3",
             "date": "2013-08-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chapter 2: The Shining Beacon",
@@ -1665,9 +1665,9 @@
             "slug": "rwby-season-1-episode-1",
             "date": "2013-07-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "\"Yellow\" Trailer",
@@ -1705,9 +1705,9 @@
             "slug": "rwby-season-1-red-trailer",
             "date": "2012-11-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }
