@@ -6,7 +6,7 @@
         "uploaded": 67,
         "missing": 0,
         "incomplete": 0,
-        "removed": 25
+        "removed": 64
     },
     "data": [
         {
@@ -25,9 +25,9 @@
             "slug": "rwby-chibi-season-3-episode-16",
             "date": "2018-08-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Play With Penny",
@@ -45,9 +45,9 @@
             "slug": "rwby-chibi-season-3-episode-14",
             "date": "2018-08-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cousins of Chaos",
@@ -55,9 +55,9 @@
             "slug": "rwby-chibi-season-3-episode-13",
             "date": "2018-07-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "JNPR Dreams",
@@ -85,9 +85,9 @@
             "slug": "rwby-chibi-season-3-episode-10",
             "date": "2018-07-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Tea Party",
@@ -95,9 +95,9 @@
             "slug": "rwby-chibi-season-3-episode-9",
             "date": "2018-06-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 8 - Kids vs Adults vs Pups",
@@ -125,9 +125,9 @@
             "slug": "rwby-chibi-season-3-episode-6",
             "date": "2018-03-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 5 - Girls' Night Out",
@@ -135,9 +135,9 @@
             "slug": "rwby-chibi-season-3-5",
             "date": "2018-02-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 4 - Grimm Passengers",
@@ -145,9 +145,9 @@
             "slug": "rwby-chibi-season-3-63sewr2",
             "date": "2018-02-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 3 - Mortal Frenemies",
@@ -155,9 +155,9 @@
             "slug": "rwby-chibi-season-3-po02s",
             "date": "2018-02-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 2 - Evil Interview",
@@ -175,9 +175,9 @@
             "slug": "rwby-chibi-season-3-episode-1",
             "date": "2018-01-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 24 - Nondescript Holiday Spectacular",
@@ -185,9 +185,9 @@
             "slug": "rwby-chibi-season-2-episode-24-nondescript-holiday-spectacular",
             "date": "2017-12-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 23 - A Slip Through Time and Space Pt. 2",
@@ -195,9 +195,9 @@
             "slug": "rwby-chibi-season-2-23-ksghurjk",
             "date": "2017-11-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 22 - Battle of the Bands",
@@ -215,9 +215,9 @@
             "slug": "rwby-chibi-season-2-episode-21-gh3ghi3",
             "date": "2017-09-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 20 - Monsters of Rock",
@@ -235,9 +235,9 @@
             "slug": "rwby-chibi-season-2-episode-19-gh39gh",
             "date": "2017-09-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 18 - The Fixer",
@@ -245,9 +245,9 @@
             "slug": "rwby-chibi-season-2-episode-18-hgi3ghk",
             "date": "2017-09-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 17 - The Mystery Bunch",
@@ -275,9 +275,9 @@
             "slug": "rwby-chibi-season-2-episode-15-gh3gih",
             "date": "2017-08-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 14 - Cannonball!",
@@ -305,9 +305,9 @@
             "slug": "rwby-chibi-season-2-episode-12-f4iugu4i",
             "date": "2017-07-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 11 - Movie Night",
@@ -325,9 +325,9 @@
             "slug": "rwby-chibi-season-2-10-fj8yfh",
             "date": "2017-07-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 9 - Coming Home to Roost",
@@ -335,9 +335,9 @@
             "slug": "rwby-chibi-season-2-9-ajfoiuf",
             "date": "2017-07-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 8 - Boy Band",
@@ -345,9 +345,9 @@
             "slug": "rwby-chibi-season-2-8-fhe8yh",
             "date": "2017-07-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 7 - Must Be Nice",
@@ -375,9 +375,9 @@
             "slug": "rwby-chibi-season-2-5-ao8fkr",
             "date": "2017-06-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 4 - Dad Jokes",
@@ -385,9 +385,9 @@
             "slug": "rwby-chibi-season-2-4-k4hekg",
             "date": "2017-06-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 3 - Magic Show",
@@ -405,9 +405,9 @@
             "slug": "rwby-chibi-season-2-2-f83hkg",
             "date": "2017-05-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 1 - Director Ozpin",
@@ -425,9 +425,9 @@
             "slug": "rwby-chibi-bonus-2",
             "date": "2017-05-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "New Character Intro - Season 2 May 13",
@@ -435,9 +435,9 @@
             "slug": "rwby-chibi-bonus-1",
             "date": "2017-05-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 24 - The One with a Laugh Track",
@@ -445,9 +445,9 @@
             "slug": "rwby-chibi-season-1-episode-24",
             "date": "2016-10-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 23 - A Slip Through Time and Space",
@@ -455,9 +455,9 @@
             "slug": "rwby-chibi-season-1-episode-23",
             "date": "2016-10-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 22 - Security Woes",
@@ -485,9 +485,9 @@
             "slug": "rwby-chibi-season-1-episode-20",
             "date": "2016-09-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 19 - Pillow Fight",
@@ -505,9 +505,9 @@
             "slug": "rwby-chibi-season-1-episode-18",
             "date": "2016-09-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 17 - Save Nora!",
@@ -515,9 +515,9 @@
             "slug": "rwby-chibi-season-1-episode-17",
             "date": "2016-08-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 16 - Bike Race",
@@ -525,9 +525,9 @@
             "slug": "rwby-chibi-season-1-episode-16",
             "date": "2016-08-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 15 - Neptune's Phobia",
@@ -555,9 +555,9 @@
             "slug": "rwby-chibi-season-1-episode-13",
             "date": "2016-07-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 12 - Little Red Riding Hood",
@@ -575,9 +575,9 @@
             "slug": "rwby-chibi-season-1-episode-11",
             "date": "2016-07-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 10 - Love Triangle",
@@ -585,9 +585,9 @@
             "slug": "rwby-chibi-season-1-episode-10",
             "date": "2016-07-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 9 - Ren Plays Tag",
@@ -615,9 +615,9 @@
             "slug": "rwby-chibi-season-1-episode-7",
             "date": "2016-06-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 6 - The Vacuum",
@@ -635,9 +635,9 @@
             "slug": "rwby-chibi-season-1-episode-5",
             "date": "2016-06-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 4 - Fighting Game",
@@ -645,9 +645,9 @@
             "slug": "rwby-chibi-season-1-episode-4",
             "date": "2016-05-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 3 - Reloading",
@@ -655,9 +655,9 @@
             "slug": "rwby-chibi-season-1-episode-3",
             "date": "2016-05-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 2 - Cat Burglar",
@@ -665,9 +665,9 @@
             "slug": "rwby-chibi-season-1-episode-2",
             "date": "2016-05-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Episode 1 - Ruby Makes Cookies",

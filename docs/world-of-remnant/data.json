@@ -6,7 +6,7 @@
         "uploaded": 16,
         "missing": 0,
         "incomplete": 0,
-        "removed": 6
+        "removed": 16
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "rwby-bonus-37",
             "date": "2017-01-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Schnee Dust Company",
@@ -35,9 +35,9 @@
             "slug": "rwby-bonus-35",
             "date": "2016-11-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Between Kingdoms",
@@ -45,9 +45,9 @@
             "slug": "rwby-bonus-34",
             "date": "2016-11-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vacuo",
@@ -65,9 +65,9 @@
             "slug": "rwby-bonus-32",
             "date": "2016-10-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mistral",
@@ -85,9 +85,9 @@
             "slug": "rwby-bonus-30",
             "date": "2016-10-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Four Maidens",
@@ -105,9 +105,9 @@
             "slug": "rwby-bonus-28",
             "date": "2015-12-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Huntsman",
@@ -115,9 +115,9 @@
             "slug": "rwby-bonus-27",
             "date": "2015-11-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vytal Festival Tournament",
@@ -135,9 +135,9 @@
             "slug": "rwby-world-of-remnant-season-1-4",
             "date": "2014-10-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Grimm",
@@ -145,9 +145,9 @@
             "slug": "rwby-bonus-25",
             "date": "2014-10-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Kingdoms",
@@ -165,9 +165,9 @@
             "slug": "rwby-season-2-rwby-volume-2-world-of-remnant-1",
             "date": "2014-08-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

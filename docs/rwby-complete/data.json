@@ -6,7 +6,7 @@
         "uploaded": 8,
         "missing": 0,
         "incomplete": 0,
-        "removed": 1
+        "removed": 8
     },
     "data": [
         {
@@ -25,9 +25,9 @@
             "slug": "rwby-complete-volume-5-part-1",
             "date": "2019-10-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 4 - Part 2",
@@ -35,9 +35,9 @@
             "slug": "rwby-complete-volume-4-part-2",
             "date": "2019-10-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 4 - Part 1",
@@ -45,9 +45,9 @@
             "slug": "rwby-complete-volume-4-part-1",
             "date": "2019-10-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 3 - Part 2",
@@ -55,9 +55,9 @@
             "slug": "rwby-complete-volume-3-part-2",
             "date": "2019-10-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 3 - Part 1",
@@ -65,9 +65,9 @@
             "slug": "rwby-complete-volume-3-part-1",
             "date": "2019-10-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 2",
@@ -75,9 +75,9 @@
             "slug": "rwby-complete-volume-2",
             "date": "2019-10-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Volume 1",
@@ -85,9 +85,9 @@
             "slug": "rwby-complete-volume-1",
             "date": "2019-09-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

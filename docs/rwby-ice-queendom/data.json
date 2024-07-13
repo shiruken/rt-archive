@@ -6,7 +6,7 @@
         "uploaded": 24,
         "missing": 0,
         "incomplete": 0,
-        "removed": 14
+        "removed": 23
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "rwby-ice-queendom-season-1-12-dub",
             "date": "2022-12-11",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Light in Shadows (Dub)",
@@ -35,9 +35,9 @@
             "slug": "rwby-ice-queendom-season-1-10-dub",
             "date": "2022-11-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "My Dream, Your Dream (Dub)",
@@ -65,9 +65,9 @@
             "slug": "rwby-ice-queendom-season-1-7-dub",
             "date": "2022-11-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Do You Have a Plan? (Dub)",
@@ -85,9 +85,9 @@
             "slug": "rwby-ice-queendom-season-1-awaken-in-a-dream-dub",
             "date": "2022-10-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ice Queendom (Dub)",
@@ -135,9 +135,9 @@
             "slug": "rwby-ice-queendom-season-1-12",
             "date": "2022-09-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Light in Shadows (Sub)",
@@ -185,9 +185,9 @@
             "slug": "rwby-ice-queendom-season-1-7",
             "date": "2022-08-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Do You Have a Plan? (Sub)",
@@ -195,9 +195,9 @@
             "slug": "rwby-ice-queendom-season-1-6",
             "date": "2022-08-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Awaken in a Dream (Sub)",
@@ -205,9 +205,9 @@
             "slug": "rwby-ice-queendom-season-1-5",
             "date": "2022-07-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ice Queendom (Sub)",
@@ -245,9 +245,9 @@
             "slug": "rwby-ice-queendom-ep-1",
             "date": "2022-07-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

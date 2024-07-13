@@ -6,7 +6,7 @@
         "uploaded": 9,
         "missing": 0,
         "incomplete": 0,
-        "removed": 6
+        "removed": 9
     },
     "data": [
         {
@@ -35,9 +35,9 @@
             "slug": "talk-crwby-to-me-1-7",
             "date": "2020-07-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY Gets Edited",
@@ -55,9 +55,9 @@
             "slug": "talk-crwby-to-me-1-5",
             "date": "2020-06-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "It All Starts with Boards",
@@ -95,9 +95,9 @@
             "slug": "talk-crwby-to-me-1-1",
             "date": "2020-05-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

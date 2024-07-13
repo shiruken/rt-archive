@@ -6,7 +6,7 @@
         "uploaded": 25,
         "missing": 0,
         "incomplete": 0,
-        "removed": 12
+        "removed": 24
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "rwby-the-grimm-campaign-season-3-the-grimm-campaign-the-last-roll",
             "date": "2024-05-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RWBY: The Grimm Campaign (RTX)",
@@ -65,9 +65,9 @@
             "slug": "rwby-the-grimm-campaign-season-2-11",
             "date": "2021-05-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "In Search of Taupe",
@@ -85,9 +85,9 @@
             "slug": "rwby-the-grimm-campaign-season-2-9",
             "date": "2021-04-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Fast and the Furriest",
@@ -115,9 +115,9 @@
             "slug": "rwby-the-grimm-campaign-season-2-6",
             "date": "2021-03-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Escape Tank-tics!",
@@ -125,9 +125,9 @@
             "slug": "rwby-the-grimm-campaign-season-2-5",
             "date": "2021-03-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Evident Evidence",
@@ -145,9 +145,9 @@
             "slug": "rwby-the-grimm-campaign-season-2-3",
             "date": "2021-03-08",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Out of the Woods, Into the Fire!",
@@ -165,9 +165,9 @@
             "slug": "rwby-the-grimm-campaign-season-2-10",
             "date": "2021-02-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Razing The Stakes",
@@ -185,9 +185,9 @@
             "slug": "rwby-the-grimm-campaign-season-1-8",
             "date": "2020-10-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Heists and Holidays!",
@@ -195,9 +195,9 @@
             "slug": "rwby-the-grimm-campaign-season-1-7",
             "date": "2020-09-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "SHEATHE ME!",
@@ -205,9 +205,9 @@
             "slug": "rwby-the-grimm-campaign-season-1-6",
             "date": "2020-09-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Rocky Start",
@@ -225,9 +225,9 @@
             "slug": "rwby-the-grimm-campaign-season-1-4",
             "date": "2020-09-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Where There's Smoke...",
@@ -255,9 +255,9 @@
             "slug": "rwby-the-grimm-campaign-season-1-1",
             "date": "2020-08-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }
