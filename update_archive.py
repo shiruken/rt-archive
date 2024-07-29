@@ -128,7 +128,7 @@ def process():
     readme = re.sub(r"(?<=\* Items Missing from Internet Archive: )([\d, \(.\%\)]+)", f"{len(missing) - len(dark):,} ({(len(missing) - len(dark)) / len(urls):.3%})", readme)
     readme = re.sub(r"(?<=\* Incomplete Items on Internet Archive: )([\d, \(.\%\)]+)", f"{len(incomplete):,} ({len(incomplete) / len(urls):.3%})", readme)
     readme = re.sub(r"(?<=\* Items Removed from Internet Archive: )([\d, \(.\%\)]+)", f"{len(dark):,} ({len(dark) / len(urls):.3%})", readme)
-    readme = re.sub(r"(?<=\* Overall Archive Availability: )([\d.\%]+)", f"{(len(missing) + len(incomplete)) / len(urls):.3%}", readme)
+    readme = re.sub(r"(?<=\* Overall Archive Availability: )([\d.\%]+)", f"{(1 - (len(missing) + len(incomplete)) / len(urls)):.3%}", readme)
     with open("README.md", "w") as f:
         f.write(readme)
 
