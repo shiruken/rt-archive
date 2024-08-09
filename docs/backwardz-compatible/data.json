@@ -6,7 +6,7 @@
         "uploaded": 366,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 213
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "backwardz-compatible-2020-12-31",
             "date": "2020-12-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stars on Stars",
@@ -45,9 +45,9 @@
             "slug": "backwardz-compatible-2020-12-21",
             "date": "2020-12-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Piss Witch",
@@ -55,9 +55,9 @@
             "slug": "backwardz-compatible-2020-12-17",
             "date": "2020-12-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Where is Everybody?",
@@ -65,9 +65,9 @@
             "slug": "backwardz-compatible-2020-12-14",
             "date": "2020-12-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dino Baby!",
@@ -85,9 +85,9 @@
             "slug": "backwardz-compatible-2020-12-7",
             "date": "2020-12-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "To the Luau...Again!",
@@ -115,9 +115,9 @@
             "slug": "backwardz-compatible-2020-11-26",
             "date": "2020-11-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "In Silence",
@@ -125,9 +125,9 @@
             "slug": "backwardz-compatible-2020-11-23",
             "date": "2020-11-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dead by Daylight w. Lindsay!",
@@ -135,9 +135,9 @@
             "slug": "backwardz-compatible-2020-11-19",
             "date": "2020-11-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Lola Bunny",
@@ -145,9 +145,9 @@
             "slug": "backwardz-compatible-2020-11-16",
             "date": "2020-11-16",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Truffles & Swords",
@@ -155,9 +155,9 @@
             "slug": "backwardz-compatible-2020-11-12",
             "date": "2020-11-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Back to the Farm!",
@@ -165,9 +165,9 @@
             "slug": "backwardz-compatible-2020-11-9",
             "date": "2020-11-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Phasmophobia with Kerry!",
@@ -195,9 +195,9 @@
             "slug": "backwardz-compatible-2020-10-29",
             "date": "2020-10-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Baja Blastin'\u00a0Some Ghosts",
@@ -205,9 +205,9 @@
             "slug": "backwardz-compatible-2020-10-26",
             "date": "2020-10-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dark Deception",
@@ -255,9 +255,9 @@
             "slug": "backwardz-compatible-2020-10-8",
             "date": "2020-10-08",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bill, Bill, and Babish",
@@ -265,9 +265,9 @@
             "slug": "backwardz-compatible-2020-10-5",
             "date": "2020-10-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Worms W.M.D",
@@ -285,9 +285,9 @@
             "slug": "backwardz-compatible-2020-9-28",
             "date": "2020-09-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "We Got This - A Let's Play Panel",
@@ -295,9 +295,9 @@
             "slug": "backwardz-compatible-2020-rtx",
             "date": "2020-09-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Farming with Macho Man",
@@ -305,9 +305,9 @@
             "slug": "backwardz-compatible-2020-9-21",
             "date": "2020-09-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mario Kart 8",
@@ -325,9 +325,9 @@
             "slug": "backwardz-compatible-2020-9-14",
             "date": "2020-09-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Murder in the Morning",
@@ -335,9 +335,9 @@
             "slug": "backwardz-compatible-2020-9-10",
             "date": "2020-09-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Into the Sewers",
@@ -345,9 +345,9 @@
             "slug": "backwardz-compatible-2020-9-7",
             "date": "2020-09-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Endermen Party",
@@ -365,9 +365,9 @@
             "slug": "backwardz-compatible-2020-8-31",
             "date": "2020-08-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Big Brain FINALE!",
@@ -375,9 +375,9 @@
             "slug": "backwardz-compatible-2020-8-27",
             "date": "2020-08-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sephiroth",
@@ -395,9 +395,9 @@
             "slug": "backwardz-compatible-ctrl-z-8-21",
             "date": "2020-08-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sailing Away",
@@ -405,9 +405,9 @@
             "slug": "backwardz-compatible-2020-8-20",
             "date": "2020-08-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Big Brain Plays",
@@ -415,9 +415,9 @@
             "slug": "backwardz-compatible-2020-8-17",
             "date": "2020-08-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bacon",
@@ -425,9 +425,9 @@
             "slug": "backwardz-compatible-2020-8-13",
             "date": "2020-08-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Gangbeasts",
@@ -485,9 +485,9 @@
             "slug": "backwardz-compatible-2020-7-30",
             "date": "2020-07-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Top Condiment",
@@ -495,9 +495,9 @@
             "slug": "backwardz-compatible-2020-7-27",
             "date": "2020-07-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "New Nvidia Cards Soon!",
@@ -505,9 +505,9 @@
             "slug": "backwardz-compatible-ctrl-z-7-24",
             "date": "2020-07-24",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Human Fall Flat",
@@ -535,9 +535,9 @@
             "slug": "backwardz-compatible-ctrl-z-7-17",
             "date": "2020-07-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Slowest Elevator EVER!",
@@ -545,9 +545,9 @@
             "slug": "backwardz-compatible-2020-7-16",
             "date": "2020-07-16",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "New Insults",
@@ -555,9 +555,9 @@
             "slug": "backwardz-compatible-2020-7-13",
             "date": "2020-07-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "New Battle Royale, Who Dis?",
@@ -565,9 +565,9 @@
             "slug": "backwardz-compatible-crtl-z-7-10",
             "date": "2020-07-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Left 4 Dead 2",
@@ -575,9 +575,9 @@
             "slug": "backwardz-compatible-2020-7-9",
             "date": "2020-07-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stardew Valley Fair",
@@ -585,9 +585,9 @@
             "slug": "backwardz-compatible-2020-7-6",
             "date": "2020-07-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fortnite Ends Early Access",
@@ -595,9 +595,9 @@
             "slug": "backwardz-compatible-podcast-7-3",
             "date": "2020-07-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Call an EXTERMINATOR!",
@@ -605,9 +605,9 @@
             "slug": "backwardz-compatible-2020-7-2",
             "date": "2020-07-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Steam Summer Sale",
@@ -625,9 +625,9 @@
             "slug": "backwardz-compatible-2020-6-29",
             "date": "2020-06-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Big Cheese",
@@ -655,9 +655,9 @@
             "slug": "backwardz-compatible-2020-6-22",
             "date": "2020-06-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The President's Daughter",
@@ -665,9 +665,9 @@
             "slug": "backwardz-compatible-2020-6-18",
             "date": "2020-06-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "DON'T Buy a PS5",
@@ -675,9 +675,9 @@
             "slug": "backwardz-compatible-podcast-6-17",
             "date": "2020-06-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mega Melon",
@@ -685,9 +685,9 @@
             "slug": "backwardz-compatible-2020-6-15",
             "date": "2020-06-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Willem Dafoe's Lake Monster",
@@ -695,9 +695,9 @@
             "slug": "backwardz-compatible-2020-6-11",
             "date": "2020-06-11",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Games Done Quick at Home",
@@ -705,9 +705,9 @@
             "slug": "backwardz-compatible-podcast-6-10",
             "date": "2020-06-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dead by Daylight",
@@ -715,9 +715,9 @@
             "slug": "backwardz-compatible-2020-6-8",
             "date": "2020-06-08",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Resident Evil 4",
@@ -725,9 +725,9 @@
             "slug": "backwardz-compatible-2020-6-4",
             "date": "2020-06-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sonic Will Win an Oscar",
@@ -735,9 +735,9 @@
             "slug": "backwardz-compatible-podcast-6-3",
             "date": "2020-06-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dolla' Bills Y'all",
@@ -745,9 +745,9 @@
             "slug": "backwardz-compatible-2020-6-1",
             "date": "2020-06-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Treasure Adventure with a side of Murder",
@@ -755,9 +755,9 @@
             "slug": "backwardz-compatible-2020-5-28",
             "date": "2020-05-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Epic Store's Epic Loot",
@@ -765,9 +765,9 @@
             "slug": "backwardz-compatible-podcast-5-27",
             "date": "2020-05-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "WANTED, Dead or Alive",
@@ -775,9 +775,9 @@
             "slug": "backwardz-compatible-2020-5-25",
             "date": "2020-05-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Last One",
@@ -785,9 +785,9 @@
             "slug": "backwardz-compatible-2020-5-21",
             "date": "2020-05-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Zelda on PS4!",
@@ -795,9 +795,9 @@
             "slug": "backwardz-compatible-podcast-5-20",
             "date": "2020-05-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Flower Dance Betrayal",
@@ -815,9 +815,9 @@
             "slug": "backwardz-compatible-2020-5-15",
             "date": "2020-05-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "CTRL+Z: Xbox Games Showcase Disaster!",
@@ -835,9 +835,9 @@
             "slug": "backwardz-compatible-2020-5-11",
             "date": "2020-05-11",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "MOAR Valorant!",
@@ -845,9 +845,9 @@
             "slug": "backwardz-compatible-2020-5-7",
             "date": "2020-05-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pirates or Vikings?",
@@ -865,9 +865,9 @@
             "slug": "backwardz-compatible-2020-5-4",
             "date": "2020-05-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Prom Night!",
@@ -875,9 +875,9 @@
             "slug": "backwardz-compatible-2020-4-30",
             "date": "2020-04-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Wetness Scale",
@@ -885,9 +885,9 @@
             "slug": "backwardz-compatible-podcast-4-29",
             "date": "2020-04-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stardew Valley",
@@ -895,9 +895,9 @@
             "slug": "backwardz-compatible-2020-4-27",
             "date": "2020-04-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Monster Prom",
@@ -905,9 +905,9 @@
             "slug": "backwardz-compatible-2020-4-23",
             "date": "2020-04-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "BzC Podcast 04/19/2020",
@@ -915,9 +915,9 @@
             "slug": "backwardz-compatible-podcast-4-22",
             "date": "2020-04-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Valorant Stream",
@@ -925,9 +925,9 @@
             "slug": "backwardz-compatible-2020-4-20",
             "date": "2020-04-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "FF7R - He Just Paused Time",
@@ -945,9 +945,9 @@
             "slug": "backwardz-compatible-2020-4-13",
             "date": "2020-04-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Kat, Get In The Car",
@@ -955,9 +955,9 @@
             "slug": "backwardz-compatible-2020-4-9",
             "date": "2020-04-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mario Party Livestream Highlights",
@@ -965,9 +965,9 @@
             "slug": "backwardz-compatible-2020-4-6",
             "date": "2020-04-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Halo: REACH",
@@ -975,9 +975,9 @@
             "slug": "backwardz-compatible-2020-4-2",
             "date": "2020-04-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Spooky's Jumpscare Stream Highlights",
@@ -985,9 +985,9 @@
             "slug": "backwardz-compatible-2020-3-30",
             "date": "2020-03-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE3 Demo",
@@ -1005,9 +1005,9 @@
             "slug": "backwardz-compatible-2020-doom",
             "date": "2020-03-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "MGRR FINALE!",
@@ -1015,9 +1015,9 @@
             "slug": "backwardz-compatible-2020-3-19",
             "date": "2020-03-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sea of Thieves",
@@ -1035,9 +1035,9 @@
             "slug": "backwardz-compatible-2020-3-12",
             "date": "2020-03-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "FF7 Remake Demo",
@@ -1045,9 +1045,9 @@
             "slug": "backwardz-compatible-2020-3-9",
             "date": "2020-03-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Kyle and The BIG DAWG",
@@ -1055,9 +1055,9 @@
             "slug": "backwardz-compatible-2020-3-5",
             "date": "2020-03-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dreams",
@@ -1065,9 +1065,9 @@
             "slug": "backwardz-compatible-2020-3-2",
             "date": "2020-03-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Monsoon",
@@ -1075,9 +1075,9 @@
             "slug": "backwardz-compatible-2020-2-27",
             "date": "2020-02-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Avenge Us",
@@ -1085,9 +1085,9 @@
             "slug": "backwardz-compatible-2020-2-24",
             "date": "2020-02-24",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Post Sonic World",
@@ -1095,9 +1095,9 @@
             "slug": "backwardz-compatible-2020-2-20",
             "date": "2020-02-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ilum",
@@ -1105,9 +1105,9 @@
             "slug": "backwardz-compatible-2020-2-17",
             "date": "2020-02-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "George",
@@ -1125,9 +1125,9 @@
             "slug": "backwardz-compatible-2020-2-10",
             "date": "2020-02-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Getting Handsy",
@@ -1135,9 +1135,9 @@
             "slug": "backwardz-compatible-2020-2-6",
             "date": "2020-02-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "BzC Podcast - #3",
@@ -1145,9 +1145,9 @@
             "slug": "backwardz-compatible-podcast-tests-2-5",
             "date": "2020-02-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "BzC Podcast - #2",
@@ -1165,9 +1165,9 @@
             "slug": "backwardz-compatible-2020-2-3",
             "date": "2020-02-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The BzC Podcast",
@@ -1175,9 +1175,9 @@
             "slug": "backwardz-compatible-podcast-2-3",
             "date": "2020-02-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Learning to Block",
@@ -1185,9 +1185,9 @@
             "slug": "backwardz-compatible-2020-1-30",
             "date": "2020-01-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Ninth Sister",
@@ -1215,9 +1215,9 @@
             "slug": "backwardz-compatible-2020-1-20",
             "date": "2020-01-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Metal Gear Rising Revengeance",
@@ -1245,9 +1245,9 @@
             "slug": "backwardz-compatible-2020-1-9",
             "date": "2020-01-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "We got an EEVEE!",
@@ -1265,9 +1265,9 @@
             "slug": "backwardz-compatible-2020-1-2",
             "date": "2020-01-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Crack Open A Tall Boy",
@@ -1275,9 +1275,9 @@
             "slug": "backwardz-compatible-2019-12-30",
             "date": "2019-12-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Side Cam",
@@ -1285,9 +1285,9 @@
             "slug": "backwardz-compatible-2019-12-26",
             "date": "2019-12-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Early Mornin' Recordin'",
@@ -1295,9 +1295,9 @@
             "slug": "backwardz-compatible-2019-12-23",
             "date": "2019-12-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Biskers",
@@ -1325,9 +1325,9 @@
             "slug": "backwardz-compatible-2019-12-12",
             "date": "2019-12-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Something's Different",
@@ -1335,9 +1335,9 @@
             "slug": "backwardz-compatible-2019-12-9",
             "date": "2019-12-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Lady Boyle's Party",
@@ -1345,9 +1345,9 @@
             "slug": "backwardz-compatible-2019-12-5",
             "date": "2019-12-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Beep Trill",
@@ -1355,9 +1355,9 @@
             "slug": "backwardz-compatible-2019-12-2",
             "date": "2019-12-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Admiral Havelock Has Some Issues",
@@ -1375,9 +1375,9 @@
             "slug": "backwardz-compatible-2019-11-25",
             "date": "2019-11-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Golden Cat",
@@ -1385,9 +1385,9 @@
             "slug": "backwardz-compatible-2019-11-21",
             "date": "2019-11-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Corpse Disposal Team",
@@ -1395,9 +1395,9 @@
             "slug": "backwardz-compatible-2019-11-18",
             "date": "2019-11-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Post Extra Life",
@@ -1405,9 +1405,9 @@
             "slug": "backwardz-compatible-2019-11-14",
             "date": "2019-11-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Death Stranding",
@@ -1425,9 +1425,9 @@
             "slug": "backwardz-compatible-2019-11-7",
             "date": "2019-11-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mario Maker 2 - We WILL Beat This Level",
@@ -1435,9 +1435,9 @@
             "slug": "backwardz-compatible-2019-11-4",
             "date": "2019-11-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Visage - Pt.4, Never Again",
@@ -1445,9 +1445,9 @@
             "slug": "backwardz-compatible-2019-10-31",
             "date": "2019-10-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Visage - Pt.3, Dolores",
@@ -1465,9 +1465,9 @@
             "slug": "backwardz-compatible-2019-10-21",
             "date": "2019-10-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Doom 3",
@@ -1475,9 +1475,9 @@
             "slug": "backwardz-compatible-2019-10-17",
             "date": "2019-10-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "In Lucy's Eyes",
@@ -1485,9 +1485,9 @@
             "slug": "backwardz-compatible-2019-10-14",
             "date": "2019-10-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Layers of Fear 2",
@@ -1495,9 +1495,9 @@
             "slug": "backwardz-compatible-2019-10-10",
             "date": "2019-10-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "F.E.A.R.",
@@ -1505,9 +1505,9 @@
             "slug": "backwardz-compatible-2019-10-7",
             "date": "2019-10-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Visage - 2nd Attempt",
@@ -1515,9 +1515,9 @@
             "slug": "backwardz-compatible-2019-visage-2nd-attempt",
             "date": "2019-10-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sekiro FINALE!",
@@ -1525,9 +1525,9 @@
             "slug": "backwardz-compatible-2019-sekiro-finale",
             "date": "2019-09-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Millennial Nursing Home",
@@ -1535,9 +1535,9 @@
             "slug": "backwardz-compatible-2019-the-millennial-nursing-home",
             "date": "2019-09-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ashina is on Fire!",
@@ -1545,9 +1545,9 @@
             "slug": "backwardz-compatible-2019-ashina-is-on-fire",
             "date": "2019-09-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "SEGA Genesis Mini",
@@ -1555,9 +1555,9 @@
             "slug": "backwardz-compatible-2019-sega-genesis-mini",
             "date": "2019-09-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Divine Dragon",
@@ -1575,9 +1575,9 @@
             "slug": "backwardz-compatible-2019-dishonored",
             "date": "2019-09-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sober Sekiro",
@@ -1585,9 +1585,9 @@
             "slug": "backwardz-compatible-2019-sober-sekiro",
             "date": "2019-09-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Send Me Out, With A Bang",
@@ -1595,9 +1595,9 @@
             "slug": "backwardz-compatible-2019-send-me-out-with-a-bang",
             "date": "2019-09-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "ROAR Sabimaru!",
@@ -1605,9 +1605,9 @@
             "slug": "backwardz-compatible-2019-roar-sabimaru",
             "date": "2019-09-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Shadow People",
@@ -1615,9 +1615,9 @@
             "slug": "backwardz-compatible-2019-shadow-people",
             "date": "2019-08-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Paying Off Debt",
@@ -1625,9 +1625,9 @@
             "slug": "backwardz-compatible-2019-paying-off-debt",
             "date": "2019-08-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "It Followed Me Home",
@@ -1635,9 +1635,9 @@
             "slug": "backwardz-compatible-2019-it-followed-me-home",
             "date": "2019-08-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bad Dad Fight Redux",
@@ -1665,9 +1665,9 @@
             "slug": "backwardz-compatible-2019-staring-at-butts",
             "date": "2019-08-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Halo 3",
@@ -1715,9 +1715,9 @@
             "slug": "backwardz-compatible-2019-birkin-vs-claire-the-rematch",
             "date": "2019-07-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Daddy Bathwater",
@@ -1725,9 +1725,9 @@
             "slug": "backwardz-compatible-2019-daddy-bathwater",
             "date": "2019-07-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Gamer Girl Bathwater",
@@ -1735,9 +1735,9 @@
             "slug": "backwardz-compatible-2019-gamer-girl-bathwater",
             "date": "2019-07-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Silent But Deadly",
@@ -1745,9 +1745,9 @@
             "slug": "backwardz-compatible-2019-silent-but-deadly",
             "date": "2019-07-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Grocery Shopping",
@@ -1765,9 +1765,9 @@
             "slug": "backwardz-compatible-2019-did-we-survive-rtx",
             "date": "2019-07-08",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "It's RTX! (Almost)",
@@ -1785,9 +1785,9 @@
             "slug": "backwardz-compatible-2019-orin-of-the-water",
             "date": "2019-07-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Home Base",
@@ -1795,9 +1795,9 @@
             "slug": "backwardz-compatible-2019-home-base",
             "date": "2019-06-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Peanut Butter Chungus",
@@ -1805,9 +1805,9 @@
             "slug": "backwardz-compatible-2019-peanut-butter-chungus",
             "date": "2019-06-24",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "54 Minutes",
@@ -1815,9 +1815,9 @@
             "slug": "backwardz-compatible-2019-54-minutes",
             "date": "2019-06-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Ashina Depths",
@@ -1825,9 +1825,9 @@
             "slug": "backwardz-compatible-2019-ashina-depths",
             "date": "2019-06-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dennis",
@@ -1835,9 +1835,9 @@
             "slug": "backwardz-compatible-2019-dennis",
             "date": "2019-06-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "I Can Bleed, I Can FIGHT!",
@@ -1845,9 +1845,9 @@
             "slug": "backwardz-compatible-2019-i-can-bleed-i-can-fight",
             "date": "2019-06-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Claire (2nd Run)",
@@ -1855,9 +1855,9 @@
             "slug": "backwardz-compatible-2019-claire-2nd-run",
             "date": "2019-06-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Probiotics",
@@ -1875,9 +1875,9 @@
             "slug": "backwardz-compatible-2019-fuck-you-dad",
             "date": "2019-05-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Spider Juice",
@@ -1905,9 +1905,9 @@
             "slug": "backwardz-compatible-2019-monkey-booze",
             "date": "2019-05-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Cow Store",
@@ -1915,9 +1915,9 @@
             "slug": "backwardz-compatible-2019-the-cow-store",
             "date": "2019-05-16",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Get Shreked",
@@ -1925,9 +1925,9 @@
             "slug": "backwardz-compatible-2019-get-shreked",
             "date": "2019-05-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Yugi Boy",
@@ -1945,9 +1945,9 @@
             "slug": "backwardz-compatible-2019-sekiro6",
             "date": "2019-05-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Twin Scissor Sisters",
@@ -1955,9 +1955,9 @@
             "slug": "backwardz-compatible-2019-twin-scissor-sisters",
             "date": "2019-05-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fairly Lit",
@@ -1975,9 +1975,9 @@
             "slug": "backwardz-compatible-2019-dantes-back",
             "date": "2019-04-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Purple Guy",
@@ -1985,9 +1985,9 @@
             "slug": "backwardz-compatible-2019-the-purple-guy",
             "date": "2019-04-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vitriol and Hate",
@@ -2005,9 +2005,9 @@
             "slug": "backwardz-compatible-2019-so-ninja",
             "date": "2019-04-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Beth Meth Girl",
@@ -2035,9 +2035,9 @@
             "slug": "backwardz-compatible-2019-snost-or-shost",
             "date": "2019-04-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sekiro: Shadows Die Twice",
@@ -2045,9 +2045,9 @@
             "slug": "backwardz-compatible-2019-sekiro-shadows-die-twice",
             "date": "2019-04-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "BzC in the Morning",
@@ -2055,9 +2055,9 @@
             "slug": "backwardz-compatible-2019-bzc-in-the-morning",
             "date": "2019-03-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Dick So Rugged",
@@ -2065,9 +2065,9 @@
             "slug": "backwardz-compatible-2019-a-dick-so-rugged",
             "date": "2019-03-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Am I Dying?",
@@ -2085,9 +2085,9 @@
             "slug": "backwardz-compatible-2019-man-named-idiot",
             "date": "2019-03-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Devil May Cry 5",
@@ -2105,9 +2105,9 @@
             "slug": "backwardz-compatible-2019-dummy-thicc",
             "date": "2019-03-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Tender Juicy Butt Meat",
@@ -2125,9 +2125,9 @@
             "slug": "backwardz-compatible-2019-i-m-fine",
             "date": "2019-03-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Metro Exodus",
@@ -2135,9 +2135,9 @@
             "slug": "backwardz-compatible-2019-metro-exodus",
             "date": "2019-03-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Everything's Wong",
@@ -2155,9 +2155,9 @@
             "slug": "backwardz-compatible-2019-blade-and-sorcery",
             "date": "2019-02-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "X Gon' Give It To Ya",
@@ -2175,9 +2175,9 @@
             "slug": "backwardz-compatible-2019-messing-with-vr",
             "date": "2019-02-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Billy!?",
@@ -2205,9 +2205,9 @@
             "slug": "backwardz-compatible-2019-eh-yo-marv",
             "date": "2019-02-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Make Us Whole",
@@ -2215,9 +2215,9 @@
             "slug": "backwardz-compatible-2019-make-us-whole",
             "date": "2019-02-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Resident Evil 2",
@@ -2225,9 +2225,9 @@
             "slug": "backwardz-compatible-2019-resident-evil-2",
             "date": "2019-01-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Swoliosis",
@@ -2235,9 +2235,9 @@
             "slug": "backwardz-compatible-2019-swoliosis",
             "date": "2019-01-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mortal Kombat 11",
@@ -2245,9 +2245,9 @@
             "slug": "backwardz-compatible-2019-mortal-kombat-11",
             "date": "2019-01-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Magical Cancer",
@@ -2255,9 +2255,9 @@
             "slug": "backwardz-compatible-2019-magical-cancer",
             "date": "2019-01-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Little Nightmares FINALE!",
@@ -2265,9 +2265,9 @@
             "slug": "backwardz-compatible-2019-little-nightmares-finale",
             "date": "2019-01-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Default Names",
@@ -2305,9 +2305,9 @@
             "slug": "backwardz-compatible-2019-big-baby-bitch",
             "date": "2019-01-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hold Your Breath",
@@ -2315,9 +2315,9 @@
             "slug": "backwardz-compatible-2018-hold-your-breath",
             "date": "2019-01-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stay Thirsty",
@@ -2325,9 +2325,9 @@
             "slug": "backwardz-compatible-2018-stay-thirsty",
             "date": "2018-12-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "X's and O's",
@@ -2345,9 +2345,9 @@
             "slug": "backwardz-compatible-2018-the-smash-brothers",
             "date": "2018-12-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fish Out of Water",
@@ -2355,9 +2355,9 @@
             "slug": "backwardz-compatible-2018-fish-out-of-water",
             "date": "2018-12-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Super Smash Bro. Ultimate",
@@ -2365,9 +2365,9 @@
             "slug": "backwardz-compatible-2018-super-smash-bro-ultimate",
             "date": "2018-12-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dead Space",
@@ -2415,9 +2415,9 @@
             "slug": "backwardz-compatible-2018-shawshank",
             "date": "2018-11-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Now it's Thanksgiving",
@@ -2425,9 +2425,9 @@
             "slug": "backwardz-compatible-2018-now-it-s-thanksgiving",
             "date": "2018-11-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Technical Difficultiez",
@@ -2435,9 +2435,9 @@
             "slug": "backwardz-compatible-2018-technical-difficultiez",
             "date": "2018-11-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "It's Not Thanksgiving Yet",
@@ -2455,9 +2455,9 @@
             "slug": "backwardz-compatible-2018-how-big-is-this-house",
             "date": "2018-11-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Red vs. TED!",
@@ -2485,9 +2485,9 @@
             "slug": "backwardz-compatible-2018-vintage-kyle",
             "date": "2018-11-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hitting Those QTE's",
@@ -2495,9 +2495,9 @@
             "slug": "backwardz-compatible-2018-hitting-those-qtes",
             "date": "2018-10-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Visage",
@@ -2505,9 +2505,9 @@
             "slug": "backwardz-compatible-2018-visage",
             "date": "2018-10-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Until Dawn",
@@ -2535,9 +2535,9 @@
             "slug": "backwardz-compatible-2018-p-t",
             "date": "2018-10-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Evil Within 2",
@@ -2545,9 +2545,9 @@
             "slug": "backwardz-compatible-2018-the-evil-within-2",
             "date": "2018-10-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Outlast 2",
@@ -2555,9 +2555,9 @@
             "slug": "backwardz-compatible-2018-outlast-2",
             "date": "2018-10-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Jet Lagged as Fuck",
@@ -2565,9 +2565,9 @@
             "slug": "backwardz-compatible-2018-jet-lagged-as-fuck",
             "date": "2018-09-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Red Dead Revolver",
@@ -2575,9 +2575,9 @@
             "slug": "backwardz-compatible-2018-red-dead-revolver",
             "date": "2018-09-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Eatin' Ass",
@@ -2585,9 +2585,9 @@
             "slug": "backwardz-compatible-2018-eatin-ass",
             "date": "2018-09-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vermintide 2",
@@ -2595,9 +2595,9 @@
             "slug": "backwardz-compatible-2018-17",
             "date": "2018-09-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mother's Ashes",
@@ -2605,9 +2605,9 @@
             "slug": "backwardz-compatible-2018-gow16",
             "date": "2018-08-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Catch Ya on the Flip Side",
@@ -2625,9 +2625,9 @@
             "slug": "backwardz-compatible-2018-on-a-boat-ft-kratos",
             "date": "2018-08-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "So Much Angst",
@@ -2635,9 +2635,9 @@
             "slug": "backwardz-compatible-2018-so-much-angst",
             "date": "2018-08-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Black Rune",
@@ -2645,9 +2645,9 @@
             "slug": "backwardz-compatible-2018-gow-12",
             "date": "2018-08-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Nelly Hates Helheim",
@@ -2665,9 +2665,9 @@
             "slug": "backwardz-compatible-2018-buried-past",
             "date": "2018-07-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bad Dad Breakfast Bash",
@@ -2675,9 +2675,9 @@
             "slug": "backwardz-compatible-2018-bad-dad-breakfast-bash",
             "date": "2018-07-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Witch's Pearl",
@@ -2685,9 +2685,9 @@
             "slug": "backwardz-compatible-2018-god-of-war-8",
             "date": "2018-07-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bad Kitty",
@@ -2695,9 +2695,9 @@
             "slug": "backwardz-compatible-2018-god-of-war-7",
             "date": "2018-06-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Nut Kicker",
@@ -2705,9 +2705,9 @@
             "slug": "backwardz-compatible-2018-god-of-war-part-6",
             "date": "2018-06-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bad Dad",
@@ -2715,9 +2715,9 @@
             "slug": "backwardz-compatible-2018-god-of-war-5",
             "date": "2018-06-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Indeed",
@@ -2725,9 +2725,9 @@
             "slug": "backwardz-compatible-2018-indeed",
             "date": "2018-06-08",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "BOY!",
@@ -2735,9 +2735,9 @@
             "slug": "backwardz-compatible-2018-boy",
             "date": "2018-06-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Brok",
@@ -2765,9 +2765,9 @@
             "slug": "backwardz-compatible-2018-bzc-with-special-guests-drawfee",
             "date": "2018-05-11",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "DOC BROWN!",
@@ -2775,9 +2775,9 @@
             "slug": "backwardz-compatible-2018-doc-brown",
             "date": "2018-05-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Smash That Record Button!",
@@ -2795,9 +2795,9 @@
             "slug": "backwardz-compatible-2018-joe-rybicki",
             "date": "2018-04-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Stretch Those Cheeks",
@@ -2805,9 +2805,9 @@
             "slug": "backwardz-compatible-2018-stretch-those-cheeks",
             "date": "2018-04-13",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bonkers",
@@ -2815,9 +2815,9 @@
             "slug": "backwardz-compatible-2018-bonkers",
             "date": "2018-04-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Like a Bitch...",
@@ -2825,9 +2825,9 @@
             "slug": "backwardz-compatible-2018-like-a-bitch",
             "date": "2018-03-30",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Madame LaLaurie",
@@ -2835,9 +2835,9 @@
             "slug": "backwardz-compatible-2018-madame-lalaurie",
             "date": "2018-03-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "*Sigh",
@@ -2845,9 +2845,9 @@
             "slug": "backwardz-compatible-2018-sigh",
             "date": "2018-03-16",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Garbage Food",
@@ -2865,9 +2865,9 @@
             "slug": "backwardz-compatible-2018-fatal-frame-2",
             "date": "2018-03-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fatal Frame II",
@@ -2875,9 +2875,9 @@
             "slug": "backwardz-compatible-2018-fatal-frame-ii",
             "date": "2018-02-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Just Monika",
@@ -2905,9 +2905,9 @@
             "slug": "backwardz-compatible-2018-doki-doki-3",
             "date": "2018-02-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Embrace the Sploosh",
@@ -2915,9 +2915,9 @@
             "slug": "backwardz-compatible-2018-doki-doki-2",
             "date": "2018-01-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Doki Doki Literature Club!",
@@ -2925,9 +2925,9 @@
             "slug": "backwardz-compatible-2018-doki",
             "date": "2018-01-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "DO U KNOW DA WAE?",
@@ -2945,9 +2945,9 @@
             "slug": "backwardz-compatible-2018-1",
             "date": "2018-01-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE7 - I.C.P.",
@@ -3365,9 +3365,9 @@
             "slug": "backwardz-compatible-2017-re7-8",
             "date": "2017-03-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE7 #7 - Brawl in the Bayou",
@@ -3375,9 +3375,9 @@
             "slug": "backwardz-compatible-2017-re7-7",
             "date": "2017-03-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE7 #6 - Happy Birthday!",
@@ -3395,9 +3395,9 @@
             "slug": "backwardz-compatible-2017-re7-4",
             "date": "2017-02-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE7 #3 - Poor Deputy",
@@ -3405,9 +3405,9 @@
             "slug": "backwardz-compatible-2017-re7-3",
             "date": "2017-02-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE7 #2 - Daddy Ain't Happy",
@@ -3415,9 +3415,9 @@
             "slug": "backwardz-compatible-2017-re7-2",
             "date": "2017-02-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RE7 #1 - Welcome to the Family",
@@ -3425,9 +3425,9 @@
             "slug": "backwardz-compatible-2017-re7-1-welcome-to-the-family",
             "date": "2017-01-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Resident Evil 7 - Episode 0",
@@ -3435,9 +3435,9 @@
             "slug": "backwardz-compatible-2017-resident-evil-7-episode-0",
             "date": "2017-01-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Fatal Frame #9 - It Froze",
@@ -3665,9 +3665,9 @@
             "slug": "rt-sponsor-cut-season-2-sponsor-play-alien-isolation-part-1",
             "date": "2014-11-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }
