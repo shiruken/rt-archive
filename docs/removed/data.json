@@ -1,5 +1,5 @@
 {
-    "count": 806,
+    "count": 809,
     "data": [
         {
             "id": "52863",
@@ -3728,6 +3728,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36685",
+            "title": "BzC Podcast - #2",
+            "slug": "backwardz-compatible-podcast-tests-2-4",
+            "date": "2020-02-04",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "36690",
             "title": "ZOMBIES?!",
             "slug": "backwardz-compatible-2020-2-3",
@@ -4453,6 +4462,15 @@
             "slug": "backwardz-compatible-2019-twin-scissor-sisters",
             "date": "2019-05-02",
             "is_first": false,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "32878",
+            "title": "Fairly Lit",
+            "slug": "backwardz-compatible-fairly-lit",
+            "date": "2019-04-29",
+            "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
         },
@@ -5436,6 +5454,15 @@
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "25922",
+            "title": "Garbage Food",
+            "slug": "backwardz-compatible-2018-garbage-food",
+            "date": "2018-03-09",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "24536",

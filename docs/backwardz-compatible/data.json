@@ -6,7 +6,7 @@
         "uploaded": 366,
         "missing": 0,
         "incomplete": 0,
-        "removed": 213
+        "removed": 216
     },
     "data": [
         {
@@ -1155,9 +1155,9 @@
             "slug": "backwardz-compatible-podcast-tests-2-4",
             "date": "2020-02-04",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "ZOMBIES?!",
@@ -1965,9 +1965,9 @@
             "slug": "backwardz-compatible-fairly-lit",
             "date": "2019-04-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dante's Back!",
@@ -2855,9 +2855,9 @@
             "slug": "backwardz-compatible-2018-garbage-food",
             "date": "2018-03-09",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Doc Brown",
