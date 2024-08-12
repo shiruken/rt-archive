@@ -1,5 +1,5 @@
 {
-    "count": 809,
+    "count": 884,
     "data": [
         {
             "id": "52863",
@@ -2747,6 +2747,24 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "41956",
+            "title": "Stars on Stars",
+            "slug": "backwardz-compatible-2020-12-28",
+            "date": "2020-12-28",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "41878",
+            "title": "Establishing a Religion",
+            "slug": "backwardz-compatible-2020-12-24",
+            "date": "2020-12-24",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "41877",
             "title": "Overcooked",
             "slug": "backwardz-compatible-2020-12-21",
@@ -2792,6 +2810,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "41700",
+            "title": "Dino Baby!",
+            "slug": "backwardz-compatible-2020-12-10",
+            "date": "2020-12-10",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "41638",
             "title": "Custom Big Brain Levels",
             "slug": "backwardz-compatible-2020-12-7",
@@ -2808,6 +2835,15 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "41459",
+            "title": "Fall Guys",
+            "slug": "backwardz-compatible-2020-11-30",
+            "date": "2020-11-30",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "41337",
@@ -2936,6 +2972,24 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "40673",
+            "title": "Dead by Daylight ft. echochlo",
+            "slug": "backwardz-compatible-2020-10-19",
+            "date": "2020-10-19",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "40638",
+            "title": "Dolores vs. Sam",
+            "slug": "backwardz-compatible-2020-10-15",
+            "date": "2020-10-15",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "1433-bonus",
             "title": "Volume 8 - Official Trailer",
             "slug": "rwby-volume-8-trailer",
@@ -2943,6 +2997,15 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "40607",
+            "title": "Phasmophobia",
+            "slug": "backwardz-compatible-2020-10-12",
+            "date": "2020-10-12",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "40595",
@@ -2979,6 +3042,15 @@
             "is_first": false,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "40499",
+            "title": "Worms W.M.D",
+            "slug": "backwardz-compatible-2020-10-1",
+            "date": "2020-10-01",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "40453",
@@ -3026,6 +3098,15 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "40304",
+            "title": "Mario Kart 8",
+            "slug": "backwardz-compatible-2020-9-17",
+            "date": "2020-09-17",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "40215",
             "title": "Diggin' for Diamonds",
             "slug": "backwardz-compatible-2020-9-14",
@@ -3071,6 +3152,15 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "40093",
+            "title": "Endermen Party",
+            "slug": "backwardz-compatible-2020-9-3",
+            "date": "2020-09-03",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "39990",
             "title": "Mayor Mayo's Treasure",
             "slug": "backwardz-compatible-2020-8-31",
@@ -3093,6 +3183,15 @@
             "title": "Big Brain FINALE!",
             "slug": "backwardz-compatible-2020-8-27",
             "date": "2020-08-27",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39890",
+            "title": "Sephiroth",
+            "slug": "backwardz-compatible-2020-8-24",
+            "date": "2020-08-24",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -3152,6 +3251,51 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39715",
+            "title": "Gangbeasts",
+            "slug": "backwardz-compatible-2020-8-10",
+            "date": "2020-08-10",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39681",
+            "title": "Microsoft Buys Tik Tok",
+            "slug": "backwardz-compatible-ctrl-z-8-7",
+            "date": "2020-08-07",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39680",
+            "title": "New Base Who Dis?",
+            "slug": "backwardz-compatible-2020-8-6",
+            "date": "2020-08-06",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39631",
+            "title": "The Night Market",
+            "slug": "backwardz-compatible-2020-8-3",
+            "date": "2020-08-03",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39574",
+            "title": "G4: Back from the Dead",
+            "slug": "backwardz-compatible-ctrl-z-7-31",
+            "date": "2020-07-31",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "39588",
             "title": "200 IQ",
             "slug": "backwardz-compatible-2020-7-30",
@@ -3174,6 +3318,24 @@
             "title": "New Nvidia Cards Soon!",
             "slug": "backwardz-compatible-ctrl-z-7-24",
             "date": "2020-07-24",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39481",
+            "title": "Human Fall Flat",
+            "slug": "backwardz-compatible-2020-7-23",
+            "date": "2020-07-23",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39410",
+            "title": "Mayor Mayo",
+            "slug": "backwardz-compatible-2020-7-20",
+            "date": "2020-07-20",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -3269,6 +3431,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39156",
+            "title": "Steam Summer Sale",
+            "slug": "backwardz-compatible-podcast-7-1",
+            "date": "2020-07-01",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "39031",
             "title": "Heave Ho",
             "slug": "backwardz-compatible-2020-6-29",
@@ -3285,6 +3456,24 @@
             "is_first": true,
             "show": "Talk CRWBY to Me",
             "show_slug": "talk-crwby-to-me"
+        },
+        {
+            "id": "38982",
+            "title": "The Big Cheese",
+            "slug": "backwardz-compatible-2020-6-25",
+            "date": "2020-06-25",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "38977",
+            "title": "Gaming Therapy for ADHD",
+            "slug": "backwardz-compatible-podcast-6-24",
+            "date": "2020-06-24",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "39008",
@@ -3485,6 +3674,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "38003",
+            "title": "CTRL+Z: Xbox Games Showcase Disaster!",
+            "slug": "backwardz-compatible-podcast-5-13",
+            "date": "2020-05-13",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "37984",
             "title": "Minecraft: Building Bases",
             "slug": "backwardz-compatible-2020-5-11",
@@ -3498,6 +3696,15 @@
             "title": "MOAR Valorant!",
             "slug": "backwardz-compatible-2020-5-7",
             "date": "2020-05-07",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "37914",
+            "title": "Pirates or Vikings?",
+            "slug": "backwardz-compatible-podcast-5-6",
+            "date": "2020-05-06",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -3566,6 +3773,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "37615",
+            "title": "FF7R - He Just Paused Time",
+            "slug": "backwardz-compatible-2020-4-16",
+            "date": "2020-04-16",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "37523",
             "title": "Resident Evil Resistance Highlights",
             "slug": "backwardz-compatible-2020-4-13",
@@ -3624,6 +3840,15 @@
             "title": "MGRR FINALE!",
             "slug": "backwardz-compatible-2020-3-19",
             "date": "2020-03-19",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "37195",
+            "title": "Sea of Thieves",
+            "slug": "backwardz-compatible-2020-3-16",
+            "date": "2020-03-16",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -3773,6 +3998,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36623",
+            "title": "The Ninth Sister",
+            "slug": "backwardz-compatible-2020-1-27",
+            "date": "2020-01-27",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "36454",
             "title": "Death Arena",
             "slug": "backwardz-compatible-2020-1-20",
@@ -3791,6 +4025,24 @@
             "show_slug": "rwby"
         },
         {
+            "id": "36439",
+            "title": "Metal Gear Rising Revengeance",
+            "slug": "backwardz-compatible-2020-1-16",
+            "date": "2020-01-16",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36407",
+            "title": "Time Skip",
+            "slug": "backwardz-compatible-2020-1-13",
+            "date": "2020-01-13",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "36374",
             "title": "Out in the Open",
             "slug": "rwby-volume-7-10",
@@ -3804,6 +4056,15 @@
             "title": "Dishonored Finale!",
             "slug": "backwardz-compatible-2020-1-9",
             "date": "2020-01-09",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36337",
+            "title": "We got an EEVEE!",
+            "slug": "backwardz-compatible-2020-1-6",
+            "date": "2020-01-06",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -3872,6 +4133,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "36139",
+            "title": "The Wind Temple",
+            "slug": "backwardz-compatible-2019-12-16",
+            "date": "2019-12-16",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "36073",
             "title": "Worst Case Scenario",
             "slug": "rwby-volume-7-7",
@@ -3935,6 +4205,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "35901",
+            "title": "Admiral Havelock Has Some Issues",
+            "slug": "backwardz-compatible-2019-11-28",
+            "date": "2019-11-28",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "35893",
             "title": "Jedi: Fallen Order",
             "slug": "backwardz-compatible-2019-11-25",
@@ -3984,6 +4263,15 @@
             "title": "Post Extra Life",
             "slug": "backwardz-compatible-2019-11-14",
             "date": "2019-11-14",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "35711",
+            "title": "Death Stranding",
+            "slug": "backwardz-compatible-2019-11-11",
+            "date": "2019-11-11",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4059,6 +4347,15 @@
             "is_first": false,
             "show": "RWBY Complete",
             "show_slug": "rwby-complete"
+        },
+        {
+            "id": "35474",
+            "title": "Visage - Pt.3, Dolores",
+            "slug": "backwardz-compatible-2019-10-24",
+            "date": "2019-10-24",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "35434",
@@ -4223,6 +4520,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "34996",
+            "title": "The Divine Dragon",
+            "slug": "backwardz-compatible-2019-the-divine-dragon",
+            "date": "2019-09-16",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "34947",
             "title": "Dishonored",
             "slug": "backwardz-compatible-2019-dishonored",
@@ -4286,10 +4592,64 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "34578",
+            "title": "Bad Dad Fight Redux",
+            "slug": "backwardz-compatible-2019-bad-dad-fight-redux",
+            "date": "2019-08-19",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "34531",
+            "title": "Lifeguard Sternt",
+            "slug": "backwardz-compatible-2019-lifeguard-sternt",
+            "date": "2019-08-15",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "34483",
             "title": "Staring at Butts",
             "slug": "backwardz-compatible-2019-staring-at-butts",
             "date": "2019-08-12",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "34444",
+            "title": "Halo 3",
+            "slug": "backwardz-compatible-2019-halo-3",
+            "date": "2019-08-08",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "34370",
+            "title": "Sadism or Masochism?",
+            "slug": "backwardz-compatible-2019-sadism-or-masochism",
+            "date": "2019-08-05",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "34322",
+            "title": "Resident Evil 2 Finale!",
+            "slug": "backwardz-compatible-2019-resident-evil-2-finale",
+            "date": "2019-08-01",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "34281",
+            "title": "Mario Maker 2",
+            "slug": "backwardz-compatible-2019-mario-maker-2",
+            "date": "2019-07-29",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4331,10 +4691,28 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "34049",
+            "title": "Grocery Shopping",
+            "slug": "backwardz-compatible-2019-grocery-shopping",
+            "date": "2019-07-11",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "33985",
             "title": "Did We Survive RTX?",
             "slug": "backwardz-compatible-2019-did-we-survive-rtx",
             "date": "2019-07-08",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "33984",
+            "title": "It's RTX! (Almost)",
+            "slug": "backwardz-compatible-2019-its-rtx-almost",
+            "date": "2019-07-04",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4412,10 +4790,28 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "33525",
+            "title": "Probiotics",
+            "slug": "backwardz-compatible-2019-probiotics",
+            "date": "2019-06-03",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "33475",
             "title": "Fuck You Dad!",
             "slug": "backwardz-compatible-2019-fuck-you-dad",
             "date": "2019-05-30",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "33442",
+            "title": "Spider Juice",
+            "slug": "backwardz-compatible-2019-spider-juice",
+            "date": "2019-05-27",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4443,6 +4839,15 @@
             "title": "Get Shreked",
             "slug": "backwardz-compatible-2019-get-shreked",
             "date": "2019-05-13",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "33018",
+            "title": "Yugi Boy",
+            "slug": "backwardz-compatible-2019-yugi-boy",
+            "date": "2019-05-09",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4493,10 +4898,28 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "32638",
+            "title": "Vitriol and Hate",
+            "slug": "backwardz-compatible-2019-vitriol-and-hate",
+            "date": "2019-04-18",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "32488",
             "title": "So Ninja",
             "slug": "backwardz-compatible-2019-so-ninja",
             "date": "2019-04-15",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "32487",
+            "title": "Beth Meth Girl",
+            "slug": "backwardz-compatible-2019-beth-meth-girl",
+            "date": "2019-04-11",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4538,6 +4961,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "32268",
+            "title": "Am I Dying?",
+            "slug": "backwardz-compatible-2019-am-i-dying",
+            "date": "2019-03-21",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "31929",
             "title": "A Man Named Idiot",
             "slug": "backwardz-compatible-2019-man-named-idiot",
@@ -4551,6 +4983,15 @@
             "title": "Dummy Thicc",
             "slug": "backwardz-compatible-2019-dummy-thicc",
             "date": "2019-03-14",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "31842",
+            "title": "Tender Juicy Butt Meat",
+            "slug": "backwardz-compatible-2019-tender-juicy-butt-meat",
+            "date": "2019-03-11",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4574,6 +5015,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "31650",
+            "title": "Everything's Wong",
+            "slug": "backwardz-compatible-2019-everythings-wong",
+            "date": "2019-02-28",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "31595",
             "title": "Blade and Sorcery",
             "slug": "backwardz-compatible-2019-blade-and-sorcery",
@@ -4583,10 +5033,37 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "31553",
+            "title": "X Gon' Give It To Ya",
+            "slug": "backwardz-compatible-2019-x-gon-give-it-to-ya",
+            "date": "2019-02-21",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "31150",
             "title": "Messing with VR",
             "slug": "backwardz-compatible-2019-messing-with-vr",
             "date": "2019-02-18",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "31002",
+            "title": "Billy!?",
+            "slug": "backwardz-compatible-2019-billy",
+            "date": "2019-02-14",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "30462",
+            "title": "Apex Legends",
+            "slug": "backwardz-compatible-2019-apex-legends",
+            "date": "2019-02-11",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4718,6 +5195,15 @@
             "show_slug": "rwby-rewind"
         },
         {
+            "id": "30192",
+            "title": "Default Names",
+            "slug": "backwardz-compatible-2019-default-names",
+            "date": "2019-01-14",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "30184",
             "title": "The Lady in the Shoe",
             "slug": "rwby-volume-6-11",
@@ -4725,6 +5211,15 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "30161",
+            "title": "Big Chungi",
+            "slug": "backwardz-compatible-2019-big-chungi",
+            "date": "2019-01-10",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "30159",
@@ -4743,6 +5238,15 @@
             "is_first": false,
             "show": "RWBY Rewind",
             "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "30125",
+            "title": "A Robot Penis",
+            "slug": "backwardz-compatible-2019-a-robot-penis",
+            "date": "2019-01-07",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "30121",
@@ -4794,6 +5298,15 @@
             "title": "Stay Thirsty",
             "slug": "backwardz-compatible-2018-stay-thirsty",
             "date": "2018-12-27",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "30044",
+            "title": "X's and O's",
+            "slug": "backwardz-compatible-2018-dead-space-3",
+            "date": "2018-12-24",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4871,6 +5384,15 @@
             "show_slug": "rwby-rewind"
         },
         {
+            "id": "29811",
+            "title": "Dead Space",
+            "slug": "backwardz-compatible-2018-dead-space",
+            "date": "2018-12-10",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "29760",
             "title": "The Grimm Reaper",
             "slug": "rwby-volume-6-7",
@@ -4880,6 +5402,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "29732",
+            "title": "Playing with the Monkey",
+            "slug": "backwardz-compatible-2018-playing-with-the-monkey",
+            "date": "2018-12-06",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "29739",
             "title": "Apathy Follows",
             "slug": "crwby-behind-the-episode-2-apathy-follows",
@@ -4887,6 +5418,24 @@
             "is_first": false,
             "show": "CRWBY: Behind the Episode",
             "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "29672",
+            "title": "Release the Winnebago!",
+            "slug": "backwardz-compatible-2018-release-the-winnebago",
+            "date": "2018-12-03",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "29627",
+            "title": "A Showdown Finale",
+            "slug": "backwardz-compatible-2018-a-showdown-finale",
+            "date": "2018-11-30",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "29628",
@@ -4970,6 +5519,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "29408",
+            "title": "It's Not Thanksgiving Yet",
+            "slug": "backwardz-compatible-2018-it-s-not-thanksgiving-yet",
+            "date": "2018-11-15",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "29404",
             "title": "Art of the Gods",
             "slug": "crwby-behind-the-episode-2-art-of-the-gods",
@@ -5006,6 +5564,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "29309",
+            "title": "Red vs. TED!",
+            "slug": "backwardz-compatible-2018-red-vs-ted",
+            "date": "2018-11-08",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "29301",
             "title": "The Magic of Character Creation",
             "slug": "crwby-behind-the-episode-2-magic-of-character-creation",
@@ -5022,6 +5589,15 @@
             "is_first": false,
             "show": "RWBY Rewind",
             "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "29261",
+            "title": "Bear Trap Out of Nowhere",
+            "slug": "backwardz-compatible-2018-bear-trap-out-of-nowhere",
+            "date": "2018-11-05",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "29243",
@@ -5091,6 +5667,24 @@
             "title": "Visage",
             "slug": "backwardz-compatible-2018-visage",
             "date": "2018-10-25",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "29075",
+            "title": "Until Dawn",
+            "slug": "backwardz-compatible-2018-until-dawn",
+            "date": "2018-10-22",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "29023",
+            "title": "Little Nightmares",
+            "slug": "backwardz-compatible-2018-little-nightmares",
+            "date": "2018-10-18",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -5195,6 +5789,15 @@
             "show_slug": "rwby-chibi"
         },
         {
+            "id": "28363",
+            "title": "Catch Ya on the Flip Side",
+            "slug": "backwardz-compatible-2018-gow15",
+            "date": "2018-08-24",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "28283",
             "title": "RWBY Dreams",
             "slug": "rwby-chibi-season-3-episode-16",
@@ -5265,6 +5868,15 @@
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "28026",
+            "title": "Nelly Hates Helheim",
+            "slug": "backwardz-compatible-2018-nelly-hates-helheim",
+            "date": "2018-07-27",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "27955",
@@ -5366,6 +5978,24 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "27032",
+            "title": "Brok",
+            "slug": "backwardz-compatible-2018-god-of-war-2",
+            "date": "2018-05-25",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "26943",
+            "title": "God of War",
+            "slug": "backwardz-compatible-2018-gow",
+            "date": "2018-05-18",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "26835",
             "title": "BzC with Special Guests: Drawfee",
             "slug": "backwardz-compatible-2018-bzc-with-special-guests-drawfee",
@@ -5379,6 +6009,15 @@
             "title": "DOC BROWN!",
             "slug": "backwardz-compatible-2018-doc-brown",
             "date": "2018-05-04",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "26682",
+            "title": "Smash That Record Button!",
+            "slug": "backwardz-compatible-2018-smash-that-record-button",
+            "date": "2018-04-27",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -5510,6 +6149,15 @@
             "show_slug": "rwby-chibi"
         },
         {
+            "id": "24411",
+            "title": "Just Monika",
+            "slug": "backwardz-compatible-2018-just-monika",
+            "date": "2018-02-17",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
             "id": "23988",
             "title": "Episode 3 - Mortal Frenemies",
             "slug": "rwby-chibi-season-3-po02s",
@@ -5517,6 +6165,15 @@
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "24045",
+            "title": "The Cream of the Crop",
+            "slug": "backwardz-compatible-2018-the-architect",
+            "date": "2018-02-09",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "23917",
@@ -5616,6 +6273,15 @@
             "is_first": false,
             "show": "CRWBY: Behind the Episode",
             "show_slug": "c-r-w-b-y-behind-the-episode"
+        },
+        {
+            "id": "23666",
+            "title": "DO U KNOW DA WAE?",
+            "slug": "backwardz-compatible-2018-do-u-know-da-wae",
+            "date": "2018-01-12",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
         },
         {
             "id": "23637",
@@ -6252,6 +6918,15 @@
             "title": "RE7 #7 - Brawl in the Bayou",
             "slug": "backwardz-compatible-2017-re7-7",
             "date": "2017-03-10",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "1743",
+            "title": "RE7 #6 - Happy Birthday!",
+            "slug": "backwardz-compatible-2017-re7-6-happy-birthday",
+            "date": "2017-03-04",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
