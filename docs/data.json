@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42603,
-        "missing": 0,
+        "uploaded": 42601,
+        "missing": 2,
         "incomplete": 1674,
-        "removed": 884
+        "removed": 882
     },
     "data": [
         {
@@ -3008,10 +3008,10 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 170,
-            "missing": 0,
+            "uploaded": 168,
+            "missing": 2,
             "incomplete": 0,
-            "removed": 164
+            "removed": 162
         },
         {
             "show": "RWBY Chibi",

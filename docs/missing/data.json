@@ -1,4 +1,21 @@
 {
-    "count": 0,
-    "data": []
+    "count": 2,
+    "data": [
+        {
+            "title": "Thank You for 100 Episodes of RWBY!",
+            "slug": "rwby-100-episodes",
+            "date": "2021-01-31",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "title": "The Lady in the Shoe",
+            "slug": "rwby-volume-6-11",
+            "date": "2019-01-12",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        }
+    ]
 }

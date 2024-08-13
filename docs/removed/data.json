@@ -1,5 +1,5 @@
 {
-    "count": 884,
+    "count": 882,
     "data": [
         {
             "id": "52863",
@@ -2711,15 +2711,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "1447-bonus",
-            "title": "Thank You for 100 Episodes of RWBY!",
-            "slug": "rwby-100-episodes",
-            "date": "2021-01-31",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "1446-bonus",
             "title": "RWBY Recap Episode 1 - Volumes 1 & 2",
             "slug": "rwby-rwby-recap-episode-1-volumes-1-2",
@@ -5202,15 +5193,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "30184",
-            "title": "The Lady in the Shoe",
-            "slug": "rwby-volume-6-11",
-            "date": "2019-01-12",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "30161",

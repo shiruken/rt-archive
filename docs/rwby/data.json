@@ -3,10 +3,10 @@
     "slug": "rwby",
     "summary": {
         "count": 170,
-        "uploaded": 170,
-        "missing": 0,
+        "uploaded": 168,
+        "missing": 2,
         "incomplete": 0,
-        "removed": 164
+        "removed": 162
     },
     "data": [
         {
@@ -317,7 +317,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "RWBY Recap Episode 1 - Volumes 1 & 2",
@@ -637,7 +637,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Stealing from the Elderly",
