@@ -6,7 +6,7 @@
         "uploaded": 366,
         "missing": 0,
         "incomplete": 0,
-        "removed": 291
+        "removed": 292
     },
     "data": [
         {
@@ -1305,9 +1305,9 @@
             "slug": "backwardz-compatible-2019-12-19",
             "date": "2019-12-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Wind Temple",
