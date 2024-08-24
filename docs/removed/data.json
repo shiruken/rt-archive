@@ -1,5 +1,5 @@
 {
-    "count": 885,
+    "count": 887,
     "data": [
         {
             "id": "52863",
@@ -6536,6 +6536,15 @@
             "show_slug": "rwby-rewind"
         },
         {
+            "id": "7052",
+            "title": "Naruto VS Ichigo",
+            "slug": "death-battle-season-4-naruto-vs-ichigo-naruto-vs-bleach",
+            "date": "2017-11-06",
+            "is_first": false,
+            "show": "DEATH BATTLE!",
+            "show_slug": "death-battle"
+        },
+        {
             "id": "15972",
             "title": "Volume 5, Chapter 4: Lighting the Fire",
             "slug": "rwby-volume-5-4-odeihrl",
@@ -6588,6 +6597,15 @@
             "is_first": false,
             "show": "RWBY Rewind",
             "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "3757",
+            "title": "Naruto Runs Into DEATH BATTLE!",
+            "slug": "death-battle-previews-season-2-naruto-runs-into-death-b-a-t-t-l-e",
+            "date": "2017-10-23",
+            "is_first": false,
+            "show": "DEATH BATTLE Fight Previews",
+            "show_slug": "death-battle-previews"
         },
         {
             "id": "15973",

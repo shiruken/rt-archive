@@ -4,7 +4,7 @@
         "uploaded": 42603,
         "missing": 0,
         "incomplete": 1674,
-        "removed": 885
+        "removed": 887
     },
     "data": [
         {
@@ -734,7 +734,7 @@
             "uploaded": 270,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 1
         },
         {
             "show": "Death Battle With Commentary",
@@ -752,7 +752,7 @@
             "uploaded": 229,
             "missing": 0,
             "incomplete": 0,
-            "removed": 0
+            "removed": 1
         },
         {
             "show": "Death Race",

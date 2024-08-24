@@ -6,7 +6,7 @@
         "uploaded": 270,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 1
     },
     "data": [
         {
@@ -2105,9 +2105,9 @@
             "slug": "death-battle-previews-season-2-naruto-runs-into-death-b-a-t-t-l-e",
             "date": "2017-10-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Wonder Woman is Primed for DEATH BATTLE",
