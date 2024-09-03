@@ -1,5 +1,5 @@
 {
-    "count": 886,
+    "count": 887,
     "data": [
         {
             "id": "52863",
@@ -6480,6 +6480,15 @@
             "is_first": false,
             "show": "RWBY Rewind",
             "show_slug": "rwby-rewind"
+        },
+        {
+            "id": "15970",
+            "title": "Volume 5, Chapter 6: Known by its Song",
+            "slug": "rwby-volume-5-6ulihl23hns988",
+            "date": "2017-11-18",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
         },
         {
             "id": "865",
