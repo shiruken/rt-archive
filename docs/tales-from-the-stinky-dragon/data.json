@@ -3,10 +3,10 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 82,
-        "uploaded": 82,
-        "missing": 0,
+        "uploaded": 81,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 82
+        "removed": 81
     },
     "data": [
         {
@@ -317,7 +317,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Astralian Arrival - C02 - Ep 31",
