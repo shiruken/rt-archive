@@ -3,10 +3,10 @@
     "slug": "infinights",
     "summary": {
         "count": 102,
-        "uploaded": 101,
-        "missing": 1,
+        "uploaded": 102,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 101
+        "removed": 102
     },
     "data": [
         {
@@ -497,7 +497,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Raining on Grisleve\u2019s Parade - Ep. 49",

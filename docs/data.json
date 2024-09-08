@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42599,
-        "missing": 4,
+        "uploaded": 42603,
+        "missing": 0,
         "incomplete": 1674,
-        "removed": 883
+        "removed": 887
     },
     "data": [
         {
@@ -1739,10 +1739,10 @@
             "show": "Infinights",
             "slug": "infinights",
             "count": 102,
-            "uploaded": 101,
-            "missing": 1,
+            "uploaded": 102,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 101
+            "removed": 102
         },
         {
             "show": "Inside Gaming Daily",
@@ -3008,19 +3008,19 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 169,
-            "missing": 1,
+            "uploaded": 170,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 163
+            "removed": 164
         },
         {
             "show": "RWBY Chibi",
             "slug": "rwby-chibi",
             "count": 67,
-            "uploaded": 66,
-            "missing": 1,
+            "uploaded": 67,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 63
+            "removed": 64
         },
         {
             "show": "RWBY Complete",
@@ -3359,10 +3359,10 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 82,
-            "uploaded": 81,
-            "missing": 1,
+            "uploaded": 82,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 81
+            "removed": 82
         },
         {
             "show": "Talk CRWBY to Me",
