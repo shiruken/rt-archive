@@ -3,10 +3,10 @@
     "slug": "rwby-fairy-tales",
     "summary": {
         "count": 7,
-        "uploaded": 7,
-        "missing": 0,
+        "uploaded": 6,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 7
+        "removed": 6
     },
     "data": [
         {
@@ -57,7 +57,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Grimm Child",
