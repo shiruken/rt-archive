@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42601,
-        "missing": 2,
+        "uploaded": 42603,
+        "missing": 0,
         "incomplete": 1674,
-        "removed": 885
+        "removed": 887
     },
     "data": [
         {
@@ -3053,10 +3053,10 @@
             "show": "RWBY: Fairy Tales",
             "slug": "rwby-fairy-tales",
             "count": 7,
-            "uploaded": 6,
-            "missing": 1,
+            "uploaded": 7,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 6
+            "removed": 7
         },
         {
             "show": "RWBY: Ice Queendom",
@@ -3359,10 +3359,10 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 82,
-            "uploaded": 81,
-            "missing": 1,
+            "uploaded": 82,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 81
+            "removed": 82
         },
         {
             "show": "Talk CRWBY to Me",

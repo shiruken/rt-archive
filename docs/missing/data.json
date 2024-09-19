@@ -1,21 +1,4 @@
 {
-    "count": 2,
-    "data": [
-        {
-            "title": "Make the Ghost of a Situation - Ep 12",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-7-18",
-            "date": "2023-07-18",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
-            "title": "The Hunter's Children",
-            "slug": "rwby-fairy-tales-season-1-2",
-            "date": "2021-11-06",
-            "is_first": false,
-            "show": "RWBY: Fairy Tales",
-            "show_slug": "rwby-fairy-tales"
-        }
-    ]
+    "count": 0,
+    "data": []
 }
