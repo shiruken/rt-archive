@@ -6,7 +6,7 @@
         "uploaded": 32,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 26
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "why-we-re-going-to-hell-2021-cole-gallian",
             "date": "2021-11-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Worst Thanksgiving Ever",
@@ -25,9 +25,9 @@
             "slug": "why-we-re-going-to-hell-2021-zach-anner",
             "date": "2021-11-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Our Cringiest High School Confessions",
@@ -35,9 +35,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfhps-11-10-brandon-farmahini",
             "date": "2021-11-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "How To Workout Like an Idiot",
@@ -45,9 +45,9 @@
             "slug": "why-we-re-going-to-hell-2021-eddy-rivas",
             "date": "2021-11-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cheating at Game Night!",
@@ -55,9 +55,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-10-28-barbara",
             "date": "2021-10-31",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Remembering our E3 Nightmares",
@@ -65,9 +65,9 @@
             "slug": "why-we-re-going-to-hell-2021-tamoor-lucy-post-show",
             "date": "2021-10-24",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Vomiting in the Sky",
@@ -75,9 +75,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-10-14",
             "date": "2021-10-17",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mike the Candy Man",
@@ -85,9 +85,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-snowbike-mike",
             "date": "2021-10-10",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sleeping Through a Baptism",
@@ -95,9 +95,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-sleep-paralysis",
             "date": "2021-10-03",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Couple's Goals... IN HELL",
@@ -115,9 +115,9 @@
             "slug": "why-we-re-going-to-hell-2021-tom-booker",
             "date": "2021-09-19",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "I Want To Speak To The Manager",
@@ -125,9 +125,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-lindsay",
             "date": "2021-09-12",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "An Evil Prank With a Highschool Crush",
@@ -135,9 +135,9 @@
             "slug": "why-we-re-going-to-hell-2021-virgin-horror",
             "date": "2021-09-05",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dumb Video Game Purchases with Steven Spohn",
@@ -145,9 +145,9 @@
             "slug": "why-we-re-going-to-hell-2021-8-26-stephen-spohn",
             "date": "2021-08-29",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Charlotte is Too Old for Halloween",
@@ -155,9 +155,9 @@
             "slug": "why-we-re-going-to-hell-2021-8-19-charlotte",
             "date": "2021-08-22",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Eric Runs The Show",
@@ -165,9 +165,9 @@
             "slug": "why-we-re-going-to-hell-2021-eric-b",
             "date": "2021-08-15",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Car Chases and Road Rage",
@@ -175,9 +175,9 @@
             "slug": "why-we-re-going-to-hell-2021-post-show-ky",
             "date": "2021-08-08",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Travel Stories From Hell",
@@ -185,9 +185,9 @@
             "slug": "why-we-re-going-to-hell-2021-7-26-kdin",
             "date": "2021-07-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Breaking into Our Own Houses",
@@ -205,9 +205,9 @@
             "slug": "why-we-re-going-to-hell-2021-love-guru",
             "date": "2021-06-20",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Backstage Pass(ed out)",
@@ -215,9 +215,9 @@
             "slug": "why-we-re-going-to-hell-2021-5-30",
             "date": "2021-06-06",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Matt Bragg Attacked Strangers Using Hornets",
@@ -225,9 +225,9 @@
             "slug": "why-we-re-going-to-hell-2021-ps-11",
             "date": "2021-05-23",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Elyse Steals Food and Chris Calls the Cops",
@@ -235,9 +235,9 @@
             "slug": "why-we-re-going-to-hell-2021-episode-10",
             "date": "2021-05-16",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "D&D Ended Gus' Friendship",
@@ -245,9 +245,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-09",
             "date": "2021-05-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Jack\u2019s Most Hated Theme Park Ride",
@@ -275,9 +275,9 @@
             "slug": "why-we-re-going-to-hell-2021-4-11",
             "date": "2021-04-11",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Mariel's Terrible Celebrity Encounter",
@@ -285,9 +285,9 @@
             "slug": "why-we-re-going-to-hell-2021-05",
             "date": "2021-03-21",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Geoff Ramsey is the Worst Thief in the World",
@@ -305,9 +305,9 @@
             "slug": "why-we-re-going-to-hell-2021-03",
             "date": "2021-03-07",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Choking Dudes Out with Jeremy Dooley",
@@ -315,9 +315,9 @@
             "slug": "why-we-re-going-to-hell-2021-post-show-02",
             "date": "2021-02-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Serial Train Barfer Maria DeCotis",

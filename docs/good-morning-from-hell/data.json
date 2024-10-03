@@ -6,7 +6,7 @@
         "uploaded": 104,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 71
     },
     "data": [
         {
@@ -25,9 +25,9 @@
             "slug": "good-morning-from-hell-2021-12-5",
             "date": "2021-12-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "War, Famine, Pestilence, Death... and Clayton",
@@ -45,9 +45,9 @@
             "slug": "good-morning-from-hell-2021-11-21",
             "date": "2021-11-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "How to Summon the Anti-Christ",
@@ -55,9 +55,9 @@
             "slug": "good-morning-from-hell-2021-11-14",
             "date": "2021-11-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hell's Personal Trainer",
@@ -75,9 +75,9 @@
             "slug": "good-morning-from-hell-2021-10-31",
             "date": "2021-10-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Berated by Brits!",
@@ -85,9 +85,9 @@
             "slug": "good-morning-from-hell-2021-10-25",
             "date": "2021-10-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Air Raid on Heaven w/ The Red Baron & the Hindenburg (Featuring Great Night)",
@@ -115,9 +115,9 @@
             "slug": "good-morning-from-hell-2021-10-4",
             "date": "2021-10-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Romeo & Juliet Reunite",
@@ -125,9 +125,9 @@
             "slug": "good-morning-from-hell-2021-9-27",
             "date": "2021-09-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Monster Under The Bed",
@@ -145,9 +145,9 @@
             "slug": "good-morning-from-hell-2021-gmfh-89",
             "date": "2021-09-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "THE MOST PROLIFIC SERIAL KILLER YOU'VE NEVER HEARD OF",
@@ -155,9 +155,9 @@
             "slug": "good-morning-from-hell-2021-gmfh-horror-virgin-gang",
             "date": "2021-09-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hell's #1 Game Developer",
@@ -165,9 +165,9 @@
             "slug": "good-morning-from-hell-2021-8-30",
             "date": "2021-08-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Most Evil Person in Hell?",
@@ -175,9 +175,9 @@
             "slug": "good-morning-from-hell-2021-charlotte",
             "date": "2021-08-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Banking on The Babadour",
@@ -185,9 +185,9 @@
             "slug": "good-morning-from-hell-2021-8-16",
             "date": "2021-08-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Relationship Counseling for Chris & Clayton",
@@ -205,9 +205,9 @@
             "slug": "good-morning-from-hell-2021-gmfh-rtx",
             "date": "2021-08-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Gorko The Stranded Alien",
@@ -215,9 +215,9 @@
             "slug": "good-morning-from-hell-2021-7-26",
             "date": "2021-07-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "House Hunting in Hell",
@@ -225,9 +225,9 @@
             "slug": "good-morning-from-hell-2021-6-28",
             "date": "2021-06-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Demonic Dating Advice",
@@ -235,9 +235,9 @@
             "slug": "good-morning-from-hell-2021-6-21",
             "date": "2021-06-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pyramid Schemes with a Mummy",
@@ -245,9 +245,9 @@
             "slug": "good-morning-from-hell-2021-6-14",
             "date": "2021-06-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Phantom of the Phantom of the Opera",
@@ -305,9 +305,9 @@
             "slug": "good-morning-from-hell-2021-4-26",
             "date": "2021-04-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Theater Kid From Hell",
@@ -325,9 +325,9 @@
             "slug": "good-morning-from-hell-2021-3-29",
             "date": "2021-04-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hellen Degenerate Steals The Show",
@@ -335,9 +335,9 @@
             "slug": "good-morning-from-hell-2021-3-22",
             "date": "2021-03-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Trooth about the Tooth Fairy",
@@ -345,9 +345,9 @@
             "slug": "good-morning-from-hell-2021-3-15",
             "date": "2021-03-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Jekyll Sucks, Hyde F**ks",
@@ -355,9 +355,9 @@
             "slug": "good-morning-from-hell-2021-3-8",
             "date": "2021-03-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Making Friends with Mona Lisa",
@@ -375,9 +375,9 @@
             "slug": "good-morning-from-hell-2021-episode-8",
             "date": "2021-02-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Edgar Allan Poe, The Ghost Writer",
@@ -385,9 +385,9 @@
             "slug": "good-morning-from-hell-2021-2-15",
             "date": "2021-02-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Wingmanning for Cupid",
@@ -395,9 +395,9 @@
             "slug": "wingmanning-for-cupid",
             "date": "2021-02-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Spicier Than Hell",
@@ -405,9 +405,9 @@
             "slug": "good-morning-from-hell-2021-2-1",
             "date": "2021-02-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Team Building with Heaven and Hell",
@@ -425,9 +425,9 @@
             "slug": "good-morning-from-hell-2021-1-4",
             "date": "2021-01-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The True Story of Hansel & Gretel",
@@ -435,9 +435,9 @@
             "slug": "good-morning-from-hell-2021-1-11",
             "date": "2021-01-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "An Interview with Santa\u2019s Elf",
@@ -455,9 +455,9 @@
             "slug": "good-morning-from-hell-2020-12-7",
             "date": "2020-12-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Tesla vs Edison: Battle of the Brains",
@@ -465,9 +465,9 @@
             "slug": "good-morning-from-hell-2020-11-30",
             "date": "2020-11-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Presidents of Turkeys",
@@ -475,9 +475,9 @@
             "slug": "good-morning-from-hell-2020-11-23",
             "date": "2020-11-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Dr. Frankenstein and Her Monster",
@@ -495,9 +495,9 @@
             "slug": "good-morning-from-hell-2020-11-8",
             "date": "2020-11-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Election From Hell",
@@ -505,9 +505,9 @@
             "slug": "good-morning-from-hell-2020-11-2",
             "date": "2020-11-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Case of Freddy v. Jason",
@@ -525,9 +525,9 @@
             "slug": "good-morning-from-hell-2020-10-19",
             "date": "2020-10-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Tale of the Vegan Werewolf",
@@ -545,9 +545,9 @@
             "slug": "good-morning-from-hell-2020-10-5",
             "date": "2020-10-05",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Greek Bros Party HARD",
@@ -555,9 +555,9 @@
             "slug": "good-morning-from-hell-2020-9-28",
             "date": "2020-09-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Good Morning From Hell",
@@ -565,9 +565,9 @@
             "slug": "rtx-2020-good-morning-from-hell-panel",
             "date": "2020-09-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Adam & Eve, The First and Worst Couple",
@@ -575,9 +575,9 @@
             "slug": "good-morning-from-hell-2020-9-21",
             "date": "2020-09-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "True Crime Demons from Hell (Red Web Crossover)",
@@ -585,9 +585,9 @@
             "slug": "good-morning-from-hell-2020-9-14",
             "date": "2020-09-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Teacher From Heck",
@@ -595,9 +595,9 @@
             "slug": "good-morning-from-hell-2020-9-7",
             "date": "2020-09-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Great Leviathan! - w/ Hello from the Magic Tavern's Matt Young",
@@ -605,9 +605,9 @@
             "slug": "good-morning-from-hell-2020-8-31",
             "date": "2020-08-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Angelo the Foreign ExchAngel",
@@ -635,9 +635,9 @@
             "slug": "good-morning-from-hell-2020-8-3",
             "date": "2020-08-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Debate for President of Hell",
@@ -665,9 +665,9 @@
             "slug": "good-morning-from-hell-2020-39",
             "date": "2020-07-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Who Fights in Hell's Battle Arenas? -- A Death Battle! Crossover Episode!",
@@ -675,9 +675,9 @@
             "slug": "good-morning-from-hell-2020-6-29",
             "date": "2020-06-29",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Cain & Abel Reunited At Last",
@@ -685,9 +685,9 @@
             "slug": "good-morning-from-hell-2020-6-22",
             "date": "2020-06-22",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hogwarts vs Pignipple: Which Witch Wins?",
@@ -715,9 +715,9 @@
             "slug": "good-morning-from-hell-2020-6-1",
             "date": "2020-06-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hell's Most Popular Sin-fluencer",
@@ -725,9 +725,9 @@
             "slug": "good-morning-from-hell-2020-5-25",
             "date": "2020-05-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Genghis Khan Conquers Clayton",
@@ -735,9 +735,9 @@
             "slug": "good-morning-from-hell-2020-5-18",
             "date": "2020-05-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Jack Nicholson and the Return of Gambo",
@@ -745,9 +745,9 @@
             "slug": "good-morning-from-hell-2020-5-11",
             "date": "2020-05-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Great Greenocide",
@@ -755,9 +755,9 @@
             "slug": "good-morning-from-hell-2020-5-4",
             "date": "2020-05-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Movie Stars in Hell - Jimmy Stewart & Grace Kelley",
@@ -765,9 +765,9 @@
             "slug": "good-morning-from-hell-2020-4-27",
             "date": "2020-04-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Get High with the Wright Brothers",
@@ -805,9 +805,9 @@
             "slug": "good-morning-from-hell-2020-25",
             "date": "2020-03-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Father Abraham Visits from Heaven",
@@ -815,9 +815,9 @@
             "slug": "good-morning-from-hell-2020-abraham",
             "date": "2020-03-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Finding Cerberus A Forever Home",
@@ -825,9 +825,9 @@
             "slug": "good-morning-from-hell-2020-23",
             "date": "2020-03-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Intervention with the Vampire Hunter",
@@ -835,9 +835,9 @@
             "slug": "good-morning-from-hell-2020-22",
             "date": "2020-03-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Clayton and His Ex, Athena: The Goddess of War",
@@ -845,9 +845,9 @@
             "slug": "good-morning-from-hell-2020-21",
             "date": "2020-03-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The First Man to Drink Cow's Milk",
@@ -855,9 +855,9 @@
             "slug": "good-morning-from-hell-2020-20",
             "date": "2020-02-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Detective Roger Davis Hates Girl Scouts",
@@ -865,9 +865,9 @@
             "slug": "good-morning-from-hell-2020-detective-roger-davis-hates-girl-scouts",
             "date": "2020-02-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sex Advice with Cupid",
@@ -875,9 +875,9 @@
             "slug": "good-morning-from-hell-2020-18",
             "date": "2020-02-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Villainy Advice from The Joker",
@@ -885,9 +885,9 @@
             "slug": "good-morning-from-hell-2020-17",
             "date": "2020-02-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "How to Become a Haunted Doll (Always Open Crossover)",
@@ -895,9 +895,9 @@
             "slug": "good-morning-from-hell-2020-16",
             "date": "2020-01-27",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Jack the Ripper and Bloody Mary Get Hitched",
@@ -915,9 +915,9 @@
             "slug": "good-morning-from-hell-2020-1-13",
             "date": "2020-01-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hell\u2019s #1 Con-Artist",
@@ -925,9 +925,9 @@
             "slug": "good-morning-from-hell-2019-13",
             "date": "2020-01-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "George Washington's New Toy",
@@ -935,9 +935,9 @@
             "slug": "good-morning-from-hell-2019-12",
             "date": "2019-12-30",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Prank Calling Heaven",
@@ -945,9 +945,9 @@
             "slug": "good-morning-from-hell-2019-11",
             "date": "2019-12-23",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Truth About Santa",
@@ -955,9 +955,9 @@
             "slug": "good-morning-from-hell-2019-the-truth-about-santa",
             "date": "2019-12-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Getting Stoned with Medusa",
@@ -975,9 +975,9 @@
             "slug": "good-morning-from-hell-2019-8",
             "date": "2019-12-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hates-Giving with Sigmund Freud",
@@ -985,9 +985,9 @@
             "slug": "good-morning-from-hell-2019-hates-giving-with-sigmund-freud",
             "date": "2019-11-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "What Do Gremlins Do?",
@@ -1015,9 +1015,9 @@
             "slug": "good-morning-from-hell-2019-the-beatles-reunited-in-hell",
             "date": "2019-11-04",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Harrison Ford Goes to Hell",
@@ -1035,9 +1035,9 @@
             "slug": "rt-extras-2019-good-morning-from-hell-2",
             "date": "2019-10-21",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Welcome to Hell with Napoleon Bonaparte | Good Morning From Hell",
@@ -1045,9 +1045,9 @@
             "slug": "rt-extras-2019-good-morning-from-hell-1",
             "date": "2019-10-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

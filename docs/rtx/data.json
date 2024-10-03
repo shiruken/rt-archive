@@ -6,7 +6,7 @@
         "uploaded": 88,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 1
     },
     "data": [
         {
@@ -95,9 +95,9 @@
             "slug": "rtx-2021-good-morning-from-hell",
             "date": "2021-08-02",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "RTX at Home 2021 - Ten Days of Greatness",

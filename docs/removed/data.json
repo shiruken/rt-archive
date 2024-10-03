@@ -1,5 +1,5 @@
 {
-    "count": 887,
+    "count": 985,
     "data": [
         {
             "id": "52863",
@@ -2135,6 +2135,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "46145",
+            "title": "Heaven vs Hell: The Final Battle",
+            "slug": "good-morning-from-hell-2021-12-5",
+            "date": "2021-12-05",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "46133",
             "title": "The Warrior In The Woods",
             "slug": "rwby-fairy-tales-season-1-6",
@@ -2151,6 +2160,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "46050",
+            "title": "Cole Gallian is One Sick Dude",
+            "slug": "why-we-re-going-to-hell-2021-cole-gallian",
+            "date": "2021-11-28",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "46036",
@@ -2171,6 +2189,24 @@
             "show_slug": "infinights"
         },
         {
+            "id": "45989",
+            "title": "The Worst Thanksgiving Ever",
+            "slug": "why-we-re-going-to-hell-2021-zach-anner",
+            "date": "2021-11-21",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45990",
+            "title": "Hates-Giving with the Pope!",
+            "slug": "good-morning-from-hell-2021-11-21",
+            "date": "2021-11-21",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "45980",
             "title": "The Indecisive King",
             "slug": "rwby-fairy-tales-season-1-4",
@@ -2187,6 +2223,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45894",
+            "title": "Our Cringiest High School Confessions",
+            "slug": "why-we-re-going-to-hell-2021-gmfhps-11-10-brandon-farmahini",
+            "date": "2021-11-14",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45895",
+            "title": "How to Summon the Anti-Christ",
+            "slug": "good-morning-from-hell-2021-11-14",
+            "date": "2021-11-14",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "45900",
@@ -2207,6 +2261,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "45818",
+            "title": "How To Workout Like an Idiot",
+            "slug": "why-we-re-going-to-hell-2021-eddy-rivas",
+            "date": "2021-11-07",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "45824",
             "title": "The Hunter's Children",
             "slug": "rwby-fairy-tales-season-1-2",
@@ -2223,6 +2286,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45748",
+            "title": "Cheating at Game Night!",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-10-28-barbara",
+            "date": "2021-10-31",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45747",
+            "title": "Hobbits and Orcs and Elves, Oh My! - Featuring Tales from the Stinky Dragon",
+            "slug": "good-morning-from-hell-2021-10-31",
+            "date": "2021-10-31",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "45728",
@@ -2243,6 +2324,24 @@
             "show_slug": "infinights"
         },
         {
+            "id": "45664",
+            "title": "Remembering our E3 Nightmares",
+            "slug": "why-we-re-going-to-hell-2021-tamoor-lucy-post-show",
+            "date": "2021-10-24",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45662",
+            "title": "Berated by Brits!",
+            "slug": "good-morning-from-hell-2021-10-25",
+            "date": "2021-10-24",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "45602",
             "title": "Slique\u2019s Symphonic Showdown - Ep. 23",
             "slug": "tales-from-the-stinky-dragon-2021-23",
@@ -2250,6 +2349,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45580",
+            "title": "Vomiting in the Sky",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-10-14",
+            "date": "2021-10-17",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "45525",
@@ -2270,6 +2378,15 @@
             "show_slug": "rwby-fairy-tales"
         },
         {
+            "id": "45516",
+            "title": "Mike the Candy Man",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-snowbike-mike",
+            "date": "2021-10-10",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "45447",
             "title": "Run-of-the-Mill Heist - Ep. 21",
             "slug": "tales-from-the-stinky-dragon-2021-stinky-dragon-21",
@@ -2277,6 +2394,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45417",
+            "title": "Sleeping Through a Baptism",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-sleep-paralysis",
+            "date": "2021-10-03",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45418",
+            "title": "The Sleep Paralysis Demon",
+            "slug": "good-morning-from-hell-2021-10-4",
+            "date": "2021-10-03",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "45365",
@@ -2288,6 +2423,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "45348",
+            "title": "Romeo & Juliet Reunite",
+            "slug": "good-morning-from-hell-2021-9-27",
+            "date": "2021-09-26",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "45290",
             "title": "Up River Without a Skill - Ep. 19",
             "slug": "tales-from-the-stinky-dragon-2021-19",
@@ -2295,6 +2439,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45261",
+            "title": "Scaring People so Badly They Go to the Hospital",
+            "slug": "why-we-re-going-to-hell-2021-tom-booker",
+            "date": "2021-09-19",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "45208",
@@ -2306,6 +2459,24 @@
             "show_slug": "infinights"
         },
         {
+            "id": "45182",
+            "title": "I Want To Speak To The Manager",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-lindsay",
+            "date": "2021-09-12",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45183",
+            "title": "When Karens Attack",
+            "slug": "good-morning-from-hell-2021-gmfh-89",
+            "date": "2021-09-12",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "45122",
             "title": "Knock Knock, Guess Hugh! - Ep. 17",
             "slug": "tales-from-the-stinky-dragon-2021-17",
@@ -2313,6 +2484,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45120",
+            "title": "THE MOST PROLIFIC SERIAL KILLER YOU'VE NEVER HEARD OF",
+            "slug": "good-morning-from-hell-2021-gmfh-horror-virgin-gang",
+            "date": "2021-09-06",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "45119",
+            "title": "An Evil Prank With a Highschool Crush",
+            "slug": "why-we-re-going-to-hell-2021-virgin-horror",
+            "date": "2021-09-05",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "45054",
@@ -2324,6 +2513,24 @@
             "show_slug": "infinights"
         },
         {
+            "id": "45033",
+            "title": "Hell's #1 Game Developer",
+            "slug": "good-morning-from-hell-2021-8-30",
+            "date": "2021-08-30",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "45028",
+            "title": "Dumb Video Game Purchases with Steven Spohn",
+            "slug": "why-we-re-going-to-hell-2021-8-26-stephen-spohn",
+            "date": "2021-08-29",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "44985",
             "title": "Came in like a T-Wrecking Ball - Ep. 15",
             "slug": "tales-from-the-stinky-dragon-2021-15",
@@ -2331,6 +2538,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "44958",
+            "title": "The Most Evil Person in Hell?",
+            "slug": "good-morning-from-hell-2021-charlotte",
+            "date": "2021-08-23",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "44960",
+            "title": "Charlotte is Too Old for Halloween",
+            "slug": "why-we-re-going-to-hell-2021-8-19-charlotte",
+            "date": "2021-08-22",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "44910",
@@ -2342,6 +2567,24 @@
             "show_slug": "infinights"
         },
         {
+            "id": "44879",
+            "title": "Banking on The Babadour",
+            "slug": "good-morning-from-hell-2021-8-16",
+            "date": "2021-08-16",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "44878",
+            "title": "Eric Runs The Show",
+            "slug": "why-we-re-going-to-hell-2021-eric-b",
+            "date": "2021-08-15",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "44787",
             "title": "A Fine Howie Do You Do - Ep. 13",
             "slug": "tales-from-the-stinky-dragon-2021-13",
@@ -2349,6 +2592,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "44765",
+            "title": "Car Chases and Road Rage",
+            "slug": "why-we-re-going-to-hell-2021-post-show-ky",
+            "date": "2021-08-08",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "44718",
@@ -2360,6 +2612,24 @@
             "show_slug": "infinights"
         },
         {
+            "id": "44699",
+            "title": "Good Morning From Hell @ RT Hexpo Presents: The Future of Hell",
+            "slug": "rtx-2021-good-morning-from-hell",
+            "date": "2021-08-02",
+            "is_first": false,
+            "show": "RTX",
+            "show_slug": "rtx"
+        },
+        {
+            "id": "44696",
+            "title": "The Future Of Hell",
+            "slug": "good-morning-from-hell-2021-gmfh-rtx",
+            "date": "2021-08-02",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "44644",
             "title": "Double Euphardy - Ep. 11",
             "slug": "tales-from-the-stinky-dragon-2021-7-27",
@@ -2367,6 +2637,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "44611",
+            "title": "Gorko The Stranded Alien",
+            "slug": "good-morning-from-hell-2021-7-26",
+            "date": "2021-07-26",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "44609",
+            "title": "Travel Stories From Hell",
+            "slug": "why-we-re-going-to-hell-2021-7-26-kdin",
+            "date": "2021-07-25",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "44562",
@@ -2414,6 +2702,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "44261",
+            "title": "House Hunting in Hell",
+            "slug": "good-morning-from-hell-2021-6-28",
+            "date": "2021-06-28",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "44214",
             "title": "Pyous Pass Pt. 3 - Ep. 8",
             "slug": "tales-from-the-stinky-dragon-2021-6-22",
@@ -2421,6 +2718,24 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "44204",
+            "title": "Demonic Dating Advice",
+            "slug": "good-morning-from-hell-2021-6-21",
+            "date": "2021-06-21",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "44171",
+            "title": "Austin's Awful Dating Scene",
+            "slug": "why-we-re-going-to-hell-2021-love-guru",
+            "date": "2021-06-20",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "44117",
@@ -2432,6 +2747,15 @@
             "show_slug": "infinights"
         },
         {
+            "id": "44086",
+            "title": "Pyramid Schemes with a Mummy",
+            "slug": "good-morning-from-hell-2021-6-14",
+            "date": "2021-06-14",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "44003",
             "title": "Pyous Pass Pt. 1 - Ep. 6",
             "slug": "tales-from-the-stinky-dragon-2021-6",
@@ -2439,6 +2763,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "43978",
+            "title": "Backstage Pass(ed out)",
+            "slug": "why-we-re-going-to-hell-2021-5-30",
+            "date": "2021-06-06",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "43928",
@@ -2468,6 +2801,15 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "43810",
+            "title": "Matt Bragg Attacked Strangers Using Hornets",
+            "slug": "why-we-re-going-to-hell-2021-ps-11",
+            "date": "2021-05-23",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "43745",
             "title": "The Search for Dr. Ahem Pt. 2 - Ep. 3",
             "slug": "tales-from-the-stinky-dragon-2021-3",
@@ -2484,6 +2826,15 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "43722",
+            "title": "Elyse Steals Food and Chris Calls the Cops",
+            "slug": "why-we-re-going-to-hell-2021-episode-10",
+            "date": "2021-05-16",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "43658",
@@ -2513,6 +2864,15 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "43557",
+            "title": "D&D Ended Gus' Friendship",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-09",
+            "date": "2021-05-02",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "43463",
             "title": "In Search of Taupe",
             "slug": "rwby-the-grimm-campaign-season-2-4-26",
@@ -2520,6 +2880,15 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "43475",
+            "title": "The Theme Park From Hell",
+            "slug": "good-morning-from-hell-2021-4-26",
+            "date": "2021-04-26",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "43386",
@@ -2547,6 +2916,24 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "43267",
+            "title": "The Secret Life of Mascots",
+            "slug": "good-morning-from-hell-2021-3-29",
+            "date": "2021-04-12",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "43270",
+            "title": "Alfredo\u2019s Sports Fail that Ended in Love and Weird People in Costumes",
+            "slug": "why-we-re-going-to-hell-2021-4-11",
+            "date": "2021-04-11",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "43169",
@@ -2585,6 +2972,24 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "42923",
+            "title": "Hellen Degenerate Steals The Show",
+            "slug": "good-morning-from-hell-2021-3-22",
+            "date": "2021-03-22",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "42929",
+            "title": "Mariel's Terrible Celebrity Encounter",
+            "slug": "why-we-re-going-to-hell-2021-05",
+            "date": "2021-03-21",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "42928",
             "title": "Worthy",
             "slug": "rwby-volume-8-13",
@@ -2601,6 +3006,15 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "42823",
+            "title": "The Trooth about the Tooth Fairy",
+            "slug": "good-morning-from-hell-2021-3-15",
+            "date": "2021-03-15",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "42834",
@@ -2621,6 +3035,24 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "42742",
+            "title": "Jekyll Sucks, Hyde F**ks",
+            "slug": "good-morning-from-hell-2021-3-8",
+            "date": "2021-03-08",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "42740",
+            "title": "Why You Shouldn\u2019t Date Gus or Jon",
+            "slug": "why-we-re-going-to-hell-2021-03",
+            "date": "2021-03-07",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
+        },
+        {
             "id": "42736",
             "title": "Risk",
             "slug": "rwby-volume-8-11",
@@ -2637,6 +3069,15 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "42613",
+            "title": "Choking Dudes Out with Jeremy Dooley",
+            "slug": "why-we-re-going-to-hell-2021-post-show-02",
+            "date": "2021-02-28",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "42630",
@@ -2657,6 +3098,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "42586",
+            "title": "Building a Cybernetic Battle Demon - Doug Gug Chaos 2.0",
+            "slug": "good-morning-from-hell-2021-episode-8",
+            "date": "2021-02-25",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "1452-bonus",
             "title": "RWBY Recap Episode 4 - Volume 6",
             "slug": "rwby-vol-6-recap",
@@ -2673,6 +3123,15 @@
             "is_first": false,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "42484",
+            "title": "Edgar Allan Poe, The Ghost Writer",
+            "slug": "good-morning-from-hell-2021-2-15",
+            "date": "2021-02-15",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "42475",
@@ -2693,6 +3152,15 @@
             "show_slug": "rwby"
         },
         {
+            "id": "42384",
+            "title": "Wingmanning for Cupid",
+            "slug": "wingmanning-for-cupid",
+            "date": "2021-02-08",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "42378",
             "title": "Dark",
             "slug": "rwby-volume-8-8",
@@ -2709,6 +3177,15 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "42280",
+            "title": "Spicier Than Hell",
+            "slug": "good-morning-from-hell-2021-2-1",
+            "date": "2021-02-01",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "1447-bonus",
@@ -2736,6 +3213,24 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "42124",
+            "title": "The David & Goliath Rematch",
+            "slug": "good-morning-from-hell-2021-1-4",
+            "date": "2021-01-18",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "42054",
+            "title": "The True Story of Hansel & Gretel",
+            "slug": "good-morning-from-hell-2021-1-11",
+            "date": "2021-01-11",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "41960",
@@ -2828,6 +3323,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "41621",
+            "title": "Siren Seduction",
+            "slug": "good-morning-from-hell-2020-12-7",
+            "date": "2020-12-07",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "41614",
             "title": "Amity",
             "slug": "rwby-volume-8-5",
@@ -2844,6 +3348,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "41455",
+            "title": "Tesla vs Edison: Battle of the Brains",
+            "slug": "good-morning-from-hell-2020-11-30",
+            "date": "2020-11-30",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "41337",
@@ -2871,6 +3384,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "41297",
+            "title": "The Presidents of Turkeys",
+            "slug": "good-morning-from-hell-2020-11-23",
+            "date": "2020-11-23",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "41289",
@@ -2945,6 +3467,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "41104",
+            "title": "Neil Armstrong - Hell\u2019s First Astronaut",
+            "slug": "good-morning-from-hell-2020-11-8",
+            "date": "2020-11-09",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "41099",
             "title": "Divide",
             "slug": "rwby-volume-8-1",
@@ -2952,6 +3483,15 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "41033",
+            "title": "The Election From Hell",
+            "slug": "good-morning-from-hell-2020-11-2",
+            "date": "2020-11-02",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "40995",
@@ -2979,6 +3519,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "40665",
+            "title": "The Girl from The Ring: Where is She Now?",
+            "slug": "good-morning-from-hell-2020-10-19",
+            "date": "2020-10-19",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "40638",
@@ -3035,6 +3584,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "40530",
+            "title": "The Not-So-Grim Reaper",
+            "slug": "good-morning-from-hell-2020-10-5",
+            "date": "2020-10-05",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "40523",
             "title": "Secrets and Scrolls!",
             "slug": "rwby-the-grimm-campaign-season-1-8",
@@ -3062,6 +3620,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "40442",
+            "title": "Greek Bros Party HARD",
+            "slug": "good-morning-from-hell-2020-9-28",
+            "date": "2020-09-28",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "40443",
             "title": "Heists and Holidays!",
             "slug": "rwby-the-grimm-campaign-season-1-7",
@@ -3080,6 +3647,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "40353",
+            "title": "Good Morning From Hell",
+            "slug": "rtx-2020-good-morning-from-hell-panel",
+            "date": "2020-09-23",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "40355",
             "title": "Farming with Macho Man",
             "slug": "backwardz-compatible-2020-9-21",
@@ -3087,6 +3663,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "40336",
+            "title": "Adam & Eve, The First and Worst Couple",
+            "slug": "good-morning-from-hell-2020-9-21",
+            "date": "2020-09-21",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "40331",
@@ -3116,6 +3701,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "40242",
+            "title": "True Crime Demons from Hell (Red Web Crossover)",
+            "slug": "good-morning-from-hell-2020-9-14",
+            "date": "2020-09-14",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "40245",
             "title": "A Rocky Start",
             "slug": "rwby-the-grimm-campaign-season-1-5",
@@ -3143,6 +3737,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "40141",
+            "title": "The Teacher From Heck",
+            "slug": "good-morning-from-hell-2020-9-7",
+            "date": "2020-09-07",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "40145",
             "title": "Curious Cats & Friends",
             "slug": "rwby-the-grimm-campaign-season-1-4",
@@ -3168,6 +3771,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "40020",
+            "title": "The Great Leviathan! - w/ Hello from the Magic Tavern's Matt Young",
+            "slug": "good-morning-from-hell-2020-8-31",
+            "date": "2020-08-31",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "40032",
@@ -3287,6 +3899,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39625",
+            "title": "How We Made Hell - Bonus",
+            "slug": "good-morning-from-hell-2020-8-3",
+            "date": "2020-08-03",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "39574",
             "title": "G4: Back from the Dead",
             "slug": "backwardz-compatible-ctrl-z-7-31",
@@ -3404,6 +4025,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39205",
+            "title": "Clayton Gets A Cult",
+            "slug": "good-morning-from-hell-2020-39",
+            "date": "2020-07-06",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "39204",
             "title": "PRO Producers on RWBY!",
             "slug": "talk-crwby-to-me-1-7",
@@ -3449,6 +4079,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39095",
+            "title": "Who Fights in Hell's Battle Arenas? -- A Death Battle! Crossover Episode!",
+            "slug": "good-morning-from-hell-2020-6-29",
+            "date": "2020-06-29",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "39086",
             "title": "RWBY Gets Edited",
             "slug": "talk-crwby-to-me-1-6",
@@ -3492,6 +4131,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "38995",
+            "title": "Cain & Abel Reunited At Last",
+            "slug": "good-morning-from-hell-2020-6-22",
+            "date": "2020-06-22",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "38967",
@@ -3602,6 +4250,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "38655",
+            "title": "Bridge Troll and Internet Troll Troubles",
+            "slug": "good-morning-from-hell-2020-6-1",
+            "date": "2020-06-01",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "38649",
             "title": "Bringing Remnant to Life",
             "slug": "talk-crwby-to-me-1-2",
@@ -3638,6 +4295,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "38553",
+            "title": "Hell's Most Popular Sin-fluencer",
+            "slug": "good-morning-from-hell-2020-5-25",
+            "date": "2020-05-25",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "38546",
             "title": "The Direction of RWBY",
             "slug": "talk-crwby-to-me-1-1",
@@ -3663,6 +4329,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "38411",
+            "title": "Genghis Khan Conquers Clayton",
+            "slug": "good-morning-from-hell-2020-5-18",
+            "date": "2020-05-18",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "38034",
@@ -3692,6 +4367,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "37969",
+            "title": "Jack Nicholson and the Return of Gambo",
+            "slug": "good-morning-from-hell-2020-5-11",
+            "date": "2020-05-11",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "37940",
             "title": "MOAR Valorant!",
             "slug": "backwardz-compatible-2020-5-7",
@@ -3719,6 +4403,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "37871",
+            "title": "The Great Greenocide",
+            "slug": "good-morning-from-hell-2020-5-4",
+            "date": "2020-05-04",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "37842",
             "title": "Prom Night!",
             "slug": "backwardz-compatible-2020-4-30",
@@ -3744,6 +4437,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "37766",
+            "title": "Movie Stars in Hell - Jimmy Stewart & Grace Kelley",
+            "slug": "good-morning-from-hell-2020-4-27",
+            "date": "2020-04-27",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "37730",
@@ -3827,6 +4529,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "37316",
+            "title": "Sootball - Hell's #1 Sport",
+            "slug": "good-morning-from-hell-2020-25",
+            "date": "2020-03-30",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "37220",
             "title": "DOOM Eternal",
             "slug": "backwardz-compatible-2020-doom",
@@ -3834,6 +4545,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "37251",
+            "title": "Father Abraham Visits from Heaven",
+            "slug": "good-morning-from-hell-2020-abraham",
+            "date": "2020-03-23",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "37230",
@@ -3854,6 +4574,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "37177",
+            "title": "Finding Cerberus A Forever Home",
+            "slug": "good-morning-from-hell-2020-23",
+            "date": "2020-03-16",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "37154",
             "title": "The First Chipotle",
             "slug": "backwardz-compatible-2020-3-12",
@@ -3870,6 +4599,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "37100",
+            "title": "Intervention with the Vampire Hunter",
+            "slug": "good-morning-from-hell-2020-22",
+            "date": "2020-03-09",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "37083",
@@ -3890,6 +4628,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "37013",
+            "title": "Clayton and His Ex, Athena: The Goddess of War",
+            "slug": "good-morning-from-hell-2020-21",
+            "date": "2020-03-02",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "36989",
             "title": "Monsoon",
             "slug": "backwardz-compatible-2020-2-27",
@@ -3906,6 +4653,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36873",
+            "title": "The First Man to Drink Cow's Milk",
+            "slug": "good-morning-from-hell-2020-20",
+            "date": "2020-02-24",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "36849",
@@ -3926,6 +4682,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36813",
+            "title": "Detective Roger Davis Hates Girl Scouts",
+            "slug": "good-morning-from-hell-2020-detective-roger-davis-hates-girl-scouts",
+            "date": "2020-02-17",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "36758",
             "title": "Sister Sacks",
             "slug": "backwardz-compatible-2020-2-10",
@@ -3933,6 +4698,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36735",
+            "title": "Sex Advice with Cupid",
+            "slug": "good-morning-from-hell-2020-18",
+            "date": "2020-02-10",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "36721",
@@ -3980,6 +4754,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36666",
+            "title": "Villainy Advice from The Joker",
+            "slug": "good-morning-from-hell-2020-17",
+            "date": "2020-02-03",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "36665",
             "title": "The Enemy of Trust",
             "slug": "rwby-volume-7-13",
@@ -4005,6 +4788,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36541",
+            "title": "How to Become a Haunted Doll (Always Open Crossover)",
+            "slug": "good-morning-from-hell-2020-16",
+            "date": "2020-01-27",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "36454",
@@ -4043,6 +4835,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36389",
+            "title": "Colonizing a New Hell with John Smith",
+            "slug": "good-morning-from-hell-2020-1-13",
+            "date": "2020-01-13",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "36374",
             "title": "Out in the Open",
             "slug": "rwby-volume-7-10",
@@ -4068,6 +4869,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36324",
+            "title": "Hell\u2019s #1 Con-Artist",
+            "slug": "good-morning-from-hell-2019-13",
+            "date": "2020-01-06",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "36321",
@@ -4097,6 +4907,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36230",
+            "title": "George Washington's New Toy",
+            "slug": "good-morning-from-hell-2019-12",
+            "date": "2019-12-30",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "1415-bonus",
             "title": "FRWBY Teases Ch.9 & Recaps Vol. 7",
             "slug": "rwby-frwby",
@@ -4124,6 +4943,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "36206",
+            "title": "Prank Calling Heaven",
+            "slug": "good-morning-from-hell-2019-11",
+            "date": "2019-12-23",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "36074",
             "title": "Cordially Invited",
             "slug": "rwby-volume-7-8",
@@ -4149,6 +4977,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36109",
+            "title": "The Truth About Santa",
+            "slug": "good-morning-from-hell-2019-the-truth-about-santa",
+            "date": "2019-12-16",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "36073",
@@ -4205,6 +5042,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "35932",
+            "title": "What Do People Eat in Hell?",
+            "slug": "good-morning-from-hell-2019-8",
+            "date": "2019-12-02",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "35774",
             "title": "Sparks",
             "slug": "rwby-volume-7-5",
@@ -4230,6 +5076,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "35875",
+            "title": "Hates-Giving with Sigmund Freud",
+            "slug": "good-morning-from-hell-2019-hates-giving-with-sigmund-freud",
+            "date": "2019-11-25",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "35773",
@@ -4322,6 +5177,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "35588",
+            "title": "The Beatles Reunited in Hell",
+            "slug": "good-morning-from-hell-2019-the-beatles-reunited-in-hell",
+            "date": "2019-11-04",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "35563",
             "title": "The Greatest Kingdom",
             "slug": "rwby-volume-7-1",
@@ -4374,6 +5238,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "35415",
+            "title": "Security Demon Doug & The Hell Wars | Good Morning From Hell",
+            "slug": "rt-extras-2019-good-morning-from-hell-2",
+            "date": "2019-10-21",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "35420",
@@ -4437,6 +5310,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "35297",
+            "title": "Welcome to Hell with Napoleon Bonaparte | Good Morning From Hell",
+            "slug": "rt-extras-2019-good-morning-from-hell-1",
+            "date": "2019-10-10",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "35265",
