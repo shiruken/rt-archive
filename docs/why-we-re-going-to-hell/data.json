@@ -6,7 +6,7 @@
         "uploaded": 32,
         "missing": 0,
         "incomplete": 0,
-        "removed": 26
+        "removed": 30
     },
     "data": [
         {
@@ -195,9 +195,9 @@
             "slug": "why-we-re-going-to-hell-2021-realtor-from-hell",
             "date": "2021-06-27",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Austin's Awful Dating Scene",
@@ -255,9 +255,9 @@
             "slug": "why-we-re-going-to-hell-2021-4-25",
             "date": "2021-04-25",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Worst Live Theater **** Up in History",
@@ -295,9 +295,9 @@
             "slug": "why-we-re-going-to-hell-2021-3-14",
             "date": "2021-03-14",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Why You Shouldn\u2019t Date Gus or Jon",
@@ -325,9 +325,9 @@
             "slug": "why-we-re-going-to-hell-2021-post-show-01",
             "date": "2021-02-28",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         }
     ]
 }

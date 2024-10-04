@@ -6,7 +6,7 @@
         "uploaded": 104,
         "missing": 0,
         "incomplete": 0,
-        "removed": 71
+        "removed": 94
     },
     "data": [
         {
@@ -15,9 +15,9 @@
             "slug": "good-morning-from-hell-2021-12-13",
             "date": "2021-12-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Heaven vs Hell: The Final Battle",
@@ -95,9 +95,9 @@
             "slug": "good-morning-from-hell-2021-10-18",
             "date": "2021-10-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Spying on Heaven with Benedict Arnold",
@@ -135,9 +135,9 @@
             "slug": "good-morning-from-hell-2021-9-19",
             "date": "2021-09-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "When Karens Attack",
@@ -195,9 +195,9 @@
             "slug": "good-morning-from-hell-2021-gmfh-ky",
             "date": "2021-08-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Future Of Hell",
@@ -255,9 +255,9 @@
             "slug": "good-morning-from-hell-2021-6-7",
             "date": "2021-06-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Live From Hell: An Interactive Game Show Hextravaganza!",
@@ -265,9 +265,9 @@
             "slug": "good-morning-from-hell-2021-spring-event-series-6-1",
             "date": "2021-06-01",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Pawn Stars in Hell!",
@@ -275,9 +275,9 @@
             "slug": "good-morning-from-hell-2021-5-24",
             "date": "2021-05-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Good Morning Ratman!",
@@ -285,9 +285,9 @@
             "slug": "good-morning-from-hell-2021-5-17",
             "date": "2021-05-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Daemon the Demon DM",
@@ -315,9 +315,9 @@
             "slug": "good-morning-from-hell-2021-4-19",
             "date": "2021-04-19",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Secret Life of Mascots",
@@ -415,9 +415,9 @@
             "slug": "good-morning-from-hell-2021-1-25",
             "date": "2021-01-25",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The David & Goliath Rematch",
@@ -485,9 +485,9 @@
             "slug": "good-morning-from-hell-2020-11-16",
             "date": "2020-11-16",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Neil Armstrong - Hell\u2019s First Astronaut",
@@ -515,9 +515,9 @@
             "slug": "good-morning-from-hell-2020-10-26",
             "date": "2020-10-26",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Girl from The Ring: Where is She Now?",
@@ -535,9 +535,9 @@
             "slug": "good-morning-from-hell-2020-10-12",
             "date": "2020-10-12",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Not-So-Grim Reaper",
@@ -625,9 +625,9 @@
             "slug": "good-morning-from-hell-2020-8-17",
             "date": "2020-08-17",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "How We Made Hell - Bonus",
@@ -695,9 +695,9 @@
             "slug": "good-morning-from-hell-2020-6-15",
             "date": "2020-06-15",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "A Titanic Screw Up",
@@ -705,9 +705,9 @@
             "slug": "good-morning-from-hell-2020-6-8",
             "date": "2020-06-08",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Bridge Troll and Internet Troll Troubles",
@@ -775,9 +775,9 @@
             "slug": "good-morning-from-hell-2020-4-20",
             "date": "2020-04-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Chef Bile - The Cooking Monster",
@@ -785,9 +785,9 @@
             "slug": "good-morning-from-hell-2020-27",
             "date": "2020-04-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hell Freezes Over",
@@ -795,9 +795,9 @@
             "slug": "good-morning-from-hell-2020-26",
             "date": "2020-04-06",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Sootball - Hell's #1 Sport",
@@ -965,9 +965,9 @@
             "slug": "good-morning-from-hell-2019-getting-stoned-with-medusa",
             "date": "2019-12-09",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "What Do People Eat in Hell?",
@@ -995,9 +995,9 @@
             "slug": "good-morning-from-hell-2019-what-do-gremlins-do",
             "date": "2019-11-18",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Joseph Stalin Throws a Party in Hell",
@@ -1005,9 +1005,9 @@
             "slug": "good-morning-from-hell-2019-5",
             "date": "2019-11-11",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Beatles Reunited in Hell",
@@ -1025,9 +1025,9 @@
             "slug": "good-morning-from-hell-2019-harrison-ford-goes-to-hell",
             "date": "2019-10-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Security Demon Doug & The Hell Wars | Good Morning From Hell",
