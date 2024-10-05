@@ -6,7 +6,7 @@
         "uploaded": 104,
         "missing": 0,
         "incomplete": 0,
-        "removed": 94
+        "removed": 95
     },
     "data": [
         {
@@ -105,9 +105,9 @@
             "slug": "good-morning-from-hell-2021-10-11",
             "date": "2021-10-10",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Sleep Paralysis Demon",
