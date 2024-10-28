@@ -3,10 +3,10 @@
     "slug": "why-we-re-going-to-hell",
     "summary": {
         "count": 32,
-        "uploaded": 32,
-        "missing": 0,
+        "uploaded": 29,
+        "missing": 3,
         "incomplete": 0,
-        "removed": 30
+        "removed": 27
     },
     "data": [
         {
@@ -27,7 +27,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Our Cringiest High School Confessions",
@@ -207,7 +207,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Backstage Pass(ed out)",
@@ -277,7 +277,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Mariel's Terrible Celebrity Encounter",

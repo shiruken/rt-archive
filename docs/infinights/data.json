@@ -3,10 +3,10 @@
     "slug": "infinights",
     "summary": {
         "count": 102,
-        "uploaded": 102,
-        "missing": 0,
+        "uploaded": 96,
+        "missing": 6,
         "incomplete": 0,
-        "removed": 102
+        "removed": 96
     },
     "data": [
         {
@@ -197,7 +197,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Curmudgeons & Dragons - Ep. 75",
@@ -227,7 +227,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Young at Bart - Ep. 72",
@@ -537,7 +537,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Swarm and Fuzzy - Ep. 45",
@@ -577,7 +577,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Down Dreamery Lane - Ep. 41",
@@ -967,7 +967,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Taverns, Tomes, & Training - Ep. 5",
@@ -987,7 +987,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Search for Dr. Ahem Pt. 2 - Ep. 3",

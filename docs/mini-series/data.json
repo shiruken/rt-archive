@@ -3,10 +3,10 @@
     "slug": "mini-series",
     "summary": {
         "count": 15,
-        "uploaded": 15,
-        "missing": 0,
+        "uploaded": 14,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 15
+        "removed": 14
     },
     "data": [
         {
@@ -117,7 +117,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Will They Choose To Save The World? - Ep. 1",

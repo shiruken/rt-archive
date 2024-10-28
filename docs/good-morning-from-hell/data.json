@@ -3,10 +3,10 @@
     "slug": "good-morning-from-hell",
     "summary": {
         "count": 104,
-        "uploaded": 104,
-        "missing": 0,
+        "uploaded": 96,
+        "missing": 8,
         "incomplete": 0,
-        "removed": 95
+        "removed": 87
     },
     "data": [
         {
@@ -187,7 +187,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Relationship Counseling for Chris & Clayton",
@@ -217,7 +217,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "House Hunting in Hell",
@@ -327,7 +327,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Hellen Degenerate Steals The Show",
@@ -717,7 +717,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Hell's Most Popular Sin-fluencer",
@@ -737,7 +737,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Jack Nicholson and the Return of Gambo",
@@ -767,7 +767,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Get High with the Wright Brothers",
@@ -827,7 +827,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Intervention with the Vampire Hunter",
@@ -857,7 +857,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Detective Roger Davis Hates Girl Scouts",

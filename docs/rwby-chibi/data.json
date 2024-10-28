@@ -3,10 +3,10 @@
     "slug": "rwby-chibi",
     "summary": {
         "count": 67,
-        "uploaded": 67,
-        "missing": 0,
+        "uploaded": 65,
+        "missing": 2,
         "incomplete": 0,
-        "removed": 64
+        "removed": 62
     },
     "data": [
         {
@@ -177,7 +177,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Episode 24 - Nondescript Holiday Spectacular",
@@ -587,7 +587,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Episode 9 - Ren Plays Tag",

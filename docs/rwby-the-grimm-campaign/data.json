@@ -3,10 +3,10 @@
     "slug": "rwby-the-grimm-campaign",
     "summary": {
         "count": 25,
-        "uploaded": 25,
-        "missing": 0,
+        "uploaded": 23,
+        "missing": 2,
         "incomplete": 0,
-        "removed": 24
+        "removed": 22
     },
     "data": [
         {
@@ -157,7 +157,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Can You Hear Me Now?",
@@ -177,7 +177,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Secrets and Scrolls!",

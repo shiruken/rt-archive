@@ -3,10 +3,10 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 82,
-        "uploaded": 82,
-        "missing": 0,
+        "uploaded": 78,
+        "missing": 4,
         "incomplete": 0,
-        "removed": 82
+        "removed": 78
     },
     "data": [
         {
@@ -217,7 +217,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Velcome to Vainia - C02 - Ep 35",
@@ -417,7 +417,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Cart Before The Horseman - C02 - Ep 26",
@@ -427,7 +427,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "[Second Wind] Between The Tales - C02 - Ep 25.5",
@@ -767,7 +767,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Alchemist the Mark - Ep. 6",
