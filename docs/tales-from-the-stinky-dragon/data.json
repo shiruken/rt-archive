@@ -3,10 +3,10 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 82,
-        "uploaded": 78,
-        "missing": 4,
+        "uploaded": 79,
+        "missing": 3,
         "incomplete": 0,
-        "removed": 78
+        "removed": 79
     },
     "data": [
         {
@@ -217,7 +217,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Velcome to Vainia - C02 - Ep 35",
@@ -527,7 +527,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "[Second Wind] Swept Under The Slug - C02 - Ep 21",
@@ -767,7 +767,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Alchemist the Mark - Ep. 6",

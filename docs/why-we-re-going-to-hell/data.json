@@ -27,7 +27,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Our Cringiest High School Confessions",
@@ -37,7 +37,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "How To Workout Like an Idiot",

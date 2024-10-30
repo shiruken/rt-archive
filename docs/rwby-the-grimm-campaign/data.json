@@ -3,10 +3,10 @@
     "slug": "rwby-the-grimm-campaign",
     "summary": {
         "count": 25,
-        "uploaded": 23,
-        "missing": 2,
+        "uploaded": 22,
+        "missing": 3,
         "incomplete": 0,
-        "removed": 22
+        "removed": 21
     },
     "data": [
         {
@@ -177,7 +177,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Secrets and Scrolls!",
@@ -187,7 +187,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Heists and Holidays!",
@@ -207,7 +207,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "A Rocky Start",

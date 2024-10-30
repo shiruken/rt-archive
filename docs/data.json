@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42545,
-        "missing": 58,
+        "uploaded": 42546,
+        "missing": 57,
         "incomplete": 1674,
-        "removed": 955
+        "removed": 956
     },
     "data": [
         {
@@ -641,10 +641,10 @@
             "show": "CRWBY: Behind the Episode",
             "slug": "c-r-w-b-y-behind-the-episode",
             "count": 27,
-            "uploaded": 25,
-            "missing": 2,
+            "uploaded": 26,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 25
+            "removed": 26
         },
         {
             "show": "Cult Podcast",
@@ -1487,10 +1487,10 @@
             "show": "Good Morning From Hell",
             "slug": "good-morning-from-hell",
             "count": 104,
-            "uploaded": 96,
-            "missing": 8,
+            "uploaded": 98,
+            "missing": 6,
             "incomplete": 0,
-            "removed": 87
+            "removed": 89
         },
         {
             "show": "Google Trends",
@@ -1739,10 +1739,10 @@
             "show": "Infinights",
             "slug": "infinights",
             "count": 102,
-            "uploaded": 96,
-            "missing": 6,
+            "uploaded": 94,
+            "missing": 8,
             "incomplete": 0,
-            "removed": 96
+            "removed": 94
         },
         {
             "show": "Inside Gaming Daily",
@@ -2225,10 +2225,10 @@
             "show": "Mini-Series",
             "slug": "mini-series",
             "count": 15,
-            "uploaded": 14,
-            "missing": 1,
+            "uploaded": 13,
+            "missing": 2,
             "incomplete": 0,
-            "removed": 14
+            "removed": 13
         },
         {
             "show": "Minimations",
@@ -3008,10 +3008,10 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 157,
-            "missing": 13,
+            "uploaded": 159,
+            "missing": 11,
             "incomplete": 0,
-            "removed": 151
+            "removed": 153
         },
         {
             "show": "RWBY Chibi",
@@ -3071,19 +3071,19 @@
             "show": "RWBY: The Grimm Campaign",
             "slug": "rwby-the-grimm-campaign",
             "count": 25,
-            "uploaded": 23,
-            "missing": 2,
+            "uploaded": 22,
+            "missing": 3,
             "incomplete": 0,
-            "removed": 22
+            "removed": 21
         },
         {
             "show": "RWBY: World of Remnant",
             "slug": "world-of-remnant",
             "count": 16,
-            "uploaded": 16,
-            "missing": 0,
+            "uploaded": 15,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 16
+            "removed": 15
         },
         {
             "show": "Schooled",
@@ -3359,10 +3359,10 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 82,
-            "uploaded": 78,
-            "missing": 4,
+            "uploaded": 79,
+            "missing": 3,
             "incomplete": 0,
-            "removed": 78
+            "removed": 79
         },
         {
             "show": "Talk CRWBY to Me",

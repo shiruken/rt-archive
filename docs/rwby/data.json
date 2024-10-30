@@ -3,10 +3,10 @@
     "slug": "rwby",
     "summary": {
         "count": 170,
-        "uploaded": 157,
-        "missing": 13,
+        "uploaded": 159,
+        "missing": 11,
         "incomplete": 0,
-        "removed": 151
+        "removed": 153
     },
     "data": [
         {
@@ -237,7 +237,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Ultimatum",
@@ -327,7 +327,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "RWBY Volume 8 Midseason Trailer",
@@ -1327,7 +1327,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Chapter 11: No Brakes",
@@ -1417,7 +1417,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Chapter 2: Welcome to Beacon",
@@ -1467,7 +1467,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Volume 2: Production Diary 3",
@@ -1657,7 +1657,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Chapter 1: Ruby Rose",

@@ -3,10 +3,10 @@
     "slug": "mini-series",
     "summary": {
         "count": 15,
-        "uploaded": 14,
-        "missing": 1,
+        "uploaded": 13,
+        "missing": 2,
         "incomplete": 0,
-        "removed": 14
+        "removed": 13
     },
     "data": [
         {
@@ -127,7 +127,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "TFTSD LIVE @ RTX 2022",

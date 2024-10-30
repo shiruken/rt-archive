@@ -3,10 +3,10 @@
     "slug": "good-morning-from-hell",
     "summary": {
         "count": 104,
-        "uploaded": 96,
-        "missing": 8,
+        "uploaded": 98,
+        "missing": 6,
         "incomplete": 0,
-        "removed": 87
+        "removed": 89
     },
     "data": [
         {
@@ -77,7 +77,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Berated by Brits!",
@@ -187,7 +187,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Relationship Counseling for Chris & Clayton",
@@ -317,7 +317,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Secret Life of Mascots",
@@ -327,7 +327,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Hellen Degenerate Steals The Show",
@@ -737,7 +737,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Jack Nicholson and the Return of Gambo",
@@ -857,7 +857,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Detective Roger Davis Hates Girl Scouts",

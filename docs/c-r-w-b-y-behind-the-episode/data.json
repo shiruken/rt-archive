@@ -3,10 +3,10 @@
     "slug": "c-r-w-b-y-behind-the-episode",
     "summary": {
         "count": 27,
-        "uploaded": 25,
-        "missing": 2,
+        "uploaded": 26,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 25
+        "removed": 26
     },
     "data": [
         {
@@ -237,7 +237,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Setting the Scene",
