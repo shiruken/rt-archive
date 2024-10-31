@@ -3,10 +3,10 @@
     "slug": "world-of-remnant",
     "summary": {
         "count": 16,
-        "uploaded": 15,
-        "missing": 1,
+        "uploaded": 16,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 15
+        "removed": 16
     },
     "data": [
         {
@@ -117,7 +117,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Vytal Festival Tournament",

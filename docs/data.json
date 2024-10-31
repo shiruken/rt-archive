@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42546,
-        "missing": 57,
+        "uploaded": 42603,
+        "missing": 0,
         "incomplete": 1674,
-        "removed": 956
+        "removed": 1013
     },
     "data": [
         {
@@ -263,10 +263,10 @@
             "show": "Backwardz Compatible",
             "slug": "backwardz-compatible",
             "count": 366,
-            "uploaded": 351,
-            "missing": 15,
+            "uploaded": 366,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 277
+            "removed": 292
         },
         {
             "show": "Barbara Vlogs",
@@ -641,10 +641,10 @@
             "show": "CRWBY: Behind the Episode",
             "slug": "c-r-w-b-y-behind-the-episode",
             "count": 27,
-            "uploaded": 26,
-            "missing": 1,
+            "uploaded": 27,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 26
+            "removed": 27
         },
         {
             "show": "Cult Podcast",
@@ -1487,10 +1487,10 @@
             "show": "Good Morning From Hell",
             "slug": "good-morning-from-hell",
             "count": 104,
-            "uploaded": 98,
-            "missing": 6,
+            "uploaded": 104,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 89
+            "removed": 95
         },
         {
             "show": "Google Trends",
@@ -1739,10 +1739,10 @@
             "show": "Infinights",
             "slug": "infinights",
             "count": 102,
-            "uploaded": 94,
-            "missing": 8,
+            "uploaded": 102,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 94
+            "removed": 102
         },
         {
             "show": "Inside Gaming Daily",
@@ -2225,10 +2225,10 @@
             "show": "Mini-Series",
             "slug": "mini-series",
             "count": 15,
-            "uploaded": 13,
-            "missing": 2,
+            "uploaded": 15,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 13
+            "removed": 15
         },
         {
             "show": "Minimations",
@@ -3008,19 +3008,19 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 159,
-            "missing": 11,
+            "uploaded": 170,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 153
+            "removed": 164
         },
         {
             "show": "RWBY Chibi",
             "slug": "rwby-chibi",
             "count": 67,
-            "uploaded": 65,
-            "missing": 2,
+            "uploaded": 67,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 62
+            "removed": 64
         },
         {
             "show": "RWBY Complete",
@@ -3071,19 +3071,19 @@
             "show": "RWBY: The Grimm Campaign",
             "slug": "rwby-the-grimm-campaign",
             "count": 25,
-            "uploaded": 22,
-            "missing": 3,
+            "uploaded": 25,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 21
+            "removed": 24
         },
         {
             "show": "RWBY: World of Remnant",
             "slug": "world-of-remnant",
             "count": 16,
-            "uploaded": 15,
-            "missing": 1,
+            "uploaded": 16,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 15
+            "removed": 16
         },
         {
             "show": "Schooled",
@@ -3314,19 +3314,19 @@
             "show": "Stinky Dragon Adventures",
             "slug": "stinky-dragon-adventures",
             "count": 17,
-            "uploaded": 16,
-            "missing": 1,
+            "uploaded": 17,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 16
+            "removed": 17
         },
         {
             "show": "Stinky Dragon Shorts",
             "slug": "stinky-dragon-shorts",
             "count": 10,
-            "uploaded": 9,
-            "missing": 1,
+            "uploaded": 10,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 9
+            "removed": 10
         },
         {
             "show": "Stroyent",
@@ -3359,10 +3359,10 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 82,
-            "uploaded": 79,
-            "missing": 3,
+            "uploaded": 82,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 79
+            "removed": 82
         },
         {
             "show": "Talk CRWBY to Me",
@@ -3836,10 +3836,10 @@
             "show": "Why We're Going to Hell",
             "slug": "why-we-re-going-to-hell",
             "count": 32,
-            "uploaded": 29,
-            "missing": 3,
+            "uploaded": 32,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 27
+            "removed": 30
         },
         {
             "show": "Wrestling With The Week",

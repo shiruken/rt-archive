@@ -3,10 +3,10 @@
     "slug": "backwardz-compatible",
     "summary": {
         "count": 366,
-        "uploaded": 351,
-        "missing": 15,
+        "uploaded": 366,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 277
+        "removed": 292
     },
     "data": [
         {
@@ -257,7 +257,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Bill, Bill, and Babish",
@@ -347,7 +347,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Endermen Party",
@@ -667,7 +667,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "DON'T Buy a PS5",
@@ -797,7 +797,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Flower Dance Betrayal",
@@ -827,7 +827,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Minecraft: Building Bases",
@@ -847,7 +847,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Pirates or Vikings?",
@@ -877,7 +877,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Wetness Scale",
@@ -887,7 +887,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Stardew Valley",
@@ -1617,7 +1617,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Paying Off Debt",
@@ -1777,7 +1777,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "O'Rin of the Water",
@@ -1907,7 +1907,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Cow Store",
@@ -2047,7 +2047,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "BzC in the Morning",
@@ -2437,7 +2437,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "It's Not Thanksgiving Yet",
@@ -2797,7 +2797,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Stretch Those Cheeks",
@@ -3407,7 +3407,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "RE7 #2 - Daddy Ain't Happy",

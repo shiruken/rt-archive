@@ -3,10 +3,10 @@
     "slug": "rwby-the-grimm-campaign",
     "summary": {
         "count": 25,
-        "uploaded": 22,
-        "missing": 3,
+        "uploaded": 25,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 21
+        "removed": 24
     },
     "data": [
         {
@@ -157,7 +157,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Can You Hear Me Now?",
@@ -187,7 +187,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Heists and Holidays!",
@@ -207,7 +207,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "A Rocky Start",

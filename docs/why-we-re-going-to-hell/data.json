@@ -3,10 +3,10 @@
     "slug": "why-we-re-going-to-hell",
     "summary": {
         "count": 32,
-        "uploaded": 29,
-        "missing": 3,
+        "uploaded": 32,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 27
+        "removed": 30
     },
     "data": [
         {
@@ -37,7 +37,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "How To Workout Like an Idiot",
@@ -207,7 +207,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Backstage Pass(ed out)",
@@ -277,7 +277,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Mariel's Terrible Celebrity Encounter",

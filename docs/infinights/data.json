@@ -3,10 +3,10 @@
     "slug": "infinights",
     "summary": {
         "count": 102,
-        "uploaded": 94,
-        "missing": 8,
+        "uploaded": 102,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 94
+        "removed": 102
     },
     "data": [
         {
@@ -197,7 +197,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Curmudgeons & Dragons - Ep. 75",
@@ -387,7 +387,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "You Shall Not Pyous Pass - Ep. 58",
@@ -537,7 +537,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Swarm and Fuzzy - Ep. 45",
@@ -577,7 +577,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Down Dreamery Lane - Ep. 41",
@@ -777,7 +777,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Slique\u2019s Symphonic Showdown - Ep. 23",
@@ -827,7 +827,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Hasta La Vista, Baby-T - Ep. 18",
@@ -977,7 +977,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Search for Dr. Ahem Pt. 3 - Ep. 4",
@@ -987,7 +987,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Search for Dr. Ahem Pt. 2 - Ep. 3",

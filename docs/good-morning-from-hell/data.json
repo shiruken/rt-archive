@@ -3,10 +3,10 @@
     "slug": "good-morning-from-hell",
     "summary": {
         "count": 104,
-        "uploaded": 98,
-        "missing": 6,
+        "uploaded": 104,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 89
+        "removed": 95
     },
     "data": [
         {
@@ -77,7 +77,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Berated by Brits!",
@@ -217,7 +217,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "House Hunting in Hell",
@@ -317,7 +317,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Secret Life of Mascots",
@@ -717,7 +717,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Hell's Most Popular Sin-fluencer",
@@ -767,7 +767,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Get High with the Wright Brothers",
@@ -827,7 +827,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Intervention with the Vampire Hunter",

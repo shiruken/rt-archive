@@ -3,10 +3,10 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 82,
-        "uploaded": 79,
-        "missing": 3,
+        "uploaded": 82,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 79
+        "removed": 82
     },
     "data": [
         {
@@ -417,7 +417,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Cart Before The Horseman - C02 - Ep 26",
@@ -427,7 +427,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Between The Tales - C02 - Ep 25.5",
@@ -527,7 +527,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Swept Under The Slug - C02 - Ep 21",

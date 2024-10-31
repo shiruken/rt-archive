@@ -3,10 +3,10 @@
     "slug": "c-r-w-b-y-behind-the-episode",
     "summary": {
         "count": 27,
-        "uploaded": 26,
-        "missing": 1,
+        "uploaded": 27,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 26
+        "removed": 27
     },
     "data": [
         {
@@ -137,7 +137,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Fanfare",
