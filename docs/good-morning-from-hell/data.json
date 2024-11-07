@@ -6,7 +6,7 @@
         "uploaded": 104,
         "missing": 0,
         "incomplete": 0,
-        "removed": 95
+        "removed": 103
     },
     "data": [
         {
@@ -35,9 +35,9 @@
             "slug": "good-morning-from-hell-2021-11-28",
             "date": "2021-11-28",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hates-Giving with the Pope!",
@@ -65,9 +65,9 @@
             "slug": "good-morning-from-hell-2021-11-7",
             "date": "2021-11-07",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Hobbits and Orcs and Elves, Oh My! - Featuring Tales from the Stinky Dragon",
@@ -295,9 +295,9 @@
             "slug": "good-morning-from-hell-2021-5-3",
             "date": "2021-05-03",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Theme Park From Hell",
@@ -365,9 +365,9 @@
             "slug": "good-morning-from-hell-2021-3-1",
             "date": "2021-03-01",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Building a Cybernetic Battle Demon - Doug Gug Chaos 2.0",
@@ -445,9 +445,9 @@
             "slug": "good-morning-from-hell-2020-12-14",
             "date": "2020-12-14",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Siren Seduction",
@@ -615,9 +615,9 @@
             "slug": "good-morning-from-hell-2020-8-24",
             "date": "2020-08-24",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "The Hellish Creative Process - Bonus Content",
@@ -645,9 +645,9 @@
             "slug": "good-morning-from-hell-2020-7-20",
             "date": "2020-07-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Jerry Mandering Explains Politics in Hell",
@@ -655,9 +655,9 @@
             "slug": "good-morning-from-hell-2020-7-13",
             "date": "2020-07-13",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Clayton Gets A Cult",

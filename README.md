@@ -16,8 +16,8 @@ Browse the [RT Archive](https://rtarchive.org/)
 * Items Uploaded to Internet Archive: 42,603 (100.000%)
 * Items Missing from Internet Archive: 0 (0.000%)
 * Incomplete Items on Internet Archive: 1,674 (3.929%)
-* Items Removed from Internet Archive: 1,013 (2.378%)
-* Overall Archive Availability: 93.693%
+* Items Removed from Internet Archive: 1,023 (2.401%)
+* Overall Archive Availability: 93.669%
 
 ## Rooster Teeth API
 

@@ -4,7 +4,7 @@
         "uploaded": 42603,
         "missing": 0,
         "incomplete": 1674,
-        "removed": 1013
+        "removed": 1023
     },
     "data": [
         {
@@ -1490,7 +1490,7 @@
             "uploaded": 104,
             "missing": 0,
             "incomplete": 0,
-            "removed": 95
+            "removed": 103
         },
         {
             "show": "Google Trends",
@@ -3839,7 +3839,7 @@
             "uploaded": 32,
             "missing": 0,
             "incomplete": 0,
-            "removed": 30
+            "removed": 32
         },
         {
             "show": "Wrestling With The Week",

@@ -1,5 +1,5 @@
 {
-    "count": 1013,
+    "count": 1023,
     "data": [
         {
             "id": "52863",
@@ -2180,6 +2180,15 @@
             "show_slug": "why-we-re-going-to-hell"
         },
         {
+            "id": "46051",
+            "title": "War, Famine, Pestilence, Death... and Clayton",
+            "slug": "good-morning-from-hell-2021-11-28",
+            "date": "2021-11-28",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "46036",
             "title": "The Girl In The Tower",
             "slug": "rwby-fairy-tales-season-1-5",
@@ -2277,6 +2286,15 @@
             "is_first": true,
             "show": "Why We're Going to Hell",
             "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "45816",
+            "title": "Hell's Personal Trainer",
+            "slug": "good-morning-from-hell-2021-11-7",
+            "date": "2021-11-07",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "45824",
@@ -2448,6 +2466,15 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
+        },
+        {
+            "id": "45349",
+            "title": "Couple's Goals... IN HELL",
+            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-jessica-devin",
+            "date": "2021-09-26",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "45348",
@@ -2954,6 +2981,15 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "43556",
+            "title": "Daemon the Demon DM",
+            "slug": "good-morning-from-hell-2021-5-3",
+            "date": "2021-05-03",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "43557",
             "title": "D&D Ended Gus' Friendship",
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-09",
@@ -3015,6 +3051,15 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
+        },
+        {
+            "id": "43362",
+            "title": "The Worst Live Theater **** Up in History",
+            "slug": "why-we-re-going-to-hell-2021-4-18",
+            "date": "2021-04-18",
+            "is_first": true,
+            "show": "Why We're Going to Hell",
+            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "43273",
@@ -3186,6 +3231,15 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "42641",
+            "title": "Making Friends with Mona Lisa",
+            "slug": "good-morning-from-hell-2021-3-1",
+            "date": "2021-03-01",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "42613",
@@ -3429,6 +3483,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "41718",
+            "title": "An Interview with Santa\u2019s Elf",
+            "slug": "good-morning-from-hell-2020-12-14",
+            "date": "2020-12-14",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "41730",
@@ -3971,6 +4034,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39932",
+            "title": "Angelo the Foreign ExchAngel",
+            "slug": "good-morning-from-hell-2020-8-24",
+            "date": "2020-08-24",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "39931",
             "title": "Action Time!",
             "slug": "rwby-the-grimm-campaign-season-1-2",
@@ -4133,6 +4205,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "39388",
+            "title": "The Debate for President of Hell",
+            "slug": "good-morning-from-hell-2020-7-20",
+            "date": "2020-07-20",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "39363",
             "title": "Assassin's Creed is Cake",
             "slug": "backwardz-compatible-ctrl-z-7-17",
@@ -4158,6 +4239,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "39294",
+            "title": "Jerry Mandering Explains Politics in Hell",
+            "slug": "good-morning-from-hell-2020-7-13",
+            "date": "2020-07-13",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "39291",

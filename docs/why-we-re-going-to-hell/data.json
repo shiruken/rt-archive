@@ -6,7 +6,7 @@
         "uploaded": 32,
         "missing": 0,
         "incomplete": 0,
-        "removed": 30
+        "removed": 32
     },
     "data": [
         {
@@ -105,9 +105,9 @@
             "slug": "why-we-re-going-to-hell-2021-gmfh-ps-jessica-devin",
             "date": "2021-09-26",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Scaring People so Badly They Go to the Hospital",
@@ -265,9 +265,9 @@
             "slug": "why-we-re-going-to-hell-2021-4-18",
             "date": "2021-04-18",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Alfredo\u2019s Sports Fail that Ended in Love and Weird People in Costumes",
