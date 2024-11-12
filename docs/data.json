@@ -4,7 +4,7 @@
         "uploaded": 42603,
         "missing": 0,
         "incomplete": 1674,
-        "removed": 1023
+        "removed": 1024
     },
     "data": [
         {
@@ -1490,7 +1490,7 @@
             "uploaded": 104,
             "missing": 0,
             "incomplete": 0,
-            "removed": 103
+            "removed": 104
         },
         {
             "show": "Google Trends",

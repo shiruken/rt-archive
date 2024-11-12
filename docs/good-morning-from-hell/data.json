@@ -6,7 +6,7 @@
         "uploaded": 104,
         "missing": 0,
         "incomplete": 0,
-        "removed": 103
+        "removed": 104
     },
     "data": [
         {
@@ -905,9 +905,9 @@
             "slug": "good-morning-from-hell-2020-15",
             "date": "2020-01-20",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Colonizing a New Hell with John Smith",

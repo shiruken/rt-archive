@@ -1,5 +1,5 @@
 {
-    "count": 1023,
+    "count": 1024,
     "data": [
         {
             "id": "52863",
@@ -5112,6 +5112,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "36458",
+            "title": "Jack the Ripper and Bloody Mary Get Hitched",
+            "slug": "good-morning-from-hell-2020-15",
+            "date": "2020-01-20",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "36435",
