@@ -3,10 +3,10 @@
     "slug": "rwby-complete",
     "summary": {
         "count": 8,
-        "uploaded": 8,
-        "missing": 0,
+        "uploaded": 7,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 8
+        "removed": 7
     },
     "data": [
         {
@@ -27,7 +27,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Volume 4 - Part 2",

@@ -3,10 +3,10 @@
     "slug": "backwardz-compatible",
     "summary": {
         "count": 366,
-        "uploaded": 366,
-        "missing": 0,
+        "uploaded": 365,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 292
+        "removed": 291
     },
     "data": [
         {
@@ -1587,7 +1587,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Send Me Out, With A Bang",
