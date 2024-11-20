@@ -3,10 +3,10 @@
     "slug": "rwby",
     "summary": {
         "count": 170,
-        "uploaded": 169,
-        "missing": 1,
+        "uploaded": 170,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 163
+        "removed": 164
     },
     "data": [
         {
@@ -607,7 +607,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Our Way",

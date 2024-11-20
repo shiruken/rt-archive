@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42594,
-        "missing": 9,
+        "uploaded": 42603,
+        "missing": 0,
         "incomplete": 1674,
-        "removed": 1015
+        "removed": 1024
     },
     "data": [
         {
@@ -263,10 +263,10 @@
             "show": "Backwardz Compatible",
             "slug": "backwardz-compatible",
             "count": 366,
-            "uploaded": 365,
-            "missing": 1,
+            "uploaded": 366,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 291
+            "removed": 292
         },
         {
             "show": "Barbara Vlogs",
@@ -1487,10 +1487,10 @@
             "show": "Good Morning From Hell",
             "slug": "good-morning-from-hell",
             "count": 104,
-            "uploaded": 101,
-            "missing": 3,
+            "uploaded": 104,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 101
+            "removed": 104
         },
         {
             "show": "Google Trends",
@@ -1739,10 +1739,10 @@
             "show": "Infinights",
             "slug": "infinights",
             "count": 102,
-            "uploaded": 101,
-            "missing": 1,
+            "uploaded": 102,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 101
+            "removed": 102
         },
         {
             "show": "Inside Gaming Daily",
@@ -3008,28 +3008,28 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 169,
-            "missing": 1,
+            "uploaded": 170,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 163
+            "removed": 164
         },
         {
             "show": "RWBY Chibi",
             "slug": "rwby-chibi",
             "count": 67,
-            "uploaded": 65,
-            "missing": 2,
+            "uploaded": 67,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 62
+            "removed": 64
         },
         {
             "show": "RWBY Complete",
             "slug": "rwby-complete",
             "count": 8,
-            "uploaded": 7,
-            "missing": 1,
+            "uploaded": 8,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 7
+            "removed": 8
         },
         {
             "show": "RWBY Rewind",

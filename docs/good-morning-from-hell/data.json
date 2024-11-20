@@ -3,10 +3,10 @@
     "slug": "good-morning-from-hell",
     "summary": {
         "count": 104,
-        "uploaded": 101,
-        "missing": 3,
+        "uploaded": 104,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 101
+        "removed": 104
     },
     "data": [
         {
@@ -307,7 +307,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Theater Kid From Hell",
@@ -347,7 +347,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Jekyll Sucks, Hyde F**ks",
@@ -987,7 +987,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "What Do Gremlins Do?",

@@ -1,5 +1,5 @@
 {
-    "count": 1015,
+    "count": 1024,
     "data": [
         {
             "id": "52863",
@@ -3008,6 +3008,15 @@
             "show_slug": "rwby-the-grimm-campaign"
         },
         {
+            "id": "43475",
+            "title": "The Theme Park From Hell",
+            "slug": "good-morning-from-hell-2021-4-26",
+            "date": "2021-04-26",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "43473",
             "title": "Jack\u2019s Most Hated Theme Park Ride",
             "slug": "why-we-re-going-to-hell-2021-4-25",
@@ -3015,6 +3024,15 @@
             "is_first": true,
             "show": "Why We're Going to Hell",
             "show_slug": "why-we-re-going-to-hell"
+        },
+        {
+            "id": "43386",
+            "title": "Introducing Tales from the Stinky Dragon",
+            "slug": "tales-from-the-stinky-dragon-trailer",
+            "date": "2021-04-20",
+            "is_first": false,
+            "show": "Infinights",
+            "show_slug": "infinights"
         },
         {
             "id": "43361",
@@ -3141,6 +3159,15 @@
             "is_first": true,
             "show": "RWBY: The Grimm Campaign",
             "show_slug": "rwby-the-grimm-campaign"
+        },
+        {
+            "id": "42823",
+            "title": "The Trooth about the Tooth Fairy",
+            "slug": "good-morning-from-hell-2021-3-15",
+            "date": "2021-03-15",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "42831",
@@ -5375,6 +5402,15 @@
             "show_slug": "backwardz-compatible"
         },
         {
+            "id": "35875",
+            "title": "Hates-Giving with Sigmund Freud",
+            "slug": "good-morning-from-hell-2019-hates-giving-with-sigmund-freud",
+            "date": "2019-11-25",
+            "is_first": false,
+            "show": "Good Morning From Hell",
+            "show_slug": "good-morning-from-hell"
+        },
+        {
             "id": "35773",
             "title": "Pomp and Circumstance",
             "slug": "rwby-volume-7-4",
@@ -5564,6 +5600,15 @@
             "show_slug": "good-morning-from-hell"
         },
         {
+            "id": "35420",
+            "title": "Volume 5 - Part 1",
+            "slug": "rwby-complete-volume-5-part-1",
+            "date": "2019-10-20",
+            "is_first": false,
+            "show": "RWBY Complete",
+            "show_slug": "rwby-complete"
+        },
+        {
             "id": "35395",
             "title": "Volume 4 - Part 2",
             "slug": "rwby-complete-volume-4-part-2",
@@ -5654,6 +5699,15 @@
             "show_slug": "rwby-complete"
         },
         {
+            "id": "1409-bonus",
+            "title": "Volume 7 Trailer",
+            "slug": "rwby-volume-7-trailer",
+            "date": "2019-10-03",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
             "id": "35220",
             "title": "Visage - 2nd Attempt",
             "slug": "backwardz-compatible-2019-visage-2nd-attempt",
@@ -5721,6 +5775,15 @@
             "title": "Dishonored",
             "slug": "backwardz-compatible-2019-dishonored",
             "date": "2019-09-12",
+            "is_first": true,
+            "show": "Backwardz Compatible",
+            "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "34905",
+            "title": "Sober Sekiro",
+            "slug": "backwardz-compatible-2019-sober-sekiro",
+            "date": "2019-09-09",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -8003,6 +8066,15 @@
             "show_slug": "rwby-chibi"
         },
         {
+            "id": "2933",
+            "title": "Episode 9 - Coming Home to Roost",
+            "slug": "rwby-chibi-season-2-9-ajfoiuf",
+            "date": "2017-07-08",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
             "id": "2934",
             "title": "Episode 8 - Boy Band",
             "slug": "rwby-chibi-season-2-8-fhe8yh",
@@ -8376,6 +8448,15 @@
             "title": "Episode 22 - Security Woes",
             "slug": "rwby-chibi-season-1-episode-22",
             "date": "2016-10-01",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
+        },
+        {
+            "id": "2945",
+            "title": "Episode 21 - Cinder Who?",
+            "slug": "rwby-chibi-season-1-episode-21",
+            "date": "2016-09-24",
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
