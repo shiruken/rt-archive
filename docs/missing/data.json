@@ -1,4 +1,13 @@
 {
-    "count": 0,
-    "data": []
+    "count": 1,
+    "data": [
+        {
+            "title": "Volume 3, Chapter 11: Heroes and Monsters",
+            "slug": "rwby-season-3-volume-3-chapter-11",
+            "date": "2016-02-06",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        }
+    ]
 }
