@@ -7364,15 +7364,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "24444",
-            "title": "Episode 5 - Girls' Night Out",
-            "slug": "rwby-chibi-season-3-5",
-            "date": "2018-02-24",
-            "is_first": false,
-            "show": "RWBY Chibi",
-            "show_slug": "rwby-chibi"
-        },
-        {
             "id": "24495",
             "title": "Fatal Frame II",
             "slug": "backwardz-compatible-2018-fatal-frame-ii",
@@ -8664,6 +8655,15 @@
             "title": "Volume 3, Chapter 12: End of the Beginning",
             "slug": "rwby-season-3-volume-3-chapter-12-end-of-the-beginning",
             "date": "2016-02-13",
+            "is_first": false,
+            "show": "RWBY",
+            "show_slug": "rwby"
+        },
+        {
+            "id": "15984",
+            "title": "Volume 3, Chapter 11: Heroes and Monsters",
+            "slug": "rwby-season-3-volume-3-chapter-11",
+            "date": "2016-02-06",
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"

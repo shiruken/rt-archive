@@ -3,10 +3,10 @@
     "slug": "rwby-chibi",
     "summary": {
         "count": 67,
-        "uploaded": 67,
-        "missing": 0,
+        "uploaded": 66,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 64
+        "removed": 63
     },
     "data": [
         {
@@ -137,7 +137,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Episode 4 - Grimm Passengers",

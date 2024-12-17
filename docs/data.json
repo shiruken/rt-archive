@@ -3008,19 +3008,19 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 169,
-            "missing": 1,
+            "uploaded": 170,
+            "missing": 0,
             "incomplete": 0,
-            "removed": 163
+            "removed": 164
         },
         {
             "show": "RWBY Chibi",
             "slug": "rwby-chibi",
             "count": 67,
-            "uploaded": 67,
-            "missing": 0,
+            "uploaded": 66,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 64
+            "removed": 63
         },
         {
             "show": "RWBY Complete",
