@@ -1,5 +1,5 @@
 {
-    "count": 1023,
+    "count": 1024,
     "data": [
         {
             "id": "52863",
@@ -7362,6 +7362,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "24444",
+            "title": "Episode 5 - Girls' Night Out",
+            "slug": "rwby-chibi-season-3-5",
+            "date": "2018-02-24",
+            "is_first": false,
+            "show": "RWBY Chibi",
+            "show_slug": "rwby-chibi"
         },
         {
             "id": "24495",
