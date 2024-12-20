@@ -3,10 +3,10 @@
     "slug": "world-of-remnant",
     "summary": {
         "count": 16,
-        "uploaded": 16,
-        "missing": 0,
+        "uploaded": 13,
+        "missing": 3,
         "incomplete": 0,
-        "removed": 16
+        "removed": 13
     },
     "data": [
         {
@@ -137,7 +137,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Grimm",
@@ -147,7 +147,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Kingdoms",
@@ -167,7 +167,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         }
     ]
 }

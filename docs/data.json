@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42603,
-        "missing": 0,
+        "uploaded": 42510,
+        "missing": 93,
         "incomplete": 1674,
-        "removed": 1024
+        "removed": 931
     },
     "data": [
         {
@@ -263,10 +263,10 @@
             "show": "Backwardz Compatible",
             "slug": "backwardz-compatible",
             "count": 366,
-            "uploaded": 366,
-            "missing": 0,
+            "uploaded": 345,
+            "missing": 21,
             "incomplete": 0,
-            "removed": 292
+            "removed": 271
         },
         {
             "show": "Barbara Vlogs",
@@ -641,10 +641,10 @@
             "show": "CRWBY: Behind the Episode",
             "slug": "c-r-w-b-y-behind-the-episode",
             "count": 27,
-            "uploaded": 27,
-            "missing": 0,
+            "uploaded": 23,
+            "missing": 4,
             "incomplete": 0,
-            "removed": 27
+            "removed": 23
         },
         {
             "show": "Cult Podcast",
@@ -749,10 +749,10 @@
             "show": "DEATH BATTLE!",
             "slug": "death-battle",
             "count": 229,
-            "uploaded": 229,
-            "missing": 0,
+            "uploaded": 228,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 1
+            "removed": 0
         },
         {
             "show": "Death Race",
@@ -1487,10 +1487,10 @@
             "show": "Good Morning From Hell",
             "slug": "good-morning-from-hell",
             "count": 104,
-            "uploaded": 104,
-            "missing": 0,
+            "uploaded": 97,
+            "missing": 7,
             "incomplete": 0,
-            "removed": 104
+            "removed": 97
         },
         {
             "show": "Google Trends",
@@ -1739,10 +1739,10 @@
             "show": "Infinights",
             "slug": "infinights",
             "count": 102,
-            "uploaded": 102,
-            "missing": 0,
+            "uploaded": 94,
+            "missing": 8,
             "incomplete": 0,
-            "removed": 102
+            "removed": 94
         },
         {
             "show": "Inside Gaming Daily",
@@ -2225,10 +2225,10 @@
             "show": "Mini-Series",
             "slug": "mini-series",
             "count": 15,
-            "uploaded": 15,
-            "missing": 0,
+            "uploaded": 13,
+            "missing": 2,
             "incomplete": 0,
-            "removed": 15
+            "removed": 13
         },
         {
             "show": "Minimations",
@@ -3008,37 +3008,37 @@
             "show": "RWBY",
             "slug": "rwby",
             "count": 170,
-            "uploaded": 170,
-            "missing": 0,
+            "uploaded": 153,
+            "missing": 17,
             "incomplete": 0,
-            "removed": 164
+            "removed": 147
         },
         {
             "show": "RWBY Chibi",
             "slug": "rwby-chibi",
             "count": 67,
-            "uploaded": 67,
-            "missing": 0,
+            "uploaded": 63,
+            "missing": 4,
             "incomplete": 0,
-            "removed": 64
+            "removed": 60
         },
         {
             "show": "RWBY Complete",
             "slug": "rwby-complete",
             "count": 8,
-            "uploaded": 8,
-            "missing": 0,
+            "uploaded": 7,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 8
+            "removed": 7
         },
         {
             "show": "RWBY Rewind",
             "slug": "rwby-rewind",
             "count": 25,
-            "uploaded": 25,
-            "missing": 0,
+            "uploaded": 20,
+            "missing": 5,
             "incomplete": 0,
-            "removed": 23
+            "removed": 18
         },
         {
             "show": "RWBY VTubing",
@@ -3062,28 +3062,28 @@
             "show": "RWBY: Ice Queendom",
             "slug": "rwby-ice-queendom",
             "count": 24,
-            "uploaded": 24,
-            "missing": 0,
+            "uploaded": 22,
+            "missing": 2,
             "incomplete": 0,
-            "removed": 23
+            "removed": 21
         },
         {
             "show": "RWBY: The Grimm Campaign",
             "slug": "rwby-the-grimm-campaign",
             "count": 25,
-            "uploaded": 25,
-            "missing": 0,
+            "uploaded": 23,
+            "missing": 2,
             "incomplete": 0,
-            "removed": 24
+            "removed": 22
         },
         {
             "show": "RWBY: World of Remnant",
             "slug": "world-of-remnant",
             "count": 16,
-            "uploaded": 16,
-            "missing": 0,
+            "uploaded": 13,
+            "missing": 3,
             "incomplete": 0,
-            "removed": 16
+            "removed": 13
         },
         {
             "show": "Schooled",
@@ -3314,19 +3314,19 @@
             "show": "Stinky Dragon Adventures",
             "slug": "stinky-dragon-adventures",
             "count": 17,
-            "uploaded": 17,
-            "missing": 0,
+            "uploaded": 16,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 17
+            "removed": 16
         },
         {
             "show": "Stinky Dragon Shorts",
             "slug": "stinky-dragon-shorts",
             "count": 10,
-            "uploaded": 10,
-            "missing": 0,
+            "uploaded": 9,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 10
+            "removed": 9
         },
         {
             "show": "Stroyent",
@@ -3359,19 +3359,19 @@
             "show": "Tales from the Stinky Dragon",
             "slug": "tales-from-the-stinky-dragon",
             "count": 82,
-            "uploaded": 82,
-            "missing": 0,
+            "uploaded": 73,
+            "missing": 9,
             "incomplete": 0,
-            "removed": 82
+            "removed": 73
         },
         {
             "show": "Talk CRWBY to Me",
             "slug": "talk-crwby-to-me",
             "count": 9,
-            "uploaded": 9,
-            "missing": 0,
+            "uploaded": 8,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 9
+            "removed": 8
         },
         {
             "show": "Tech and Science News",
@@ -3836,10 +3836,10 @@
             "show": "Why We're Going to Hell",
             "slug": "why-we-re-going-to-hell",
             "count": 32,
-            "uploaded": 32,
-            "missing": 0,
+            "uploaded": 28,
+            "missing": 4,
             "incomplete": 0,
-            "removed": 32
+            "removed": 28
         },
         {
             "show": "Wrestling With The Week",

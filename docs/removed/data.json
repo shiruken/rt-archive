@@ -1,5 +1,5 @@
 {
-    "count": 1024,
+    "count": 931,
     "data": [
         {
             "id": "52863",
@@ -326,15 +326,6 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
-            "id": "52547",
-            "title": "Velcome to Vainia - C02 - Ep 35",
-            "slug": "tales-from-the-stinky-dragon-arc-6-vengeance-in-vainia-35",
-            "date": "2024-02-20",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
             "id": "52525",
             "title": "[Second Wind] Painful Passing & Parsing Parcels - C02 - Ep 34",
             "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-34",
@@ -374,15 +365,6 @@
             "id": "52153",
             "title": "Stinky Dragon Shorts Compilation 08",
             "slug": "stinky-dragon-shorts-shorts-8",
-            "date": "2024-02-08",
-            "is_first": false,
-            "show": "Stinky Dragon Shorts",
-            "show_slug": "stinky-dragon-shorts"
-        },
-        {
-            "id": "52152",
-            "title": "Stinky Dragon Shorts Compilation 07",
-            "slug": "stinky-dragon-shorts-shorts-7",
             "date": "2024-02-08",
             "is_first": false,
             "show": "Stinky Dragon Shorts",
@@ -488,15 +470,6 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
-            "id": "52345",
-            "title": "[Second Wind] In Case You Alchemist It  - C02 - Ep 32",
-            "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-second-wind-32",
-            "date": "2024-01-23",
-            "is_first": true,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
             "id": "52344",
             "title": "In Case You Alchemist It  - C02 - Ep 32",
             "slug": "tales-from-the-stinky-dragon-arc-5-passe-in-perrish-32",
@@ -574,15 +547,6 @@
             "slug": "stinky-dragon-adventures-season-1-smtm-episode-7",
             "date": "2023-12-28",
             "is_first": true,
-            "show": "Stinky Dragon Adventures",
-            "show_slug": "stinky-dragon-adventures"
-        },
-        {
-            "id": "52077",
-            "title": "The Infinight Rescue Mission | Episode 8",
-            "slug": "stinky-dragon-adventures-season-1-episode-8",
-            "date": "2023-12-28",
-            "is_first": false,
             "show": "Stinky Dragon Adventures",
             "show_slug": "stinky-dragon-adventures"
         },
@@ -794,15 +758,6 @@
             "show_slug": "stinky-dragon-adventures"
         },
         {
-            "id": "52031",
-            "title": "Tales from the Stinky Dragon - Extra Life 2023",
-            "slug": "extra-life-2023-segment-7",
-            "date": "2023-11-22",
-            "is_first": false,
-            "show": "Mini-Series",
-            "show_slug": "mini-series"
-        },
-        {
             "id": "52057",
             "title": "[Second Wind] Break The Moold - C02 - Ep 24",
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-24",
@@ -844,15 +799,6 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-c2e23",
             "date": "2023-11-14",
             "is_first": true,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
-            "id": "51984",
-            "title": "The Plunder Of Underglobula - C02 - Ep 23",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-c2e23",
-            "date": "2023-11-14",
-            "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
         },
@@ -911,15 +857,6 @@
             "show_slug": "infinights"
         },
         {
-            "id": "51829",
-            "title": "[Second Wind] Infinight Infirms Pt. 1",
-            "slug": "infinights-arc-9-infinight-infirms-second-wind-infinight-infirms-pt-1",
-            "date": "2023-10-24",
-            "is_first": true,
-            "show": "Infinights",
-            "show_slug": "infinights"
-        },
-        {
             "id": "51828",
             "title": "Infinight Infirms Pt. 1",
             "slug": "infinights-arc-9-infinight-infirms-infinight-infirms-pt-1",
@@ -934,15 +871,6 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-second-wind-rtx-2023-apparition-of-the-aria",
             "date": "2023-10-17",
             "is_first": true,
-            "show": "Mini-Series",
-            "show_slug": "mini-series"
-        },
-        {
-            "id": "51765",
-            "title": "[RTX 2023 LIVE] Apparition of the Aria!",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-4-rtx-2023-apparition-of-the-aria",
-            "date": "2023-10-17",
-            "is_first": false,
             "show": "Mini-Series",
             "show_slug": "mini-series"
         },
@@ -1006,15 +934,6 @@
             "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-second-wind-19-5",
             "date": "2023-09-19",
             "is_first": true,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
-            "id": "51582",
-            "title": "Karcasuuk Coup - Between the Tales - C02 Ep 19.5",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-arc-3-karcasuuk-coup-tftsd-19-5",
-            "date": "2023-09-19",
-            "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
         },
@@ -1145,28 +1064,10 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
-            "id": "51141",
-            "title": "Tug-O-Worg - Ep 9",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-6-27",
-            "date": "2023-06-27",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
             "id": "51092",
             "title": "Gone with the Windmill - Ep. 8",
             "slug": "tales-from-the-stinky-dragon-campaign-2-c2-e8",
             "date": "2023-06-20",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
-            "id": "51061",
-            "title": "Nuts and Vultz - Ep. 7",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-6-13",
-            "date": "2023-06-13",
             "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
@@ -1199,37 +1100,10 @@
             "show_slug": "tales-from-the-stinky-dragon"
         },
         {
-            "id": "50902",
-            "title": "Give It the Old College Spy - Ep. 4",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-5-16",
-            "date": "2023-05-16",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
-            "id": "50868",
-            "title": "Worst Chase Scenario - Ep. 3",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-5-9",
-            "date": "2023-05-09",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
             "id": "50825",
             "title": "Once Upon a Crime - Ep. 2",
             "slug": "tales-from-the-stinky-dragon-campaign-2-5-2",
             "date": "2023-05-02",
-            "is_first": false,
-            "show": "Tales from the Stinky Dragon",
-            "show_slug": "tales-from-the-stinky-dragon"
-        },
-        {
-            "id": "50779",
-            "title": "The Arrest Is History - Ep. 1",
-            "slug": "tales-from-the-stinky-dragon-campaign-2-tftsd-c2-ep001",
-            "date": "2023-04-25",
             "is_first": false,
             "show": "Tales from the Stinky Dragon",
             "show_slug": "tales-from-the-stinky-dragon"
@@ -1361,15 +1235,6 @@
             "show_slug": "infinights"
         },
         {
-            "id": "50099",
-            "title": "Between The Tales",
-            "slug": "tales-from-the-stinky-dragon-arc-7-stinky-dragon-78_5",
-            "date": "2023-01-10",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
-        },
-        {
             "id": "50070",
             "title": "The Quarterling Vs. The Shaddo Queen - Ep. 78",
             "slug": "tales-from-the-stinky-dragon-arc-7-78",
@@ -1487,24 +1352,6 @@
             "show_slug": "infinights"
         },
         {
-            "id": "49652",
-            "title": "Dreams Come Rued (Dub)",
-            "slug": "rwby-ice-queendom-season-1-7-dub",
-            "date": "2022-11-06",
-            "is_first": true,
-            "show": "RWBY: Ice Queendom",
-            "show_slug": "rwby-ice-queendom"
-        },
-        {
-            "id": "49658",
-            "title": "His Name Is - Ep. 71",
-            "slug": "tales-from-the-stinky-dragon-arc-6-betwixt-the-bramblecracks-11-1",
-            "date": "2022-11-01",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
-        },
-        {
             "id": "49628",
             "title": "Do You Have a Plan? (Dub)",
             "slug": "rwby-ice-queendom-season-1-21",
@@ -1613,15 +1460,6 @@
             "show_slug": "infinights"
         },
         {
-            "id": "49147",
-            "title": "Best Day Ever (Sub)",
-            "slug": "rwby-ice-queendom-season-1-12",
-            "date": "2022-09-18",
-            "is_first": true,
-            "show": "RWBY: Ice Queendom",
-            "show_slug": "rwby-ice-queendom"
-        },
-        {
             "id": "49264",
             "title": "Own Flesh & Mudd - Ep. 64",
             "slug": "tales-from-the-stinky-dragon-2022-tftsd64",
@@ -1692,15 +1530,6 @@
             "is_first": true,
             "show": "RWBY: Ice Queendom",
             "show_slug": "rwby-ice-queendom"
-        },
-        {
-            "id": "49035",
-            "title": "No Arm, No Foul - Ep. 61",
-            "slug": "tales-from-the-stinky-dragon-2022-61",
-            "date": "2022-08-16",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
         },
         {
             "id": "48958",
@@ -1784,15 +1613,6 @@
             "show_slug": "rwby-ice-queendom"
         },
         {
-            "id": "48724",
-            "title": "Stinky Dragon Side Quest: Honey Heist 2022",
-            "slug": "tales-from-the-stinky-dragon-2022-7-12",
-            "date": "2022-07-12",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
-        },
-        {
             "id": "48688",
             "title": "This is Beacon (Sub)",
             "slug": "rwby-ice-queendom-season-1-ep-2",
@@ -1869,15 +1689,6 @@
             "title": "Come What Mayor - Ep. 53",
             "slug": "tales-from-the-stinky-dragon-2022-stinky-dragon-53",
             "date": "2022-06-14",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
-        },
-        {
-            "id": "48371",
-            "title": "Between The Tales",
-            "slug": "tales-from-the-stinky-dragon-2022-52-5",
-            "date": "2022-06-07",
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
@@ -2088,15 +1899,6 @@
             "is_first": false,
             "show": "Mini-Series",
             "show_slug": "mini-series"
-        },
-        {
-            "id": "46411",
-            "title": "Snobeist Brawl - Ep. 33",
-            "slug": "tales-from-the-stinky-dragon-2022-33",
-            "date": "2022-01-04",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
         },
         {
             "id": "46396",
@@ -2414,15 +2216,6 @@
             "show_slug": "rwby-fairy-tales"
         },
         {
-            "id": "45516",
-            "title": "Mike the Candy Man",
-            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-snowbike-mike",
-            "date": "2021-10-10",
-            "is_first": true,
-            "show": "Why We're Going to Hell",
-            "show_slug": "why-we-re-going-to-hell"
-        },
-        {
             "id": "45517",
             "title": "Spying on Heaven with Benedict Arnold",
             "slug": "good-morning-from-hell-2021-10-11",
@@ -2720,15 +2513,6 @@
             "show_slug": "good-morning-from-hell"
         },
         {
-            "id": "44609",
-            "title": "Travel Stories From Hell",
-            "slug": "why-we-re-going-to-hell-2021-7-26-kdin",
-            "date": "2021-07-25",
-            "is_first": true,
-            "show": "Why We're Going to Hell",
-            "show_slug": "why-we-re-going-to-hell"
-        },
-        {
             "id": "44562",
             "title": "RWBY: The Grimm Campaign (RTX)",
             "slug": "rwby-the-grimm-campaign-season-2-rtx",
@@ -2754,15 +2538,6 @@
             "is_first": false,
             "show": "Infinights",
             "show_slug": "infinights"
-        },
-        {
-            "id": "1464-bonus",
-            "title": "RWBY: Arrowfell Teaser Trailer",
-            "slug": "rwby-arrowfell-trailer",
-            "date": "2021-07-09",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "44280",
@@ -2864,15 +2639,6 @@
             "show_slug": "why-we-re-going-to-hell"
         },
         {
-            "id": "43923",
-            "title": "Live From Hell: An Interactive Game Show Hextravaganza!",
-            "slug": "good-morning-from-hell-2021-spring-event-series-6-1",
-            "date": "2021-06-01",
-            "is_first": true,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
-        },
-        {
             "id": "43928",
             "title": "Taverns, Tomes, & Training - Ep. 5",
             "slug": "tales-from-the-stinky-dragon-2021-5",
@@ -2963,15 +2729,6 @@
             "show_slug": "infinights"
         },
         {
-            "id": "43576",
-            "title": "Welcome to Boulderay - Ep. 1",
-            "slug": "tales-from-the-stinky-dragon-2021-1",
-            "date": "2021-05-04",
-            "is_first": false,
-            "show": "Infinights",
-            "show_slug": "infinights"
-        },
-        {
             "id": "43548",
             "title": "Hana't Today!",
             "slug": "rwby-the-grimm-campaign-season-2-11",
@@ -2988,15 +2745,6 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "43557",
-            "title": "D&D Ended Gus' Friendship",
-            "slug": "why-we-re-going-to-hell-2021-gmfh-ps-09",
-            "date": "2021-05-02",
-            "is_first": true,
-            "show": "Why We're Going to Hell",
-            "show_slug": "why-we-re-going-to-hell"
         },
         {
             "id": "43463",
@@ -3206,15 +2954,6 @@
             "show_slug": "good-morning-from-hell"
         },
         {
-            "id": "42740",
-            "title": "Why You Shouldn\u2019t Date Gus or Jon",
-            "slug": "why-we-re-going-to-hell-2021-03",
-            "date": "2021-03-07",
-            "is_first": true,
-            "show": "Why We're Going to Hell",
-            "show_slug": "why-we-re-going-to-hell"
-        },
-        {
             "id": "42736",
             "title": "Risk",
             "slug": "rwby-volume-8-11",
@@ -3294,15 +3033,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "42477",
-            "title": "Can You Hear Me Now?",
-            "slug": "rwby-the-grimm-campaign-season-2-10",
-            "date": "2021-02-15",
-            "is_first": false,
-            "show": "RWBY: The Grimm Campaign",
-            "show_slug": "rwby-the-grimm-campaign"
         },
         {
             "id": "42484",
@@ -3521,15 +3251,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "41621",
-            "title": "Siren Seduction",
-            "slug": "good-morning-from-hell-2020-12-7",
-            "date": "2020-12-07",
-            "is_first": false,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
-        },
-        {
             "id": "41614",
             "title": "Amity",
             "slug": "rwby-volume-8-5",
@@ -3555,15 +3276,6 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "41337",
-            "title": "Fault",
-            "slug": "rwby-volume-8-4",
-            "date": "2020-11-28",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "41387",
@@ -3638,15 +3350,6 @@
             "show_slug": "good-morning-from-hell"
         },
         {
-            "id": "41189",
-            "title": "Refuge",
-            "slug": "rwby-volume-8-2",
-            "date": "2020-11-14",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "1435-bonus",
             "title": "Volume 8 Intro",
             "slug": "rwby-volume-8-intro",
@@ -3660,15 +3363,6 @@
             "title": "Truffles & Swords",
             "slug": "backwardz-compatible-2020-11-12",
             "date": "2020-11-12",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "41119",
-            "title": "Back to the Farm!",
-            "slug": "backwardz-compatible-2020-11-9",
-            "date": "2020-11-09",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -3798,24 +3492,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "40539",
-            "title": "Bill, Bill, and Babish",
-            "slug": "backwardz-compatible-2020-10-5",
-            "date": "2020-10-05",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "40530",
-            "title": "The Not-So-Grim Reaper",
-            "slug": "good-morning-from-hell-2020-10-5",
-            "date": "2020-10-05",
-            "is_first": false,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "40523",
@@ -4034,24 +3710,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "39932",
-            "title": "Angelo the Foreign ExchAngel",
-            "slug": "good-morning-from-hell-2020-8-24",
-            "date": "2020-08-24",
-            "is_first": false,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "39931",
-            "title": "Action Time!",
-            "slug": "rwby-the-grimm-campaign-season-1-2",
-            "date": "2020-08-22",
-            "is_first": false,
-            "show": "RWBY: The Grimm Campaign",
-            "show_slug": "rwby-the-grimm-campaign"
-        },
-        {
             "id": "39889",
             "title": "Epic vs. Apple",
             "slug": "backwardz-compatible-ctrl-z-8-21",
@@ -4077,15 +3735,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "39797",
-            "title": "The Hellish Creative Process - Bonus Content",
-            "slug": "good-morning-from-hell-2020-8-17",
-            "date": "2020-08-17",
-            "is_first": false,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
         },
         {
             "id": "39808",
@@ -4160,15 +3809,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "39588",
-            "title": "200 IQ",
-            "slug": "backwardz-compatible-2020-7-30",
-            "date": "2020-07-30",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "39536",
             "title": "Top Condiment",
             "slug": "backwardz-compatible-2020-7-27",
@@ -4218,15 +3858,6 @@
             "title": "Assassin's Creed is Cake",
             "slug": "backwardz-compatible-ctrl-z-7-17",
             "date": "2020-07-17",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "39364",
-            "title": "Slowest Elevator EVER!",
-            "slug": "backwardz-compatible-2020-7-16",
-            "date": "2020-07-16",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -4439,15 +4070,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "38866",
-            "title": "Hogwarts vs Pignipple: Which Witch Wins?",
-            "slug": "good-morning-from-hell-2020-6-15",
-            "date": "2020-06-15",
-            "is_first": false,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
-        },
-        {
             "id": "38858",
             "title": "It All Starts with Boards",
             "slug": "talk-crwby-to-me-1-4",
@@ -4536,15 +4158,6 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "38649",
-            "title": "Bringing Remnant to Life",
-            "slug": "talk-crwby-to-me-1-2",
-            "date": "2020-05-30",
-            "is_first": true,
-            "show": "Talk CRWBY to Me",
-            "show_slug": "talk-crwby-to-me"
         },
         {
             "id": "38628",
@@ -4925,15 +4538,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "37032",
-            "title": "Dreams",
-            "slug": "backwardz-compatible-2020-3-2",
-            "date": "2020-03-02",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "37013",
             "title": "Clayton and His Ex, Athena: The Goddess of War",
             "slug": "good-morning-from-hell-2020-21",
@@ -4968,15 +4572,6 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "36849",
-            "title": "A Post Sonic World",
-            "slug": "backwardz-compatible-2020-2-20",
-            "date": "2020-02-20",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
         },
         {
             "id": "36827",
@@ -5168,15 +4763,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "36373",
-            "title": "Dishonored Finale!",
-            "slug": "backwardz-compatible-2020-1-9",
-            "date": "2020-01-09",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "36337",
             "title": "We got an EEVEE!",
             "slug": "backwardz-compatible-2020-1-6",
@@ -5229,15 +4815,6 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "1415-bonus",
-            "title": "FRWBY Teases Ch.9 & Recaps Vol. 7",
-            "slug": "rwby-frwby",
-            "date": "2019-12-28",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "36227",
@@ -5321,24 +4898,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "36042",
-            "title": "Something's Different",
-            "slug": "backwardz-compatible-2019-12-9",
-            "date": "2019-12-09",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "36020",
-            "title": "Getting Stoned with Medusa",
-            "slug": "good-morning-from-hell-2019-getting-stoned-with-medusa",
-            "date": "2019-12-09",
-            "is_first": false,
-            "show": "Good Morning From Hell",
-            "show_slug": "good-morning-from-hell"
-        },
-        {
             "id": "35775",
             "title": "A Night Off",
             "slug": "rwby-volume-7-6",
@@ -5382,15 +4941,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "35901",
-            "title": "Admiral Havelock Has Some Issues",
-            "slug": "backwardz-compatible-2019-11-28",
-            "date": "2019-11-28",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
         },
         {
             "id": "35893",
@@ -5501,15 +5051,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "35667",
-            "title": "Back to Dishonored",
-            "slug": "backwardz-compatible-2019-11-7",
-            "date": "2019-11-07",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "35614",
             "title": "Mario Maker 2 - We WILL Beat This Level",
             "slug": "backwardz-compatible-2019-11-4",
@@ -5526,15 +5067,6 @@
             "is_first": false,
             "show": "Good Morning From Hell",
             "show_slug": "good-morning-from-hell"
-        },
-        {
-            "id": "35563",
-            "title": "The Greatest Kingdom",
-            "slug": "rwby-volume-7-1",
-            "date": "2019-11-02",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "1411-bonus",
@@ -5571,15 +5103,6 @@
             "is_first": false,
             "show": "RWBY Complete",
             "show_slug": "rwby-complete"
-        },
-        {
-            "id": "35474",
-            "title": "Visage - Pt.3, Dolores",
-            "slug": "backwardz-compatible-2019-10-24",
-            "date": "2019-10-24",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
         },
         {
             "id": "35434",
@@ -5634,15 +5157,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "35321",
-            "title": "Volume 4 - Part 1",
-            "slug": "rwby-complete-volume-4-part-1",
-            "date": "2019-10-13",
-            "is_first": false,
-            "show": "RWBY Complete",
-            "show_slug": "rwby-complete"
         },
         {
             "id": "35318",
@@ -5861,24 +5375,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "34444",
-            "title": "Halo 3",
-            "slug": "backwardz-compatible-2019-halo-3",
-            "date": "2019-08-08",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "34370",
-            "title": "Sadism or Masochism?",
-            "slug": "backwardz-compatible-2019-sadism-or-masochism",
-            "date": "2019-08-05",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "34322",
             "title": "Resident Evil 2 Finale!",
             "slug": "backwardz-compatible-2019-resident-evil-2-finale",
@@ -5892,15 +5388,6 @@
             "title": "Mario Maker 2",
             "slug": "backwardz-compatible-2019-mario-maker-2",
             "date": "2019-07-29",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "34231",
-            "title": "Birkin vs. Claire: The Rematch",
-            "slug": "backwardz-compatible-2019-birkin-vs-claire-the-rematch",
-            "date": "2019-07-25",
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
@@ -6086,33 +5573,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "33018",
-            "title": "Yugi Boy",
-            "slug": "backwardz-compatible-2019-yugi-boy",
-            "date": "2019-05-09",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "32978",
-            "title": "Way Too Lit",
-            "slug": "backwardz-compatible-2019-sekiro6",
-            "date": "2019-05-06",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "32933",
-            "title": "Twin Scissor Sisters",
-            "slug": "backwardz-compatible-2019-twin-scissor-sisters",
-            "date": "2019-05-02",
-            "is_first": false,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "32878",
             "title": "Fairly Lit",
             "slug": "backwardz-compatible-fairly-lit",
@@ -6266,15 +5726,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "31595",
-            "title": "Blade and Sorcery",
-            "slug": "backwardz-compatible-2019-blade-and-sorcery",
-            "date": "2019-02-25",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
-        },
-        {
             "id": "31553",
             "title": "X Gon' Give It To Ya",
             "slug": "backwardz-compatible-2019-x-gon-give-it-to-ya",
@@ -6401,15 +5852,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "30250",
-            "title": "Seeing Red",
-            "slug": "rwby-volume-6-12",
-            "date": "2019-01-19",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "30218",
             "title": "Little Nightmares FINALE!",
             "slug": "backwardz-compatible-2019-little-nightmares-finale",
@@ -6464,15 +5906,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "30159",
-            "title": "Render Wrangling",
-            "slug": "crwby-behind-the-episode-2-render-wrangling",
-            "date": "2019-01-10",
-            "is_first": false,
-            "show": "CRWBY: Behind the Episode",
-            "show_slug": "c-r-w-b-y-behind-the-episode"
-        },
-        {
             "id": "30131",
             "title": "Shipping RWBY with Captain Yssa - #9",
             "slug": "rwby-rewind-2-9",
@@ -6489,15 +5922,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "30121",
-            "title": "Stealing from the Elderly",
-            "slug": "rwby-volume-6-10",
-            "date": "2019-01-05",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "30090",
@@ -6527,15 +5951,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "30062",
-            "title": "Lost",
-            "slug": "rwby-volume-6-9",
-            "date": "2018-12-29",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "30045",
             "title": "Stay Thirsty",
             "slug": "backwardz-compatible-2018-stay-thirsty",
@@ -6563,15 +5978,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "29992",
-            "title": "Building Argus",
-            "slug": "crwby-behind-the-episode-2-building-argus",
-            "date": "2018-12-20",
-            "is_first": false,
-            "show": "CRWBY: Behind the Episode",
-            "show_slug": "c-r-w-b-y-behind-the-episode"
-        },
-        {
             "id": "29914",
             "title": "Justifying Jaune's Anger - #8",
             "slug": "rwby-rewind-2-anger-of-jaune-8",
@@ -6588,15 +5994,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "29875",
-            "title": "Dead End",
-            "slug": "rwby-volume-6-8",
-            "date": "2018-12-15",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "29860",
@@ -6734,15 +6131,6 @@
             "show_slug": "c-r-w-b-y-behind-the-episode"
         },
         {
-            "id": "29480",
-            "title": "The Mind(s) of Ozpin - #4",
-            "slug": "rwby-rewind-2-4",
-            "date": "2018-11-20",
-            "is_first": false,
-            "show": "RWBY Rewind",
-            "show_slug": "rwby-rewind"
-        },
-        {
             "id": "29410",
             "title": "Technical Difficultiez",
             "slug": "backwardz-compatible-2018-technical-difficultiez",
@@ -6797,15 +6185,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "29343",
-            "title": "The Lost Fable",
-            "slug": "rwby-volume-6-3",
-            "date": "2018-11-10",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "29309",
             "title": "Red vs. TED!",
             "slug": "backwardz-compatible-2018-red-vs-ted",
@@ -6813,15 +6192,6 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
-        },
-        {
-            "id": "29301",
-            "title": "The Magic of Character Creation",
-            "slug": "crwby-behind-the-episode-2-magic-of-character-creation",
-            "date": "2018-11-08",
-            "is_first": false,
-            "show": "CRWBY: Behind the Episode",
-            "show_slug": "c-r-w-b-y-behind-the-episode"
         },
         {
             "id": "29274",
@@ -6903,15 +6273,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "29121",
-            "title": "Visage",
-            "slug": "backwardz-compatible-2018-visage",
-            "date": "2018-10-25",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
         },
         {
             "id": "29075",
@@ -7029,15 +6390,6 @@
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
-        },
-        {
-            "id": "28363",
-            "title": "Catch Ya on the Flip Side",
-            "slug": "backwardz-compatible-2018-gow15",
-            "date": "2018-08-24",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
         },
         {
             "id": "28283",
@@ -7173,15 +6525,6 @@
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
-        },
-        {
-            "id": "27627",
-            "title": "Bad Kitty",
-            "slug": "backwardz-compatible-2018-god-of-war-7",
-            "date": "2018-06-29",
-            "is_first": true,
-            "show": "Backwardz Compatible",
-            "show_slug": "backwardz-compatible"
         },
         {
             "id": "27519",
@@ -7526,15 +6869,6 @@
             "show_slug": "backwardz-compatible"
         },
         {
-            "id": "23637",
-            "title": "Plot Twist Central - #12",
-            "slug": "rwby-rewind-1",
-            "date": "2018-01-10",
-            "is_first": false,
-            "show": "RWBY Rewind",
-            "show_slug": "rwby-rewind"
-        },
-        {
             "id": "23619",
             "title": "Volume 5, Chapter 12: Vault of the Spring Maiden",
             "slug": "rwby-volume-5-12lkopoklk1",
@@ -7625,15 +6959,6 @@
             "show_slug": "rwby-chibi"
         },
         {
-            "id": "872",
-            "title": "New Michael Jones RWBY Character Revealed - #9",
-            "slug": "rwby-rewind-1-new-michael-jones-rwby-character-revealed-9",
-            "date": "2017-12-13",
-            "is_first": false,
-            "show": "RWBY Rewind",
-            "show_slug": "rwby-rewind"
-        },
-        {
             "id": "15967",
             "title": "Volume 5, Chapter 9: A Perfect Storm",
             "slug": "rwby-volume-5-9eqoius23",
@@ -7659,15 +6984,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "863",
-            "title": "The Complete Package",
-            "slug": "crwby-behind-the-episode-1-the-complete-package",
-            "date": "2017-12-02",
-            "is_first": false,
-            "show": "CRWBY: Behind the Episode",
-            "show_slug": "c-r-w-b-y-behind-the-episode"
         },
         {
             "id": "875",
@@ -7769,15 +7085,6 @@
             "show_slug": "rwby-rewind"
         },
         {
-            "id": "7052",
-            "title": "Naruto VS Ichigo",
-            "slug": "death-battle-season-4-naruto-vs-ichigo-naruto-vs-bleach",
-            "date": "2017-11-06",
-            "is_first": false,
-            "show": "DEATH BATTLE!",
-            "show_slug": "death-battle"
-        },
-        {
             "id": "15972",
             "title": "Volume 5, Chapter 4: Lighting the Fire",
             "slug": "rwby-volume-5-4-odeihrl",
@@ -7805,15 +7112,6 @@
             "show_slug": "rwby-rewind"
         },
         {
-            "id": "18054",
-            "title": "Volume 5, Chapter 3: Unforeseen Complications",
-            "slug": "rwby-volume-5-3-g4ogoh4",
-            "date": "2017-10-28",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "868",
             "title": "Another Face In The Crowd",
             "slug": "c-r-w-b-y-behind-the-episode-1-3",
@@ -7821,15 +7119,6 @@
             "is_first": true,
             "show": "CRWBY: Behind the Episode",
             "show_slug": "c-r-w-b-y-behind-the-episode"
-        },
-        {
-            "id": "880",
-            "title": "Animating the Action - #2",
-            "slug": "rwby-rewind-1-2",
-            "date": "2017-10-25",
-            "is_first": false,
-            "show": "RWBY Rewind",
-            "show_slug": "rwby-rewind"
         },
         {
             "id": "3757",
@@ -7857,15 +7146,6 @@
             "is_first": true,
             "show": "CRWBY: Behind the Episode",
             "show_slug": "c-r-w-b-y-behind-the-episode"
-        },
-        {
-            "id": "881",
-            "title": "Ruby Rose Rewinds With Us - #1",
-            "slug": "rwby-rewind-1-1-g3goig3",
-            "date": "2017-10-18",
-            "is_first": false,
-            "show": "RWBY Rewind",
-            "show_slug": "rwby-rewind"
         },
         {
             "id": "110-bonus",
@@ -8012,15 +7292,6 @@
             "show_slug": "rwby-chibi"
         },
         {
-            "id": "2928",
-            "title": "Episode 14 - Cannonball!",
-            "slug": "rwby-chibi-season-2-episode-14-f4ug4gh",
-            "date": "2017-08-12",
-            "is_first": false,
-            "show": "RWBY Chibi",
-            "show_slug": "rwby-chibi"
-        },
-        {
             "id": "2929",
             "title": "Episode 13 - Parent Teacher Conference",
             "slug": "rwby-chibi-season-2-episode-13-ghu4gh",
@@ -8055,15 +7326,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "2931",
-            "title": "Episode 10 - Cool Dad",
-            "slug": "rwby-chibi-season-2-10-fj8yfh",
-            "date": "2017-07-15",
-            "is_first": false,
-            "show": "RWBY Chibi",
-            "show_slug": "rwby-chibi"
         },
         {
             "id": "2933",
@@ -8129,28 +7391,10 @@
             "show_slug": "rwby-chibi"
         },
         {
-            "id": "2940",
-            "title": "Episode 2 - Geist Buster",
-            "slug": "rwby-chibi-season-2-2-f83hkg",
-            "date": "2017-05-20",
-            "is_first": false,
-            "show": "RWBY Chibi",
-            "show_slug": "rwby-chibi"
-        },
-        {
             "id": "2941",
             "title": "Episode 1 - Director Ozpin",
             "slug": "rwby-chibi-season-2-1-fhs8yg",
             "date": "2017-05-13",
-            "is_first": false,
-            "show": "RWBY Chibi",
-            "show_slug": "rwby-chibi"
-        },
-        {
-            "id": "80-bonus",
-            "title": "Season 2 - Trailer",
-            "slug": "rwby-chibi-bonus-2",
-            "date": "2017-05-10",
             "is_first": false,
             "show": "RWBY Chibi",
             "show_slug": "rwby-chibi"
@@ -8298,15 +7542,6 @@
             "is_first": false,
             "show": "RWBY: World of Remnant",
             "show_slug": "world-of-remnant"
-        },
-        {
-            "id": "15979",
-            "title": "Volume 4, Chapter 6: Tipping Point",
-            "slug": "rwby-volume-4-volume-4-episode-6-lot53d",
-            "date": "2016-12-10",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "18359",
@@ -8660,15 +7895,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "18154",
-            "title": "Volume 3, Chapter 12: End of the Beginning",
-            "slug": "rwby-season-3-volume-3-chapter-12-end-of-the-beginning",
-            "date": "2016-02-13",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "15984",
             "title": "Volume 3, Chapter 11: Heroes and Monsters",
             "slug": "rwby-season-3-volume-3-chapter-11",
@@ -8777,15 +8003,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "15998",
-            "title": "Volume 3, Chapter 2: New Challengers...",
-            "slug": "rwby-season-3-chapter-2-new-challengers",
-            "date": "2015-10-31",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "16000",
             "title": "Volume 3, Chapter 1: Round One",
             "slug": "rwby-season-3-chapter-1",
@@ -8858,24 +8075,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "40426",
-            "title": "Aura",
-            "slug": "rwby-world-of-remnant-season-1-4",
-            "date": "2014-10-17",
-            "is_first": false,
-            "show": "RWBY: World of Remnant",
-            "show_slug": "world-of-remnant"
-        },
-        {
-            "id": "40432",
-            "title": "Grimm",
-            "slug": "rwby-bonus-25",
-            "date": "2014-10-16",
-            "is_first": false,
-            "show": "RWBY: World of Remnant",
-            "show_slug": "world-of-remnant"
-        },
-        {
             "id": "18156",
             "title": "Chapter 10: Mountain Glenn",
             "slug": "rwby-season-2-rwby-volume-2-chapter-10",
@@ -8921,15 +8120,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "18177",
-            "title": "Chapter 6: Burning the Candle",
-            "slug": "rwby-season-2-rwby-volume-2-chapter-6",
-            "date": "2014-09-04",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "18178",
             "title": "Chapter 5: Extracurricular",
             "slug": "rwby-season-2-rwby-volume-2-chapter-5",
@@ -8937,15 +8127,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "40417",
-            "title": "Dust",
-            "slug": "rwby-season-2-rwby-volume-2-world-of-remnant-1",
-            "date": "2014-08-21",
-            "is_first": false,
-            "show": "RWBY: World of Remnant",
-            "show_slug": "world-of-remnant"
         },
         {
             "id": "18180",
@@ -9074,15 +8255,6 @@
             "show_slug": "rwby"
         },
         {
-            "id": "16015",
-            "title": "Chapter 12: Jaunedice, Pt. 2",
-            "slug": "rwby-season-1-episode-12",
-            "date": "2013-10-03",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
             "id": "16016",
             "title": "Chapter 11: Jaunedice",
             "slug": "rwby-season-1-episode-11",
@@ -9096,15 +8268,6 @@
             "title": "Chapter 10: The Badge and The Burden, Pt. 2",
             "slug": "rwby-season-1-episode-10",
             "date": "2013-09-19",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
-        },
-        {
-            "id": "16018",
-            "title": "Chapter 9: The Badge and The Burden",
-            "slug": "rwby-season-1-episode-9",
-            "date": "2013-09-12",
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"

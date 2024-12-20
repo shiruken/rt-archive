@@ -3,10 +3,10 @@
     "slug": "rwby",
     "summary": {
         "count": 170,
-        "uploaded": 170,
-        "missing": 0,
+        "uploaded": 153,
+        "missing": 17,
         "incomplete": 0,
-        "removed": 164
+        "removed": 147
     },
     "data": [
         {
@@ -197,7 +197,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Final Word",
@@ -377,7 +377,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Strings",
@@ -407,7 +407,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Volume 8 Intro",
@@ -497,7 +497,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Cordially Invited",
@@ -587,7 +587,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Live from Remnant",
@@ -627,7 +627,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Lady in the Shoe",
@@ -647,7 +647,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Lost",
@@ -657,7 +657,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Dead End",
@@ -667,7 +667,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Grimm Reaper",
@@ -717,7 +717,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Uncovered",
@@ -897,7 +897,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Volume 5, Chapter 2: Dread in the Air",
@@ -1057,7 +1057,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Volume 4, Chapter 5: Menagerie",
@@ -1177,7 +1177,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Volume 3, Chapter 11: Heroes and Monsters",
@@ -1277,7 +1277,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Volume 3, Chapter 1: Round One",
@@ -1387,7 +1387,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Chapter 5: Extracurricular",
@@ -1547,7 +1547,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Chapter 11: Jaunedice",
@@ -1577,7 +1577,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Chapter 8: Players and Pieces",

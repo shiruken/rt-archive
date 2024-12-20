@@ -3,10 +3,10 @@
     "slug": "stinky-dragon-shorts",
     "summary": {
         "count": 10,
-        "uploaded": 10,
-        "missing": 0,
+        "uploaded": 9,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 10
+        "removed": 9
     },
     "data": [
         {
@@ -47,7 +47,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Stinky Dragon Shorts Compilation 06",

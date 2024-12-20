@@ -3,10 +3,10 @@
     "slug": "rwby-ice-queendom",
     "summary": {
         "count": 24,
-        "uploaded": 24,
-        "missing": 0,
+        "uploaded": 22,
+        "missing": 2,
         "incomplete": 0,
-        "removed": 23
+        "removed": 21
     },
     "data": [
         {
@@ -67,7 +67,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Do You Have a Plan? (Dub)",
@@ -137,7 +137,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Light in Shadows (Sub)",

@@ -3,10 +3,10 @@
     "slug": "why-we-re-going-to-hell",
     "summary": {
         "count": 32,
-        "uploaded": 32,
-        "missing": 0,
+        "uploaded": 28,
+        "missing": 4,
         "incomplete": 0,
-        "removed": 32
+        "removed": 28
     },
     "data": [
         {
@@ -87,7 +87,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Sleeping Through a Baptism",
@@ -187,7 +187,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Breaking into Our Own Houses",
@@ -247,7 +247,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Jack\u2019s Most Hated Theme Park Ride",
@@ -307,7 +307,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Choking Dudes Out with Jeremy Dooley",

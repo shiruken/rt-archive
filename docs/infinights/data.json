@@ -3,10 +3,10 @@
     "slug": "infinights",
     "summary": {
         "count": 102,
-        "uploaded": 102,
-        "missing": 0,
+        "uploaded": 94,
+        "missing": 8,
         "incomplete": 0,
-        "removed": 102
+        "removed": 94
     },
     "data": [
         {
@@ -57,7 +57,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Infinight Infirms Pt. 1",
@@ -167,7 +167,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Quarterling Vs. The Shaddo Queen - Ep. 78",
@@ -257,7 +257,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Slujj the Monopol-Ooze - Ep. 70",
@@ -367,7 +367,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Cards On The Tabul - Ep. 60",
@@ -417,7 +417,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Magic Box Down - Ep. 56",
@@ -467,7 +467,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "End of An Internship - Ep. 52",
@@ -677,7 +677,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Prison Breaks and Prizes - Ep. 32",
@@ -1017,7 +1017,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Introducing Tales from the Stinky Dragon",

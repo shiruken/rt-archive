@@ -3,10 +3,10 @@
     "slug": "backwardz-compatible",
     "summary": {
         "count": 366,
-        "uploaded": 366,
-        "missing": 0,
+        "uploaded": 345,
+        "missing": 21,
         "incomplete": 0,
-        "removed": 292
+        "removed": 271
     },
     "data": [
         {
@@ -167,7 +167,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Phasmophobia with Kerry!",
@@ -267,7 +267,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Worms W.M.D",
@@ -487,7 +487,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Top Condiment",
@@ -547,7 +547,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "New Insults",
@@ -1067,7 +1067,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Monsoon",
@@ -1097,7 +1097,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Ilum",
@@ -1247,7 +1247,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "We got an EEVEE!",
@@ -1337,7 +1337,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Lady Boyle's Party",
@@ -1367,7 +1367,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Jedi: Fallen Order",
@@ -1427,7 +1427,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Mario Maker 2 - We WILL Beat This Level",
@@ -1457,7 +1457,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Five Nights at Freddy's VR",
@@ -1677,7 +1677,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Sadism or Masochism?",
@@ -1687,7 +1687,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Resident Evil 2 Finale!",
@@ -1717,7 +1717,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Daddy Bathwater",
@@ -1937,7 +1937,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Way Too Lit",
@@ -1947,7 +1947,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Twin Scissor Sisters",
@@ -1957,7 +1957,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Fairly Lit",
@@ -2157,7 +2157,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "X Gon' Give It To Ya",
@@ -2507,7 +2507,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Until Dawn",
@@ -2617,7 +2617,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "On a Boat (ft. Kratos)",
@@ -2697,7 +2697,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Nut Kicker",

@@ -3,10 +3,10 @@
     "slug": "good-morning-from-hell",
     "summary": {
         "count": 104,
-        "uploaded": 104,
-        "missing": 0,
+        "uploaded": 97,
+        "missing": 7,
         "incomplete": 0,
-        "removed": 104
+        "removed": 97
     },
     "data": [
         {
@@ -267,7 +267,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Pawn Stars in Hell!",
@@ -457,7 +457,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Tesla vs Edison: Battle of the Brains",
@@ -547,7 +547,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Greek Bros Party HARD",
@@ -617,7 +617,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "The Hellish Creative Process - Bonus Content",
@@ -627,7 +627,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "How We Made Hell - Bonus",
@@ -697,7 +697,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "A Titanic Screw Up",
@@ -967,7 +967,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "What Do People Eat in Hell?",

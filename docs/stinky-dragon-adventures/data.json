@@ -3,10 +3,10 @@
     "slug": "stinky-dragon-adventures",
     "summary": {
         "count": 17,
-        "uploaded": 17,
-        "missing": 0,
+        "uploaded": 16,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 17
+        "removed": 16
     },
     "data": [
         {
@@ -37,7 +37,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "Show Me the Magic: The Making of Stinky Dragon Adventures - Episode 6",
