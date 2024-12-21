@@ -3,10 +3,10 @@
     "slug": "death-battle",
     "summary": {
         "count": 229,
-        "uploaded": 228,
-        "missing": 1,
+        "uploaded": 229,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 1
     },
     "data": [
         {
@@ -1177,7 +1177,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Thor VS Wonder Woman w/Commentary",

@@ -3,10 +3,10 @@
     "slug": "rwby-complete",
     "summary": {
         "count": 8,
-        "uploaded": 7,
-        "missing": 1,
+        "uploaded": 8,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 7
+        "removed": 8
     },
     "data": [
         {
@@ -47,7 +47,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Volume 3 - Part 2",

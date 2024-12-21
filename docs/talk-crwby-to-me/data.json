@@ -3,10 +3,10 @@
     "slug": "talk-crwby-to-me",
     "summary": {
         "count": 9,
-        "uploaded": 8,
-        "missing": 1,
+        "uploaded": 9,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 8
+        "removed": 9
     },
     "data": [
         {
@@ -87,7 +87,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Direction of RWBY",

@@ -3,10 +3,10 @@
     "slug": "rwby-the-grimm-campaign",
     "summary": {
         "count": 25,
-        "uploaded": 23,
-        "missing": 2,
+        "uploaded": 25,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 22
+        "removed": 24
     },
     "data": [
         {
@@ -167,7 +167,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Razing The Stakes",
@@ -247,7 +247,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Mission",

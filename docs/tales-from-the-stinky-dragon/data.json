@@ -3,10 +3,10 @@
     "slug": "tales-from-the-stinky-dragon",
     "summary": {
         "count": 82,
-        "uploaded": 73,
-        "missing": 9,
+        "uploaded": 82,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 73
+        "removed": 82
     },
     "data": [
         {
@@ -227,7 +227,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Painful Passing & Parsing Parcels - C02 - Ep 34",
@@ -297,7 +297,7 @@
             "is_first": true,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "In Case You Alchemist It  - C02 - Ep 32",
@@ -507,7 +507,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Honest Maze Work - C02 - Ep 22",
@@ -587,7 +587,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "[Second Wind] Sphoenix From The Ashes - C02 - Ep 19",
@@ -737,7 +737,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Gone with the Windmill - Ep. 8",
@@ -757,7 +757,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Between the Tales",
@@ -797,7 +797,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Worst Chase Scenario - Ep. 3",
@@ -807,7 +807,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Once Upon a Crime - Ep. 2",
@@ -827,7 +827,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         }
     ]
 }

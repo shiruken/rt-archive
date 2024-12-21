@@ -3,10 +3,10 @@
     "slug": "rwby-rewind",
     "summary": {
         "count": 25,
-        "uploaded": 20,
-        "missing": 5,
+        "uploaded": 25,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 18
+        "removed": 23
     },
     "data": [
         {
@@ -87,7 +87,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "RWBY Lore Keeper - #3",
@@ -147,7 +147,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Can We Talk About Weiss? - #11",
@@ -177,7 +177,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Weird Mocap Moments - #8",
@@ -247,7 +247,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Ruby Rose Rewinds With Us - #1",
@@ -257,7 +257,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         }
     ]
 }

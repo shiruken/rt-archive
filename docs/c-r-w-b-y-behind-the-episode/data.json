@@ -3,10 +3,10 @@
     "slug": "c-r-w-b-y-behind-the-episode",
     "summary": {
         "count": 27,
-        "uploaded": 23,
-        "missing": 4,
+        "uploaded": 27,
+        "missing": 0,
         "incomplete": 0,
-        "removed": 23
+        "removed": 27
     },
     "data": [
         {
@@ -47,7 +47,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Suit Up!",
@@ -67,7 +67,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Wonderful World of Merch",
@@ -127,7 +127,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "Among the Crowds",
@@ -207,7 +207,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": false
+            "is_removed": true
         },
         {
             "title": "The Perfect Shot",
