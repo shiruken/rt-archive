@@ -1,10 +1,10 @@
 {
     "summary": {
         "count": 42603,
-        "uploaded": 42603,
-        "missing": 0,
+        "uploaded": 42602,
+        "missing": 1,
         "incomplete": 1674,
-        "removed": 1024
+        "removed": 1023
     },
     "data": [
         {
@@ -3071,10 +3071,10 @@
             "show": "RWBY: The Grimm Campaign",
             "slug": "rwby-the-grimm-campaign",
             "count": 25,
-            "uploaded": 25,
-            "missing": 0,
+            "uploaded": 24,
+            "missing": 1,
             "incomplete": 0,
-            "removed": 24
+            "removed": 23
         },
         {
             "show": "RWBY: World of Remnant",
