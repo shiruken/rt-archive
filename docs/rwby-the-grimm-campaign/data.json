@@ -3,10 +3,10 @@
     "slug": "rwby-the-grimm-campaign",
     "summary": {
         "count": 25,
-        "uploaded": 25,
-        "missing": 0,
+        "uploaded": 24,
+        "missing": 1,
         "incomplete": 0,
-        "removed": 24
+        "removed": 23
     },
     "data": [
         {
@@ -17,7 +17,7 @@
             "is_first": false,
             "is_uploaded": false,
             "is_complete_upload": false,
-            "is_removed": true
+            "is_removed": false
         },
         {
             "title": "RWBY: The Grimm Campaign (RTX)",

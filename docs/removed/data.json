@@ -1,5 +1,5 @@
 {
-    "count": 1024,
+    "count": 1023,
     "data": [
         {
             "id": "52863",
@@ -9,15 +9,6 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
-        },
-        {
-            "id": "52862",
-            "title": "The Grimm Campaign: The Last Roll",
-            "slug": "rwby-the-grimm-campaign-season-3-the-grimm-campaign-the-last-roll",
-            "date": "2024-05-03",
-            "is_first": false,
-            "show": "RWBY: The Grimm Campaign",
-            "show_slug": "rwby-the-grimm-campaign"
         },
         {
             "id": "52842",
