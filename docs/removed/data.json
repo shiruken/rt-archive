@@ -1,5 +1,5 @@
 {
-    "count": 1024,
+    "count": 1023,
     "data": [
         {
             "id": "52863",
@@ -3141,15 +3141,6 @@
             "is_first": true,
             "show": "Why We're Going to Hell",
             "show_slug": "why-we-re-going-to-hell"
-        },
-        {
-            "id": "42928",
-            "title": "Worthy",
-            "slug": "rwby-volume-8-13",
-            "date": "2021-03-20",
-            "is_first": false,
-            "show": "RWBY",
-            "show_slug": "rwby"
         },
         {
             "id": "42825",
