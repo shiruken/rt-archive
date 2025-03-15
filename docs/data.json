@@ -4,7 +4,7 @@
         "uploaded": 42603,
         "missing": 0,
         "incomplete": 1674,
-        "removed": 1024
+        "removed": 1025
     },
     "data": [
         {
@@ -1436,7 +1436,7 @@
             "uploaded": 36,
             "missing": 0,
             "incomplete": 0,
-            "removed": 1
+            "removed": 2
         },
         {
             "show": "Get Fact",

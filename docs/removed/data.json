@@ -1,5 +1,5 @@
 {
-    "count": 1024,
+    "count": 1025,
     "data": [
         {
             "id": "52863",
@@ -6327,6 +6327,15 @@
             "is_first": true,
             "show": "Backwardz Compatible",
             "show_slug": "backwardz-compatible"
+        },
+        {
+            "id": "30390",
+            "title": "Second Birthday",
+            "slug": "gen-lock-season-1-3",
+            "date": "2019-02-02",
+            "is_first": true,
+            "show": "gen:LOCK",
+            "show_slug": "gen-lock"
         },
         {
             "id": "30365",

@@ -6,7 +6,7 @@
         "uploaded": 36,
         "missing": 0,
         "incomplete": 0,
-        "removed": 1
+        "removed": 2
     },
     "data": [
         {
@@ -225,9 +225,9 @@
             "slug": "gen-lock-season-1-3",
             "date": "2019-02-02",
             "is_first": true,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Michael B. Jordan Answers Classic Rooster Teeth Questions",
