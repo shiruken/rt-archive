@@ -6,7 +6,7 @@
         "uploaded": 731,
         "missing": 0,
         "incomplete": 0,
-        "removed": 0
+        "removed": 1
     },
     "data": [
         {
@@ -6055,9 +6055,9 @@
             "slug": "super-happy-a-kon-convention",
             "date": "2012-05-31",
             "is_first": false,
-            "is_uploaded": true,
-            "is_complete_upload": true,
-            "is_removed": false
+            "is_uploaded": false,
+            "is_complete_upload": false,
+            "is_removed": true
         },
         {
             "title": "Explore Your New ScrewAttack Features",

@@ -1,5 +1,5 @@
 {
-    "count": 1025,
+    "count": 1026,
     "data": [
         {
             "id": "52863",
@@ -9225,6 +9225,15 @@
             "is_first": false,
             "show": "RWBY",
             "show_slug": "rwby"
+        },
+        {
+            "id": "5573",
+            "title": "Super Happy A-Kon Convention!",
+            "slug": "super-happy-a-kon-convention",
+            "date": "2012-05-31",
+            "is_first": false,
+            "show": "Random Awesomeness",
+            "show_slug": "random-awesomeness"
         }
     ]
 }
